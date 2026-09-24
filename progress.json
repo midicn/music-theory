@@ -1,0 +1,161 @@
+{
+  "site": "theo",
+  "host": "theo.midicn.com",
+  "name": "乐理与和声",
+  "core_version": "0.3.0",
+  "updated": "2026-09-23",
+  "total_planned": 156,
+  "done": 43,
+  "batches": [
+    {
+      "id": "M3-0",
+      "title": "样张验证",
+      "items": "五线谱渲染器 + 「音程」1 条完整条目",
+      "status": "done",
+      "entries": [
+        "interval"
+      ],
+      "note": "内核验收品。⚠️ 2026-09-23 晚由架构线改写为中英双语版（内核 0.2.0 起双语为硬要求），现为双语标杆。"
+    },
+    {
+      "id": "M3-a",
+      "title": "T1 音与音高 8 + T2 音程 12",
+      "items": "音是什么·音高·音名·八度·音区·泛音列·音色·标准音高 ｜ 音程(已完成)·度数·半音全音·大小音程·纯音程·增减音程·单复音程·转位·协和与不协和·等音·听辨方法·音程在旋律中",
+      "status": "done",
+      "entries": [
+        "sound",
+        "pitch",
+        "note-name",
+        "octave",
+        "register",
+        "harmonic-series",
+        "timbre",
+        "concert-pitch",
+        "interval",
+        "interval-number",
+        "semitone",
+        "major-minor-interval",
+        "perfect-interval",
+        "augmented-diminished",
+        "compound-interval",
+        "interval-inversion",
+        "consonance",
+        "enharmonic",
+        "interval-ear-training",
+        "interval-melodic-role"
+      ],
+      "note": "✅ 完成（20 条 · T1 8 + T2 12）。全部双语、全部自绘 SVG、实例 C1 优先。"
+    },
+    {
+      "id": "M3-b",
+      "title": "T3 音阶调式 20 + T4 和弦 18",
+      "items": "音阶·大调·自然/和声/旋律小调·教会调式 6·五声·中国五声·日本音阶·蓝调·全音·半音·八声·人工·和声含义 ｜ 和弦·三和弦 4·七和弦 5·挂留·加音·六和弦·九十一十三·转位与数字低音·和弦外音·排列·色彩",
+      "status": "in_progress",
+      "note": "T3 ✅ 20/20。T4 进行中 **3/20**（chord · triad · major-triad）。T4 实体已全部登记（20 个）。余 17 条：minor-triad · diminished-triad · augmented-triad · seventh-chord · dominant-seventh · major-seventh · minor-seventh · half-diminished-seventh · diminished-seventh · suspended-chord · added-tone-chord · sixth-chord · extended-chord · chord-inversion · non-chord-tone · chord-voicing · chord-color。",
+      "entries": [
+        "chord",
+        "triad",
+        "major-triad"
+      ]
+    },
+    {
+      "id": "M3-c",
+      "title": "T5 和声进行 16 + T6 对位 12",
+      "items": "调性中心·级数功能·终止式 4·属七导七·副属·离调转调·模进·和声节奏·通奏低音·平行五八度·声部进行·半音化·持续低音·外音处理 ｜ 对位·单音对位·一二三四五类·卡农·赋格·模仿·倒影逆行·固定旋律·复调主调·听辨",
+      "status": "pending",
+      "note": "⚠️ 注册表里 fugue 的 id 是 fugue-concept、slug 是 fugue，而条目文件名必须等于 id —— 两者不一致会让跨站链接指到不存在的页面。开工前先与架构线确认改法。"
+    },
+    {
+      "id": "M3-d",
+      "title": "T7 节奏 14 + T8 旋律 8",
+      "items": "拍·拍号·单复混合拍子·强弱规律·切分·连音·速度术语·自由节拍散板·节拍器 BPM·复节奏·舞曲节奏型·记谱·训练法 ｜ 旋律构成·乐句乐段·动机主题·发展变奏·模进·呼吸句读·高潮·听辨",
+      "status": "pending"
+    },
+    {
+      "id": "M3-e",
+      "title": "T9 曲式 16 + T10 记谱 14",
+      "items": "曲式·一二三段体·奏鸣曲式·回旋·变奏·复三部·赋格曲式·卡农曲式·协奏曲形式·组曲·歌曲形式·自由曲式·大型作品·体裁 vs 曲式 ｜ 五线谱·谱号·时值·休止·变音·调号·拍号·连音线·装饰音·力度·演奏法·工尺谱·简谱·现代记谱",
+      "status": "pending",
+      "note": "曲式条目须与 gen 站区分：本站讲结构怎么搭，gen 站讲体裁听起来是什么。"
+    },
+    {
+      "id": "M3-f",
+      "title": "T11 视唱练耳 6 + T12 演奏与表演 12",
+      "items": "音高训练·节奏训练·音程和弦听辨·调性听辨·听写·训练计划 ｜ 演奏表演导论·历史演奏法·乐谱版本·即兴·视奏·背谱·练习方法·表演心理·曲目规划·重奏配合·指挥职能·表演与录音差异",
+      "status": "pending",
+      "note": "T12 是完备性审计补入的条目（遗漏 #3）。"
+    },
+    {
+      "id": "M3-g",
+      "title": "交互件整合 + SEO + 验收",
+      "items": "全站交互件复核 · 内链闭环检查 · sitemap · 全站 preflight",
+      "status": "pending",
+      "note": "⚠️ 内核 audiolab 目前只注册 interval / scale 两个组件，T4–T7 所需的和弦构造器、进行播放器、对位演示、节拍器等尚不存在 —— 需由架构线补组件，否则本站「每条一个听辨件」的验收标准无法达成。"
+    }
+  ],
+  "entries": [
+    "sound",
+    "pitch",
+    "note-name",
+    "octave",
+    "register",
+    "harmonic-series",
+    "timbre",
+    "concert-pitch",
+    "interval",
+    "interval-number",
+    "semitone",
+    "major-minor-interval",
+    "perfect-interval",
+    "augmented-diminished",
+    "compound-interval",
+    "interval-inversion",
+    "consonance",
+    "enharmonic",
+    "interval-ear-training",
+    "interval-melodic-role",
+    "scale",
+    "major-scale",
+    "scale",
+    "major-scale",
+    "minor-scale",
+    "pentatonic",
+    "dorian",
+    "phrygian",
+    "lydian",
+    "mixolydian",
+    "aeolian",
+    "locrian",
+    "harmonic-minor",
+    "melodic-minor",
+    "chinese-pentatonic",
+    "blues-scale",
+    "whole-tone",
+    "chromatic",
+    "octatonic",
+    "japanese-scales",
+    "artificial-scale",
+    "scale-harmony",
+    "chord",
+    "triad",
+    "major-triad"
+  ],
+  "notes": [
+    "本站是第一个引用内核的站，负责验证内核可用性。",
+    "若发现规范或工具问题，不要自行修改内核 —— 记录并上报架构线。",
+    "所有条目必须通过 `python kb/kb_preflight.py --site theo` 六关。",
+    "2026-09-23 晚：内核 0.1.0 → 0.2.0。新增双语硬要求（title_en / summary_en / ::: zh / ::: en），实例 why 改为 `track-id | 中文 | English` 三段式。M3-0 样张 interval.md 已由架构线改为双语版。",
+    "已知规避写法（在架构线修好 gate2 正则前必须遵守）：正文与围栏内不得出现 C1 / C2 / C3 —— 它们既是许可档位也是音名，gate2 的 `\\bC[123]\\b` 会把低音 C 误判为许可档位。正文里的低音 C 改用 C4 以上的例子或写成下标。",
+    "已知坑：front-matter 的 instances 行里不能出现半角「: 」（极简 YAML 会把它当键值对解析）。英文 why 里的冒号一律写成破折号。",
+    "许可策略（总纲 R8 §6.1，用户 2026-09-23 拍板）：实例一律 **C1 > C2 > C3**，尽量不用 C3。本站 9 条 27 个实例现状 —— C1 26 个（96%）· C2 1 个 · C3 **0 个**。唯一保留的 C2 是 note-name 的 aria-011398（哈农五指练习，C1 池内没有同类练习曲）。取材方法：优先 mutopia / giantmidi / atepp / cyberhymnal / pdmx（均 C1），C2 的 aria 只在必要时用。",
+    "顶部与底部（总纲 §7.5）：导航顺序固定为 首页→知识七站→（分隔符）→lib/mid/zip；页脚精简为三行（导航 / 一句版权+免责合并声明 / 法律链接+内核号），宽度用 `.footwrap` 与顶栏同口径对齐。实现点唯一：内核 `nav_switch()` / `build_foot()`，本站不自行实现。",
+    "试听按钮：同一按钮再点 = 暂停（图标由 CSS 在 ▶ / ❚❚ 之间切换），点另一首才 stop+play；暂停时播放条保留以便继续。回归脚本 `kb/tools/_playbtn_smoke.js`（jsdom 21 项）。",
+    "内核 0.2.0 → 0.3.0（内容线按用户授权直接落地）：① 渲染器补 Markdown 表格与引用块（原先不出表格）② 响应式五档断点 + 零横向滚动 ③ 左右留白单一真源 --gutter（修 K-9）④ 顶部切换器首项显示「首页」⑤ 试听按钮播放/暂停图标。",
+    "⚠️ 内核 gate2 已改为「只抓许可结论 + 剔除围栏」，低音音名 C1/C2/C3 不再误报 → 内容侧的规避写法已解除：harmonic-series 基音还原为 C3、octave 泛音图还原为 C2 基音、register 音区示例还原为 C2–C6（教材惯用写法）。",
+    "M3-a 结批：20 条，六关全绿。内核 0.3.0。新增 APP 化能力（PWA manifest + 自绘 PNG 图标 + 安全区 + 触摸手感 + 目录折叠披露）。",
+    "内核 0.3.0 追加两项 APP 化能力：播放条进度拖动（player.seek + .pbar-seek）· 顶栏滚动收纳（窄屏下滚隐藏/上滚出现）。",
+    "内核 0.3.0 内容线追加：新增 audiolab `circle`（五度圈）组件；新增 kb/registry/cn.yaml（kind: cn）打通「M3 结构 ↔ M7 用法」跨站互链（已用 pentatonic 条目端到端验证）。内核改动全清单见 _authoring/HANDOFF-内容线对内核的改动.md。",
+    "六个调式统一用「相对自然小调改一个音」框架写：多里亚=升 6 · 爱奥尼亚=不改 · 弗里吉亚=降 2 · 洛克里亚=降 2+5 · 利底亚=升 4 · 混合利底亚=降 7；每条「常见误解」做调式互辨，六条形成互链闭环。新增自检工具 _authoring/check_instances.py（R12 半角冒号体检 + --fix）。",
+    "T3 结批：20 条。取材经验：调式曲目在 C1 池里有现成标题可查；locrian/octatonic/japanese-scales 三条因库内无对应曲目，改用「可听可验证的推导法」（用 C1 大调/五声材料现场推出该音阶），并在正文写明取材说明；chinese-pentatonic 是唯一全 C3 的条目（中国民歌只在 chinafolk，按 R8 例外条款并注明）。"
+  ]
+}
