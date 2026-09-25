@@ -104,6 +104,12 @@ updated: 2026-09-23
 - **键盘的等距依赖它**。十二平均律把八度切成十二份，切完之后每一份的绝对频率由标准音高确定。
   标准音高一变，整套键位的频率整体平移。
 
+## 听一听：A4 与它的八度
+
+```audiolab
+{"type":"interval","a":"A4","b":"A5","label":"A4 → A5（都以 A4 = 440 Hz 为基准）","label_en":"A4 to A5, both referred to A4 = 440 Hz","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"这个组件按十二平均律发声。历史上乐团的实际音高在 415 到 445 Hz 之间浮动 —— 整个浮动范围还不到一个半音。","hint2_en":"This component sounds in twelve-tone equal temperament. Historically orchestras have tuned anywhere from 415 to 445 Hz — a spread of less than a semitone."}
+```
+
 ## 常见误解
 
 - **「A 就是 440 Hz」** → A 是音名，440 Hz 是近代给 A4 这个音名配的频率。"A"这个字母本身不含数字。
@@ -189,6 +195,12 @@ Because pitch standard is the precondition of performance practice, and the divi
 - **Transposing instruments need conversion.** The written name may be the same, but the sounding pitch depends on the instrument's construction and on the standard. See [[concept:note-name|note name]].
 - **Period performances change standard.** Playing Baroque music at 415 Hz today restores the original instrument build, string tension and vocal burden. That is a performance-practice question — see [[concept:historical-performance|historical performance]].
 - **Equal spacing on a keyboard depends on it.** Equal temperament cuts the octave into twelve; where those twelve then sit in absolute frequency is decided by the standard. Shift the standard and the whole keyboard shifts.
+
+## Listen: A4 and its octave
+
+```audiolab
+{"type":"interval","a":"A4","b":"A5","label":"A4 → A5（都以 A4 = 440 Hz 为基准）","label_en":"A4 to A5, both referred to A4 = 440 Hz","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"这个组件按十二平均律发声。历史上乐团的实际音高在 415 到 445 Hz 之间浮动 —— 整个浮动范围还不到一个半音。","hint2_en":"This component sounds in twelve-tone equal temperament. Historically orchestras have tuned anywhere from 415 to 445 Hz — a spread of less than a semitone."}
+```
 
 ## Common misconceptions
 
