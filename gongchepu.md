@@ -159,6 +159,10 @@ updated: 2026-09-25
 - **「工尺谱很简陋」** → 它服务的音乐传统依赖**口传心授**：记谱是"框架 + 提示"。**精确性低不等于落后。**
 - **「板眼已经不用了」** → 恰恰相反：**"板眼"的核心概念已融进现代汉语**（有板有眼、一板一眼、散板）。
 - **「工尺谱能记复杂多声部」** → 它的长处是**单声部的声乐与器乐旋律**；复杂织体是五线谱的领域。
+- **「中国音乐的汉字记谱只有工尺谱一种」** → **两套记的东西不同：一个记音高，一个记节奏。**
+  唱腔与旋律用**工尺谱**；**打击乐另有「锣鼓经」** ——
+  它用**拟声字**（仓 · 才 · 台 · 大 · 嘟 · 乙）记录**节奏与手法**，
+  见[[instrument:xiaoluo|小锣]]。**两套都用汉字、都靠人念。**
 :::
 
 ::: en
@@ -300,4 +304,8 @@ basis of traditional Chinese melody** (see [[concept:chinese-pentatonic|the Chin
   yan, yi ban yi yan, sanban).
 - **"Gongche notation can record complex multi-part music."** Its strength is **single-line vocal and instrumental
   melody**; complex textures belong to the staff.
+- **"Gongche is the only character-based Chinese notation."** **They record different things: one pitch, one
+  rhythm.** Melody and sung parts use **gongche**; percussion has its own system — **luogu jing** — which uses
+  **onomatopoeic characters** (仓 · 才 · 台 · 大 · 嘟 · 乙) to record **rhythm and stroke**; see the
+  [[instrument:xiaoluo|xiaoluo]]. **Both use characters, and both are learned by chanting them aloud.**
 :::

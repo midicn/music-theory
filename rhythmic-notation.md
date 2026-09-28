@@ -22,7 +22,7 @@ instances:
   - thesession-019704 | 《小星星》：只用二分与四分两种时值，附点与连线的必要性一目了然 | Twinkle Little Star uses only halves and quarters, making clear when dots and ties are needed
   - giantmidi-004040 | 李斯特改编的《骷髅之舞》：复合拍子与连音混排，记谱法的取舍在谱面上非常清楚 | Liszt's transcription of Danse macabre mixes compound metre and tuplets, where notational choices are plain to see
 sources:
-  - 时值记号以比例关系（全 : 二 : 四 : 八 = 2 : 1 : 1/2 : 1/4）表示长短；绝对时长由速度决定，属记谱法通则
+  - 时值记号以比例关系（全 / 二 / 四 / 八 = 2 / 1 / 1/2 / 1/4）表示长短；绝对时长由速度决定，属记谱法通则
   - 附点、连线、休止符与谱号体系为通行记谱规范
 updated: 2026-09-25
 ---
