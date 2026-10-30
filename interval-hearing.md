@@ -149,7 +149,7 @@ The same interval has **entirely different function and feel** in different posi
 
 | Interval | Position | Feel and function |
 |---|---|---|
-| **major third** | on **degree I** (C–E) | stable, bright — it *is* the tonic triad |
+| **major third** | on **degree I** (C–E) | stable, bright — it **is** the tonic triad |
 | **major third** | on **degree V** (G–B) | **tense**: B is the leading tone, strongly pointing to the tonic (see [[concept:harmonic-function\|harmonic function]]) |
 
 **Both are major thirds, yet one settles and the other must move** — so **hearing an interval in isolation yields

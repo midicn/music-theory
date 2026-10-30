@@ -128,7 +128,7 @@ updated: 2026-09-23
 :::
 
 ::: en
-[[concept:interval-number|Degree]] decides what an interval is *called*; interval size decides how *wide* it
+[[concept:interval-number|Degree]] decides what an interval is **called**; interval size decides how **wide** it
 actually is. Both rulers are needed at once: degree counts across seven letters, size counts semitones on a
 keyboard. **One degree can have different sizes** — and the flip side is that **one size can land on different
 degrees.**

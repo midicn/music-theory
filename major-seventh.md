@@ -187,5 +187,5 @@ Hear the almost-arriving-and-stopping quality, then compare it with the dominant
 - **"Major and dominant sevenths differ by one note, so they are alike."** The seventh differs by a semitone and the tension is completely different — soft for the minor seventh, sharp for the major.
 - **"A major seventh must resolve."** Usually true traditionally; in jazz and pop it is a stable endpoint.
 - **"Major sevenths only exist in major keys."** They arise naturally on degrees 1 and 4 of a major scale; minor keys need accidentals.
-- **"The word major makes it 'stronger' than a dominant seventh."** "Major seventh" names the *size* of the seventh, not the chord's strength or function.
+- **"The word major makes it 'stronger' than a dominant seventh."** "Major seventh" names the **size** of the seventh, not the chord's strength or function.
 :::

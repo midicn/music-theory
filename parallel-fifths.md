@@ -145,7 +145,7 @@ line audible.
 | parallel octaves | two voices merge, even more completely — it sounds like one thickened voice |
 | parallel thirds and sixths | **permitted** — imperfect consonances do not fuse |
 
-That last row is the key comparison: **the rule forbids parallel *perfect* consonances, not parallel motion.**
+That last row is the key comparison: **the rule forbids parallel **perfect** consonances, not parallel motion.**
 
 ## Two related cases
 

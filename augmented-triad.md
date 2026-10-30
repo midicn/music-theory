@@ -183,6 +183,6 @@ reason it works only as a transition.
 
 - **"An augmented triad is a major triad with a sharp added."** It is a major third plus another major third; root to fifth is an **augmented** fifth, no longer perfect.
 - **"It is common in music."** It appears in **no diatonic scale** and requires chromatic alteration, so it is far rarer than major and minor triads.
-- **"Inversion changes the root."** Because the structure is symmetrical, inversions *sound* like different chords, yet in notation the root stays put. **This is where the ear is most easily fooled.**
+- **"Inversion changes the root."** Because the structure is symmetrical, inversions **sound** like different chords, yet in notation the root stays put. **This is where the ear is most easily fooled.**
 - **"Symmetry should sound more stable."** The opposite. Stability comes from **unequal** distances; equidistant structures (augmented triad, diminished seventh, whole-tone scale) offer no sense of belonging.
 :::

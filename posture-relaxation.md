@@ -165,7 +165,7 @@ updated: 2026-09-25
 
 > **Can you breathe normally while playing? Can you speak?**
 
-**Held breath is the most direct signal of tension** — it often appears before you *feel* nervous, and **once the breath
+**Held breath is the most direct signal of tension** — it often appears before you **feel** nervous, and **once the breath
 stops, whole-body tension rises at once** (the breathing muscles and the trunk are linked).
 
 **So "watch your breathing" is not mysticism but the most directly controllable relaxation measure**: once the breath

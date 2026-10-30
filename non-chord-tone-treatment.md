@@ -139,7 +139,7 @@ well is flavour, handled badly is an error — with identical pitches.
 | # | Rule | Reasoning |
 |---|---|---|
 | **1** | **resolve by step** | a foreign note should leave by step to a neighbouring chord tone; leaving by leap makes it sound like a chord tone |
-| **2** | **shorter than its neighbours** | it is normally shorter than the chord tones either side; held long it *becomes* a chord tone |
+| **2** | **shorter than its neighbours** | it is normally shorter than the chord tones either side; held long it **becomes** a chord tone |
 | **3** | **prefer weak beats** | a foreign note on a strong beat needs explicit resolution and is more constrained (which is why appoggiaturas and suspensions are "licensed" strong-beat types, not free ones) |
 | **4** | **align with the harmonic rhythm** | which **chord** it falls on is a choice — and that choice decides whether it is decoration or reinterpretation |
 

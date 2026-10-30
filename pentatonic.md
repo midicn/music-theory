@@ -139,7 +139,7 @@ scale contains **no semitone at all** — every step is a whole tone or a minor 
 
 | Consequence | Explanation |
 |---|---|
-| **No clear leading tone** | Without the minor second pulling up to the tonic, the sense that a melody *must* return home weakens |
+| **No clear leading tone** | Without the minor second pulling up to the tonic, the sense that a melody **must** return home weakens |
 | **It can be cut anywhere** | Any note works as a starting point, giving five equally usable modes instead of one |
 | **Freedom of movement** | With the two "sensitive" notes gone, melodies can circle and linger — which is why folk improvisation favours it |
 
