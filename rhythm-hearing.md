@@ -28,14 +28,14 @@ updated: 2026-09-25
 ---
 
 ::: zh
-节奏听辨最常见的失败方式是**一上来就抓节奏型** ——
-结果听到一堆长短，但**不知道它们落在什么框架上**，于是记不住、也写不下来。
+节奏听辨最常见的失败方式，是一上来就抓节奏型。
+结果听到一堆长短，却不知道它们落在什么框架上。于是记不住，也写不下来。
 
 正确的顺序是两步，且**不能反**：
 
 > **① 先找拍（大重音多久回来一次）→ ② 再抓型（这些音怎么落在拍上）**
 
-这与 [[concept:metric-accent|强弱规律]] 的机制一致：**有了周期，长短才有位置**。
+这与 [[concept:metric-accent|强弱规律]] 的机制一致：有了周期，长短才有位置。
 
 ## 三个层次
 
@@ -45,15 +45,13 @@ updated: 2026-09-25
 | **② 节奏型** | 音的长短组合与落点 | 念词法（见下） |
 | **③ 速度** | 每分钟多少拍 | 与已知速度对照 |
 
-**第①层是地基**。**能稳定跟拍之后，第②层往往会自动变清楚** ——
-因为长短是相对于拍的位置而言的。
+第①层是地基。能稳定跟拍之后，第②层往往自动变清楚，因为长短是相对于拍的位置而言的。
 
-**第③层不要一开始就猜**：速度判断的误差通常较大，
-而且**速度并不影响节奏型的相对关系**（见 [[concept:tempo|速度术语]]）。
+第③层不要一开始就猜。速度判断误差通常较大，而且速度不影响节奏型的相对关系（见 [[concept:tempo|速度术语]]）。
 
 ## 一个最实用的方法：念词法
 
-把听到的节奏**念出来**（"哒—哒哒"、"长—短—短"）。
+把听到的节奏念出来（"哒—哒哒"、"长—短—短"）。
 
 | 为什么有效 | 说明 |
 |---|---|
@@ -61,8 +59,8 @@ updated: 2026-09-25
 | 更容易**记住** | 音节比抽象时值好记 |
 | 便于**核对** | 念一遍再对照谱面，立刻能发现差异 |
 
-**第二行值得展开**：很多人能"听出"一段节奏却记不住 ——
-**一旦念成音节，记忆就有了抓手**（与 [[concept:rhythm-training|节奏训练]] 的方法一致）。
+很多人能"听出"一段节奏，却记不住。
+一旦念成音节，记忆就有了抓手（与 [[concept:rhythm-training|节奏训练]] 的方法一致）。
 
 ## 三种困难情形
 
@@ -72,8 +70,8 @@ updated: 2026-09-25
 | **复合拍子** | 每拍内部三分，易被听成三拍 | 按**大拍**数（见 [[concept:simple-compound-meter\|单复混合拍子]]） |
 | **无明确拍点** | 自由节拍 / 散板 | **不要强行定拍值**（见 [[concept:free-meter\|自由节拍与散板]]） |
 
-**第三行要认真对待**：这类音乐**本来就不以等分拍组织**，
-强行"听出拍号"会得到错误结论。**判不出来是正常的**，这时应该改问"句读在哪"。
+这类音乐本来就不以等分拍组织，强行"听出拍号"只会得到错误结论。
+判不出来是正常的，这时应该改问"句读在哪"。
 
 ## 图示：先找拍，再抓型
 
@@ -121,8 +119,8 @@ updated: 2026-09-25
 
 ## 听一听：拍与型
 
-用 `rhythm` 先听**最简的四拍**（建立拍的框架），再听**带切分的形态**（在框架上的落点变化）。
-**请按"先跟拍、再看落点"的顺序听** —— 这就是节奏听辨的正确两步。
+用 `rhythm` 先听最简的四拍（建立拍的框架），再听带切分的形态（在框架上的落点变化）。
+请按"先跟拍、再看落点"的顺序听 —— 这就是节奏听辨的正确两步。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"第一步：建立拍（每拍一个音）","label_en":"Step one: establish the beat, one note per beat","hint":"点「播放」，先只跟拍","hint_en":"Press play and just follow the beat first"}
@@ -134,15 +132,16 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「节奏听辨就是听长短」** → 先要有**拍的框架**，否则长短没有位置。
-- **「要一边听一边数拍」** → 数拍是过渡手段。目标是用**身体/念词**把拍稳住（见 [[concept:rhythm-training|节奏训练]]）。
-- **「一切音乐都有拍号」** → 自由节拍与散板**本来就不以等分拍组织**，强行定拍会得出错误结论。
-- **「速度越快越难」** → 难点在**节奏型的复杂度与切分密度**，不只看速度。
+- 「节奏听辨就是听长短」 → 先要有拍的框架，否则长短没有位置。
+- 「要一边听一边数拍」 → 数拍是过渡手段。目标是用身体/念词把拍稳住（见 [[concept:rhythm-training|节奏训练]]）。
+- 「一切音乐都有拍号」 → 自由节拍与散板本来就不以等分拍组织，强行定拍会得出错误结论。
+- 「速度越快越难」 → 难点在节奏型的复杂度与切分密度，不只看速度。
 :::
 
 ::: en
-The commonest way rhythm hearing fails is **reaching for the pattern immediately** — and then hearing a mass of long
-and short notes **with no idea what frame they sit on**, so it cannot be remembered or written down.
+The commonest way rhythm hearing fails is reaching for the pattern immediately.
+You hear a mass of long and short notes with no idea what frame they sit on.
+Then you cannot remember it or write it down.
 
 The correct order has two steps and **cannot be reversed**:
 
@@ -159,15 +158,15 @@ positions.**
 | **2 pattern** | the durations and where they land | speak it (see below) |
 | **3 tempo** | beats per minute | compare against known speeds |
 
-**Layer 1 is the foundation.** **Once you can follow the beat steadily, layer 2 often clears up by itself** —
-because duration is a position relative to the beat.
+**Layer 1 is the foundation.** Once you can follow the beat steadily, layer 2 often clears up by itself, because
+duration is a position relative to the beat.
 
-**Do not guess layer 3 at the start**: tempo judgements carry large errors, and **speed does not affect the relative
-relations of a pattern** (see [[concept:tempo|tempo]]).
+Do not guess layer 3 at the start. Tempo judgements carry large errors, and speed does not affect the relative
+relations of a pattern (see [[concept:tempo|tempo]]).
 
 ## The most practical method: speak it
 
-**Say the rhythm aloud** ("da—da-da", "long—short—short").
+Say the rhythm aloud ("da—da-da", "long—short—short").
 
 | Why it works | Explanation |
 |---|---|
@@ -175,8 +174,8 @@ relations of a pattern** (see [[concept:tempo|tempo]]).
 | easier to **remember** | syllables are more memorable than abstract durations |
 | easy to **check** | say it once and compare with the page to find discrepancies |
 
-**The second row deserves expansion**: many people can "hear" a rhythm and still not remember it — **once it is
-turned into syllables, memory has something to hold** (the same method as under
+Many people can "hear" a rhythm and still not remember it.
+Once it is turned into syllables, memory has something to hold (the same method as under
 [[concept:rhythm-training|rhythm training]]).
 
 ## Three difficult cases
@@ -187,8 +186,8 @@ turned into syllables, memory has something to hold** (the same method as under
 | **compound metre** | each beat divided in three, easily heard as three beats | count the **large beats** (see [[concept:simple-compound-meter\|simple and compound metre]]) |
 | **no clear beat** | free metre / sanban | **do not force a beat value** (see [[concept:free-meter\|free metre and sanban]]) |
 
-**The third deserves care**: such music **is not organised by an even beat**, so forcing an answer yields a wrong
-one. **Failing to find a metre is correct here**; the right question becomes "where is the phrasing".
+Such music is not organised by an even beat, so forcing an answer yields a wrong one.
+Failing to find a metre is correct here; the right question becomes "where is the phrasing".
 
 ## Diagram: beat first, pattern second
 
@@ -236,8 +235,8 @@ one. **Failing to find a metre is correct here**; the right question becomes "wh
 
 ## Listen: beat and pattern
 
-Use `rhythm` to hear **the simplest four beats** (establishing the frame), then **a syncopated shape** (placements
-against the frame). **Listen in order: follow the beat, then watch the placements.**
+Use `rhythm` to hear the simplest four beats (establishing the frame), then a syncopated shape (placements
+against the frame). Listen in order: follow the beat, then watch the placements.
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"第一步：建立拍（每拍一个音）","label_en":"Step one: establish the beat, one note per beat","hint":"点「播放」，先只跟拍","hint_en":"Press play and just follow the beat first"}
@@ -249,11 +248,11 @@ against the frame). **Listen in order: follow the beat, then watch the placement
 
 ## Common misconceptions
 
-- **"Rhythm hearing means hearing long and short."** You need **a beat frame** first, or durations have no position.
-- **"You must count beats as you listen."** Counting is a stepping stone; the goal is holding the beat **with the
+- "Rhythm hearing means hearing long and short." You need a beat frame first, or durations have no position.
+- "You must count beats as you listen." Counting is a stepping stone; the goal is holding the beat **with the
   body or the voice** (see [[concept:rhythm-training|rhythm training]]).
-- **"All music has a metre."** Free metre and sanban **are not organised by an even beat**; forcing an answer gives a
+- "All music has a metre." Free metre and sanban are not organised by an even beat; forcing an answer gives a
   wrong one.
-- **"Faster means harder."** The difficulty lies in **the complexity of the pattern and the density of
+- "Faster means harder." The difficulty lies in **the complexity of the pattern and the density of
   syncopation**, not speed alone.
 :::

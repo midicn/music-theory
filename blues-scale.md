@@ -33,7 +33,7 @@ updated: 2026-09-23
 > 蓝调音阶（C）：C E♭ F **G♭** G B♭
 
 加进来的 **G♭（降五度）** 就是"蓝调音"。它的作用方式很特别：
-它**不是一条稳定的音阶音**，而是一个**经过性的、需要滑进去滑出来的音**。
+它**不是一条稳定的音阶音**，而是一个经过性的、需要滑进去滑出来的音。
 演奏者通常在 G♭ 与 G 之间来回滑动，或让它在长音上"弯"一下 ——
 这种微小的音高游移，正是蓝调味道的核心，也是它无法用十二平均律完全记下来的原因。
 
@@ -47,7 +47,7 @@ updated: 2026-09-23
 
 ## 大调蓝调
 
-还有一条常被并列的形态：**大调蓝调音阶** —— 大调五声加**降三度**。
+还有一条常被并列的形态：大调蓝调音阶 —— 大调五声加降三度。
 它保留了小调蓝调的"蓝调音"逻辑（把一个音降下来造成冲突），但底色是大的，
 听起来更接近欢快与顽皮的混合。
 
@@ -99,10 +99,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「蓝调音阶是七声的」** → 六声（五声 + 降五度）。它的"第五个音"与"降五度"是两个不同音。
-- **「降五度就是走音」** → 它是音阶内的固定成员，只是常被处理成滑移，所以听感上游移。
-- **「蓝调音阶只能即兴用」** → 它同样是大量旋律写作的素材，也被写进成文作品。
-- **「蓝调音阶=小调五声」** → 差一个音，但那一个音承载了全部"蓝调味"。
+- 「蓝调音阶是七声的」 → 六声（五声 + 降五度）。它的"第五个音"与"降五度"是两个不同音。
+- 「降五度就是走音」 → 它是音阶内的固定成员，只是常被处理成滑移，所以听感上游移。
+- 「蓝调音阶只能即兴用」 → 它同样是大量旋律写作的素材，也被写进成文作品。
+- 「蓝调音阶=小调五声」 → 差一个音，但那一个音承载了全部"蓝调味"。
 :::
 
 ::: en
@@ -127,7 +127,7 @@ it cannot be fully written down in equal temperament.
 ## The major blues scale
 
 A companion form is often mentioned alongside: the **major blues scale** — the major pentatonic plus a
-**lowered third**. It keeps the same logic (lower one note to create a clash) but on a major base, which reads
+lowered third. It keeps the same logic (lower one note to create a clash) but on a major base, which reads
 as a mix of cheerful and mischievous.
 
 ## Diagram: five notes plus one
@@ -178,8 +178,8 @@ Hear the minor pentatonic (round, stable), then the blues scale. The added note 
 
 ## Common misconceptions
 
-- **"The blues scale has seven notes."** It has six (pentatonic plus a lowered fifth). Its "fifth note" and its "lowered fifth" are two different pitches.
-- **"A lowered fifth is out of tune."** It is a fixed member of the scale, just usually handled as a slide, which is why it sounds unstable.
-- **"The blues scale is only for improvising."** It is equally a source for composed melodies and appears in written works.
-- **"Blues scale means minor pentatonic."** One note differs — and that note carries the entire blues flavour.
+- "The blues scale has seven notes." It has six (pentatonic plus a lowered fifth). Its "fifth note" and its "lowered fifth" are two different pitches.
+- "A lowered fifth is out of tune." It is a fixed member of the scale, just usually handled as a slide, which is why it sounds unstable.
+- "The blues scale is only for improvising." It is equally a source for composed melodies and appears in written works.
+- "Blues scale means minor pentatonic." One note differs — and that note carries the entire blues flavour.
 :::

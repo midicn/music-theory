@@ -53,8 +53,8 @@ updated: 2026-09-24
 | **进入间隔** | 一小节 / 半小节 / 更短 | **间隔越短，越紧凑**；缩到极短就是「紧接」（stretto） |
 | **严格程度** | 严格 / 自由 | 严格＝音程完全照搬；自由＝按和声需要调整（更常见） |
 
-第三行的取舍很实际：**严格模仿听起来更"整"，但更容易与和声冲突**。
-实际写作里通常是**大致严格、局部调整**。
+第三行的取舍很实际：严格模仿听起来更"整"，但更容易与和声冲突。
+实际写作里通常是大致严格、局部调整。
 
 ## 与另外两种手法的区别
 
@@ -66,14 +66,14 @@ updated: 2026-09-24
 | **模进** | 换高度、**同一声部** | **横向**（见 [[concept:sequence|模进]]） |
 | **模仿** | 同一素材、**不同声部** | **纵向**（本条） |
 
-一句话：**模进是把素材往上搬，模仿是把素材换个声部交代。**
+一句话：模进是把素材往上搬，模仿是把素材换个声部交代。
 
 ## 模仿的极致：卡农
 
-如果模仿**完整而且持续**（整条旋律一句不落地被追随，一直跟到底），那就是
+如果模仿完整而且持续（整条旋律一句不落地被追随，一直跟到底），那就是
 [[concept:canon|卡农]]。所以两者的关系是：
 
-> **模仿是手法，卡农是"把模仿用到极致"的形态。**
+> 模仿是手法，卡农是"把模仿用到极致"的形态。
 
 同样，[[concept:fugue|赋格]]的每一次声部进入也都是模仿 —— 赋格是把模仿组织成一整套结构。
 
@@ -121,8 +121,8 @@ updated: 2026-09-24
 
 ## 听一听：素材的两次出现
 
-模仿是声部之间的事，本站的听辨件放不出真正的两声部 —— 所以这里用 `interval` 演示
-模仿**进入时的音程**（第二个声部从哪个高度进来），而这正是模仿最关键的变量之一。
+模仿是声部之间的事，这里的听辨件放不出真正的两声部 —— 所以这里用 `interval` 演示
+模仿进入时的音程（第二个声部从哪个高度进来），而这正是模仿最关键的变量之一。
 声部之间传递的效果请到上面的实例里听（巴赫二部创意曲是最短路径）。
 
 ```audiolab
@@ -131,10 +131,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「模仿就是重复」** → 重复在同一高度、同一声部；模仿**换声部**，这是两种不同的手法。
-- **「模仿必须完全一样」** → 严格模仿只是其中一种。实际写作里**自由模仿更常见** —— 按和声需要调整音程。
-- **「模仿只属于巴洛克」** → 爵士的"呼应"（call and response）、流行歌里主唱与和声的交替、电影配乐里的主题传递，都是模仿。
-- **「模仿和卡农是一回事」** → 卡农是**完整且持续**的模仿；模仿只是那个手法本身，可以只用一次就转向别处。
+- 「模仿就是重复」 → 重复在同一高度、同一声部；模仿换声部，这是两种不同的手法。
+- 「模仿必须完全一样」 → 严格模仿只是其中一种。实际写作里自由模仿更常见 —— 按和声需要调整音程。
+- 「模仿只属于巴洛克」 → 爵士的"呼应"（call and response）、流行歌里主唱与和声的交替、电影配乐里的主题传递，都是模仿。
+- 「模仿和卡农是一回事」 → 卡农是完整且持续的模仿；模仿只是那个手法本身，可以只用一次就转向别处。
 :::
 
 ::: en
@@ -177,14 +177,14 @@ All three reuse material, but in different directions:
 | **sequence** | new pitch, **same voice** | **horizontal** (see [[concept:sequence|sequence]]) |
 | **imitation** | same material, **different voice** | **vertical** (this entry) |
 
-In one line: **a sequence carries the material upward; imitation hands it to another voice.**
+In one line: a sequence carries the material upward; imitation hands it to another voice.
 
 ## The extreme case: canon
 
-If the imitation is **complete and continuous** — the whole line followed faithfully to the end — that is a
+If the imitation is complete and continuous — the whole line followed faithfully to the end — that is a
 [[concept:canon|canon]]. So the relation is:
 
-> **Imitation is the device; canon is imitation taken to its limit.**
+> Imitation is the device; canon is imitation taken to its limit.
 
 Equally, every voice entry in a [[concept:fugue|fugue]] is an imitation — a fugue organises imitation into an
 entire structure.
@@ -234,7 +234,7 @@ entire structure.
 ## Listen: the entry interval
 
 Imitation happens between voices, and this site's listening components are single-voice — so `interval`
-demonstrates **the interval at which the second voice enters**, which is one of imitation's key variables. For
+demonstrates the interval at which the second voice enters, which is one of imitation's key variables. For
 the effect of passing between voices, use the instances above; Bach's two-part inventions are the shortest route.
 
 ```audiolab
@@ -243,12 +243,12 @@ the effect of passing between voices, use the instances above; Bach's two-part i
 
 ## Common misconceptions
 
-- **"Imitation is repetition."** Repetition stays at the same pitch in the same voice; imitation **changes voice**.
+- "Imitation is repetition." Repetition stays at the same pitch in the same voice; imitation changes voice.
   Two different devices.
-- **"Imitation must be exact."** Strict imitation is only one kind. **Free imitation is more common** — intervals
+- "Imitation must be exact." Strict imitation is only one kind. Free imitation is more common — intervals
   adjusted to fit the harmony.
-- **"Imitation belongs to the Baroque."** Jazz call and response, a pop lead trading with its backing vocals, and
+- "Imitation belongs to the Baroque." Jazz call and response, a pop lead trading with its backing vocals, and
   a film score passing a theme between sections are all imitation.
-- **"Imitation and canon are the same."** A canon is **complete and continuous** imitation; imitation itself is
+- "Imitation and canon are the same." A canon is complete and continuous imitation; imitation itself is
   the device, and may be used once before the music turns elsewhere.
 :::

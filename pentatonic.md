@@ -35,7 +35,7 @@ updated: 2026-09-23
 > C 五声：C D E G A
 
 去掉的这两个音（4 级与 7 级）有一个共同点：它们都参与了**小二度**（E–F、B–C）。
-删掉它们之后，整条音阶里**一个半音都不剩**，相邻音之间全是全音或小三度。
+删掉它们之后，整条音阶里一个半音都不剩，相邻音之间全是全音或小三度。
 
 ## 没有半音，意味着什么
 
@@ -45,7 +45,7 @@ updated: 2026-09-23
 | **任意位置都能断开** | 任何音都可以当起点，都能得到一条听觉上站得住的音阶 → 所以五声有 5 种调式而非 1 种 |
 | **旋法自由** | 少了两个"敏感音"，旋律更容易长时间停留、绕行，也更宽容（民间即兴常用它） |
 
-这三条合起来解释了为什么五声音阶全世界都有：它**天然避开了最容易出错的音程**。
+这三条合起来解释了为什么五声音阶全世界都有：它天然避开了最容易出错的音程。
 
 ## 两种常见形态
 
@@ -54,12 +54,12 @@ updated: 2026-09-23
 | **大调五声**（宫调式，见上方） | 全音 全音 小三度 全音 小三度 | 开阔、明亮 |
 | **小调五声** | 小三度 全音 全音 小三度 全音 | 内敛、常用于即兴独奏 |
 
-[[concept:blues-scale|蓝调音阶]]就是在小调五声里再加一个**降五度**得到的 —— 一个音，把它从"柔"变成"冲"。
+[[concept:blues-scale|蓝调音阶]]就是在小调五声里再加一个降五度得到的 —— 一个音，把它从"柔"变成"冲"。
 
-## 中国的用法在这里之外
+## 中国的用法在结构之外
 
-「宫商角徵羽」是五声在中国音乐里的**名称与用法体系**（哪个音当主音、怎么旋法、和什么乐器配），
-属于中国音乐的语境。本站只讲结构，用法见 [[cn:wusheng-modes|五声调式（中国用法）]]；
+「宫商角徵羽」是五声在中国音乐里的名称与用法体系（哪个音当主音、怎么旋法、和什么乐器配），
+属于中国音乐的语境。这里只讲结构，用法见 [[cn:wusheng-modes|五声调式（中国用法）]]；
 结构层面的对照见 [[concept:chinese-pentatonic|中国五声调式]]。
 
 ## 图示：删掉两个音，半音就消失了
@@ -120,10 +120,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「五声音阶是中国独有的」** → 苏格兰、爱尔兰、非洲、美洲原住民音乐里都有。它广泛存在的原因是结构上"宽容"，不是传播的结果。
-- **「五声比七声简单、更原始」** → 少两个音不等于低级。它换来的是旋法自由度与即兴宽容度，是主动的选择。
-- **「五声就是没有调性」** → 五声完全可以有明确的主音与调式色彩，见本页"两种形态"。
-- **「五声里不能出现别的音」** → 实际演奏里常加入经过音与装饰音（蓝调音阶就是加了降五度的五声）。
+- 「五声音阶是中国独有的」 → 苏格兰、爱尔兰、非洲、美洲原住民音乐里都有。它广泛存在的原因是结构上"宽容"，不是传播的结果。
+- 「五声比七声简单、更原始」 → 少两个音不等于低级。它换来的是旋法自由度与即兴宽容度，是主动的选择。
+- 「五声就是没有调性」 → 五声完全可以有明确的主音与调式色彩，见「两种形态」。
+- 「五声里不能出现别的音」 → 实际演奏里常加入经过音与装饰音（蓝调音阶就是加了降五度的五声）。
 :::
 
 ::: en
@@ -133,7 +133,7 @@ The simplest definition of a pentatonic scale: **take a major scale and remove d
 > C pentatonic: C D E G A
 
 The two notes removed share one property: both take part in a **minor second** (E–F and B–C). Delete them and the
-scale contains **no semitone at all** — every step is a whole tone or a minor third.
+scale contains no semitone at all — every step is a whole tone or a minor third.
 
 ## What having no semitones means
 
@@ -153,12 +153,12 @@ get wrong**.
 | **major pentatonic** (as above) | W W m3 W m3 | open, bright |
 | **minor pentatonic** | m3 W W m3 W | inward, common for soloing |
 
-The [[concept:blues-scale|blues scale]] is the minor pentatonic plus a **lowered fifth** — one note that turns
+The [[concept:blues-scale|blues scale]] is the minor pentatonic plus a lowered fifth — one note that turns
 soft into gritty.
 
 ## The Chinese usage lies beyond this page
 
-Gong, shang, jiao, zhi and yu form the **system of names and usage** that pentatonic material takes on in
+Gong, shang, jiao, zhi and yu form the system of names and usage that pentatonic material takes on in
 Chinese music — which note leads, how lines move, which instruments pair with it. That belongs to the Chinese
 music context: see [[cn:wusheng-modes|pentatonic modes in Chinese usage]] for the usage side, and
 [[concept:chinese-pentatonic|Chinese pentatonic modes]] for the structural comparison.
@@ -221,8 +221,8 @@ but whether that semitone which makes you want to close is present.
 
 ## Common misconceptions
 
-- **"Pentatonic belongs to China."** It appears in Scottish, Irish, African and Native American music too. It is widespread because it is structurally **forgiving**, not because it spread from one place.
-- **"Five notes is simpler and more primitive than seven."** Fewer notes is not lower grade; what it buys is freedom of movement and tolerance in improvisation.
-- **"Pentatonic means no key."** It can carry a very clear tonic and modal colour — see the two forms above.
-- **"No other notes may appear."** In practice passing and ornamental notes are common — the blues scale is a pentatonic with a lowered fifth added.
+- "Pentatonic belongs to China." It appears in Scottish, Irish, African and Native American music too. It is widespread because it is structurally forgiving, not because it spread from one place.
+- "Five notes is simpler and more primitive than seven." Fewer notes is not lower grade; what it buys is freedom of movement and tolerance in improvisation.
+- "Pentatonic means no key." It can carry a very clear tonic and modal colour — see the two forms above.
+- "No other notes may appear." In practice passing and ornamental notes are common — the blues scale is a pentatonic with a lowered fifth added.
 :::

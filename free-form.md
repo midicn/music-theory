@@ -28,15 +28,16 @@ updated: 2026-09-25
 ---
 
 ::: zh
-自由曲式指的是一类作品：**它们不套用既有的曲式模式**（不是 ABA，也不是奏鸣曲式）。
+自由曲式指的是一类作品，**它们不套用既有的曲式模式**。
+既不是 ABA，也不是奏鸣曲式。
 
-但这里有个必须立刻纠正的误解：
+但有一个误解必须先纠正。
 
-> **"自由"不等于"没有曲式"** —— 它只是**不套用已有模式**，仍然必须具备内在的组织逻辑。
+> **"自由"不等于"没有曲式"**。它只是不套用已有模式，仍须有内在的组织逻辑。
 
 ## 它靠什么被组织
 
-自由曲式作品的"结构"常常写在别的地方：
+自由曲式作品的"结构"常常写在别的地方。
 
 | 组织手段 | 说明 |
 |---|---|
@@ -46,8 +47,9 @@ updated: 2026-09-25
 | **标题 / 文学内容** | 交响诗按诗或故事推进，段落对应情节 |
 | **调性迁移** | 全曲有一条调性路线（虽然不像奏鸣曲式那样对称） |
 
-**注意最后一行之前的四项**：这些都是与主题无关的组织手段 ——
-**说明"结构"并不只等于"主题怎么摆"**（这与 [[concept:large-scale-forms|大型作品结构]] 那条的结论一致）。
+**注意最后一行之前的四项**，它们都是与主题无关的组织手段。
+这说明"结构"并不只等于"主题怎么摆"。
+这与 [[concept:large-scale-forms|大型作品结构]] 的结论一致。
 
 ## 常见体裁
 
@@ -59,12 +61,12 @@ updated: 2026-09-25
 | **交响诗** | 单乐章，按文学或绘画内容推进 |
 | **练习曲**（音乐会练习曲） | 技术目的 + 自由结构 |
 
-**幻想曲最适合当代表**：它的名字本身就是"自由"（fantasia = 想象）——
+幻想曲最适合当代表。它的名字本身就是"自由"（fantasia 意为想象）。
 巴洛克时期它甚至意味着"不按赋格那样严格"。
 
 ## 怎么分析它
 
-分析自由曲式**不能靠贴字母**，而要靠**描述**：
+分析自由曲式不能靠贴字母，要靠描述。
 
 | 步骤 | 做什么 |
 |---|---|
@@ -73,9 +75,10 @@ updated: 2026-09-25
 | **3** | **问"为什么按这个顺序"** —— 情绪弧线？故事情节？素材关联？ |
 | **4** | 若某段确实符合既有曲式，**就标出来**（自由曲式里常夹着奏鸣曲式段、赋格段） |
 
-**第 3 步是关键**：它把分析从"归类"变成了"解释"。
-这也解释了为什么自由曲式是**"曲式是描述、不是规定"的最强证据**（见 [[concept:form|曲式]]）：
-如果曲式是规定，这类作品就"不合格"；而它们恰恰是保留曲目里最重要的一批。
+第 3 步是关键，它把分析从"归类"变成了"解释"。
+这也说明自由曲式是"曲式是描述、不是规定"的最强证据（见 [[concept:form|曲式]]）。
+如果曲式是规定，这类作品就不合格。
+而它们恰恰是保留曲目里最重要的一批。
 
 ## 图示：结构写在别处
 
@@ -125,9 +128,9 @@ updated: 2026-09-25
 
 ## 听一听：没有模式，但有走向
 
-用 `progression` 听一段不成套的功能进行（结束不回到主调）。
-**它不符合任何标准终止式，但仍有自己的走向** —— 自由曲式就是这样：
-不套模式，但每一步都有理由。
+用 `progression` 听一段不成套的功能进行，结束不回到主调。
+它不符合任何标准终止式，但仍有自己的走向。
+自由曲式就是这样：不套模式，但每一步都有理由。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","vi","IV","ii","V"],"label":"不成套的进行（不回到主调）","label_en":"A non-standard progression that does not return home","hint":"逐个和弦依次听：没有标准收束，但仍有方向","hint_en":"Hear each chord: no standard close, yet still directed"}
@@ -135,10 +138,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「自由曲式就是没有曲式」** → 它只是不套用既有模式。**组织逻辑仍然存在**（情绪弧线、素材关联、标题内容）。
-- **「自由曲式比规范曲式简单」** → 更难：**没有现成框架可以依靠**，一切都要自己建立。
-- **「分析自由曲式没法下手」** → 可以：找段落边界 → 描述性格 → 追问顺序的理由。**第 3 步是重点。**
-- **「自由曲式是近代才有的」** → 幻想曲、托卡塔在巴洛克时期就存在；近代增加的只是规模与标题性。
+- 「自由曲式就是没有曲式」 → 它只是不套用既有模式。组织逻辑仍在，如情绪弧线、素材关联、标题内容。
+- 「自由曲式比规范曲式简单」 → 更难。没有现成框架可以依靠，一切都要自己建立。
+- 「分析自由曲式没法下手」 → 可以：找边界，描述性格，再追问顺序的理由。第 3 步是重点。
+- 「自由曲式是近代才有的」 → 幻想曲、托卡塔在巴洛克时期就存在。近代增加的只是规模与标题性。
 :::
 
 ::: en
@@ -174,12 +177,12 @@ themes are arranged"** (the same conclusion reached under [[concept:large-scale-
 | **symphonic poem** | single movement, advancing with a literary or pictorial subject |
 | **concert étude** | a technical purpose in a free structure |
 
-**The fantasia is the best representative**: the name itself means "freedom" (fantasia — imagination). In the
+The fantasia is the best representative: the name itself means "freedom" (fantasia — imagination). In the
 Baroque it even meant "not as strict as a fugue".
 
 ## How to analyse it
 
-Free form **cannot be analysed by pasting letters on it**, but by **describing**:
+Free form cannot be analysed by pasting letters on it, but by describing:
 
 | Step | Do this |
 |---|---|
@@ -188,8 +191,8 @@ Free form **cannot be analysed by pasting letters on it**, but by **describing**
 | **3** | **ask why this order** — an emotional arc? a story? material connections? |
 | **4** | if a section does match a known form, **say so** (free forms often contain sonata-form or fugal stretches) |
 
-**Step 3 is the crux**: it turns analysis from classification into explanation.
-It also shows why free form is **the strongest evidence that form describes rather than prescribes** (see
+Step 3 is the crux: it turns analysis from classification into explanation.
+It also shows why free form is the strongest evidence that form describes rather than prescribes (see
 [[concept:form|form]]): if form were a rule, these works would fail it — and they are among the most central in the
 repertoire.
 
@@ -249,12 +252,12 @@ direction.** That is free form: no pattern, but every step has a reason.
 
 ## Common misconceptions
 
-- **"Free form means no form."** It means only that no existing pattern is used. **An organising logic remains** —
+- "Free form means no form." It means only that no existing pattern is used. An organising logic remains —
   emotional arc, material connections, or a title's content.
-- **"Free form is easier than standard forms."** Harder: **there is no ready frame to lean on**, so everything must
+- "Free form is easier than standard forms." Harder: there is no ready frame to lean on, so everything must
   be built from scratch.
-- **"It cannot be analysed."** It can: find boundaries, describe characters, then ask why the order. **Step 3 is the
+- "It cannot be analysed." It can: find boundaries, describe characters, then ask why the order. **Step 3 is the
   point.**
-- **"Free form is modern."** Fantasias and toccatas exist from the Baroque; what is recent is their scale and their
+- "Free form is modern." Fantasias and toccatas exist from the Baroque; what is recent is their scale and their
   use of titles.
 :::

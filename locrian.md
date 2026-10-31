@@ -41,18 +41,18 @@ updated: 2026-09-23
 两处降音合起来造成两个后果：
 
 1. **第 2 级是半音** → 主音上方紧贴一个半音（与 [[concept:phrygian|弗里吉亚]] 相同）；
-2. **第 5 级是减五度** → **主音上方没有稳定的五度**。
+2. 第 5 级是减五度 → 主音上方没有稳定的五度。
 
 第 2 条是致命的。调性音乐的立足点就是主音与五度（主—属）这根支柱，
-而洛克里亚的主三和弦是**减三和弦**（C–E♭–G♭）。没有稳定的五度，就没有可以"到达"的和弦 ——
-所以它极少单独成曲，通常只作为 **大调音阶的第 7 级起**这一结构现象被讨论。
+而洛克里亚的主三和弦是减三和弦（C–E♭–G♭）。没有稳定的五度，就没有可以"到达"的和弦 ——
+所以它极少单独成曲，通常只作为 大调音阶的第 7 级起这一结构现象被讨论。
 
 ## 怎么听它
 
-由于库里没有明确标为洛克里亚的曲目，最有用的做法是**自己推出来听**：
+由于库里没有明确标为洛克里亚的曲目，最有用的做法是自己推出来听：
 
 1. 找一条大调音阶或大调主题（下面三个实例都是 C1 的大调材料）；
-2. **从第 7 级（导音）起，往上走到下一个第 7 级**；
+2. 从第 7 级（导音）起，往上走到下一个第 7 级；
 3. 你会立刻听到：主音上方的半音让起点不稳，而上面那个减五度让整条线一直"悬着"。
 
 这正好把 [[concept:scale|音阶]] 里"同一批音、主音不同"这件事听成了实感。
@@ -106,10 +106,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「六个调式都同等常用」** → 洛克里亚远少于其他五个，"稀有"是它结构决定的，不是偏见。
-- **「它不存在，只是理论上的一行」** → 它确实出现在实践中（如某些重金属、爵士的局部用法），只是极少作为整曲的调性中心。
-- **「减五度听起来就是走音」** → 它是音阶内的合法音；问题不在音准，而在它无法承担"主音上方稳定五度"这一功能。
-- **「洛克里亚与弗里吉亚一样」** → 弗里吉亚的第 5 级是**纯五度**，因此它有稳定的属和弦，是能站住的调式。
+- 「六个调式都同等常用」 → 洛克里亚远少于其他五个，"稀有"是它结构决定的，不是偏见。
+- 「它不存在，只是理论上的一行」 → 它确实出现在实践中（如某些重金属、爵士的局部用法），只是极少作为整曲的调性中心。
+- 「减五度听起来就是走音」 → 它是音阶内的合法音；问题不在音准，而在它无法承担"主音上方稳定五度"这一功能。
+- 「洛克里亚与弗里吉亚一样」 → 弗里吉亚的第 5 级是纯五度，因此它有稳定的属和弦，是能站住的调式。
 :::
 
 ::: en
@@ -128,19 +128,19 @@ Together the two lowered notes produce two consequences:
 
 1. **The second is a semitone** — a semitone sits directly above the tonic (as in
    [[concept:phrygian|Phrygian]]);
-2. **The fifth is diminished** — **there is no stable fifth above the tonic.**
+2. The fifth is diminished — there is no stable fifth above the tonic.
 
 The second point is fatal. Tonal music stands on the prop of tonic and fifth, and Locrian's tonic triad is a
-**diminished triad** (C–E♭–G♭). Without a stable fifth there is no chord one can arrive at, so Locrian almost
+diminished triad (C–E♭–G♭). Without a stable fifth there is no chord one can arrive at, so Locrian almost
 never carries a piece by itself. It is usually discussed as the structural fact of
-**starting a major scale on its seventh degree**.
+starting a major scale on its seventh degree.
 
 ## How to hear it
 
-Since the library holds no piece labelled Locrian, the useful method is **to derive it and listen**:
+Since the library holds no piece labelled Locrian, the useful method is to derive it and listen:
 
 1. Take a major scale or major-key theme (all three instances below are major-key C1 material);
-2. **Start on the seventh degree and climb to the next seventh**;
+2. Start on the seventh degree and climb to the next seventh;
 3. You will hear at once that the semitone above the tonic makes the starting point unsteady, and the diminished
    fifth above keeps the whole line hanging.
 
@@ -195,8 +195,8 @@ seems to find a resting point — which is why it hardly ever carries a piece.
 
 ## Common misconceptions
 
-- **"All six modes are equally common."** Locrian is far rarer than the other five, and its rarity follows from its structure rather than from prejudice.
-- **"It does not exist; it is only a line in a textbook."** It does appear in practice (passages in metal and jazz), but hardly ever as the tonal centre of a whole piece.
-- **"A diminished fifth just sounds out of tune."** It is a legal scale tone; the problem is not intonation but that it cannot serve as the stable fifth above a tonic.
-- **"Locrian and Phrygian are much the same."** Phrygian's fifth is **perfect**, so it has a stable dominant chord and can stand. That is the difference.
+- "All six modes are equally common." Locrian is far rarer than the other five, and its rarity follows from its structure rather than from prejudice.
+- "It does not exist; it is only a line in a textbook." It does appear in practice (passages in metal and jazz), but hardly ever as the tonal centre of a whole piece.
+- "A diminished fifth just sounds out of tune." It is a legal scale tone; the problem is not intonation but that it cannot serve as the stable fifth above a tonic.
+- "Locrian and Phrygian are much the same." Phrygian's fifth is perfect, so it has a stable dominant chord and can stand. That is the difference.
 :::

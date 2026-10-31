@@ -28,9 +28,9 @@ updated: 2026-09-25
 ---
 
 ::: zh
-简谱用最少的符号做一件事：**把音级写成数字。**
+简谱用最少的符号做一件事：**把音级写成数字**。
 
-> `1 2 3 4 5 6 7` = do re mi fa sol la si，`0` = 休止。
+> `1 2 3 4 5 6 7` = do re mi fa sol la si。`0` = 休止。
 
 ## 三条规则就够了
 
@@ -47,12 +47,13 @@ updated: 2026-09-25
 | `1 = C` | **调号**：规定 `1` 等于哪个音 |
 | `4/4`（写在开头） | 拍号 |
 
-**关键认识**：简谱里 **`1` 是什么音由调号决定** ——
-`1 = C` 时 `1` 是 C；`1 = G` 时 `1` 就是 G。**这与五线谱必须配谱号是同一个道理**（见 [[concept:clef|谱号]]）。
+**关键认识**：简谱里 **`1` 是什么音由调号决定**。
+`1 = C` 时 `1` 是 C，`1 = G` 时 `1` 就是 G。
+这与五线谱必须配谱号是同一个道理（见 [[concept:clef|谱号]]）。
 
 ## 与五线谱的根本差异
 
-这是本条最值得说清的一点：
+与五线谱的差异最值得说清。
 
 | | **简谱** | **五线谱** |
 |---|---|---|
@@ -62,26 +63,26 @@ updated: 2026-09-25
 | 复杂的多声部 | 记写困难 | **擅长** |
 | 易写易读 | **对单声部旋律极方便** | 学习曲线较陡 |
 
-**"转调时数字不动、只改调号"是简谱的一大优点** ——
-因为唱名体系本身是**相对于主音**的，换调时**音级关系不变**，所以数字不必改。
-（代价是：**看不出绝对音高**，同一份简谱在不同调号下是完全不同的音。）
+"转调时数字不动、只改调号"是简谱的一大优点。
+唱名体系本身相对于主音，换调时音级关系不变，数字不必改。
+代价是看不出绝对音高：同一份简谱在不同调号下是完全不同的音。
 
 ## 它为什么在中国普及
 
-一个历史事实：
+这里有一个历史事实。
 
 | 时期 | 情况 |
 |---|---|
 | 20 世纪初 | 经日本传入（与学堂乐歌的推广大致同时） |
 | 20 世纪中后 | 因**书写与阅读门槛低**，成为群众歌咏、民歌记录、戏曲与器乐简写的常用体系 |
 
-**"门槛低"是它真正的优势**：五线谱的读写需要专门训练，
-而简谱只要认识数字与几条规则就能唱 —— 这让它特别适合**传唱与记录单声部旋律**。
-（中国的传统记谱体系见 [[concept:gongchepu|工尺谱]]。）
+"门槛低"是它真正的优势。五线谱的读写需要专门训练。
+简谱只要认识数字与几条规则就能唱，特别适合传唱与记录单声部旋律。
+中国的传统记谱体系见 [[concept:gongchepu|工尺谱]]。
 
 ## 它不擅长什么
 
-诚实地说清边界：
+它的边界也应当说清。
 
 | 情形 | 简谱的困难 |
 |---|---|
@@ -90,8 +91,8 @@ updated: 2026-09-25
 | **绝对音高写作** | 需要先确定调号，写"无调性"或频繁转调的内容很别扭 |
 | **视奏器乐作品** | 五线谱能一眼看出音程宽窄，简谱要读数字 |
 
-**结论**：**简谱不是"简化的五线谱"，而是为不同目的设计的另一套体系。**
-它擅长"**单声部旋律的快速记录与传唱**"，不擅长"复杂织体的精确谱面"。
+结论：简谱不是简化的五线谱，而是为不同目的设计的另一套体系。
+它擅长单声部旋律的快速记录与传唱，不擅长复杂织体的精确谱面。
 
 ## 图示：数字、点与时值线
 
@@ -155,8 +156,9 @@ updated: 2026-09-25
 
 ## 听一听：唱名是相对的
 
-用 `scale` 听两条音阶：**同为 C 大调**与**同为 G 大调**的 `1 2 3 4 5`。
-**两条的"1"在绝对音高上不同，但"1 到 2"的关系完全一样** —— 这就是简谱"数字不动、只改调号"的听觉依据。
+用 `scale` 听两条音阶，`1 2 3 4 5` 分别从 C 与 G 开始。
+两条的"1"在绝对音高上不同，但"1 到 2"的关系完全一样。
+这就是简谱"数字不动、只改调号"的听觉依据。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4"],"label":"1 = C：1 2 3 4 5（从 C 开始）","label_en":"1 = C: degrees 1 to 5 starting on C","hint":"点「上行」，记住音级之间的关系","hint_en":"Try Up and hold on to the relations between degrees","gap":0.36}
@@ -168,10 +170,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「简谱是五线谱的简化版」** → 它们是为**不同目的**设计的体系：一个记音级（相对），一个记位置（可对应绝对音高）。
-- **「简谱只能记简单音乐」** → 它**不擅长多声部与复杂和声**，但单声部旋律的记写效率很高，民歌与戏曲大量使用。
-- **「简谱没有调号概念」** → 有：`1 = X` 就是调号，且它决定了全部数字的实际音高。
-- **「简谱过时了」** → 在中国它仍是民歌记录、群众歌咏与乐器简写的常用体系，且学习门槛低是它真正的优势。
+- 「简谱是五线谱的简化版」 → 它们为不同目的而设计。一个记音级，相对关系；一个记位置，对应绝对音高。
+- 「简谱只能记简单音乐」 → 它不擅长多声部与复杂和声。但单声部旋律记写效率很高，民歌与戏曲大量使用。
+- 「简谱没有调号概念」 → 有：`1 = X` 就是调号，它决定了全部数字的实际音高。
+- 「简谱过时了」 → 在中国它仍是民歌记录、群众歌咏与器乐简写的常用体系。学习门槛低是它真正的优势。
 :::
 
 ::: en
@@ -195,7 +197,7 @@ Numbered notation does one thing with the fewest possible signs: **it writes deg
 | `4/4` (at the start) | the metre |
 
 **The crucial point**: in numbered notation **what `1` sounds depends on the key marking** — with `1 = C`, `1` is C;
-with `1 = G`, `1` is G. **The same logic as a clef** (see [[concept:clef|clef]]).
+with `1 = G`, `1` is G. The same logic as a clef (see [[concept:clef|clef]]).
 
 ## The fundamental difference from staff notation
 
@@ -209,7 +211,7 @@ The most valuable point in this entry:
 | Complex multi-part music | hard to write | **its strength** |
 | Ease of writing and reading | **excellent for a single melodic line** | a steeper learning curve |
 
-**"Change key, keep the digits" is a real advantage** — the solfège system is **relative to the tonic**, so on
+"Change key, keep the digits" is a real advantage — the solfège system is relative to the tonic, so on
 transposition the degree relations are unchanged and the digits need no editing. (The cost: **no absolute pitch is
 visible**; the same figures under a different key marking are entirely different notes.)
 
@@ -222,7 +224,7 @@ A historical fact:
 | early twentieth century | introduced via Japan, roughly alongside the school-song movement |
 | later twentieth century | its **low bar to writing and reading** made it the common system for mass singing, folk-song collection, opera and short instrumental scores |
 
-**That low bar is the real advantage**: staff notation needs dedicated training, whereas numbered notation can be
+That low bar is the real advantage: staff notation needs dedicated training, whereas numbered notation can be
 sung once you know the digits and a few rules — which makes it ideal for **transmitting and recording a single
 melodic line**. (For China's traditional system see [[concept:gongchepu|gongche notation]].)
 
@@ -237,8 +239,8 @@ Stating the boundary honestly:
 | **writing without a tonal centre** | a key must be fixed first; atonal or heavily modulating music is awkward |
 | **instrumental sight-reading** | a staff shows interval width at a glance; here one reads digits |
 
-**Conclusion**: **numbered notation is not a simplified staff, but a different system designed for different
-purposes.** It excels at **quickly recording and transmitting a single melodic line**; it is poor at **dense,
+Conclusion: **numbered notation is not a simplified staff, but a different system designed for different
+purposes. It excels at quickly recording and transmitting a single melodic line; it is poor at dense,
 precise textures**.
 
 ## Diagram: digits, dots and dashes
@@ -302,7 +304,7 @@ precise textures**.
 
 ## Listen: solfège is relative
 
-Use `scale` on two five-note spans: **degrees 1 to 5 in C** and **degrees 1 to 5 in G**. **The two "1"s differ in
+Use `scale` on two five-note spans: degrees 1 to 5 in C and degrees 1 to 5 in G. **The two "1"s differ in
 absolute pitch, while the relation from 1 to 2 is identical** — the aural basis for "change key, keep the digits".
 
 ```audiolab
@@ -315,12 +317,12 @@ absolute pitch, while the relation from 1 to 2 is identical** — the aural basi
 
 ## Common misconceptions
 
-- **"Numbered notation is a simplified staff."** They serve **different purposes**: one records degrees
+- "Numbered notation is a simplified staff." They serve different purposes: one records degrees
   (relations), the other positions (mappable to absolute pitch).
-- **"It can only record simple music."** It is **weak at multi-part music and complex harmony**, but very efficient
+- "It can only record simple music." It is weak at multi-part music and complex harmony, but very efficient
   for a single line — heavily used for folk song and opera.
-- **"It has no concept of key."** It does: `1 = X` is the key marking and it fixes the sounding pitch of every
+- "It has no concept of key." It does: `1 = X` is the key marking and it fixes the sounding pitch of every
   digit.
-- **"It is obsolete."** In China it remains a standard system for folk-song collection, mass singing and short
+- "It is obsolete." In China it remains a standard system for folk-song collection, mass singing and short
   instrumental notation, and its low learning barrier is a real advantage.
 :::

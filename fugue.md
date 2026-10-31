@@ -56,10 +56,10 @@ updated: 2026-09-24
 
 | | 说明 |
 |---|---|
-| **赋格（本站 T6）** | 一种**写法与织体** —— 主题如何进入、如何交织、如何发展 |
+| **赋格（T6）** | 一种**写法与织体** —— 主题如何进入、如何交织、如何发展 |
 | **赋格曲式（T9）** | 把这种写法组织成整曲时的**结构安排** |
 
-所以"这首作品是不是赋格"不是看它有几个段落，而是看它**是否以单一主题的模仿进入为核心**
+所以"这首作品是不是赋格"不是看它有几个段落，而是看它是否以单一主题的模仿进入为核心
 （见 [[concept:fugue-form|赋格曲式]]）。很多作品里会出现"赋格段"——
 比如奏鸣曲式展开部里的一段严密模仿 —— 它不构成整曲的曲式，但确实是赋格写法。
 
@@ -67,12 +67,12 @@ updated: 2026-09-24
 
 三个理由，都是可验证的：
 
-**① 经济性。** 素材只有一个，却撑起数分钟的music —— 这是作曲上最苛刻的考验（见 [[concept:motive|动机与主题]]）。
+① 经济性。 素材只有一个，却撑起数分钟的music —— 这是作曲上最苛刻的考验（见 [[concept:motive|动机与主题]]）。
 
-**② 双重约束。** 每条线必须像旋律，同时所有线合起来必须和声合理（见 [[concept:counterpoint|对位]]）。
+② 双重约束。 每条线必须像旋律，同时所有线合起来必须和声合理（见 [[concept:counterpoint|对位]]）。
 约束越多，解越难找。
 
-**③ 发展性。** 主题必须**既能独立成立、又留有余地** ——
+③ 发展性。 主题必须既能独立成立、又留有余地 ——
 太完整就无法发展，太空洞就立不住。这种"留白"的判断力，是赋格写作最难教的部分。
 
 ## 图示：主题在声部间依次进入
@@ -123,7 +123,7 @@ updated: 2026-09-24
 ## 听一听：五度进入的关系
 
 赋格的核心动作是"主题在五度上被模仿"。用 `interval` 听这个五度 ——
-**主与属的关系**就是赋格最初两次进入之间的距离。真正的四声部交织请到实例里听：
+主与属的关系就是赋格最初两次进入之间的距离。真正的四声部交织请到实例里听：
 巴赫《半音阶幻想曲与赋格》（`atepp-001928`）是最完整的一条。
 
 ```audiolab
@@ -132,10 +132,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「赋格是一种曲式」** → 它是**写法与织体**。看一首作品是不是赋格，要看它是否以单一主题的模仿进入为核心，而不是看段落数量（结构层面见 [[concept:fugue-form|赋格曲式]]）。
-- **「赋格必须四个声部」** → 二声部到五声部都有。声部数由织体需要决定，不是定义的一部分。
-- **「主题进入的顺序是固定的」** → 常见的是从中间声部开始、向外扩展，但大量作品不遵循这一顺序。
-- **「赋格是过时的形式」** → 20 世纪仍有人写（如肖斯塔科维奇 Op.87 全套 24 首），因为它训练的是"用一个素材发展到底"的能力，这在任何时代都有用。
+- 「赋格是一种曲式」 → 它是写法与织体。看一首作品是不是赋格，要看它是否以单一主题的模仿进入为核心，而不是看段落数量（结构层面见 [[concept:fugue-form|赋格曲式]]）。
+- 「赋格必须四个声部」 → 二声部到五声部都有。声部数由织体需要决定，不是定义的一部分。
+- 「主题进入的顺序是固定的」 → 常见的是从中间声部开始、向外扩展，但大量作品不遵循这一顺序。
+- 「赋格是过时的形式」 → 20 世纪仍有人写（如肖斯塔科维奇 Op.87 全套 24 首），因为它训练的是"用一个素材发展到底"的能力，这在任何时代都有用。
 :::
 
 ::: en
@@ -177,13 +177,13 @@ imitative stretch inside a development section, for instance — which is fugal 
 
 Three reasons, all verifiable:
 
-**One: economy.** One idea carries minutes of music — the most demanding test in composition (see
+One: economy. One idea carries minutes of music — the most demanding test in composition (see
 [[concept:motive|motive and subject]]).
 
-**Two: double constraint.** Each line must work as a melody while all lines together must work as harmony (see
+Two: double constraint. Each line must work as a melody while all lines together must work as harmony (see
 [[concept:counterpoint|counterpoint]]). More constraints, fewer solutions.
 
-**Three: capacity for development.** The subject must **stand on its own yet leave room** — too complete and it
+Three: capacity for development. The subject must stand on its own yet leave room — too complete and it
 cannot develop, too empty and it collapses. Judging that "leave room" is the hardest part of fugue writing to
 teach.
 
@@ -244,13 +244,13 @@ weaving go to the instances: Bach's Chromatic Fantasia and Fugue (`atepp-001928`
 
 ## Common misconceptions
 
-- **"A fugue is a form."** It is a **way of writing and a texture**. Whether a piece is a fugue depends on
+- "A fugue is a form." It is a way of writing and a texture. Whether a piece is a fugue depends on
   imitative entries of a single subject, not on how many sections it has (for the structural layer see
   [[concept:fugue-form|fugue form]]).
-- **"A fugue must have four voices."** Two to five all occur. The voice count follows the texture, not the
+- "A fugue must have four voices." Two to five all occur. The voice count follows the texture, not the
   definition.
-- **"The order of entries is fixed."** Starting from a middle voice and expanding outward is common, but many
+- "The order of entries is fixed." Starting from a middle voice and expanding outward is common, but many
   works ignore it.
-- **"The fugue is obsolete."** It was still being written in the twentieth century (Shostakovich's complete set of
+- "The fugue is obsolete." It was still being written in the twentieth century (Shostakovich's complete set of
   24 in Op.87), because it trains the ability to develop one idea to the end — useful in any era.
 :::

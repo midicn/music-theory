@@ -45,7 +45,7 @@ updated: 2026-09-23
 | E | F（白键） | F♯ |
 | B | C（白键） | C♯ |
 
-注意 E → F 与 B → C **不需要黑键就已经是半音**。这一点决定了 [[concept:scale|音阶]] 的形状：
+注意 E → F 与 B → C 不需要黑键就已经是半音。这一点决定了 [[concept:scale|音阶]] 的形状：
 大调音阶之所以听起来"有大调味"，正是因为半音固定落在两个位置上。
 
 ## 音数表：度量音程的第二把尺子
@@ -60,7 +60,7 @@ updated: 2026-09-23
 | 纯四度 | 5 | 纯八度 | 12 |
 | 增四度 / 减五度 | 6 | | |
 
-这张表是练耳的底层依据：**听辨音程时，耳朵实际在比较的就是半音数**。
+这张表是练耳的底层依据：听辨音程时，耳朵实际在比较的就是半音数。
 而纸面上的名字（大三度还是减四度）要回到度数才知道 —— 这也是
 [[concept:enharmonic|等音]] 现象的来源：6 个半音既能叫增四度，也能叫减五度。
 
@@ -121,10 +121,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「半音就是黑键到白键」** → E–F、B–C 是白键到白键，同样是半音。黑键只是"造出来的"音名，与宽度无关。
-- **「音数相同就是同一个音程」** → 6 个半音可以是增四度，也可以是减五度。音数一样，写法与功能不同。
-- **「全音比半音宽一倍，所以听起来远一倍」** → 听感不是线性倍数关系。全音与半音在听感上的差别远小于它们的比值。
-- **「半音是音高差别的最小可能」** → 半音是最小的**音名距离**。演奏上还能差得更小，只是那些高度没有独立音名。
+- 「半音就是黑键到白键」 → E–F、B–C 是白键到白键，同样是半音。黑键只是"造出来的"音名，与宽度无关。
+- 「音数相同就是同一个音程」 → 6 个半音可以是增四度，也可以是减五度。音数一样，写法与功能不同。
+- 「全音比半音宽一倍，所以听起来远一倍」 → 听感不是线性倍数关系。全音与半音在听感上的差别远小于它们的比值。
+- 「半音是音高差别的最小可能」 → 半音是最小的音名距离。演奏上还能差得更小，只是那些高度没有独立音名。
 :::
 
 ::: en
@@ -136,7 +136,7 @@ degrees.**
 ## The semitone is the smallest step
 
 Twelve-tone equal temperament cuts the octave into 12 equal parts; one part is a **semitone**, and two semitones
-make a **whole tone**. The semitone is the smallest unit in the system — nothing smaller gets its own note name
+make a whole tone. The semitone is the smallest unit in the system — nothing smaller gets its own note name
 (players can bend a pitch by less, but that is intonation, not a new name).
 
 The keyboard makes it obvious:
@@ -147,7 +147,7 @@ The keyboard makes it obvious:
 | E | F (white key) | F♯ |
 | B | C (white key) | C♯ |
 
-Note that E → F and B → C are semitones **without any black key**. This single fact shapes the
+Note that E → F and B → C are semitones without any black key. This single fact shapes the
 [[concept:scale|scale]]: a major scale sounds like a major scale because its two semitones always fall in the
 same two places.
 
@@ -225,8 +225,8 @@ difference is only a few tens of hertz, yet it is the deepest dividing line in m
 
 ## Common misconceptions
 
-- **"A semitone means black key to white key."** E–F and B–C are white to white and are still semitones. Black keys are invented names, not a definition of width.
-- **"Same number of semitones means the same interval."** 6 semitones can be an augmented fourth or a diminished fifth — same width, different spelling and function.
-- **"A whole tone is twice as far, so it sounds twice as far."** Perception is not a linear multiple; the heard gap between them is far smaller than the ratio suggests.
-- **"A semitone is the smallest possible pitch difference."** It is the smallest difference **between note names**. Players can deviate by less, but those heights have no names of their own.
+- "A semitone means black key to white key." E–F and B–C are white to white and are still semitones. Black keys are invented names, not a definition of width.
+- "Same number of semitones means the same interval." 6 semitones can be an augmented fourth or a diminished fifth — same width, different spelling and function.
+- "A whole tone is twice as far, so it sounds twice as far." Perception is not a linear multiple; the heard gap between them is far smaller than the ratio suggests.
+- "A semitone is the smallest possible pitch difference." It is the smallest difference between note names. Players can deviate by less, but those heights have no names of their own.
 :::

@@ -28,7 +28,8 @@ updated: 2026-09-25
 ---
 
 ::: zh
-现代记谱法不是"更高级的记谱法"，而是**为传统记谱法表达不了的内容另立的记法**。
+现代记谱法不是"更高级的记谱法"。它是**为传统写法表达不了的内容另立的记法**。
+音高不再是格子里的点，时值也不再能被等分。
 
 ## 为什么需要它：前提失效
 
@@ -36,33 +37,33 @@ updated: 2026-09-25
 
 | 前提 | 传统记谱法如何应对 |
 |---|---|
-| **音高是离散的、有确定高度的** | 用位置表示 |
-| **时值是比例化的、可等分的** | 用符尾与符点表示 |
+| 音高是离散的、有确定高度的 | 用位置表示 |
+| 时值是比例化的、可等分的 | 用符尾与符点表示 |
 
-**当作品不再以这两件事为核心时，记谱法就必须改**：
+当作品不再以这两件事为核心，记谱法就必须改：
 
 | 作品的特点 | 传统记谱法的问题 |
 |---|---|
-| 音高在**两个半音之间**（微分音） | 五线谱没有位置可写 |
-| 时值**不确定**（由演奏者决定） | 符尾体系表达不了 |
-| 重点是**音色与织体的变化**，而非音高 | 谱面写不下"变化过程" |
-| 演奏法是**文字描述性的**（如"尽量慢地摩擦琴弦"） | 需要文字而非符号 |
+| 音高在两个半音之间（微分音） | 五线谱没有位置可写 |
+| 时值不确定，由演奏者决定 | 符尾体系表达不了 |
+| 重点是音色与织体的变化，而非音高 | 谱面写不下"变化过程" |
+| 演奏法是文字描述性的，如"尽量慢地摩擦琴弦" | 需要文字而非符号 |
 
-**所以现代记谱法的多样性，根源在于音乐本身的重心转移** ——
-与"记谱法服务于音乐实践"这条原则一致（见 [[concept:gongchepu|工尺谱]] 的取舍讨论）。
+所以现代记谱法的多样性，根源在于音乐本身的重心转移。
+这条原则与工尺谱的取舍相同：记谱法服务于音乐实践（见 [[concept:gongchepu|工尺谱]]）。
 
 ## 常见的几类做法
 
 | 类型 | 做法 | 解决什么 |
 |---|---|---|
-| **比例记谱** | 谱面的**横向距离按时间比例**画 | 时值不确定、自由节拍 |
-| **图形记谱** | 用图形、线条、色块表示过程 | 音色与织体的变化 |
-| **微分音记号** | 特殊符号（↑↓ 或分数记号） | 半音之间的音高 |
-| **文字说明** | 直接用文字描述演奏动作 | 演奏法无法符号化 |
-| **开放式段落** | 只给材料与规则，由演奏者组合 | 即兴与偶然性 |
+| 比例记谱 | 谱面的横向距离按时间比例画 | 时值不确定、自由节拍 |
+| 图形记谱 | 用图形、线条、色块表示过程 | 音色与织体的变化 |
+| 微分音记号 | 特殊符号（↑↓ 或分数记号） | 半音之间的音高 |
+| 文字说明 | 直接用文字描述演奏动作 | 演奏法无法符号化 |
+| 开放式段落 | 只给材料与规则，由演奏者组合 | 即兴与偶然性 |
 
-**第一行最常用**：**比例记谱**把"时间"从抽象比例变成**空间长度** ——
-一眼就能看出"这里该持续多久"，代价是无法精确到毫秒（见 [[concept:free-meter|自由节拍与散板]]）。
+用得最多的是**比例记谱**。它把时间画成空间长度，一眼看得出"这里该持续多久"。
+代价是精确不到毫秒。好在自由节拍本来也不需要毫秒（见 [[concept:free-meter|自由节拍与散板]]）。
 
 ## 它的代价：互操作性差
 
@@ -70,26 +71,26 @@ updated: 2026-09-25
 
 | 问题 | 说明 |
 |---|---|
-| **没有统一标准** | 不同作曲家常**自制记号**并附说明 |
-| **学习成本高** | 演奏者需先读说明才能演奏 |
-| **难以长期流传** | 若说明丢失，谱面可能无法解读 |
+| 没有统一标准 | 不同作曲家常自制记号并附说明 |
+| 学习成本高 | 演奏者需先读说明才能演奏 |
+| 难以长期流传 | 若说明丢失，谱面可能无法解读 |
 
-**第二、三行值得对比**：传统记谱法的优势恰恰在于**它的标准化**
-——一份 18 世纪的乐谱今天仍能读（见 [[concept:rhythmic-notation|节奏记谱]]）。
-**所以现代记谱法并不"取代"传统记谱法，而是与之并存**：
-能写清的内容仍用传统记法，写不清的才另立符号。
+传统记谱法的长处正好相反：它标准化。
+一份 18 世纪的乐谱，今天拿起来还能读（见 [[concept:rhythmic-notation|节奏记谱]]）。
+所以现代记谱法不取代传统记法，两者**并存**。
+写得清的内容仍用传统记法，写不清的才另立符号。
 
 ## 一个容易搞错的判断
 
-**"20 世纪的音乐"不等于"必须用现代记谱法"**：
+"20 世纪的音乐"不等于"必须用现代记谱法"：
 
 | 事实 | 说明 |
 |---|---|
-| 肖斯塔科维奇、普罗科菲耶夫等 | **完全用传统记谱** |
+| 肖斯塔科维奇、普罗科菲耶夫等 | 完全用传统记谱 |
 | 布列兹、利盖蒂、约翰·凯奇等 | 大量使用新记法 |
-| 爵士与流行 | 用**和弦符号 + 主旋律谱**（lead sheet） |
+| 爵士与流行 | 用和弦符号 + 主旋律谱（lead sheet） |
 
-**所以"用什么记谱法"取决于作品的内容需要，而不是取决于年代。**
+所以"用什么记谱法"取决于作品的内容需要，而不是取决于年代。
 
 ## 图示：前提失效与对策
 
@@ -143,8 +144,8 @@ updated: 2026-09-25
 
 ## 听一听：确定性递减
 
-用 `rhythm` 组件听**严格等距**的形态 —— 这是传统记谱法最擅长表达的"确定时值"。
-现代记谱法常常要表达的，恰恰是**偏离这种确定性**（比例拉伸、自由节拍）。
+先用 `rhythm` 听一段严格等距的形态，那是传统记谱法最拿手的确定时值。
+现代记谱法想写的往往是反面：比例拉伸、自由节拍。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":80,"label":"确定时值（传统记谱法的领域）","label_en":"Determinate values — the traditional system's home ground","hint":"点「播放」，注意严格的等距","hint_en":"Press play and notice the strict evenness"}
@@ -152,15 +153,16 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「现代记谱法比传统记谱法先进」** → 它是**另一类工具**：解决传统记法表达不了的内容，代价是标准化与流通性。
-- **「20 世纪音乐必须用现代记谱法」** → 不是。肖斯塔科维奇、普罗科菲耶夫都用传统记谱。
-- **「图形记谱=随便画」** → 通常**附有明确说明**（哪些图形对应什么动作/音区），规范程度并不低。
-- **「传统记谱法会被取代」** → 两者**并存**：能写清的内容仍用传统记法（这与工尺谱的历史结论一致）。
+- 「现代记谱法比传统记谱法先进」 → 它是另一类工具：解决传统记法表达不了的内容。代价是标准化与流通性。
+- 「20 世纪音乐必须用现代记谱法」 → 不是。肖斯塔科维奇、普罗科菲耶夫都用传统记谱。
+- 「图形记谱=随便画」 → 通常附有明确说明，指出哪些图形对应什么动作、什么音区。它的规范程度并不低。
+- 「传统记谱法会被取代」 → 两者并存：能写清的内容仍用传统记法，这与工尺谱的历史结论一致。
 :::
 
 ::: en
-Contemporary notation is not "more advanced notation" but **notations devised for what the traditional system
-cannot express**.
+Contemporary notation is not "more advanced notation".
+It is **notation devised for what the traditional system cannot express**: pitch is no longer a dot on a
+grid, duration no longer divisible.
 
 ## Why it is needed: the premises fail
 
@@ -169,34 +171,35 @@ premises:
 
 | Premise | How the traditional system handles it |
 |---|---|
-| **pitch is discrete, with definite heights** | represented by position |
-| **duration is proportional and evenly divisible** | represented by flags and dots |
+| pitch is discrete, with definite heights | represented by position |
+| duration is proportional and evenly divisible | represented by flags and dots |
 
-**When a work stops centring on those two things, the notation must change**:
+When a work stops centring on those two things, the notation must change:
 
 | The music's feature | The traditional system's problem |
 |---|---|
-| pitch **between two semitones** (microtones) | no position to write it |
-| duration **indeterminate**, left to the performer | the flag system cannot say it |
-| the focus is **timbre and texture change**, not pitch | the page cannot show a "process" |
-| the playing technique is **verbal** ("rub the string as slowly as possible") | words are needed, not signs |
+| pitch between two semitones (microtones) | no position to write it |
+| duration indeterminate, left to the performer | the flag system cannot say it |
+| the focus is timbre and texture change, not pitch | the page cannot show a "process" |
+| the playing technique is verbal ("rub the string as slowly as possible") | words are needed, not signs |
 
-**So the diversity of contemporary notation comes from a shift in the music's centre of gravity** — consistent with
-the principle that notation serves musical practice (see the trade-offs discussed under
+So the diversity of contemporary notation comes from a shift in the music's centre of gravity.
+Gongche notation runs into the same principle: notation serves practice (see
 [[concept:gongchepu|gongche notation]]).
 
 ## The common families of solutions
 
 | Type | Method | Solves |
 |---|---|---|
-| **proportional notation** | horizontal **distance on the page is proportional to time** | indeterminate durations, free metre |
-| **graphic notation** | figures, lines and blocks for processes | timbral and textural change |
-| **microtonal signs** | special symbols (arrows, fraction marks) | pitches between semitones |
-| **verbal instructions** | describing the action in words | techniques that resist symbolisation |
-| **open sections** | giving material and rules for the players to combine | improvisation and chance |
+| proportional notation | horizontal distance on the page is proportional to time | indeterminate durations, free metre |
+| graphic notation | figures, lines and blocks for processes | timbral and textural change |
+| microtonal signs | special symbols (arrows, fraction marks) | pitches between semitones |
+| verbal instructions | describing the action in words | techniques that resist symbolisation |
+| open sections | giving material and rules for the players to combine | improvisation and chance |
 
-**The first is the commonest**: proportional notation turns time from an abstract ratio into **spatial length** —
-you see at a glance how long something lasts, at the cost of millisecond precision (see
+The commonest is **proportional notation**.
+It turns time into spatial length, so you see at a glance how long a gesture lasts.
+The cost is millisecond precision, which free metre does not need anyway (see
 [[concept:free-meter|free metre and sanban]]).
 
 ## The cost: poor interoperability
@@ -205,26 +208,27 @@ This is contemporary notation's biggest practical problem:
 
 | Problem | Explanation |
 |---|---|
-| **no common standard** | composers often invent signs and attach a key |
-| **high learning cost** | the performer must read the instructions before playing |
-| **poor survival** | if the key is lost, the page may become unreadable |
+| no common standard | composers often invent signs and attach a key |
+| high learning cost | the performer must read the instructions before playing |
+| poor survival | if the key is lost, the page may become unreadable |
 
-**The second and third rows bear comparison**: the traditional system's great strength is precisely **its
-standardisation** — an eighteenth-century score is still readable today (see
-[[concept:rhythmic-notation|notating rhythm]]). **So contemporary notation does not replace the traditional system
-but coexists with it**: what can be written clearly still is, and only the unwritable gets new symbols.
+The traditional system's strength is the opposite: it standardised.
+An eighteenth-century score is still readable today (see
+[[concept:rhythmic-notation|notating rhythm]]).
+Contemporary notation does not replace it; the two **coexist**.
+What can be written clearly still is, and only the unwritable gets new symbols.
 
 ## A judgement that is easily wrong
 
-**"Twentieth-century music" does not imply "contemporary notation"**:
+"Twentieth-century music" does not imply "contemporary notation":
 
 | Fact | Explanation |
 |---|---|
-| Shostakovich, Prokofiev and others | **entirely in traditional notation** |
+| Shostakovich, Prokofiev and others | entirely in traditional notation |
 | Boulez, Ligeti, John Cage and others | extensive use of new notations |
-| jazz and pop | **chord symbols plus a lead melody** (lead sheets) |
+| jazz and pop | chord symbols plus a lead melody (lead sheets) |
 
-**So which notation is used depends on what the work needs, not on the decade.**
+So which notation is used depends on what the work needs, not on the decade.
 
 ## Diagram: premises failing and the responses
 
@@ -278,9 +282,9 @@ but coexists with it**: what can be written clearly still is, and only the unwri
 
 ## Listen: decreasing determinacy
 
-Use `rhythm` to hear **a strictly even pattern** — the determinate durations the traditional system handles best.
-What contemporary notation often needs to express is precisely **departure from that determinacy** (proportional
-stretching, free metre).
+Start with `rhythm` on a strictly even pattern.
+Determinate durations are what the traditional system handles best.
+Contemporary notation usually wants the opposite: proportional stretching, free metre.
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":80,"label":"确定时值（传统记谱法的领域）","label_en":"Determinate values — the traditional system's home ground","hint":"点「播放」，注意严格的等距","hint_en":"Press play and notice the strict evenness"}
@@ -288,12 +292,12 @@ stretching, free metre).
 
 ## Common misconceptions
 
-- **"Contemporary notation is more advanced."** It is **another kind of tool**: it solves what the traditional
+- "Contemporary notation is more advanced." It is another kind of tool: it solves what the traditional
   system cannot, at the cost of standardisation and circulation.
-- **"Twentieth-century music must use it."** It need not; Shostakovich and Prokofiev wrote in the traditional
+- "Twentieth-century music must use it." It need not; Shostakovich and Prokofiev wrote in the traditional
   system throughout.
-- **"Graphic notation means scribbling."** It usually comes with an explicit **key** (which figure means which
+- "Graphic notation means scribbling." It usually comes with an explicit key (which figure means which
   action or register), and is far from unregulated.
-- **"The traditional system will be replaced."** The two **coexist**: whatever can be written clearly still is — the
+- "The traditional system will be replaced." The two coexist: whatever can be written clearly still is — the
   same conclusion reached for gongche notation.
 :::

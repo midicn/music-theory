@@ -42,7 +42,7 @@ updated: 2026-09-23
 把每个音程挂到"比八度窄、比五度宽"这类相对位置上，逐步逼近。
 这个方法的优点是永远不会失效，因为它量的正是音程的本质（见 [[concept:semitone|半音与全音]]）。
 
-**③ 唱名与调性法**（最专业）
+③ 唱名与调性法（最专业）
 把音程放进 [[concept:interval-number|度数]] 与调性框架里读：听到两个音，判断它们是这一调的几级与几级。
 这需要先有稳定的调性感，但一旦建立，听辨速度和准确度都会明显上升。
 
@@ -57,7 +57,7 @@ updated: 2026-09-23
 | 5 | 六度、七度 | 用"比五度宽多少"来推 |
 | 6 | 增减音程 | 最后处理，需要 [[concept:consonance|协和度]] 与倾向的配合判断 |
 
-**关键点是第 3 步**：三度一旦分得清，其余音程大都能靠相对位置推出来。
+关键点是第 3 步：三度一旦分得清，其余音程大都能靠相对位置推出来。
 
 ## 图示：用已知音程当尺子
 
@@ -99,7 +99,7 @@ updated: 2026-09-23
 
 ## 听一听：把听辨变成比较
 
-下面这条不是"认音程"，而是**比较**：先听四度与五度，建立一个落在中间的感觉，
+下面这条不是"认音程"，而是比较：先听四度与五度，建立一个落在中间的感觉，
 再听大三度 —— 你会发现"比五度窄很多"本身就是一个可靠的描述。
 
 ```audiolab
@@ -108,10 +108,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「听辨靠天赋」** → 靠方法与频次。锚点曲与比较法都是可教的技巧，与天赋关系有限。
-- **「要一次练很多音程」** → 一次只推进一档，把上一档练到近乎不出错再往下，否则会长期停在"猜"的状态。
-- **「只听上行就够了」** → 上行与下行的大脑处理方式不同，必须分开练，而且要混着练。
-- **「练耳和读谱无关」** → 读谱会把名称、位置与听感绑在一起，是听辨最有效的辅助。
+- 「听辨靠天赋」 → 靠方法与频次。锚点曲与比较法都是可教的技巧，与天赋关系有限。
+- 「要一次练很多音程」 → 一次只推进一档，把上一档练到近乎不出错再往下，否则会长期停在"猜"的状态。
+- 「只听上行就够了」 → 上行与下行的大脑处理方式不同，必须分开练，而且要混着练。
+- 「练耳和读谱无关」 → 读谱会把名称、位置与听感绑在一起，是听辨最有效的辅助。
 :::
 
 ::: en
@@ -144,7 +144,7 @@ sharply.
 | 5 | sixths and sevenths | you can derive them from "how much wider than a fifth" |
 | 6 | augmented and diminished | last, and it needs [[concept:consonance|consonance]] and tendency to help |
 
-**Stage 3 is the hinge.** Once thirds are secure, most other intervals can be derived by relative position.
+Stage 3 is the hinge. Once thirds are secure, most other intervals can be derived by relative position.
 
 ## Diagram: use known intervals as rulers
 
@@ -186,7 +186,7 @@ sharply.
 
 ## Listen: turn identification into comparison
 
-The point here is not naming but **comparing**: hear the fourth and the fifth to fix a sense of what sits
+The point here is not naming but comparing: hear the fourth and the fifth to fix a sense of what sits
 between them, then hear a major third. "Much narrower than a fifth" turns out to be a reliable description in
 itself.
 
@@ -196,8 +196,8 @@ itself.
 
 ## Common misconceptions
 
-- **"Ear training is talent."** It runs on method and repetition. Anchor melodies and comparison are teachable techniques.
-- **"Practise many intervals at once."** Advance one stage at a time and get the previous one nearly error-free first; otherwise you stay in guessing mode for months.
-- **"Ascending is enough."** The brain handles rising and falling intervals differently. Practise them separately and then mixed.
-- **"Ear training is unrelated to score reading."** Reading binds names, positions and sounds together — the most effective support there is.
+- "Ear training is talent." It runs on method and repetition. Anchor melodies and comparison are teachable techniques.
+- "Practise many intervals at once." Advance one stage at a time and get the previous one nearly error-free first; otherwise you stay in guessing mode for months.
+- "Ascending is enough." The brain handles rising and falling intervals differently. Practise them separately and then mixed.
+- "Ear training is unrelated to score reading." Reading binds names, positions and sounds together — the most effective support there is.
 :::

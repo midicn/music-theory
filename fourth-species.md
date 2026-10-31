@@ -49,25 +49,25 @@ updated: 2026-09-24
 
 因为它揭示了一件和声学里极其重要的事：
 
-> **不协和是可以被"计划"的。**
+> 不协和是可以被"计划"的。
 
-第二类与第三类里的不协和音是**经过性**的（快速掠过）；第四类的延留音是**结构性**的 ——
-它占据强拍、有明确的准备与解决，是**精心安排的张力**。
+第二类与第三类里的不协和音是经过性的（快速掠过）；第四类的延留音是结构性的 ——
+它占据强拍、有明确的准备与解决，是精心安排的张力。
 
 [[concept:suspended-chord|挂留和弦]]（sus4 / sus2）正是这一手法的和声化结果：
 把"延留音 + 它的解决"压进一个和弦里，就成了一个"悬而未决"的和弦。
 
 ## 它的写作难点：错位会让纵向关系全部改变
 
-切分对位最难的地方在于：**每个音的纵向关系都被"错开"了**。
+切分对位最难的地方在于：每个音的纵向关系都被"错开"了。
 
 | 时刻 | 与固定旋律的关系 |
 |---|---|
 | 延留音落在强拍时 | 它与固定旋律形成**不协和**（这是正常的） |
 | 解决之后 | 又回到协和 |
 
-所以要检查的不是"每个时刻都协和"，而是**"不协和的时刻是否恰好是延留音，且即将解决"**。
-这把判断标准从"结果"推向了"**过程**"—— 这也是它最接近真实和声写作的地方
+所以要检查的不是"每个时刻都协和"，而是"不协和的时刻是否恰好是延留音，且即将解决"。
+这把判断标准从"结果"推向了"过程"—— 这也是它最接近真实和声写作的地方
 （见 [[concept:non-chord-tone-treatment|和弦外音处理]]）。
 
 ## 与第二类的区别（容易混）
@@ -78,7 +78,7 @@ updated: 2026-09-24
 | 不协和位置 | 弱拍 | **强拍**（这是关键差别） |
 | 不协和性质 | 经过 | **结构性的延留** |
 
-一句话：**第二类的错位是为了填充，第四类的错位是为了延后。**
+一句话：第二类的错位是为了填充，第四类的错位是为了延后。
 
 ## 图示：准备 → 挂留 → 解决
 
@@ -130,7 +130,7 @@ updated: 2026-09-24
 
 ## 听一听：协和与不协和的推迟
 
-第四类是两声部练习，本站放不出两声部。这里用 `interval` 听**延留音形成的那一刻**：
+第四类是两声部练习，两声部放不出来。这里用 `interval` 听延留音形成的那一刻：
 三度（协和）变成二度（不协和）再回到三度 —— 这正是"准备—挂留—解决"的纵向听感。
 
 ```audiolab
@@ -139,10 +139,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「延留音就是"不改音"」** → 它必须经过**准备—挂留—解决**三步。缺少准备只是错音。
-- **「延留音必须下行解决」** → 绝大多数情况如此；上行解决的延留音存在但罕见，且需要特殊处理。
-- **「它其实就是第二类换了个写法」** → 关键差别在**不协和落在强拍**，且是**结构性**的而非经过性的。
-- **「挂留和弦与延留音无关」** → 挂留和弦正是延留音的和声化：把"准备 + 挂留 + 解决"压成一个和弦。
+- 「延留音就是"不改音"」 → 它必须经过准备—挂留—解决三步。缺少准备只是错音。
+- 「延留音必须下行解决」 → 绝大多数情况如此；上行解决的延留音存在但罕见，且需要特殊处理。
+- 「它其实就是第二类换了个写法」 → 关键差别在不协和落在强拍，且是结构性的而非经过性的。
+- 「挂留和弦与延留音无关」 → 挂留和弦正是延留音的和声化：把"准备 + 挂留 + 解决"压成一个和弦。
 :::
 
 ::: en
@@ -170,8 +170,8 @@ Because it reveals something fundamental in harmony:
 
 > **Dissonance can be planned.**
 
-In second and third species the dissonances are **passing** (quickly passed over). A suspension is
-**structural** — it occupies a strong beat, has an explicit preparation and resolution, and is **deliberate
+In second and third species the dissonances are passing (quickly passed over). A suspension is
+structural — it occupies a strong beat, has an explicit preparation and resolution, and is **deliberate
 tension**.
 
 The [[concept:suspended-chord|suspended chord]] (sus4 / sus2) is this device harmonised: compress "suspension and
@@ -179,7 +179,7 @@ its resolution" into a single chord and you get a chord that hangs unresolved.
 
 ## The difficulty: displacement changes every vertical relation
 
-What makes syncopated counterpoint hard is that **every vertical relation is offset**.
+What makes syncopated counterpoint hard is that every vertical relation is offset.
 
 | Moment | Relation to the cantus firmus |
 |---|---|
@@ -187,7 +187,7 @@ What makes syncopated counterpoint hard is that **every vertical relation is off
 | after resolution | consonant again |
 
 So what must be checked is not "consonant at every moment" but **"is each dissonant moment precisely a suspension
-about to resolve?"** That shifts judgement from **result** to **process** — which is also what makes it the
+about to resolve?" That shifts judgement from result to process** — which is also what makes it the
 closest of the species to real harmonic writing (see [[concept:non-chord-tone-treatment|treating non-chord
 tones]]).
 
@@ -261,12 +261,12 @@ sound of prepare-suspend-resolve.
 
 ## Common misconceptions
 
-- **"A suspension is just a note that did not change."** It must pass through **preparation, suspension and
+- "A suspension is just a note that did not change." It must pass through **preparation, suspension and
   resolution**. Without preparation it is merely a wrong note.
-- **"A suspension always resolves downward."** Almost always; upward resolutions exist but are rare and need
+- "A suspension always resolves downward." Almost always; upward resolutions exist but are rare and need
   special handling.
-- **"It is second species by another name."** The decisive difference is that the dissonance lands on a **strong
-  beat** and is **structural**, not passing.
-- **"The suspended chord has nothing to do with suspensions."** It is the suspension harmonised: preparation,
+- "It is second species by another name." The decisive difference is that the dissonance lands on a **strong
+  beat and is structural**, not passing.
+- "The suspended chord has nothing to do with suspensions." It is the suspension harmonised: preparation,
   suspension and resolution compressed into one chord.
 :::

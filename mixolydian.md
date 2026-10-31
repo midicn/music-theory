@@ -35,7 +35,7 @@ updated: 2026-09-23
 
 降下去的第 7 级，恰好是**调性音乐里最重要的一股力** —— 导音。
 大调的第 7 级与主音只隔半音，制造出"必须回家"的强烈倾向；把它降下半音，
-这股力就消失了：**底色仍是大调的明亮，但不再有收束的冲动**。
+这股力就消失了：底色仍是大调的明亮，但不再有收束的冲动。
 
 ## 结构
 
@@ -48,12 +48,12 @@ updated: 2026-09-23
 |---|---|---|---|---|---|---|---|
 | 相对大调 | 同 | 同 | 同 | 同 | 同 | 同 | **降** |
 
-特征音是**第 7 级**（小七度）。它与 [[concept:lydian|利底亚]] 的区分见上一条；
-与 [[concept:aeolian|爱奥尼亚]] 的区分则看第 3 级：**第 3 级是大的 → 混合利底亚；小的 → 爱奥尼亚。**
+特征音是第 7 级（小七度）。它与 [[concept:lydian|利底亚]] 的区分见上一条；
+与 [[concept:aeolian|爱奥尼亚]] 的区分则看第 3 级：第 3 级是大的 → 混合利底亚；小的 → 爱奥尼亚。
 
 ## 为什么它在民间与摇滚里这么常见
 
-因为它在**不缺调性感**的前提下**去掉了导音的强制力**：旋律可以长时间停在第 7 级上而不显得"没解决"，
+因为它在不缺调性感的前提下去掉了导音的强制力：旋律可以长时间停在第 7 级上而不显得"没解决"，
 也可以靠它反复回到主音而不显得"太古典"。[[concept:blues-scale|蓝调音阶]]的小七度与之同源。
 
 ## 图示：把导音降下去
@@ -104,10 +104,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「降七级就是蓝调音」** → 蓝调音阶还含降三度与降五度，是另一条音阶（见 [[concept:blues-scale|蓝调音阶]]）。
-- **「混合利底亚没有调性」** → 有明确主音，只是缺少导音的强制力，收束更自由。
-- **「都一样，只是记法不同」** → 听感差别很实：大调第 7 级是小二度（紧张），混合利底亚是大二度（松弛）。
-- **「只在民间音乐里用」** → 摇滚、放克、爵士的标准语汇，也是即兴独奏最常用的调式之一。
+- 「降七级就是蓝调音」 → 蓝调音阶还含降三度与降五度，是另一条音阶（见 [[concept:blues-scale|蓝调音阶]]）。
+- 「混合利底亚没有调性」 → 有明确主音，只是缺少导音的强制力，收束更自由。
+- 「都一样，只是记法不同」 → 听感差别很实：大调第 7 级是小二度（紧张），混合利底亚是大二度（松弛）。
+- 「只在民间音乐里用」 → 摇滚、放克、爵士的标准语汇，也是即兴独奏最常用的调式之一。
 :::
 
 ::: en
@@ -118,7 +118,7 @@ How to remember Mixolydian: **major, with the seventh lowered.**
 
 The lowered seventh happens to be **the single most important force in tonal music** — the leading tone. In
 major it sits a semitone below the tonic and creates a strong compulsion to go home. Lower it and the compulsion
-is gone: **the major brightness stays, the urge to close does not.**
+is gone: the major brightness stays, the urge to close does not.
 
 ## Structure
 
@@ -131,13 +131,13 @@ is gone: **the major brightness stays, the urge to close does not.**
 |---|---|---|---|---|---|---|---|
 | vs. major | = | = | = | = | = | = | **lowered** |
 
-The characteristic note is the **seventh** (a minor seventh). Its difference from [[concept:lydian|Lydian]] was
+The characteristic note is the seventh (a minor seventh). Its difference from [[concept:lydian|Lydian]] was
 covered above; from [[concept:aeolian|Aeolian]] the deciding question is the third: **major third means
 Mixolydian, minor third means Aeolian.**
 
 ## Why folk and rock use it so much
 
-Because it **removes the leading tone's compulsion without losing a tonal centre**. A melody can rest on the
+Because it removes the leading tone's compulsion without losing a tonal centre. A melody can rest on the
 seventh without sounding unresolved, or lean on it to return to the tonic without sounding classical. The minor
 seventh of the [[concept:blues-scale|blues scale]] comes from the same place.
 
@@ -189,8 +189,8 @@ Hear Mixolydian, then major. The seventh differs in height: one can rest there, 
 
 ## Common misconceptions
 
-- **"A lowered seventh is the blues note."** The blues scale also lowers the third and fifth — it is a different scale (see [[concept:blues-scale|blues scale]]).
-- **"Mixolydian has no tonal centre."** It has a clear tonic; it simply lacks the leading tone's compulsion, so closure is freer.
-- **"It is only a notational difference."** The heard difference is real: major's seventh is a minor second from the tonic (tense), Mixolydian's is a whole tone (relaxed).
-- **"Only folk music uses it."** It is standard vocabulary in rock, funk and jazz, and one of the most common modes for soloing.
+- "A lowered seventh is the blues note." The blues scale also lowers the third and fifth — it is a different scale (see [[concept:blues-scale|blues scale]]).
+- "Mixolydian has no tonal centre." It has a clear tonic; it simply lacks the leading tone's compulsion, so closure is freer.
+- "It is only a notational difference." The heard difference is real: major's seventh is a minor second from the tonic (tense), Mixolydian's is a whole tone (relaxed).
+- "Only folk music uses it." It is standard vocabulary in rock, funk and jazz, and one of the most common modes for soloing.
 :::

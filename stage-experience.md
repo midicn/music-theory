@@ -32,13 +32,12 @@ updated: 2026-09-25
 
 > **舞台经验改变的不是"紧不紧张"，而是"与紧张共处的能力"。**
 
-**专业演奏者同样紧张** —— 只是他们**知道该怎么处理**。
-所以"多上台就不紧张了"是个错误预期；正确的预期是"**多上台，就更能在紧张时做对**"
-（见 [[concept:performance-anxiety|演奏紧张]]）。
+专业演奏者同样紧张，只是知道该怎么处理。
+所以"多上台就不紧张了"是错误预期。真正的预期是：多上台，就更能在紧张时做对（见 [[concept:performance-anxiety|演奏紧张]]）。
 
 ## 舞台改变了什么
 
-舞台与练习室的差别**不在你的技术**，而在**条件**：
+舞台与练习室的差别不在你的技术，而在条件：
 
 | 条件 | 差别 | 影响 |
 |---|---|---|
@@ -48,8 +47,8 @@ updated: 2026-09-25
 | **注意力状态** | 被注视 | 注意力内收（见下） |
 | **无停下的可能** | 不能重来 | 出错必须继续 |
 
-**第一行最容易被忽略**：**混响大的厅会让你听到"延迟"**，
-于是不自觉**越弹越快** —— 这是舞台上的典型失误之一，与你的技术无关。
+混响大的厅会让你听到"延迟"，于是不自觉越弹越快。
+这是舞台上的典型失误，与你的技术无关。
 
 ## 三条实用准备
 
@@ -59,11 +58,10 @@ updated: 2026-09-25
 | **② 多重记忆备份** | 不依赖肌肉记忆（见 [[concept:memorization\|背谱]]） |
 | **③ 演奏式练习** | 在有人听的情况下练（哪怕一个人、哪怕录音） |
 
-**第①条值最高优先级**：演出失败的直接原因往往不是"弹错了"，
-而是**弹错之后接不回去**（只能从头再来，而舞台上不能从头再来）。
+演出失败的直接原因，往往不是"弹错了"，而是弹错之后接不回去。
+台上不能从头再来，所以进入点值最高优先级。
 
-**第③条是唯一能直接训练"舞台"这件事的方法** ——
-因为没有别的方式能模拟"被注视"的状态。
+只有演奏式练习能直接训练"舞台"，没有别的方式能模拟"被注视"的状态。
 
 ## 处理意外：三种常见情况
 
@@ -73,12 +71,10 @@ updated: 2026-09-25
 | **断片（记忆空白）** | 立刻跳到**最近的进入点**，不要试图"找回刚才" |
 | **整体混乱** | 回到**拍**上：先跟拍，再找位置 |
 
-**第二行是舞台经验的核心内容**：**断片时最糟的选择是"停在原地回想"** ——
-因为回想需要时间，而音乐的时间在走。**跳到最近的进入点是唯一可行的方案**，
-这也解释了为什么"进入点"要提前准备。
+断片时最糟的选择，是停在原地回想。回想需要时间，而音乐的时间在走。
+跳到最近的进入点，是唯一可行的方案。这也解释了进入点为什么要提前准备。
 
-**第三行与合奏同理**：**拍是最后的救生索**（见 [[concept:ensemble-listening|合奏与倾听]]）——
-只要拍还在，你就能重新找到位置。
+拍是最后的救生索（见 [[concept:ensemble-listening|合奏与倾听]]）。只要拍还在，你就能重新找到位置。
 
 ## 关于"多演"的两个建议
 
@@ -87,8 +83,7 @@ updated: 2026-09-25
 | **多演非正式场合** | 在低风险情境下积累"被注视"的经验 |
 | **演出后立刻记录** | 趁记忆新鲜记下"哪里慌了、为什么"（见 [[concept:recording-self-assessment\|录音与自我评估]]） |
 
-**第一条最有效**：正式演出太少、代价太高，**而"被注视"这件事可以在任何有人听的场合练** ——
-给同学弹、给家人弹、录音时当"有人在听"。
+正式演出太少，代价也太高。但"被注视"可以在任何有人听的场合练：给同学弹、给家人弹、录音时当"有人在听"。
 
 ## 图示：舞台改变的是条件，不是技术
 
@@ -136,7 +131,7 @@ updated: 2026-09-25
 
 ## 听一听：速度失控的机制
 
-用 `rhythm` 听**两档速度** —— 请留意：**当你习惯了一个速度再听更快的一档，会不自觉地"跟上"**。
+用 `rhythm` 听两档速度 —— 请留意：当你习惯了一个速度再听更快的一档，会不自觉地"跟上"。
 舞台上"混响延迟导致越弹越快"就是同一机制：你的参照被改变了。
 
 ```audiolab
@@ -151,10 +146,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「多上台就不紧张了」** → 经验改变的是**与紧张共处的能力**，不是紧张强度。专业演奏者同样紧张。
-- **「出错就完了」** → **接不回去才是问题**。所以"进入点"的优先级最高。
-- **「舞台失败是因为练得不够」** → 常是因为**条件不同**（声学、乐器、注意力状态），需要在类似条件下练。
-- **「只在正式演出时才算表演」** → **任何有人听的场合**都能积累"被注视"的经验，且风险更低。
+- 「多上台就不紧张了」 → 经验改变的是与紧张共处的能力，不是紧张强度。专业演奏者同样紧张。
+- 「出错就完了」 → 接不回去才是问题。所以"进入点"的优先级最高。
+- 「舞台失败是因为练得不够」 → 常是因为条件不同（声学、乐器、注意力状态），需要在类似条件下练。
+- 「只在正式演出时才算表演」 → 任何有人听的场合都能积累"被注视"的经验，且风险更低。
 :::
 
 ::: en
@@ -162,9 +157,10 @@ Start with an expectation that must be corrected:
 
 > **Stage experience changes not whether you are nervous but your ability to work with nerves.**
 
-**Professional performers are just as nervous** — they simply **know what to do about it**. So "perform enough and
-you will stop being nervous" is the wrong expectation; the right one is "**perform enough and you will be better at
-doing it right while nervous**" (see [[concept:performance-anxiety|performance anxiety]]).
+Professional performers are just as nervous; they simply know what to do about it.
+So "perform enough and you will stop being nervous" is the wrong expectation.
+The right one: perform enough and you will be better at doing it right while nervous (see
+[[concept:performance-anxiety|performance anxiety]]).
 
 ## What the stage changes
 
@@ -178,8 +174,8 @@ The difference from the practice room is **not your technique** but **the condit
 | **being watched** | attention turns inward (see below) | — |
 | **no stopping** | you cannot start again | an error must be carried on |
 
-**The first row is the most overlooked**: **a reverberant hall makes you hear a delay**, so you unconsciously **play
-faster and faster** — a classic stage mishap, unrelated to your technique.
+A reverberant hall makes you hear a delay, so you unconsciously play faster and faster.
+This is a classic stage mishap, unrelated to your technique.
 
 ## Three practical preparations
 
@@ -189,10 +185,10 @@ faster and faster** — a classic stage mishap, unrelated to your technique.
 | **2 multiple memory backups** | do not rely on muscle memory (see [[concept:memorization\|memorisation]]) |
 | **3 practising performing** | practise with someone listening (one person, or a recording) |
 
-**The first has the highest priority**: performances usually fail not because a note went wrong but because **the
-player cannot rejoin afterwards** (they can only start over — which the stage does not allow).
+Performances usually fail not because a note went wrong, but because the player cannot rejoin afterwards.
+The stage does not allow starting over, so entry points come first.
 
-**The third is the only way to train "the stage" directly** — nothing else simulates being watched.
+Only practising performance trains "the stage" directly. Nothing else simulates being watched.
 
 ## Handling mishaps: three common cases
 
@@ -202,12 +198,12 @@ player cannot rejoin afterwards** (they can only start over — which the stage 
 | **a blank (memory lapse)** | jump at once to the **nearest entry point**; do not try to "find where you were" |
 | **general disarray** | return to **the beat**: find the pulse first, then your place |
 
-**The second is the heart of stage experience**: **the worst choice after a blank is to stand still and
-reconstruct** — reconstruction takes time and musical time keeps moving. **Jumping to the nearest entry point is the
-only workable plan**, which is exactly why entry points must be prepared in advance.
+The worst choice after a blank is to stand still and reconstruct.
+Reconstruction takes time, and musical time keeps moving. Jumping to the nearest entry point is the only workable
+plan, which is why entry points must be prepared in advance.
 
-**The third works as in ensemble playing**: **the beat is the last lifeline** (see
-[[concept:ensemble-listening|ensemble listening]]) — as long as the pulse survives, you can find your place again.
+The beat is the last lifeline (see [[concept:ensemble-listening|ensemble listening]]).
+As long as the pulse survives, you can find your place again.
 
 ## Two suggestions about "performing more"
 
@@ -216,9 +212,8 @@ only workable plan**, which is exactly why entry points must be prepared in adva
 | **perform often in informal settings** | accumulate "being watched" experience at low risk |
 | **write notes immediately afterwards** | while the memory is fresh, record where you panicked and why (see [[concept:recording-self-assessment\|recording]]) |
 
-**The first is the most effective**: real performances are too few and too costly, whereas **being watched can be
-practised on any occasion with a listener** — play for a classmate, for family, or treat recording as "someone
-listening".
+Real performances are too few and too costly. Being watched, though, can be practised anywhere someone listens:
+play for a classmate, for family, or treat recording as "someone listening".
 
 ## Diagram: the stage changes conditions, not technique
 
@@ -266,7 +261,7 @@ listening".
 
 ## Listen: the mechanism of a tempo slide
 
-Use `rhythm` at **two tempos** — and notice that **having settled into one, hearing a faster one pulls you along**.
+Use `rhythm` at two tempos — and notice that having settled into one, hearing a faster one pulls you along.
 The stage's "reverberation delay makes you speed up" runs on the same mechanism: your reference has changed.
 
 ```audiolab
@@ -279,11 +274,11 @@ The stage's "reverberation delay makes you speed up" runs on the same mechanism:
 
 ## Common misconceptions
 
-- **"Perform enough and you stop being nervous."** Experience changes **the ability to work with nerves**, not their
+- "Perform enough and you stop being nervous." Experience changes the ability to work with nerves, not their
   intensity. Professionals are just as nervous.
-- **"A mistake is the end."** **Failing to rejoin is.** Which is why entry points come first.
-- **"A bad performance means insufficient practice."** Often the **conditions** differ (acoustics, instrument,
+- "A mistake is the end." Failing to rejoin is. Which is why entry points come first.
+- "A bad performance means insufficient practice." Often the conditions differ (acoustics, instrument,
   attention) — practise under similar conditions.
-- **"Only a real concert counts as performing."** **Any occasion with a listener** builds "being watched" experience
+- "Only a real concert counts as performing." Any occasion with a listener builds "being watched" experience
   at lower risk.
 :::

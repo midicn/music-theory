@@ -28,10 +28,10 @@ updated: 2026-09-25
 ---
 
 ::: zh
-这一条与 [[concept:fugue|赋格（写法）]] 分工明确：
+与 [[concept:fugue|赋格（写法）]] 的分工很明确。
 
-> **T6 的「赋格」讲的是写法**（主题如何进入、如何交织）；
-> **本条讲的是结构** —— 把这种写法组织成整曲时，段落是怎么安排的。
+> **T6 的「赋格」讲写法**：主题如何进入、如何交织。
+> **本条讲结构**：把这种写法组织成整曲时，段落怎么安排。
 
 ## 三段的段落逻辑
 
@@ -41,13 +41,14 @@ updated: 2026-09-25
 | **中间段** | 主题继续出现，但**调性不断游移** | 间插段（用主题片段模进，见 [[concept:sequence|模进]]）+ 各调上的进入 |
 | **结束段** | 主题**回到主调**，收束 | 密接和应（进入互相交叠）+ **持续音**（见 [[concept:pedal-point|持续低音]]）+ 尾声 |
 
-**三段的划分依据与奏鸣曲式不同**：奏鸣曲式靠**调性对比**（第二主题在属调）；
-赋格靠**主题进入的密集程度与调性距离** ——
-**没有"第二主题"，只有同一个主题在不同调上反复出现。**
+**三段的划分依据与奏鸣曲式不同**。
+奏鸣曲式靠**调性对比**，第二主题在属调。
+赋格靠主题进入的密集程度与调性距离。
+没有第二主题，只有同一个主题在不同调上反复出现。
 
 ## 与奏鸣曲式的对照
 
-两者都属于"呈示—展开—回归"的大家族，但机制有别：
+两者都属于"呈示—展开—回归"的大家族，机制却有别。
 
 | | 奏鸣曲式 | 赋格曲式 |
 |---|---|---|
@@ -56,7 +57,8 @@ updated: 2026-09-25
 | 回归的标志 | 第二主题回主调（**调性统一**） | 主题回主调 + **密接和应** |
 | 收束手段 | 终止式 | **持续音** + 终止式 |
 
-一句话：**奏鸣曲式用"两个东西"制造张力，赋格用"同一个东西的不同处境"制造张力。**
+奏鸣曲式用两个东西制造张力。
+赋格用同一个东西的不同处境制造张力。
 
 ## 图示：三段的划分依据
 
@@ -116,8 +118,9 @@ updated: 2026-09-25
 
 ## 听一听：回归与收束
 
-用 `progression` 听一段"离开主调 → 回到主调"的进行。赋格结束段的收束感与此同源 ——
-**主题在经历了各调游移之后回到主调**，那份"回家"的感觉就是结构完成的标志。
+用 `progression` 听一段"离开主调、再回到主调"的进行。
+赋格结束段的收束感与此同源。
+主题在各调游移之后回到主调，那份"回家"的感觉就是结构完成的标志。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","V","I"],"label":"离开与回归（赋格结束段的收束感）","label_en":"Departure and return: the closing feel of a fugue's final section","hint":"逐个和弦依次听","hint_en":"Hear each chord in turn"}
@@ -125,10 +128,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「赋格是固定曲式，段落数量固定」** → 段落逻辑存在，但**段落数量与长度高度自由**。二声部小赋格可能只有呈示段加一个间插段。
-- **「赋格没有段落划分」** → 恰恰相反：它有清楚的三段逻辑，只是**分界不靠终止式，而靠主题进入的密集程度**。
-- **「赋格必须四个声部」** → 二到五声部都有（见 [[concept:fugue|赋格]]）。
-- **「赋格曲式就是奏鸣曲式的复调版」** → 家族相似但机制不同：一个靠调性对比，一个靠素材层叠。
+- 「赋格是固定曲式，段落数量固定」 → 段落逻辑存在，但数量与长度高度自由。二声部小赋格可能只有呈示段加一个间插段。
+- 「赋格没有段落划分」 → 恰恰相反。它有清楚的三段逻辑，分界靠主题进入的密集程度，不靠终止式。
+- 「赋格必须四个声部」 → 二到五声部都有（见 [[concept:fugue|赋格]]）。
+- 「赋格曲式就是奏鸣曲式的复调版」 → 家族相似，机制不同。一个靠调性对比，一个靠素材层叠。
 :::
 
 ::: en
@@ -146,7 +149,7 @@ This entry divides the labour with [[concept:fugue|fugue as a technique]] clearl
 | **final** | the subject **returns to the tonic** and closes | stretto (overlapping entries) + **pedal point** (see [[concept:pedal-point|pedal point]]) + coda |
 
 **The sections are divided on different grounds from sonata form**: sonata form relies on **tonal contrast** (the
-second subject in the dominant); a fugue relies on **the density of entries and tonal distance** — **there is no
+second subject in the dominant); a fugue relies on the density of entries and tonal distance — **there is no
 "second subject", only one subject recurring in different keys.**
 
 ## The comparison with sonata form
@@ -230,11 +233,11 @@ after drifting through many keys** is what marks the structure complete.
 
 ## Common misconceptions
 
-- **"A fugue is a fixed form with a set number of sections."** The sectional logic exists, but **the number and
+- "A fugue is a fixed form with a set number of sections." The sectional logic exists, but **the number and
   length of sections are highly free**. A short two-voice fugue may be an exposition plus a single episode.
-- **"A fugue has no sections."** The opposite: it has a clear three-part logic — its divisions rest on **the density
+- "A fugue has no sections." The opposite: it has a clear three-part logic — its divisions rest on **the density
   of entries** rather than on cadences.
-- **"A fugue must have four voices."** Two to five all occur (see [[concept:fugue|fugue]]).
-- **"Fugue form is sonata form in polyphony."** Same family, different mechanism: one relies on tonal contrast, the
+- "A fugue must have four voices." Two to five all occur (see [[concept:fugue|fugue]]).
+- "Fugue form is sonata form in polyphony." Same family, different mechanism: one relies on tonal contrast, the
   other on the layering of one subject.
 :::

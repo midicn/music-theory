@@ -53,7 +53,7 @@ updated: 2026-09-24
 
 ## 一个必须澄清的常见误会
 
-**帕赫贝尔的《D 大调卡农》并不严格是"卡农"。**
+帕赫贝尔的《D 大调卡农》并不严格是"卡农"。
 
 它由两层构成：
 
@@ -62,9 +62,9 @@ updated: 2026-09-24
 | **低音** | 一个两小节的**固定低音**（ostinato）循环反复（见 [[concept:pedal-point|持续低音]]） |
 | **上方三把小提琴** | 才是**卡农** —— 三声部严格追随 |
 
-也就是说：**低音不是卡农，上方才是。** 整首作品是"固定低音 + 卡农"的组合体。
+也就是说：低音不是卡农，上方才是。 整首作品是"固定低音 + 卡农"的组合体。
 它之所以常被简化成"卡农"，是因为上方那层太出彩，把结构遮住了 ——
-但准确地说，它是**固定低音变奏与卡农的复合**。
+但准确地说，它是固定低音变奏与卡农的复合。
 
 ## 卡农与赋格的区别
 
@@ -77,7 +77,7 @@ updated: 2026-09-24
 | 靠什么发展 | 规则的变化（音程 / 方向 / 时值） | 主题在不同调性上的进入与组合 |
 | 关系 | 更"严"，更接近数学 | 更"活"，可容纳丰富的和声变化 |
 
-一句话：**卡农把规则用到极致，赋格把素材用到极致。**
+一句话：卡农把规则用到极致，赋格把素材用到极致。
 
 ## 图示：卡农的"差一步"
 
@@ -124,8 +124,8 @@ updated: 2026-09-24
 
 ## 听一听：进入间隔的关系
 
-卡农是两声部的事，本站的听辨件放不出真正的两声部 —— 这里用 `interval` 演示
-**卡农进入时的音程**（第二声部从哪个高度进来），而这正是卡农最核心的变量。
+卡农是两声部的事，这里的听辨件放不出真正的两声部 —— 这里用 `interval` 演示
+卡农进入时的音程（第二声部从哪个高度进来），而这正是卡农最核心的变量。
 两声部"差一步"的实际效果请到上面的实例里听：巴赫《哥德堡变奏曲》第 12 变奏（`atepp-002452`）最短最清楚。
 
 ```audiolab
@@ -134,10 +134,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「卡农就是帕赫贝尔那首」** → 卡农是一种**写法**，作品无数。而且帕赫贝尔那首里**只有上方三声部是卡农**，低音是固定低音。
-- **「卡农必须完全一样」** → 那只是最简形态。倒影、逆行、增值、减值都是卡农的合法变体。
-- **「卡农只是轮唱」** → 轮唱（同度卡农）是最简单的一种；卡农的大多数写法比它复杂得多。
-- **「卡农比赋格简单」** → 卡农的**约束更紧**（全程严格），只是发展手段更少。两者是不同方向的困难。
+- 「卡农就是帕赫贝尔那首」 → 卡农是一种写法，作品无数。而且帕赫贝尔那首里只有上方三声部是卡农，低音是固定低音。
+- 「卡农必须完全一样」 → 那只是最简形态。倒影、逆行、增值、减值都是卡农的合法变体。
+- 「卡农只是轮唱」 → 轮唱（同度卡农）是最简单的一种；卡农的大多数写法比它复杂得多。
+- 「卡农比赋格简单」 → 卡农的约束更紧（全程严格），只是发展手段更少。两者是不同方向的困难。
 :::
 
 ::: en
@@ -167,7 +167,7 @@ Change the "following rule" and you get different canons:
 
 ## One common misunderstanding that must be cleared up
 
-**Pachelbel's Canon in D is not strictly "a canon".**
+Pachelbel's Canon in D is not strictly "a canon".
 
 It has two layers:
 
@@ -176,9 +176,9 @@ It has two layers:
 | **bass** | a two-bar **ground bass** (ostinato) repeating (see [[concept:pedal-point|pedal point]]) |
 | **three violins above** | these are the **canon** — three voices following strictly |
 
-In other words: **the bass is not the canon; the parts above are.** The whole piece is a combination of ground
+In other words: the bass is not the canon; the parts above are. The whole piece is a combination of ground
 bass and canon. It is usually shortened to "Canon" because the upper layer is so striking that it hides the
-structure — but accurately, it is **ground-bass variation combined with canon**.
+structure — but accurately, it is ground-bass variation combined with canon.
 
 ## How it differs from a fugue
 
@@ -191,7 +191,7 @@ Both rest on imitation, but with different goals:
 | Means of development | changing the rule (interval / direction / time value) | the subject entering in different keys and combinations |
 | Relation | more rigid, closer to mathematics | more flexible, admits rich harmonic change |
 
-In one line: **a canon takes the rule to its limit; a fugue takes the material to its limit.**
+In one line: a canon takes the rule to its limit; a fugue takes the material to its limit.
 
 ## Diagram: the canon's fixed lag
 
@@ -248,12 +248,12 @@ fixed-lag effect, use the instances: Bach's Goldberg Variation 12 (`atepp-002452
 
 ## Common misconceptions
 
-- **"A canon means Pachelbel's."** A canon is a **way of writing**; there are countless works. And in Pachelbel's
-  piece **only the three upper violins are the canon** — the bass is a ground bass.
-- **"A canon must be identical throughout."** That is only the simplest form. Mirror, retrograde, augmentation and
+- "A canon means Pachelbel's." A canon is a way of writing; there are countless works. And in Pachelbel's
+  piece only the three upper violins are the canon — the bass is a ground bass.
+- "A canon must be identical throughout." That is only the simplest form. Mirror, retrograde, augmentation and
   diminution canons are all legitimate variants.
-- **"A canon is just a round."** Round singing (unison canon) is the easiest kind; most canons are far more
+- "A canon is just a round." Round singing (unison canon) is the easiest kind; most canons are far more
   complex.
-- **"Canons are easier than fugues."** A canon's constraints are **tighter** (strict throughout), it simply has
+- "Canons are easier than fugues." A canon's constraints are tighter (strict throughout), it simply has
   fewer means of development. The two are difficult in different directions.
 :::

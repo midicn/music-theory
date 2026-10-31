@@ -63,7 +63,7 @@ updated: 2026-09-24
 | 七音 | **不含** | **含** |
 | 听感 | 干净、开阔 | 更厚、更复杂 |
 
-再提一次那个实用结论：**跳过七音就避开了一层不稳定**（见 [[concept:added-tone-chord|加音和弦]]）。
+再提一次那个实用结论：跳过七音就避开了一层不稳定（见 [[concept:added-tone-chord|加音和弦]]）。
 
 ## 图示：叠到第六层，再减回去
 
@@ -110,10 +110,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「延伸和弦音越多越高级」** → 实际演奏里它们**音更少**：高叠和弦必须做减法，否则低音区糊成一团。
-- **「九和弦就是加音和弦」** → 九和弦含七音，add9 不含（见上表）。
-- **「十一和弦不能用」** → 能用，但十一音与三音相隔半音，通常要省掉三音或把十一音抬高。
-- **「十三和弦有十三个音」** → 只有七个（根、三、五、七、九、十一、十三），而且常用省音后只剩四个。
+- 「延伸和弦音越多越高级」 → 实际演奏里它们音更少：高叠和弦必须做减法，否则低音区糊成一团。
+- 「九和弦就是加音和弦」 → 九和弦含七音，add9 不含（见上表）。
+- 「十一和弦不能用」 → 能用，但十一音与三音相隔半音，通常要省掉三音或把十一音抬高。
+- 「十三和弦有十三个音」 → 只有七个（根、三、五、七、九、十一、十三），而且常用省音后只剩四个。
 :::
 
 ::: en
@@ -202,8 +202,8 @@ Hear the ninth chord, then the added-tone chord — the difference is whether th
 
 ## Common misconceptions
 
-- **"More notes means a more advanced chord."** In practice extensions are played with **fewer** notes: high stacks demand subtraction, or the low register turns to mud.
-- **"A ninth chord equals an added ninth."** The ninth chord contains a seventh; add9 does not (see the table above).
-- **"Eleventh chords are unusable."** They are usable, but the eleventh sits a semitone from the third, so the third is usually omitted or the eleventh raised.
-- **"A thirteenth chord has thirteen notes."** It has seven (root, third, fifth, seventh, ninth, eleventh, thirteenth), and after the usual omissions four remain.
+- **"More notes means a more advanced chord."** In practice extensions are played with fewer notes: high stacks demand subtraction, or the low register turns to mud.
+- "A ninth chord equals an added ninth." The ninth chord contains a seventh; add9 does not (see the table above).
+- "Eleventh chords are unusable." They are usable, but the eleventh sits a semitone from the third, so the third is usually omitted or the eleventh raised.
+- "A thirteenth chord has thirteen notes." It has seven (root, third, fifth, seventh, ninth, eleventh, thirteenth), and after the usual omissions four remain.
 :::

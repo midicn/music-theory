@@ -28,11 +28,11 @@ updated: 2026-09-25
 ---
 
 ::: zh
-背谱的核心问题不是"记不记得住"，而是另一个：
+背谱的核心问题不是"记不记得住"，而是另一个。
 
 > **如果被打断，你能不能接回去？**
 
-如果答案是"不能，得从头来"，那说明**记忆只有一条通道** —— 而这一条随时可能断。
+如果答案是"不能，得从头来"，那说明**记忆只有一条通道**，而它随时可能断。
 
 ## 四种记忆，可靠性差别很大
 
@@ -43,15 +43,16 @@ updated: 2026-09-25
 | **视觉记忆** | 记得谱面形状或键盘位置 | 较可靠 |
 | **分析记忆** | 记得**和声、句法与曲式结构** | **最可靠** |
 
-**肌肉记忆为什么最不可靠**：它**在紧张状态下最先失效** ——
-而演出时恰恰是最紧张的时候（见 [[concept:performance-anxiety|演奏紧张]]）。
+**肌肉记忆为什么最不可靠**：它**在紧张状态下最先失效**。
+演出时恰恰是最紧张的时候（见 [[concept:performance-anxiety|演奏紧张]]）。
 
-**分析记忆为什么最可靠**：它记得的不是"手该去哪"，而是"**这段在和声上往哪走**" ——
-即使手停了，音乐的逻辑还在，你还知道下面应该是什么。
+分析记忆为什么最可靠？它记得的不是手该去哪，而是这段在和声上往哪走。
+即使手停了，音乐的逻辑还在。
+你还知道下面应该是什么。
 
 ## 检验记忆的方法
 
-比"从头到尾弹一遍不看谱"有效得多的是这五种：
+比"从头到尾不看谱弹一遍"更有效的，是这五种。
 
 | 方法 | 检验哪一层 |
 |---|---|
@@ -61,10 +62,11 @@ updated: 2026-09-25
 | **只写和声骨架** | 分析记忆的硬检验 |
 | **不看手弹** | 是否过度依赖视觉 |
 
-**第一种最有用、也最残酷**：很多人的"背下来了"其实是**靠顺序撑着的** ——
-从中间开始就立刻崩，说明每一处都还没独立记住（与 [[concept:practice-method|练习方法]] 的判据一致）。
+第一种最有用，也最残酷：很多人的"背下来了"其实是靠顺序撑着的。
+从中间开始就立刻崩，说明每一处都还没独立记住。
+这与 [[concept:practice-method|练习方法]] 的判据一致。
 
-**第二种最容易被忽略**：**慢速弹是"剥离肌肉记忆"的最简单方法** ——
+第二种最容易被忽略：慢速弹是剥离肌肉记忆的最简单方法。
 平时靠惯性滑过去的地方，慢下来就露出来了。
 
 ## 提高可靠性的三条做法
@@ -75,11 +77,11 @@ updated: 2026-09-25
 | **记住"和声骨架"** | 先记功能进行（见 [[concept:harmonic-function|和声功能]]），细节依附其上 |
 | **为每段准备"进入点"** | 一个明确的起点 —— 断了能立刻接回（与演奏紧张那条呼应） |
 
-**第一行值得展开**：如果按"第 1–8 小节、9–16 小节"这样的**数字**分组，
-记忆是**任意的**；而按**乐句**分组，记忆就**与音乐结构绑定** ——
-**结构记住了，音符自然跟着出来**。
+第一行值得展开。按"第 1–8 小节、9–16 小节"这样的数字分组，记忆是任意的。
+按乐句分组，记忆就与音乐结构绑定。
+结构记住了，音符自然跟着出来。
 
-这与"以结构为单位记忆比以数字为单位记忆更牢固"是同一件事。
+也就是说，以结构为单位记忆，比以数字为单位更牢固。
 
 ## 图示：多重备份与最脆弱的一层
 
@@ -132,9 +134,10 @@ updated: 2026-09-25
 
 ## 听一听：默唱检验听觉记忆
 
-背谱最实用的自检之一就是**心里默唱**：能不能不听、不看，就"听到"接下来的声音？
-用 `scale` 组件听一条音阶的上行，然后**在下行前停下来**，看自己能不能在心里接出下行 ——
-这就是听觉记忆的检验方式。
+背谱最实用的自检之一就是心里默唱。
+不听、不看，你能"听到"接下来的声音吗？
+用 `scale` 听一条音阶的上行，在下行前停下来。
+看自己能不能在心里接出下行，这就是听觉记忆的检验方式。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"上行（听完后在心里接出下行）","label_en":"Rising — after it stops, continue downwards in your head","hint":"点「上行」；听完后不要点「下行」，先在心里接一遍","hint_en":"Try Up; then without pressing Down, continue it inwardly first","gap":0.4}
@@ -142,10 +145,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「反复弹多了自然就记住了」** → 那主要建立了**肌肉记忆**这一层，而它**在紧张时最先失效**。
-- **「背谱就是不看谱弹」** → 背谱的本质是**多重备份**。不看谱只是形式，不是目标。
-- **「能从头弹到尾就算背下来了」** → 真正的检验是**能从任意位置开始**、**慢速也能弹**。
-- **「背谱只靠练，不需要理解」** → **分析记忆（和声与句法）是最可靠的一层**，而它恰恰来自理解。
+- 「反复弹多了自然就记住了」 → 那主要建立了肌肉记忆这一层，而它在紧张时最先失效。
+- 「背谱就是不看谱弹」 → 背谱的本质是多重备份。不看谱只是形式，不是目标。
+- 「能从头弹到尾就算背下来了」 → 真正的检验是能从任意位置开始，慢速也能弹。
+- 「背谱只靠练，不需要理解」 → 分析记忆是最可靠的一层，而它恰恰来自理解。
 :::
 
 ::: en
@@ -168,7 +171,7 @@ break at any moment.
 **Why muscle memory is the least reliable**: it is **the first thing to fail under pressure** — which is exactly
 when you are performing (see [[concept:performance-anxiety|performance anxiety]]).
 
-**Why analytical memory is the most reliable**: it remembers not "where the hands go" but "**where this passage
+Why analytical memory is the most reliable: it remembers not "where the hands go" but "**where this passage
 moves harmonically**". Even if the hands stop, the musical logic remains, and you know what should come next.
 
 ## How to test your memory
@@ -183,11 +186,11 @@ Far more effective than "play it through without the score" are these five:
 | **write out the harmonic skeleton** | a hard test of analytical memory |
 | **play without looking at your hands** | whether you over-rely on vision |
 
-**The first is the most useful and the most brutal**: much "I have memorised it" is **held up by the order** — start
+The first is the most useful and the most brutal: much "I have memorised it" is held up by the order — start
 in the middle and it collapses, which shows no place is independently remembered (the same test as under
 [[concept:practice-method|how to practise]]).
 
-**The second is the most easily overlooked**: **playing slowly is the simplest way to strip away muscle memory** —
+The second is the most easily overlooked: playing slowly is the simplest way to strip away muscle memory —
 the places you coast through at speed reveal themselves at a slow tempo.
 
 ## Three ways to make it more reliable
@@ -198,8 +201,8 @@ the places you coast through at speed reveal themselves at a slow tempo.
 | **memorise the harmonic skeleton** | fix the functional progression first (see [[concept:harmonic-function|harmonic function]]) and hang the details on it |
 | **prepare an entry point for each section** | a clear starting place, so a blank can be recovered instantly |
 
-**The first deserves expansion**: grouping by **numbers** ("bars 1–8, 9–16") makes the memory **arbitrary**, whereas
-grouping by **phrase** binds it **to the musical structure** — **remember the structure and the notes come with
+The first deserves expansion: grouping by numbers ("bars 1–8, 9–16") makes the memory arbitrary, whereas
+grouping by phrase binds it to the musical structure — **remember the structure and the notes come with
 it.**
 
 ## Diagram: multiple backups and the weakest layer
@@ -253,8 +256,8 @@ it.**
 
 ## Listen: testing aural memory by singing inwardly
 
-One of the most practical self-checks is **singing inwardly**: without listening or looking, can you "hear" what
-comes next? Use `scale` on a rising scale, then **stop before the descent** and see whether you can continue it in
+One of the most practical self-checks is singing inwardly: without listening or looking, can you "hear" what
+comes next? Use `scale` on a rising scale, then stop before the descent and see whether you can continue it in
 your head — that is how aural memory is tested.
 
 ```audiolab
@@ -263,12 +266,12 @@ your head — that is how aural memory is tested.
 
 ## Common misconceptions
 
-- **"Enough repetition and you remember it."** That mostly builds **muscle memory**, which **fails first under
+- "Enough repetition and you remember it." That mostly builds muscle memory, which **fails first under
   pressure**.
-- **"Memorising means playing without the score."** Its essence is **multiple backups**; playing from memory is the
+- "Memorising means playing without the score." Its essence is multiple backups; playing from memory is the
   form, not the goal.
-- **"Playing it through from the top proves you know it."** The real tests are **starting from any point** and
-  **playing it slowly**.
-- **"Memorising is pure repetition, no understanding needed."** **Analytical memory is the most reliable layer**, and
+- "Playing it through from the top proves you know it." The real tests are starting from any point and
+  playing it slowly.
+- "Memorising is pure repetition, no understanding needed." Analytical memory is the most reliable layer, and
   it comes precisely from understanding.
 :::

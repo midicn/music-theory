@@ -28,31 +28,28 @@ updated: 2026-09-25
 ---
 
 ::: zh
-慢练是流传最广、也最容易被做错的练习手段。先把目的说清：
+慢练流传最广，也最容易被做错，先把目的说清：
 
 > **慢练的目的不是"慢"，而是让正确动作有机会被重复。**
 
-这与 [[concept:practice-method|练习方法]] 的核心机制是同一件事：
-**练习是把正确动作重复到自动化**，而只有在**慢到不出错**的速度下，
-"重复"的对象才是**正确**的动作。
+这与 [[concept:practice-method|练习方法]] 的核心机制相同：练习就是把正确动作重复到自动化。
+只有在慢到不出错时，重复的对象才是正确的动作。
 
 ## 慢到什么程度
 
-判据只有一条：
-
-> **慢到完全不出错为止。**
+**判据只有一条**：慢到完全不出错为止。
 
 | 速度 | 结果 |
 |---|---|
-| 仍会出错 | 在**重复错误**（而且错比对多时，自动化的就是错的） |
-| **完全不出错** | **正确动作被重复** —— 这才是练习 |
-| 慢到动作变形 | 练的是**另一个动作**（见下） |
+| 仍会出错 | 在重复错误；错比对多时，自动化的就是错的 |
+| 完全不出错 | 正确动作被重复，这才是练习 |
+| 慢到动作变形 | 练的是另一个动作（见下） |
 
-**第二、三行的区别是关键**，也是很多人白练的原因：
+同样是慢，练的是不是同一个动作，结果差得很远。
 
 ## 最常见的一个错误：慢练时动作变了
 
-**慢练时必须保持与实际演奏一致的动作形态。** 这一条极易被忽略：
+慢练时必须**保持与实际演奏一致的动作形态**。这一条极易被忽略：
 
 | 慢练时的错误做法 | 一提速就失效的原因 |
 |---|---|
@@ -61,34 +58,33 @@ updated: 2026-09-25
 | 动作被"分解"成好几步 | 快速时这些步骤不存在 |
 | 手腕位置变了 | 发力链条不同 |
 
-**根因**：**慢练改变了动作，就不再是"同一件事做慢"，而是"做另一件事"。**
-所以慢练时该问的不是"我慢下来了没有"，而是"**我这个动作，和快速时是同一个动作吗？**"
+慢练一旦改变动作，就不再是"同一件事做慢"，而是"做另一件事"。
+所以该问的不是"我慢下来了没有"，而是"这个动作和快速时是同一个吗"。
 
-**一个实用的自检**：慢练几次后，**中速弹一遍** ——
-如果中速立刻出现新的问题，说明慢练的动作与中速不是同一个动作。
+一个实用的自检：慢练几次后，用中速弹一遍。
+如果立刻冒出新的问题，说明慢练的动作与中速不是同一个动作。
 
 ## 三个具体用途
 
 | 用途 | 说明 |
 |---|---|
-| **建立正确动作** | 本条的正面用途 |
-| **剥离肌肉记忆** | 慢速时惯性失效，露出真实记忆（见 [[concept:memorization\|背谱]]） |
-| **看清结构与声部** | 慢下来才听得出和声与声部的走向 |
+| 建立正确动作 | 最核心的一条 |
+| 剥离肌肉记忆 | 慢速时惯性失效，露出真实记忆（见 [[concept:memorization\|背谱]]） |
+| 看清结构与声部 | 慢下来才听得出和声与声部的走向 |
 
-**第二行常被意外发现**：很多人以为"背下来了"，一慢下来就发现其实没记住 ——
-因为原来靠的是**速度带来的惯性**。
+很多人以为"背下来了"，一慢下来才发现其实没记住。原来靠的是速度带来的惯性。
 
 ## 与节拍器的配合
 
-慢练时用节拍器**不是必须**，但有两种场合很有用：
+慢练时用节拍器不是必须，但有两种场合很有用：
 
 | 场合 | 用法 |
 |---|---|
-| 确认自己**是否真的慢下来了** | 设一个比想象更慢的速度 |
-| 检查**有没有偷偷加速** | 难度大的段落会不自觉加速 |
+| 确认自己是否真的慢下来了 | 设一个比想象更慢的速度 |
+| 检查有没有偷偷加速 | 难度大的段落会不自觉加速 |
 
-**注意**：节拍器只是**校准**（见 [[concept:metronome|节拍器与 BPM]]）——
-**不建议全程跟着节拍器慢练**，因为那会让人把注意力放在"跟拍"而不是"动作"上。
+节拍器只是校准（见 [[concept:metronome|节拍器与 BPM]]），不必全程跟着。
+一直跟拍，注意力会落在节拍上，而不是动作上。
 
 ## 图示：两次慢练的区别
 
@@ -131,8 +127,8 @@ updated: 2026-09-25
 
 ## 听一听：慢速下的结构
 
-慢练的第三个用途是**看清结构**。用 `rhythm` 听同一节奏型的慢速与快速两档 ——
-**慢速时每个音都容易被单独听清**，这正是慢练能"看清结构"的原因。
+最好的例子是听同一节奏型的慢速与快速两档。
+慢速时每个音都容易被单独听清，这正是慢练能看清结构的原因。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q e e q q","bpm":56,"label":"慢速：每个音都听得清","label_en":"Slow: every note is separately audible","hint":"先听这一档，注意每个音的落点","hint_en":"Hear this setting first and mark each attack"}
@@ -144,10 +140,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「慢练是为了"准确"」** → 更准确地说，是**让正确动作有机会被重复**。
-- **「越慢越好」** → 慢到**动作变形**就无效了。关键不是速度，而是**动作是否与实际演奏一致**。
-- **「慢练时不用管手型与用力」** → 恰恰相反：**慢练时正是处理手型与用力的时机**，一旦错了就白练。
-- **「一直跟节拍器慢练」** → 节拍器只用于**校准**；全程跟拍会把注意力从动作转到"跟拍"。
+- 「慢练是为了"准确"」 → 更准确地说，是让正确动作有机会被重复。
+- 「越慢越好」 → 慢到动作变形就无效了。关键不是速度，而是动作是否与实际演奏一致。
+- 「慢练时不用管手型与用力」 → 恰恰相反。慢练正是处理手型与用力的时机，一旦错了就白练。
+- 「一直跟节拍器慢练」 → 节拍器只用于校准。全程跟拍会把注意力从动作转到"跟拍"。
 :::
 
 ::: en
@@ -155,27 +151,25 @@ Slow practice is the most widely taught and the most easily misused tool. Start 
 
 > **The point is not slowness but giving the correct action a chance to repeat.**
 
-This is the same mechanism as under [[concept:practice-method|how to practise]]: **practising is repeating the
-correct action until it is automatic**, and only at a speed that eliminates errors is what gets repeated **the
-correct** action.
+This is the same mechanism as under [[concept:practice-method|how to practise]]: practise means repeating the
+correct action until it is automatic.
+Only at a speed that eliminates errors is the correct action the one being repeated.
 
 ## How slow
 
-One test:
-
-> **Slow enough that you make no errors at all.**
+One test decides it: **slow enough that you make no errors at all**.
 
 | Speed | Result |
 |---|---|
-| still making errors | you are **repeating errors** (and with more wrong than right repetitions, the wrong one becomes automatic) |
-| **no errors at all** | **the correct action is repeated** — this is practice |
-| so slow the action deforms | you are practising **a different action** (see below) |
+| still making errors | you are repeating errors; with more wrong than right repetitions, the wrong one becomes automatic |
+| no errors at all | the correct action is repeated, which is what practice is |
+| so slow the action deforms | you are practising a different action (see below) |
 
-**The difference between the last two rows is the key**, and the reason much slow practice is wasted.
+Whether you are practising the same action decides everything. Much slow practice is wasted here.
 
 ## The commonest error: the action changes when you slow down
 
-**Slow practice must keep the same action shape as the real performance.** This is easily overlooked:
+Slow practice must **keep the same action shape** as the real performance. This is easily overlooked:
 
 | Wrong way to slow down | Why it fails on speeding up |
 |---|---|
@@ -184,35 +178,34 @@ One test:
 | breaking the action into several steps | those steps do not exist at speed |
 | altering the wrist position | the whole chain of force changes |
 
-**The cause**: **once the action changes, it is no longer "the same thing done slowly" but "a different thing".**
-So the question in slow practice is not "have I slowed down" but "**is this the same action I will use at speed?**"
+Once the action changes, it is no longer "the same thing done slowly"; it is a different thing.
+So ask not "have I slowed down" but "is this the action I use at speed?"
 
-**A practical self-check**: after a few slow repetitions, **play it at a moderate tempo** — if problems appear
-immediately at the moderate tempo, the slow action was not the same action.
+A practical self-check: after a few slow repetitions, play at a moderate tempo.
+If new problems appear at once, the slow action was not the same action.
 
 ## Three concrete uses
 
 | Use | Explanation |
 |---|---|
-| **establish the correct action** | the primary use |
-| **strip away muscle memory** | at slow speed momentum fails and the real memory shows (see [[concept:memorization\|memorisation]]) |
-| **see the structure and the voices** | only at a slow tempo do harmony and voice leading become audible |
+| establish the correct action | the primary use |
+| strip away muscle memory | at slow speed momentum fails and the real memory shows (see [[concept:memorization\|memorisation]]) |
+| see the structure and the voices | only at a slow tempo do harmony and voice leading become audible |
 
-**The second is often discovered by accident**: many people believe they have memorised a piece and find, at a slow
-tempo, that they have not — what carried them was **the momentum of speed**.
+Many people believe they have memorised a piece, then find at a slow tempo that they have not.
+What carried them was the momentum of speed.
 
 ## Working with the metronome
 
-A metronome is **not required** for slow practice, but it helps in two situations:
+A metronome is not required for slow practice, but it helps in two situations:
 
 | Situation | Use |
 |---|---|
-| checking whether you **really have slowed down** | set a tempo slower than you imagine |
-| catching **secret accelerando** | hard passages tend to speed up unnoticed |
+| checking whether you really have slowed down | set a tempo slower than you imagine |
+| catching secret accelerando | hard passages tend to speed up unnoticed |
 
-**Note**: the metronome is a **calibration** device (see [[concept:metronome|metronome and BPM]]) — **playing with
-it throughout a slow session is not advisable**, because attention shifts to following the beat rather than the
-action.
+The metronome is a calibration device (see [[concept:metronome|metronome and BPM]]); it need not run through the
+session. Follow it throughout and attention shifts from the action to the beat.
 
 ## Diagram: two kinds of slow practice
 
@@ -255,8 +248,8 @@ action.
 
 ## Listen: structure at a slow tempo
 
-The third use of slow practice is **seeing the structure**. Use `rhythm` on the same pattern at a slow and a fast
-tempo — **at the slow tempo each note is separately audible**, which is exactly why slow practice reveals structure.
+The third use of slow practice is seeing the structure. Use `rhythm` on the same pattern at a slow and a fast
+tempo — at the slow tempo each note is separately audible, which is exactly why slow practice reveals structure.
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q e e q q","bpm":56,"label":"慢速：每个音都听得清","label_en":"Slow: every note is separately audible","hint":"先听这一档，注意每个音的落点","hint_en":"Hear this setting first and mark each attack"}
@@ -268,11 +261,11 @@ tempo — **at the slow tempo each note is separately audible**, which is exactl
 
 ## Common misconceptions
 
-- **"Slow practice is for accuracy."** More precisely, it is **for giving the correct action a chance to repeat**.
-- **"The slower the better."** Once the action **deforms**, it is useless. The issue is not speed but **whether the
+- "Slow practice is for accuracy." More precisely, it is for giving the correct action a chance to repeat.
+- "The slower the better." Once the action deforms, it is useless. The issue is not speed but **whether the
   action matches the real one**.
-- **"Hand shape and effort do not matter when slow."** The opposite: **slow practice is exactly where hand shape and
-  effort are settled** — get them wrong and the session is wasted.
-- **"Always practise slowly with the metronome."** The metronome is for **calibration**; playing with it throughout
+- "Hand shape and effort do not matter when slow." The opposite: slow practice is exactly where hand shape and
+  effort are settled — get them wrong and the session is wasted.
+- "Always practise slowly with the metronome." The metronome is for calibration; playing with it throughout
   moves attention from the action to following the beat.
 :::

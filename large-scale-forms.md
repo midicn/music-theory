@@ -28,7 +28,7 @@ updated: 2026-09-25
 ---
 
 ::: zh
-前面讲的都是**单个乐章**的曲式。这一条讲**多个乐章怎么构成一部大作品**。
+前面讲单个乐章的曲式，这里讲多个乐章怎么构成一部大作品。
 
 ## 通行的四乐章布局
 
@@ -39,12 +39,13 @@ updated: 2026-09-25
 | **第三** | 中速 | **三段体**（带三声中部） | 舞曲（小步舞曲 / 谐谑曲）、轻松 |
 | **第四** | 快 | **回旋曲式 / 奏鸣回旋曲式** | 明亮、收束、热闹 |
 
-**这不是规定，而是"最常被采用的一组解"。** 大量作品只有三乐章、两乐章，甚至单乐章；
-也有五乐章以上的（如柏辽兹、马勒）。
+**这不是规定，而是最常被采用的一组解。**
+大量作品只有三乐章、两乐章，甚至单乐章。
+也有五乐章以上的，如柏辽兹、马勒。
 
 ## 三条组织原则
 
-比"四乐章"更重要的是**这些乐章靠什么被连成一个整体**：
+比四乐章更重要的是，这些乐章靠什么连成一个整体。
 
 | 原则 | 说明 |
 |---|---|
@@ -52,12 +53,13 @@ updated: 2026-09-25
 | **② 调性布局** | 各乐章不都在主调：常见的是第二乐章在下属调、第三与第四回主调（或同主音大小调交替） |
 | **③ 主题联系** | 一个主题跨乐章出现（**循环结构**），或用共同动机贯穿；浪漫派后尤其常见 |
 
-**第一条最基础**：即使完全不懂和声，听者也能从速度的安排感到"这部作品在起伏"。
-**第三条最强大但最晚出现**：它让整部作品像一个有机体，而不是四首独立的曲子。
+第一条最基础：即使不懂和声，听者也能从速度安排感到这部作品在起伏。
+第三条最强大，也最晚出现。
+它让整部作品像一个有机体，而不是四首独立的曲子。
 
 ## 与组曲的关键差别
 
-这正是 [[concept:suite|组曲]] 那条讲过的分野的另一面：
+这与 [[concept:suite|组曲]] 的分野正好互为两面。
 
 | | 组曲 | 大型作品（交响曲 / 奏鸣曲） |
 |---|---|---|
@@ -66,11 +68,11 @@ updated: 2026-09-25
 | 有调性布局吗 | 通常同一调，不做布局 | **有布局** |
 | 有主题联系吗 | 通常没有 | **常有** |
 
-一句话：**组曲是"并列"，大型作品是"叙事"** —— 后者的乐章离开彼此就不完整。
+组曲是并列，大型作品是叙事：后者的乐章离开彼此就不完整。
 
 ## 为什么这种规模值得单独设计
 
-因为人耳对**长时段**的感知方式与短时段不同：
+因为人耳对长时段的感知，与短时段不同。
 
 | 时间尺度 | 听者感知的是 |
 |---|---|
@@ -79,7 +81,7 @@ updated: 2026-09-25
 | 几分钟 | 段落与曲式 |
 | **几十分钟** | **速度、调性与情绪的宏观起伏** |
 
-**所以大型作品的"结构"其实主要写在速度与调性上，而不是写在主题上** ——
+所以大型作品的结构主要写在速度与调性上，而不是主题上。
 这是很多分析者容易忽略的一层。
 
 ## 图示：一次大型的呼吸
@@ -128,8 +130,9 @@ updated: 2026-09-25
 
 ## 听一听：宏观起伏的两种速度
 
-用 `rhythm` 对比**快**与**慢**两种速度下的同一节奏型 —— 这正是四乐章里第一与第二乐章的对比关系。
-**在几十分钟的尺度上，这种速度对比就是"结构"本身。**
+用 `rhythm` 对比快与慢两种速度下的同一节奏型。
+这正是四乐章里第一与第二乐章的对比关系。
+在几十分钟的尺度上，这种速度对比就是结构本身。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":60,"label":"慢乐章的速度感（第二乐章）","label_en":"The feel of a slow movement (the second)","hint":"先听这一档","hint_en":"Hear this setting first"}
@@ -141,10 +144,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「大型作品必须四乐章」** → 这是**最常见的一组解**，不是规定。三乐章、两乐章、单乐章、五乐章以上都大量存在。
-- **「各乐章互不相关」** → 它们靠**速度弧线、调性布局、主题联系**构成整体（组曲才是不追求整体的）。
-- **「乐章顺序可以随便调」** → 顺序由**速度弧线**决定（快—慢—中—快）。调换会破坏整体感。
-- **「结构就是主题的安排」** → 在几十分钟的尺度上，**速度与调性才是主要的结构手段**。
+- 「大型作品必须四乐章」 → 这是最常见的一组解，不是规定。三乐章、两乐章、单乐章、五乐章以上都大量存在。
+- 「各乐章互不相关」 → 它们靠速度弧线、调性布局与主题联系构成整体。组曲才不追求整体。
+- 「乐章顺序可以随便调」 → 顺序由速度弧线决定，快—慢—中—快。调换会破坏整体感。
+- 「结构就是主题的安排」 → 在几十分钟的尺度上，速度与调性才是主要的结构手段。
 :::
 
 ::: en
@@ -172,8 +175,8 @@ More important than "four movements" is **what binds them into a whole**:
 | **2 tonal plan** | not every movement is in the tonic: commonly the second is in the subdominant, the third and fourth return (or alternate major and minor) |
 | **3 thematic connection** | a theme recurring across movements (**cyclical structure**), or a shared motive throughout; especially common after the Romantic era |
 
-**The first is fundamental**: even without any harmony, a listener feels "this work has a shape" from the tempo
-arrangement. **The third is the most powerful but the latest to appear**: it makes the work an organism rather than
+The first is fundamental: even without any harmony, a listener feels "this work has a shape" from the tempo
+arrangement. The third is the most powerful but the latest to appear: it makes the work an organism rather than
 four separate pieces.
 
 ## The key difference from a suite
@@ -187,12 +190,12 @@ This is the other face of the divide covered under [[concept:suite|suite]]:
 | Tonal plan? | usually one key, no plan | **a plan** |
 | Thematic connection? | usually none | **often present** |
 
-In one line: **a suite juxtaposes, a large work narrates** — the latter's movements are incomplete without each
+In one line: a suite juxtaposes, a large work narrates — the latter's movements are incomplete without each
 other.
 
 ## Why this scale needs its own design
 
-Because the ear perceives **long spans** differently from short ones:
+Because the ear perceives long spans differently from short ones:
 
 | Timescale | What the listener perceives |
 |---|---|
@@ -201,7 +204,7 @@ Because the ear perceives **long spans** differently from short ones:
 | minutes | sections and form |
 | **tens of minutes** | **the broad rise and fall of speed, key and mood** |
 
-**So the structure of a large work is written mainly in tempo and tonality, not in themes** — a layer many analysts
+So the structure of a large work is written mainly in tempo and tonality, not in themes — a layer many analysts
 pass over.
 
 ## Diagram: one long breath
@@ -250,8 +253,8 @@ pass over.
 
 ## Listen: the macro shape in two tempos
 
-Use `rhythm` to compare **fast** and **slow** at the same pattern — the relation between a first and a second
-movement. **At the scale of tens of minutes, that contrast is the structure itself.**
+Use `rhythm` to compare fast and slow at the same pattern — the relation between a first and a second
+movement. At the scale of tens of minutes, that contrast is the structure itself.
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":60,"label":"慢乐章的速度感（第二乐章）","label_en":"The feel of a slow movement (the second)","hint":"先听这一档","hint_en":"Hear this setting first"}
@@ -263,12 +266,12 @@ movement. **At the scale of tens of minutes, that contrast is the structure itse
 
 ## Common misconceptions
 
-- **"A large work must have four movements."** That is **the commonest solution**, not a rule. Three-, two-, one-
+- "A large work must have four movements." That is the commonest solution, not a rule. Three-, two-, one-
   and five-plus-movement works are everywhere.
-- **"The movements are unrelated."** They are bound by **a tempo arc, a tonal plan and thematic connection** — it is
+- "The movements are unrelated." They are bound by a tempo arc, a tonal plan and thematic connection — it is
   the suite that makes no such demand.
-- **"The order can be shuffled."** The order is set by the **tempo arc** (fast, slow, moderate, fast). Reordering
+- "The order can be shuffled." The order is set by the tempo arc (fast, slow, moderate, fast). Reordering
   breaks the sense of the whole.
-- **"Structure means how themes are arranged."** Over tens of minutes, **tempo and tonality are the primary
+- "Structure means how themes are arranged." Over tens of minutes, **tempo and tonality are the primary
   structural means**.
 :::

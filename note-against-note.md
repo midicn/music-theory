@@ -28,44 +28,46 @@ updated: 2026-09-24
 ---
 
 ::: zh
-单音对位是最朴素的对位形态：**两个声部同时前进，一个音对一个音。**
+单音对位是最朴素的对位形态。
+两个声部同时前进，一个音对一个音。
 
-> 两个声部**每一步都同时换音** —— 没有错位、没有经过音、没有长短。
+> 两个声部**每一步都同时换音**。没有错位，没有经过音，没有长短。
 
 ## 它的价值在于"把变量降到最少"
 
-复调写作里同时要管的事很多：纵向协和、横向线条、节奏错位、外音处理……
-单音对位**把其中大部分变量消掉了**：
+复调写作里同时要管的事很多：纵向协和、横向线条、节奏错位、外音处理。
+单音对位**把其中大部分变量消掉了**。
 
 | 变量 | 单音对位里的状态 |
 |---|---|
-| 时值 | 两声部**完全相同**（通常都是一样的音符） |
-| 节奏错位 | **不存在** |
-| 外音 | **不存在**（每个音都是和弦音） |
-| 纵向关系 | **每一步都要检查**（这是唯一的难点） |
+| 时值 | 两声部**完全相同**，通常都是一样的音符。 |
+| 节奏错位 | **不存在。** |
+| 外音 | **不存在**，每个音都是和弦音。 |
+| 纵向关系 | **每一步都要检查**，这是唯一的难点。 |
 
-所以它是对位训练的**第一步**（见 [[concept:first-species|第一类对位]]）：
-**先把"每一步的音程是否合适"练成条件反射**，再逐层加上节奏复杂度。
+所以它是对位训练的**第一步**（见 [[concept:first-species|第一类对位]]）。
+先把"这一步的音程是否合适"练成条件反射，再逐层加节奏复杂度。
 
 ## 与主调织体的根本差别
 
-这一点常被忽略：单音对位听起来**接近**柱式和弦，但两者的思维完全不同。
+单音对位听起来接近柱式和弦，但两者的思维完全不同。
 
 | | 单音对位（复调） | 柱式和弦（主调） |
 |---|---|---|
-| 出发点 | **两条线** | 一个和弦 |
-| 判断标准 | 每条线**单独唱**是否像旋律 | 和弦连接是否合理 |
-| 换音时的约束 | 两声部**各自**移动到合适的位置 | 声部按功能排列 |
+| 出发点 | **两条线。** | 一个和弦。 |
+| 判断标准 | 每条线**单独唱**是否像旋律。 | 和弦连接是否合理。 |
+| 换音时的约束 | 两声部**各自**移动到合适的位置。 | 声部按功能排列。 |
 
-也就是说：**它们的音符可以完全一样，但写作时的思考顺序是相反的。**
-单音对位要求你先想"这条线接下来要去哪"，再看"两条线合起来是什么音程"。
+音符可以完全一样，写作时的思考顺序却相反。
+单音对位先想"这条线接下来要去哪"，再看"两条线合起来是什么音程"。
 
 ## 它的现实用途
 
-单音对位不只是练习。真实作品里它出现在两个位置：
+单音对位不只是练习。
+真实作品里，它出现在两个位置。
 
-- **密集和声段**：所有声部同步换音，形成厚实的复调（如赞美诗的严格四声部写法）；
-- **赋格或卡农的"紧凑段"**：为了把进入压紧，常把织体暂时变成一音对一音。
+- 密集和声段：所有声部同步换音，形成厚实的复调，如赞美诗的严格四声部写法。
+- 赋格或卡农的紧凑段：为了把进入压紧，常把织体暂时变成一音对一音。
 
 ## 图示：同步换音，两条线
 
@@ -105,9 +107,9 @@ updated: 2026-09-24
 
 ## 听一听：纵向关系的质量
 
-单音对位是两声部的，本站听辨件放不出真正的两声部 —— 这里用 `interval` 演示
-**每一步的纵向音程**，而这正是单音对位唯一要检查的东西。
-两声部同时换音的实际效果请到实例里听（二部创意曲的进入段最短）。
+单音对位要两声部，这里放不出真正的两声部。
+`interval` 能演示每一步的纵向音程，而这正是单音对位唯一要检查的东西。
+两声部同时换音的效果，到实例里听。二部创意曲的进入段最短。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"E4","label":"单音对位里的一步：三度","label_en":"One step in note-against-note writing: a third","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 C4 得到同度，换成 G4 得到五度 —— 单音对位就是在每一步上做这种选择，且要连续做对。","hint2_en":"Set b to C4 for a unison, or G4 for a fifth — note-against-note writing makes this choice at every step, and must keep getting it right."}
@@ -115,10 +117,11 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「单音对位就是柱式和弦」** → 音符可以一样，但**思考顺序相反**：一个从线条出发，一个从和弦出发。
-- **「单音对位太简单，没什么可练」** → 简单在变量少，难在**每一步都无法掩饰**：错一处立刻听得出来。
-- **「两声部同时换音就不能有外音」** → 在严格训练里如此；实际写作中可以加入经过音，那时就已进入第二类对位的范畴。
-- **「它只是练习，作品里不用」** → 赞美诗的严格四声部、赋格的紧凑段都是这种织体。
+- 「单音对位就是柱式和弦」 → 音符可以一样，思考顺序相反。一个从线条出发，一个从和弦出发。
+- 「单音对位太简单，没什么可练」 → 简单在变量少，难在每一步都藏不住。错一处立刻听得出来。
+- 「两声部同时换音就不能有外音」 → 严格训练里如此。实际写作可以加经过音，那时已进入第二类对位。
+- 「它只是练习，作品里不用」 → 赞美诗的严格四声部、赋格的紧凑段，都是这种织体。
+
 :::
 
 ::: en
@@ -139,11 +142,11 @@ displacement, foreign notes. Note against note **removes most of them**:
 | vertical relation | **must be checked at every step** — the only difficulty left |
 
 So it is the **first step** of counterpoint training (see [[concept:first-species|first species]]):
-**make "is the interval right at this step" automatic** before layering on rhythmic complexity.
+make "is the interval right at this step" automatic before layering on rhythmic complexity.
 
 ## The essential difference from homophonic writing
 
-This is often missed: note against note **sounds** close to block chords, but the thinking is opposite.
+This is often missed: note against note sounds close to block chords, but the thinking is opposite.
 
 | | Note against note (polyphonic) | Block chords (homophonic) |
 |---|---|---|
@@ -158,9 +161,9 @@ this line want to go next", and only then "what interval do the two lines make".
 
 It is not only an exercise. It appears in two places in real music:
 
-- **Dense harmonic passages** — all voices changing together into a thick polyphony (the strict four-part writing
+- Dense harmonic passages — all voices changing together into a thick polyphony (the strict four-part writing
   of hymn settings);
-- **Tight passages in fugues and canons** — to squeeze the entries closer, the texture temporarily becomes note
+- Tight passages in fugues and canons — to squeeze the entries closer, the texture temporarily becomes note
   against note.
 
 ## Diagram: simultaneous change, two lines
@@ -201,7 +204,7 @@ It is not only an exercise. It appears in two places in real music:
 
 ## Listen: the quality of the vertical relation
 
-Note against note needs two voices, and this site cannot play them — so `interval` demonstrates **the vertical
+Note against note needs two voices, and they cannot be played here — so `interval` demonstrates **the vertical
 interval of one step**, which is the only thing this texture must check. For the actual simultaneous effect, use
 the instances (the opening entries of a two-part invention are the shortest).
 
@@ -211,12 +214,12 @@ the instances (the opening entries of a two-part invention are the shortest).
 
 ## Common misconceptions
 
-- **"Note against note is just block chords."** The notes can match, but the **order of thought is reversed**: one
+- "Note against note is just block chords." The notes can match, but the order of thought is reversed: one
   starts from lines, the other from chords.
-- **"It is too simple to be worth practising."** Simple in variables, hard because **nothing can be hidden** — one
+- "It is too simple to be worth practising." Simple in variables, hard because nothing can be hidden — one
   error is immediately audible.
-- **"Simultaneous change means no foreign notes."** True of the strict exercise; real writing may add passing
+- "Simultaneous change means no foreign notes." True of the strict exercise; real writing may add passing
   notes, at which point you have entered second-species territory.
-- **"It is only an exercise."** Strict four-part hymn writing and the tight passages of fugues use exactly this
+- "It is only an exercise." Strict four-part hymn writing and the tight passages of fugues use exactly this
   texture.
 :::

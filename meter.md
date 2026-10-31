@@ -57,7 +57,7 @@ updated: 2026-09-25
 | **余地** | 四拍的长度足够容纳一个短乐思，又不至于记不住 |
 | **可分** | 可细分为八分、十六分，也可粗分为两个二分，弹性大 |
 
-但要注意：**4/4 常见不等于"更正确"**。三拍子在舞曲（圆舞曲）里是主流，
+但要注意：4/4 常见不等于"更正确"。三拍子在舞曲（圆舞曲）里是主流，
 复合拍子（6/8、9/8）在民间音乐里极为常见（见 [[concept:simple-compound-meter|单复混合拍子]]）。
 
 ## 拍号不决定速度
@@ -69,7 +69,7 @@ updated: 2026-09-25
 | **拍号** | 每小节几拍、以什么音符为一拍（**结构**） |
 | **速度** | 每分钟多少拍（**演奏参数**，见 [[concept:tempo|速度]]） |
 
-同一个 3/4，可以快成圆舞曲，也可以慢成挽歌。**拍号给的是骨架，速度给的是心跳频率。**
+同一个 3/4，可以快成圆舞曲，也可以慢成挽歌。拍号给的是骨架，速度给的是心跳频率。
 
 ## 图示：分子与分母各管什么
 
@@ -119,7 +119,7 @@ updated: 2026-09-25
 
 ## 听一听：四拍与三拍的循环
 
-用 `rhythm` 组件对比 **4/4 均分**与 **3/4 均分**。请数"重音隔多久回来一次"——
+用 `rhythm` 组件对比 4/4 均分与 3/4 均分。请数"重音隔多久回来一次"——
 这就是拍号在实际听感里唯一要传达的信息。
 
 ```audiolab
@@ -132,10 +132,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「拍号就是节奏型」** → 拍号只规定**骨架**（几拍、什么音符为一拍）；具体的长短组合属于节奏（见 [[concept:rhythm|节奏]]）。
-- **「6/8 就是 3/4」** → 拍数、每拍的单位与重音层次都不同：6/8 通常按两个大拍（复合拍子）感受。
-- **「拍号决定速度」** → 完全独立。拍号是结构，速度是演奏参数。
-- **「4/4 更"正统"」** → 它只是最常见。三拍子与复合拍子在舞曲、民间音乐里同样是主流。
+- 「拍号就是节奏型」 → 拍号只规定骨架（几拍、什么音符为一拍）；具体的长短组合属于节奏（见 [[concept:rhythm|节奏]]）。
+- 「6/8 就是 3/4」 → 拍数、每拍的单位与重音层次都不同：6/8 通常按两个大拍（复合拍子）感受。
+- 「拍号决定速度」 → 完全独立。拍号是结构，速度是演奏参数。
+- 「4/4 更"正统"」 → 它只是最常见。三拍子与复合拍子在舞曲、民间音乐里同样是主流。
 :::
 
 ::: en
@@ -234,7 +234,7 @@ rate.**
 
 ## Listen: cycles of four and of three
 
-Use the `rhythm` component to compare **even 4/4** with **even 3/4**. Count how many beats pass between accents —
+Use the `rhythm` component to compare **even 4/4** with even 3/4. Count how many beats pass between accents —
 that is the only information a time signature actually conveys to the ear.
 
 ```audiolab
@@ -247,12 +247,12 @@ that is the only information a time signature actually conveys to the ear.
 
 ## Common misconceptions
 
-- **"The time signature is the rhythm."** It fixes only the **frame** (how many beats, which note takes one);
+- "The time signature is the rhythm." It fixes only the frame (how many beats, which note takes one);
   specific durations belong to rhythm (see [[concept:rhythm|rhythm]]).
-- **"6/8 is the same as 3/4."** The beat count, the beat unit and the accent hierarchy all differ: 6/8 is normally
+- "6/8 is the same as 3/4." The beat count, the beat unit and the accent hierarchy all differ: 6/8 is normally
   felt as two large beats (a compound metre).
-- **"The time signature sets the tempo."** Entirely independent. The signature is structure; tempo is a performance
+- "The time signature sets the tempo." Entirely independent. The signature is structure; tempo is a performance
   parameter.
-- **"4/4 is the 'proper' metre."** It is merely the commonest. Triple and compound metres are equally mainstream in
+- "4/4 is the 'proper' metre." It is merely the commonest. Triple and compound metres are equally mainstream in
   dance and folk music.
 :::

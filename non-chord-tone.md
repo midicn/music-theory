@@ -29,8 +29,7 @@ updated: 2026-09-24
 
 ::: zh
 如果旋律的每个音都必须属于当下的和弦，音乐很快就变成"拨和弦"。
-**和弦外音就是打破这个限制的东西**：它是不属于当前和弦的音，出现在旋律里（或内声部里），
-按惯例在短时间内解决掉。
+和弦外音就是打破这个限制的东西。它不属于当前的和弦，却出现在旋律或内声部里，按惯例在短时间内解决。
 
 > 它让**旋律**与**和声**变成两条可以不完全重合的线 —— 这是复调思维的基础。
 
@@ -48,8 +47,8 @@ updated: 2026-09-24
 ## 三条判断惯例
 
 1. **时值短**：外音通常比它两侧的和弦音更短；
-2. **落在弱拍**（倚音与延留音除外）：强拍外音需要明确解决，写作上要更小心；
-3. **级进进入、级进离去**：跳进处理外音会让它听起来像和弦音，破坏区分。
+2. 落在弱拍（倚音与延留音除外）：强拍外音需要明确解决，写作上要更小心；
+3. 级进进入、级进离去：跳进处理外音会让它听起来像和弦音，破坏区分。
 
 ## 为什么它重要
 
@@ -59,8 +58,8 @@ updated: 2026-09-24
 | **制造局部张力** | 外音与和弦音相撞，形成短促的不协和，随即释放 |
 | **连接和声** | 先现音可以预示下一个和弦，让进行更连贯 |
 
-**一句总结**：和弦外音是"旋律不为和声让路"的技术手段 ——
-没有它，旋律就只是和弦的分解。（旋律层的内容见 [[concept:melody|旋律]]。）
+和弦外音是让旋律不为和声让路的技术手段。没有它，旋律就只是和弦的分解。
+旋律层的内容见 [[concept:melody|旋律]]。
 
 ## 图示：外音让两条线错开
 
@@ -98,8 +97,8 @@ updated: 2026-09-24
 
 ## 听一听：外音的效果
 
-用琶音组件听三和弦的构成音（"和弦分解"），再想象同样的旋律骨架里插入经过音 ——
-外音的作用是让旋律不再像分解和弦。
+用琶音组件听三和弦的构成音，那是"和弦分解"。再想象同一副旋律骨架里插入经过音。
+外音一进来，旋律就不再像分解和弦。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"C 大三和弦（构成音）","label_en":"C major triad (its chord tones)","hint":"点「分解」听只有和弦音的旋律","hint_en":"Press Arpeggio — this is melody made of chord tones alone"}
@@ -107,16 +106,16 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「外音就是错音」** → 它有明确类型与解决规则，是写作手段，不是失误。
-- **「外音只出现在旋律里」** → 内声部同样有外音，且它们的处理更严格（因为更容易被听出冲突）。
-- **「外音可以随意停留」** → 惯例上时值短、并级进解决；长时间停留会让它变成和弦音或挂留音。
-- **「有了外音就不需要管和声了」** → 恰恰相反：外音必须**按和声的规矩**来解决，否则会听起来像写错。
+- 「外音就是错音」 → 它有明确类型与解决规则，是写作手段，不是失误。
+- 「外音只出现在旋律里」 → 内声部同样有外音，且它们的处理更严格（因为更容易被听出冲突）。
+- 「外音可以随意停留」 → 惯例上时值短、并级进解决；长时间停留会让它变成和弦音或挂留音。
+- 「有了外音就不需要管和声了」 → 恰恰相反：外音必须按和声的规矩来解决，否则会听起来像写错。
 :::
 
 ::: en
 If every note of a melody had to belong to the current chord, music would quickly become strumming.
-**Non-chord tones break that limit**: a note outside the prevailing harmony appears in the melody (or an inner
-voice) and by convention resolves within a short time.
+Non-chord tones break that limit. A note outside the prevailing harmony appears in the melody or an inner
+voice, and by convention resolves within a short time.
 
 > They let **melody** and **harmony** become two lines that need not coincide exactly — the basis of
 > contrapuntal thinking.
@@ -135,9 +134,9 @@ voice) and by convention resolves within a short time.
 ## Three conventions
 
 1. **Short duration** — foreign notes are usually shorter than the chord tones either side;
-2. **On a weak beat** (appoggiaturas and suspensions excepted) — a foreign note on a strong beat needs an
+2. On a weak beat (appoggiaturas and suspensions excepted) — a foreign note on a strong beat needs an
    explicit resolution and demands more care;
-3. **Enter and leave by step** — approaching or quitting a foreign note by leap makes it sound like a chord
+3. Enter and leave by step — approaching or quitting a foreign note by leap makes it sound like a chord
    tone and destroys the distinction.
 
 ## Why they matter
@@ -148,8 +147,8 @@ voice) and by convention resolves within a short time.
 | **local tension** | the foreign note collides with a chord tone, creating brief dissonance that is then released |
 | **linking harmony** | an anticipation can announce the next chord and keep the progression flowing |
 
-**In one line**: non-chord tones are the technique that lets **melody refuse to give way to harmony**. Without
-them a melody is only an arpeggio. (For the melodic layer, see [[concept:melody|melody]].)
+Non-chord tones are the technique that lets melody refuse to give way to harmony.
+Without them a melody is only an arpeggio. For the melodic layer, see [[concept:melody|melody]].
 
 ## Diagram: foreign notes pull the two lines apart
 
@@ -185,8 +184,9 @@ them a melody is only an arpeggio. (For the melodic layer, see [[concept:melody|
 
 ## Listen: the effect of foreign notes
 
-Use the chord player to hear a triad's chord tones (melody as an arpeggio), then imagine passing notes inserted
-into the same melodic frame — the point of a foreign note is that the melody stops sounding like a broken chord.
+Use the chord player to hear a triad's chord tones, which is melody as an arpeggio.
+Then imagine passing notes inserted into the same frame.
+The melody stops sounding like a broken chord.
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"C 大三和弦（构成音）","label_en":"C major triad (its chord tones)","hint":"点「分解」听只有和弦音的旋律","hint_en":"Press Arpeggio to hear melody made of chord tones alone"}
@@ -194,8 +194,8 @@ into the same melodic frame — the point of a foreign note is that the melody s
 
 ## Common misconceptions
 
-- **"A foreign note is a wrong note."** It has defined types and resolution rules; it is a compositional device, not a mistake.
-- **"Foreign notes appear only in the melody."** Inner voices have them too, and handle them more strictly, since a clash is easier to hear there.
-- **"A foreign note may linger."** Convention keeps it short and resolved by step; held for long it becomes a chord tone or a suspension.
-- **"With foreign notes the harmony stops mattering."** The opposite: they must resolve **according to the harmony**, or they will sound like errors.
+- "A foreign note is a wrong note." It has defined types and resolution rules; it is a compositional device, not a mistake.
+- "Foreign notes appear only in the melody." Inner voices have them too, and handle them more strictly, since a clash is easier to hear there.
+- "A foreign note may linger." Convention keeps it short and resolved by step; held for long it becomes a chord tone or a suspension.
+- "With foreign notes the harmony stops mattering." The opposite: they must resolve according to the harmony, or they will sound like errors.
 :::

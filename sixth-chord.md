@@ -45,8 +45,8 @@ updated: 2026-09-24
 | **功能** | 根音是谁？倾向于走去哪？ | **不同** |
 
 C6 的根音是 C，听起来是个稳定的主功能和弦；Am7 的根音是 A，带七音，倾向于解决。
-**同一组音在不同语境里完全可以承担不同功能** —— 这与 [[concept:enharmonic|等音]] 的逻辑一致：
-**听感相同，写法与功能不同。**
+同一组音在不同语境里完全可以承担不同功能 —— 这与 [[concept:enharmonic|等音]] 的逻辑一致：
+听感相同，写法与功能不同。
 
 ## 六和弦的两种写法
 
@@ -55,14 +55,14 @@ C6 的根音是 C，听起来是个稳定的主功能和弦；Am7 的根音是 A
 | **C6** | 三和弦 + 六度，功能上属 C | 爵士、流行 |
 | **Am7/C** | Am7 的第一转位，低音是 C | 传统和声分析 |
 
-同一组音，用哪个记法取决于**你把它听成什么**。这是分析与记谱相互影响的一个典型例子。
+同一组音，用哪个记法取决于你把它听成什么。这是分析与记谱相互影响的一个典型例子。
 
 ## 它为什么听起来"松了一口气"
 
 对比一下同一位置的两个选择：
 
-- **Cmaj7（C–E–G–B）**：七音 B 紧贴八度，产生悬置（见 [[concept:major-seventh|大七和弦]]）；
-- **C6（C–E–G–A）**：六度 A 离八度还有两个半音，**没有悬置感**。
+- Cmaj7（C–E–G–B）：七音 B 紧贴八度，产生悬置（见 [[concept:major-seventh|大七和弦]]）；
+- C6（C–E–G–A）：六度 A 离八度还有两个半音，没有悬置感。
 
 所以六和弦常被形容为"大七和弦解决了的感觉"。它在爵士里常作为大七和弦的替代，
 在结尾更干净、更"落地"。
@@ -107,10 +107,10 @@ C6 的根音是 C，听起来是个稳定的主功能和弦；Am7 的根音是 A
 
 ## 常见误解
 
-- **「C6 和 Am7 是同一个和弦」** → 音高相同，功能不同。选哪个记法取决于你把它听成什么。
-- **「六和弦就是加了六度的九和弦」** → 六和弦不含七音；含七音的是七和弦、九和弦。
-- **「六度不稳定」** → 大六度是协和音程，六和弦整体是稳定的。
-- **「六和弦只在爵士里用」** → 传统和声里它以"七和弦转位"的身份大量出现，只是记法不同。
+- 「C6 和 Am7 是同一个和弦」 → 音高相同，功能不同。选哪个记法取决于你把它听成什么。
+- 「六和弦就是加了六度的九和弦」 → 六和弦不含七音；含七音的是七和弦、九和弦。
+- 「六度不稳定」 → 大六度是协和音程，六和弦整体是稳定的。
+- 「六和弦只在爵士里用」 → 传统和声里它以"七和弦转位"的身份大量出现，只是记法不同。
 :::
 
 ::: en
@@ -131,8 +131,8 @@ useful property: **it is stable, whereas a seventh chord is not.**
 | **function** | which note is the root, and where does it want to go? | **different** |
 
 C6 has C as its root and reads as a stable tonic-function chord; Am7 has A as its root, carries a seventh, and
-wants to resolve. **One set of notes can carry different functions in different contexts** — the same logic as
-[[concept:enharmonic|enharmonic]] spelling: **same sound, different notation and function.**
+wants to resolve. One set of notes can carry different functions in different contexts — the same logic as
+[[concept:enharmonic|enharmonic]] spelling: same sound, different notation and function.
 
 ## Two ways to write it
 
@@ -141,16 +141,16 @@ wants to resolve. **One set of notes can carry different functions in different 
 | **C6** | triad plus sixth, functionally a C chord | jazz, pop |
 | **Am7/C** | first inversion of Am7, with C in the bass | traditional harmonic analysis |
 
-The same notes; which notation you use depends on **what you hear it as**. A textbook case of analysis and
+The same notes; which notation you use depends on what you hear it as. A textbook case of analysis and
 notation shaping each other.
 
 ## Why it sounds like relief
 
 Compare two options in the same position:
 
-- **Cmaj7 (C–E–G–B)**: the seventh B sits a semitone below the octave, creating suspension (see
+- Cmaj7 (C–E–G–B): the seventh B sits a semitone below the octave, creating suspension (see
   [[concept:major-seventh|major seventh]]);
-- **C6 (C–E–G–A)**: the sixth A is two semitones short of the octave, with **no suspension**.
+- C6 (C–E–G–A): the sixth A is two semitones short of the octave, with no suspension.
 
 So the sixth chord is often described as "a major seventh that has resolved". Jazz uses it as a substitute for
 the major seventh where an ending should feel cleaner and more settled.
@@ -195,8 +195,8 @@ Hear C6 (settled, landed), then Cmaj7 (suspended). Two options in the same place
 
 ## Common misconceptions
 
-- **"C6 and Am7 are the same chord."** Same pitches, different function. The notation you choose follows what you hear.
-- **"A sixth chord is a ninth chord with the ninth added."** It contains no seventh; chords with a seventh are seventh and ninth chords.
-- **"A sixth is unstable."** A major sixth is consonant, and a sixth chord is stable overall.
-- **"Sixth chords belong to jazz only."** Traditional harmony uses the same notes constantly, as an inversion of a seventh chord, under a different notation.
+- "C6 and Am7 are the same chord." Same pitches, different function. The notation you choose follows what you hear.
+- "A sixth chord is a ninth chord with the ninth added." It contains no seventh; chords with a seventh are seventh and ninth chords.
+- "A sixth is unstable." A major sixth is consonant, and a sixth chord is stable overall.
+- "Sixth chords belong to jazz only." Traditional harmony uses the same notes constantly, as an inversion of a seventh chord, under a different notation.
 :::

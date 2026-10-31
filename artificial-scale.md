@@ -28,36 +28,43 @@ updated: 2026-09-23
 ---
 
 ::: zh
-前面几条（[[concept:whole-tone|全音音阶]]、[[concept:octatonic|八声音阶]]、[[concept:blues-scale|蓝调音阶]]）
-其实都属于同一类：**人工音阶** —— 它们不是从传统调式体系里慢慢长出来的，
-而是**按某个明确的音程想法造出来的**。
+前面几条——[[concept:whole-tone|全音音阶]]、[[concept:octatonic|八声音阶]]、[[concept:blues-scale|蓝调音阶]]——属于同一类：人工音阶。
+它们不是从传统调式里慢慢长出来的。
+它们是按某个明确的音程想法造出来的。
+
+传统音阶像母语，学会就能用。
+人工音阶像一张白纸，语法得自己写。
 
 ## 判断标准：它是"长出来的"还是"造出来的"
 
 | | 传统音阶 | 人工音阶 |
 |---|---|---|
-| 来源 | 长期实践中逐渐定型 | 由某条规则（或某个效果目标）设计 |
-| 结构 | 通常不等距、有明确的音级功能 | 常等距或高度对称 |
-| 代表 | 大调、小调、教会调式、五声 | 全音、八声、蓝调、各种自创集合 |
+| 来源 | 长期实践中逐渐定型。 | 由一条规则或一个效果目标设计。 |
+| 结构 | 通常不等距，音级功能明确。 | 常等距，或高度对称。 |
+| 代表 | 大调、小调、教会调式、五声。 | 全音、八声、蓝调、各种自创集合。 |
 
-**这条界线不是价值判断**：人工音阶同样能写出一流的作品，只是它要求作曲者
-自己定义"什么算协和、什么算解决"，因为传统里没有现成答案。
+这条界线不是价值判断。
+人工音阶一样写得出好作品。
+代价是作曲者要自己定义：什么算协和，什么算解决。
+传统里没有现成答案。
 
 ## 常见的人工构造思路
 
 | 思路 | 做法 | 例子 |
 |---|---|---|
-| **等分** | 把八度等分成若干份 | 全音音阶（6 份）、半音阶（12 份） |
-| **交替** | 两种步幅固定交替 | 八声音阶（全半交替） |
-| **对称** | 结构在某点镜像 | 八声音阶、某些自创集合 |
-| **插入** | 在既有音阶里加一个冲突音 | 蓝调音阶（五声 + 降五度） |
-| **拼合** | 两个结构和在一起 | 用两条减七和弦拼出八声音阶 |
+| **等分** | 把八度等分成若干份。 | 全音音阶（6 份）、半音阶（12 份）。 |
+| **交替** | 两种步幅固定交替。 | 八声音阶（全半交替）。 |
+| **对称** | 结构在某点镜像。 | 八声音阶、某些自创集合。 |
+| **插入** | 在既有音阶里加一个冲突音。 | 蓝调音阶（五声 + 降五度）。 |
+| **拼合** | 两个结构和在一起。 | 用两条减七和弦拼出八声音阶。 |
 
 ## 它为什么值得单独讲
 
-因为**从 20 世纪起，"选材料"本身成了作曲的一部分**。传统音阶提供的是现成的语汇，
-人工音阶提供的是一张白纸 —— 用哪个、怎么用，全部要自己决定。
-这也是本站把它单列成条的原因：它不是"怪音阶"，而是一种**创作方法**。
+二十世纪以后，选材料本身成了作曲的一部分。
+传统音阶给你现成的语汇，也给你现成的边界。
+人工音阶不给边界：用哪个音、怎么用，全部自己决定。
+
+所以它不是"怪音阶"，而是一种创作方法。
 
 ## 图示：五种构造思路
 
@@ -101,8 +108,11 @@ updated: 2026-09-23
 
 ## 听一听：一条自造的音阶
 
-下面这条不是任何传统音阶，而是按"全半全全半全全"以外的步幅拼出来的 ——
-存在库里、能听、能复现。人工音阶的关键从来不是稀有，而是**可被明确定义**。
+下面这条不属于任何传统音阶。
+它的步幅是"全半全全半全全"之外的另一套。
+库里存着它，能听，能复现。
+
+人工音阶的关键从来不是稀有，而是可被明确定义。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","Eb4","G4","Ab4","B4","C5"],"label":"一条六声自造音阶（示例）","label_en":"A six-note invented scale (example)","hint":"点「上行」：这条音阶不属于任何传统体系，但每一步都清楚可复述","hint_en":"Try Up — it belongs to no tradition, yet every step is definite and repeatable","gap":0.38}
@@ -110,10 +120,11 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「人工音阶不自然是坏东西」** → "人工"只说明来源方式，不说明质量。全音音阶与蓝调音阶都属此列。
-- **「传统音阶就是自然生成的」** → 也是长期选择与习惯的结果；"传统"与"自然"不是一回事。
-- **「人工音阶必须很复杂」** → 蓝调音阶只比五声多一个音，同样算是人工构造。
-- **「用人工音阶就没有调性」** → 可以有意保留主音与中心音；是否有中心由用法决定，不由音阶是否"传统"决定。
+- 「人工音阶不自然是坏东西」 → "人工"只说明来源方式，不说明质量。全音音阶与蓝调音阶都属此列。
+- 「传统音阶就是自然生成的」 → 也是长期选择与习惯的结果。"传统"与"自然"不是一回事。
+- 「人工音阶必须很复杂」 → 蓝调音阶只比五声多一个音，同样算是人工构造。
+- 「用人工音阶就没有调性」 → 可以有意保留主音与中心音。有没有中心由用法决定，不由音阶是否"传统"决定。
+
 :::
 
 ::: en
@@ -192,7 +203,7 @@ down to you. That is why this is a separate entry: not a curiosity, but a **meth
 
 The line below belongs to no tradition — it is assembled from a step pattern of its own. It exists in the
 library, plays, and can be repeated exactly. The point of an artificial scale is never rarity; it is
-**being precisely definable**.
+being precisely definable.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","Eb4","G4","Ab4","B4","C5"],"label":"一条六声自造音阶（示例）","label_en":"A six-note invented scale (example)","hint":"点「上行」：这条音阶不属于任何传统体系，但每一步都清楚可复述","hint_en":"Try Up — it belongs to no tradition, yet every step is definite and repeatable","gap":0.38}
@@ -200,8 +211,8 @@ library, plays, and can be repeated exactly. The point of an artificial scale is
 
 ## Common misconceptions
 
-- **"Artificial means unnatural and therefore worse."** "Artificial" describes how it came about, not its quality. The whole-tone and blues scales are both artificial.
-- **"Traditional scales are natural."** They too are the result of long selection and habit; traditional and natural are not the same thing.
-- **"Artificial scales must be complicated."** The blues scale is a pentatonic plus one note — artificial all the same.
-- **"An artificial scale destroys tonality."** A tonic and a centre can be kept deliberately; whether there is a centre depends on use, not on whether the scale is traditional.
+- "Artificial means unnatural and therefore worse." "Artificial" describes how it came about, not its quality. The whole-tone and blues scales are both artificial.
+- "Traditional scales are natural." They too are the result of long selection and habit; traditional and natural are not the same thing.
+- "Artificial scales must be complicated." The blues scale is a pentatonic plus one note — artificial all the same.
+- "An artificial scale destroys tonality." A tonic and a centre can be kept deliberately; whether there is a centre depends on use, not on whether the scale is traditional.
 :::

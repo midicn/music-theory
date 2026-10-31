@@ -54,13 +54,12 @@ updated: 2026-09-25
 | **增加流动** | 在长音上加入装饰，让音乐不至于停滞 |
 | **留出空间** | 记谱只给"轮廓"，具体做法交给演奏者（见 [[concept:improvisation|即兴]]） |
 
-**第一行最重要**：巴洛克与古典时期的**倚音常占主音的时值**（甚至占一半），
-它的和声作用相当于一个**外音**（见 [[concept:non-chord-tone|和弦外音]]），
-不只是"先弹一下再弹主音"。
+最常见的一种误会，是把倚音当成"先弹一下再弹主音"。
+巴洛克与古典时期，倚音常占主音的一半时值，和声上相当于一个外音（见 [[concept:non-chord-tone|和弦外音]]）。
 
 ## 一个历史要点
 
-装饰音的奏法**随时代变化**，这是本条最值得记住的：
+装饰音的奏法随时代变化，而且变化很大：
 
 | 时期 | 情况 |
 |---|---|
@@ -68,11 +67,11 @@ updated: 2026-09-25
 | **古典** | 倚音的长度、颤音的起止有较明确的惯例（但仍因地区而异） |
 | **浪漫以后** | 装饰音**常直接写定**（写成实际音符），记号减少 |
 
-**所以"为什么巴洛克乐谱上的装饰音这么难弹"** ——
-因为它**本来就不是"照着弹"的记号**，而是"**提示 + 惯例**"的组合。
+巴洛克乐谱上的装饰音难弹，原因就在这里。
+它不是"照着弹"的记号，而是"提示加惯例"的组合。
 
-这与工尺谱"记谱是框架 + 提示"的思路其实相通（见 [[concept:gongchepu|工尺谱]]）：
-**不同传统的记谱法，对"写多少、留多少"有不同的选择。**
+工尺谱的思路与此相通：记谱给框架，其余靠提示（见 [[concept:gongchepu|工尺谱]]）。
+不同传统对"写多少、留多少"有不同的选择。
 
 ## 图示：符号固定，奏法流动
 
@@ -130,8 +129,8 @@ updated: 2026-09-25
 
 ## 听一听：装饰与不装饰
 
-装饰音的本质是**邻音与主音之间的快速移动**。用 `interval` 听**小二度**（最常见的装饰音音程）——
-然后想象它在主音上快速来回，那就是颤音与波音的核心。
+装饰音的本质，是邻音与主音之间的快速移动。
+用 `interval` 听小二度，这是最常见的装饰音音程。想象它在主音上快速来回，颤音与波音就是这么来的。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"D♭4","label":"小二度（最常见的装饰音音程）","label_en":"A minor second — the commonest ornament interval","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 D4 就是大二度，常见于波音与回音；快速来回移动即构成颤音。","hint2_en":"Set b to D4 for the major second used in mordents and turns; rapid alternation gives a trill."}
@@ -139,10 +138,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「装饰音只是"加点花"」** → 它承担**强调、流动性、留空间**三种功能；巴洛克的倚音甚至具有外音的和声作用。
-- **「装饰音的奏法固定」** → **随时代与地区变化极大**。照符号直译往往不是当时的实际奏法。
-- **「现代乐谱不写装饰音」** → 浪漫派以后装饰音常**直接写成音符**；20 世纪则另有自己的记法（见 [[concept:modern-notation|现代记谱法]]）。
-- **「装饰音可以忽略」** → 在巴洛克与古典作品里删掉装饰音，等于改变了**旋律的实际形态与和声**。
+- 「装饰音只是"加点花"」 → 它承担强调、流动性、留空间三种功能；巴洛克的倚音甚至具有外音的和声作用。
+- 「装饰音的奏法固定」 → 随时代与地区变化极大。照符号直译往往不是当时的实际奏法。
+- 「现代乐谱不写装饰音」 → 浪漫派以后装饰音常直接写成音符；20 世纪则另有自己的记法（见 [[concept:modern-notation|现代记谱法]]）。
+- 「装饰音可以忽略」 → 在巴洛克与古典作品里删掉装饰音，等于改变了旋律的实际形态与和声。
 :::
 
 ::: en
@@ -172,13 +171,14 @@ Ornamentation is not merely "adding flowers"; it does three things:
 | **flow** | ornamenting a long note keeps the music from stalling |
 | **leaving space** | the notation gives a **contour** and hands the detail to the performer (see [[concept:improvisation|improvisation]]) |
 
-**The first row matters most**: in the Baroque and Classical periods an **appoggiatura often takes part of the main
-note's value** (sometimes half), and its harmonic role is that of a **non-chord tone** (see
-[[concept:non-chord-tone|non-chord tones]]) — not simply "a quick note before the real one".
+One common mistake is to treat the appoggiatura as "a quick note before the real one".
+In the Baroque and Classical periods it often takes half the main note's value, and harmonically it works as a
+**non-chord tone** (see [[concept:non-chord-tone|non-chord tones]]).
 
 ## One historical point
 
-Ornament execution **changes with the era**, and this is the entry's most memorable fact:
+Ornament execution changed a great deal with the era. The same sign can mean different things in different
+periods:
 
 | Period | Situation |
 |---|---|
@@ -186,11 +186,11 @@ Ornament execution **changes with the era**, and this is the entry's most memora
 | **Classical** | the length of appoggiaturas and the start and end of trills follow clearer conventions (still regional) |
 | **after the Romantic era** | ornaments are **often written out as actual notes**, so the signs dwindle |
 
-**Which answers "why is Baroque ornamentation so hard to play"** — because the signs were never meant to be read
-literally; they are a **combination of cue and convention**.
+That answers why Baroque ornaments are so hard to play.
+They were never meant to be read literally; they are a cue plus a convention.
 
-The logic resembles gongche notation's "frame plus cue" (see [[concept:gongchepu|gongche notation]]): **different
-traditions make different choices about how much to write and how much to leave open.**
+Gongche notation works the same way: a frame plus a cue (see [[concept:gongchepu|gongche notation]]).
+Different traditions make different choices about how much to write and how much to leave open.
 
 ## Diagram: the sign fixed, the execution fluid
 
@@ -248,9 +248,9 @@ traditions make different choices about how much to write and how much to leave 
 
 ## Listen: ornamented and plain
 
-Ornamentation is essentially **rapid motion between a main note and a neighbour**. Use `interval` to hear **a minor
-second** (the commonest ornament interval) — then imagine it alternating quickly on a main note, which is the core
-of trills and mordents.
+Ornamentation is rapid motion between a main note and a neighbour.
+Use `interval` to hear **a minor second**, the commonest ornament interval.
+Imagine it alternating quickly on the main note: that is the core of trills and mordents.
 
 ```audiolab
 {"type":"interval","a":"C4","b":"D♭4","label":"小二度（最常见的装饰音音程）","label_en":"A minor second — the commonest ornament interval","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 D4 就是大二度，常见于波音与回音；快速来回移动即构成颤音。","hint2_en":"Set b to D4 for the major second used in mordents and turns; rapid alternation gives a trill."}
@@ -258,12 +258,12 @@ of trills and mordents.
 
 ## Common misconceptions
 
-- **"Ornaments are just decoration."** They carry **emphasis, flow and open space**; a Baroque appoggiatura even
+- "Ornaments are just decoration." They carry emphasis, flow and open space; a Baroque appoggiatura even
   functions as a non-chord tone.
-- **"Ornament execution is fixed."** It **varies greatly by era and region**; a literal reading is often not what
+- "Ornament execution is fixed." It varies greatly by era and region; a literal reading is often not what
   was played.
-- **"Modern scores have no ornaments."** After the Romantic era they are usually **written out as notes**; the
+- "Modern scores have no ornaments." After the Romantic era they are usually written out as notes; the
   twentieth century has its own notations (see [[concept:modern-notation|contemporary notation]]).
-- **"Ornaments can be ignored."** In Baroque and Classical works, dropping them changes the melody's **actual shape
+- "Ornaments can be ignored." In Baroque and Classical works, dropping them changes the melody's **actual shape
   and harmony**.
 :::

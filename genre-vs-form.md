@@ -28,50 +28,51 @@ updated: 2026-09-25
 ---
 
 ::: zh
-这两个词混用得非常普遍，但它们是**两个独立的问题**：
+这两个词经常被混用。它们回答的其实是两个独立的问题。
 
 | | 体裁（genre） | 曲式（form） |
 |---|---|---|
-| 问的是 | **做什么用**（场合、编制、功能） | **怎么搭**（结构安排） |
+| 问的是 | 做什么用（场合、编制、功能） | 怎么搭（结构安排） |
 | 例 | 交响曲 · 小步舞曲 · 圣咏 · 练习曲 | 奏鸣曲式 · 回旋曲式 · 变奏曲式 |
 | 由谁决定 | 用途与传统 | 内部结构 |
 
-一句话：**体裁是"这是什么场合的音乐"，曲式是"它内部怎么组织"。**
+体裁问的是**场合**，曲式问的是**结构**。
+前者决定这份音乐为谁、在哪里响起；后者决定它内部怎么组织。
 
 ## 为什么这么容易混
 
-因为一部分名称**在两个维度上同时存在**，而且**历史上是同源的**：
+因为一部分名称在两个维度上同时存在，历史上还同源。
 
 | 名称 | 作为体裁 | 作为曲式 |
 |---|---|---|
-| **奏鸣曲**（sonata） | 一种多乐章器乐作品 | —— |
-| **奏鸣曲式**（sonata form） | —— | 一种单乐章结构 |
-| **赋格**（fugue） | 一种复调作品 | 一种写法 |
-| **变奏曲** | 一种作品 | 变奏曲式 |
-| **卡农** | 一种作品 / 段落的写法 | 卡农曲式 |
+| 奏鸣曲（sonata） | 一种多乐章器乐作品 | —— |
+| 奏鸣曲式（sonata form） | —— | 一种单乐章结构 |
+| 赋格（fugue） | 一种复调作品 | 一种写法 |
+| 变奏曲 | 一种作品 | 变奏曲式 |
+| 卡农 | 一种作品 / 段落的写法 | 卡农曲式 |
 
-**"奏鸣曲式"这个名字，正是因为大量奏鸣曲的第一乐章用了这种结构**才得名 ——
-所以它俩的"同源"是真的，但**不是同一件事**。
+"奏鸣曲式"这个名字，来自大量奏鸣曲的第一乐章。
+那些乐章用了这种结构，名字由此而来。同源是真的，但**不是同一件事**。
 
 ## 辨异表（实用的部分）
 
 | 说法 | 正确理解 |
 |---|---|
-| 奏鸣曲的第一乐章**常用**奏鸣曲式 | 但**也可以用变奏曲式或回旋曲式**（贝多芬就有这样的奏鸣曲） |
-| 赋格是一种**写法** | 它有对应的结构（见 [[concept:fugue-form|赋格曲式]]），但不等于一种固定曲式 |
-| 变奏曲是一种**体裁** | 它**内部**通常就是变奏曲式（见 [[concept:theme-variations|变奏曲式]]） |
-| 交响曲是**体裁** | 其第一乐章常用奏鸣曲式 —— 体裁决定了"用什么乐器和几个乐章"，曲式决定"每个乐章怎么搭" |
+| 奏鸣曲的第一乐章常用奏鸣曲式 | 但也可以用变奏曲式或回旋曲式，贝多芬就有这样的奏鸣曲 |
+| 赋格是一种写法 | 它有对应的结构（见 [[concept:fugue-form|赋格曲式]]），不等于一种固定曲式 |
+| 变奏曲是一种体裁 | 它内部通常就是变奏曲式（见 [[concept:theme-variations|变奏曲式]]） |
+| 交响曲是体裁 | 第一乐章常用奏鸣曲式；体裁决定用什么乐器和几个乐章，曲式决定每个乐章怎么搭 |
 
-第 1 行最有用：**它说明体裁不限定曲式** ——
-如果两者是同一件事，就不可能出现"用变奏曲式写的奏鸣曲第一乐章"。
+第一行最有用，它说明体裁**不限定**曲式。
+如果两者是同一件事，就不会有"用变奏曲式写的奏鸣曲第一乐章"。
 
 ## 为什么值得分清
 
 | 分清之后 | 得到什么 |
 |---|---|
 | 分析时 | 不会把"这首是奏鸣曲"当成"这首是奏鸣曲式" |
-| 听辨时 | 可以先问"这是什么用途的音乐"，再问"它内部怎么搭" |
-| 写作时 | 体裁（编制 / 长度 / 场合）与曲式（结构）可以**分别选择** |
+| 听辨时 | 先问"这是什么用途的音乐"，再问"它内部怎么搭" |
+| 写作时 | 体裁的编制、长度与场合，和曲式的结构可以分别选择 |
 
 ## 图示：两个独立维度
 
@@ -127,8 +128,8 @@ updated: 2026-09-25
 
 ## 听一听：同一结构，不同用途
 
-用 `progression` 听同一组和声骨架。**同一结构可以出现在任何体裁里** ——
-圣咏、交响乐、流行歌都可能用它，但这不改变它是什么结构。
+用 `progression` 听同一组和声骨架。同一结构可以出现在任何体裁里。
+圣咏、交响乐、流行歌都可能用它，这不改变它是什么结构。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"I → IV → V → I（结构不变，体裁可变）","label_en":"I-IV-V-I — the structure regardless of genre","hint":"逐个和弦依次听：这是结构，不是体裁","hint_en":"Hear each chord: this is structure, not genre"}
@@ -136,49 +137,50 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「奏鸣曲＝奏鸣曲式」** → 一个是**体裁**（多乐章作品），一个是**曲式**（单乐章结构）。大量奏鸣曲的乐章并不用奏鸣曲式。
-- **「名称相同就是同一件事」** → "奏鸣曲 / 奏鸣曲式"、"赋格 / 赋格曲式"、"变奏曲 / 变奏曲式"都是**同源但不同维度**。
-- **「体裁决定曲式」** → 体裁**不限定**曲式。同一种体裁可以用完全不同的结构。
-- **「分析曲式就够了，不必管体裁」** → 体裁决定了编制、长度期待与听者的预期，是分析的重要背景。
+- 「奏鸣曲＝奏鸣曲式」 → 一个是体裁，多乐章作品；一个是曲式，单乐章结构。大量奏鸣曲的乐章并不用奏鸣曲式。
+- 「名称相同就是同一件事」 → 两者同源但维度不同，如奏鸣曲与奏鸣曲式、赋格与赋格曲式。
+- 「体裁决定曲式」 → 体裁不限定曲式。同一种体裁可以用完全不同的结构。
+- 「分析曲式就够了，不必管体裁」 → 体裁决定编制、长度与听者预期，是分析的重要背景。
 :::
 
 ::: en
-The two words are used interchangeably all the time, yet they answer **two independent questions**:
+The two words are used interchangeably all the time, yet they answer two independent questions.
 
 | | Genre | Form |
 |---|---|---|
-| Asks | **what is it for** (occasion, forces, function) | **how is it built** (structural arrangement) |
+| Asks | what is it for (occasion, forces, function) | how it is built (structural arrangement) |
 | Examples | symphony, minuet, hymn, étude | sonata form, rondo, variation form |
-| Decide by | use and tradition | internal structure |
+| Decided by | use and tradition | internal structure |
 
-In one line: **genre is what kind of occasion the music belongs to; form is how it is organised inside.**
+Genre asks about **occasion**; form asks about **structure**.
+The first decides for whom and where the music sounds. The second decides how it is put together inside.
 
 ## Why they are so easily confused
 
-Because some names **exist in both dimensions**, and historically they are related:
+Because some names exist in both dimensions, and historically they are related:
 
 | Name | As genre | As form |
 |---|---|---|
-| **sonata** | a multi-movement instrumental work | — |
-| **sonata form** | — | a single-movement structure |
-| **fugue** | a polyphonic work | a way of writing |
-| **variations** | a kind of piece | variation form |
-| **canon** | a kind of piece or passage | canon form |
+| sonata | a multi-movement instrumental work | — |
+| sonata form | — | a single-movement structure |
+| fugue | a polyphonic work | a way of writing |
+| variations | a kind of piece | variation form |
+| canon | a kind of piece or passage | canon form |
 
-**"Sonata form" got its name because so many sonatas used that structure in their first movements** — so their
-kinship is real, but **they are not the same thing**.
+"Sonata form" got its name because so many sonatas used that structure in their first movements.
+Their kinship is real, but they are **not the same thing**.
 
 ## A practical table of distinctions
 
 | Statement | Correct understanding |
 |---|---|
-| a sonata's first movement **often** uses sonata form | but it **may also use variation or rondo form** (Beethoven wrote sonatas that do) |
-| a fugue is a **way of writing** | it has a corresponding structure (see [[concept:fugue-form|fugue form]]) but is not one fixed form |
-| "variations" is a **genre** | its interior is usually variation form (see [[concept:theme-variations|variation form]]) |
-| a symphony is a **genre** | its first movement often uses sonata form — the genre fixes forces and movement count, the form fixes each movement's construction |
+| a sonata's first movement often uses sonata form | but it may also use variation or rondo form — Beethoven wrote sonatas that do |
+| a fugue is a way of writing | it has a corresponding structure (see [[concept:fugue-form|fugue form]]) but is not one fixed form |
+| "variations" is a genre | its interior is usually variation form (see [[concept:theme-variations|variation form]]) |
+| a symphony is a genre | its first movement often uses sonata form: the genre fixes forces and movement count, the form fixes each movement's construction |
 
-The first row is the most useful: **it shows that genre does not constrain form** — if the two were one thing, a
-sonata first movement in variation form could not exist.
+The first row is the most useful: it shows that **genre does not constrain form**.
+Were the two one thing, a sonata first movement in variation form could not exist.
 
 ## Why the distinction matters
 
@@ -186,7 +188,7 @@ sonata first movement in variation form could not exist.
 |---|---|
 | in analysis | you will not read "this is a sonata" as "this is in sonata form" |
 | in listening | you can ask "what is this music for" before "how is it built" |
-| in writing | genre (forces, length, occasion) and form (structure) can be **chosen separately** |
+| in writing | genre (forces, length, occasion) and form (structure) can be chosen separately |
 
 ## Diagram: two independent dimensions
 
@@ -242,8 +244,8 @@ sonata first movement in variation form could not exist.
 
 ## Listen: one structure, many uses
 
-Use `progression` on a single harmonic skeleton. **The same structure can appear in any genre** — hymn, symphony or
-pop song — and that does not change what structure it is.
+Use `progression` on a single harmonic skeleton. The same structure can appear in any genre.
+Hymn, symphony or pop song may all use it, and that does not change what structure it is.
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"I → IV → V → I（结构不变，体裁可变）","label_en":"I-IV-V-I — the structure regardless of genre","hint":"逐个和弦依次听：这是结构，不是体裁","hint_en":"Hear each chord: this is structure, not genre"}
@@ -251,12 +253,12 @@ pop song — and that does not change what structure it is.
 
 ## Common misconceptions
 
-- **"Sonata means sonata form."** One is a **genre** (a multi-movement work), the other a **form** (a single-movement
+- "Sonata means sonata form." One is a genre (a multi-movement work), the other a form (a single-movement
   structure). Many movements in sonatas use neither.
-- **"Names that match mean the same thing."** "Sonata / sonata form", "fugue / fugue form", "variations / variation
-  form" are **related in origin but different dimensions**.
-- **"Genre determines form."** Genre does **not** constrain form. One genre accommodates entirely different
+- "Names that match mean the same thing." "Sonata / sonata form", "fugue / fugue form", "variations / variation
+  form" are related in origin but different dimensions.
+- "Genre determines form." Genre does not constrain form. One genre accommodates entirely different
   structures.
-- **"Form analysis is enough; genre is irrelevant."** Genre fixes the forces, the expected length and the listener's
+- "Form analysis is enough; genre is irrelevant." Genre fixes the forces, the expected length and the listener's
   expectations — essential background for analysis.
 :::

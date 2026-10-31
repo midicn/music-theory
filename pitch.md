@@ -47,19 +47,19 @@ updated: 2026-09-23
 | 880 Hz | 高一个八度 | 高音区 |
 
 音乐里的所有距离概念（音程、音阶、调）都建立在这个比例尺度上。也因此，音高在纸上是**等距的格子**，
-在频率上是**成倍增长的数**——两张图不是同一张，混用就会出错。
+在频率上是成倍增长的数——两张图不是同一张，混用就会出错。
 
 ## 音高是连续的，音名是离散的
 
-人的听觉能分辨出远小于半音的高低差别。而音名体系把这条连续线**切成了若干固定的点**，
+人的听觉能分辨出远小于半音的高低差别。而音名体系把这条连续线切成了若干固定的点，
 就像在一条斜坡上打桩。演奏时的"音不准"，本质就是落点离桩太远。
 
 这也解释了两件事：
 
-- **为什么弦乐器难**——没有品格，每个音都要自己找落点；
-- **为什么钢琴看起来简单**——落点已经被造出来了，按下去就是准确的。
+- 为什么弦乐器难——没有品格，每个音都要自己找落点；
+- 为什么钢琴看起来简单——落点已经被造出来了，按下去就是准确的。
 
-而在这两者之外还有一种情况：**滑音、揉弦、人声的过渡**根本不在桩上，它们是桩与桩之间的那段坡。
+而在这两者之外还有一种情况：滑音、揉弦、人声的过渡根本不在桩上，它们是桩与桩之间的那段坡。
 记谱系统对这一段几乎没有专门的符号，得靠奏法说明或直接听录音。
 
 ## 图示：同样的"一个八度"，两种画法
@@ -107,7 +107,7 @@ updated: 2026-09-23
 
 ## 听一听：音高是连续的
 
-把 12 个半音连着放，能听出这是一条**平滑上升的坡**，而不是 12 个彼此无关的点。
+把 12 个半音连着放，能听出这是一条平滑上升的坡，而不是 12 个彼此无关的点。
 听觉上"两个音之间还有空间"，正是音准能被听出来的原因。
 
 ```audiolab
@@ -116,11 +116,11 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「频率越高音越高，所以是一条直线」** → 听觉上不是直线。等距离的频率增长听起来是**越来越挤**的，
+- 「频率越高音越高，所以是一条直线」 → 听觉上不是直线。等距离的频率增长听起来是越来越挤的，
   所以频率轴必须画成等比，才与听感一致。
-- **「音高是客观的，音准是主观的」** → 反了。音高是主观听感，频率才是客观量。调音器显示的赫兹数是客观的，
+- 「音高是客观的，音准是主观的」 → 反了。音高是主观听感，频率才是客观量。调音器显示的赫兹数是客观的，
   它只是我们用来近似描述音高的工具。
-- **「钢琴上的每个键都对应一个固定频率」** → 只在十二平均律下成立。同一套键位如果按纯律调音，各音的赫兹数会整体改变。
+- 「钢琴上的每个键都对应一个固定频率」 → 只在十二平均律下成立。同一套键位如果按纯律调音，各音的赫兹数会整体改变。
 :::
 
 ::: en
@@ -144,7 +144,7 @@ The ear is counting **ratios**, not hertz.
 | 880 Hz | one octave above | high register |
 
 Every distance concept in music — intervals, scales, keys — is built on this ratio scale. That is why pitch
-appears as **evenly spaced steps** on paper but as a **doubling sequence** in frequency. The two pictures are
+appears as **evenly spaced steps** on paper but as a doubling sequence in frequency. The two pictures are
 not the same picture, and mixing them up causes real errors.
 
 ## Pitch is continuous, note names are discrete
@@ -155,10 +155,10 @@ that falls too far from its post.
 
 This explains two things at once:
 
-- **Why string instruments are hard** — there are no frets, so every note has to find its own landing point;
-- **Why the piano looks easy** — the landing points are manufactured. Press the key and the pitch is correct.
+- Why string instruments are hard — there are no frets, so every note has to find its own landing point;
+- Why the piano looks easy — the landing points are manufactured. Press the key and the pitch is correct.
 
-And there is a third case that is neither: **glissandi, vibrato, and vocal slides** do not sit on posts at all.
+And there is a third case that is neither: glissandi, vibrato, and vocal slides do not sit on posts at all.
 They are the slope between two posts. Notation has almost no dedicated symbol for them, so they are conveyed
 by performance instructions or simply by listening to a recording.
 
@@ -207,7 +207,7 @@ by performance instructions or simply by listening to a recording.
 
 ## Listen: pitch is continuous
 
-Play the twelve semitones in a row and you hear **a smooth rising slope**, not twelve unrelated points.
+Play the twelve semitones in a row and you hear a smooth rising slope, not twelve unrelated points.
 The sense that "there is space between two notes" is exactly why intonation can be heard at all.
 
 ```audiolab
@@ -216,10 +216,10 @@ The sense that "there is space between two notes" is exactly why intonation can 
 
 ## Common misconceptions
 
-- **"Higher frequency, so it is a straight line."** Perceptually it is not. Equal frequency steps sound
-  **increasingly crowded**, which is why the frequency axis has to be drawn geometric to match hearing.
-- **"Pitch is objective, intonation is subjective."** The reverse. Pitch is the perception; frequency is the
+- "Higher frequency, so it is a straight line." Perceptually it is not. Equal frequency steps sound
+  increasingly crowded, which is why the frequency axis has to be drawn geometric to match hearing.
+- "Pitch is objective, intonation is subjective." The reverse. Pitch is the perception; frequency is the
   objective quantity. A tuner's hertz reading is objective, but it is only a tool for approximating pitch.
-- **"Every key on a piano has one fixed frequency."** That holds only in twelve-tone equal temperament.
+- "Every key on a piano has one fixed frequency." That holds only in twelve-tone equal temperament.
   Retune the same keyboard to just intonation and every hertz value shifts.
 :::

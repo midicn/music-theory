@@ -41,14 +41,14 @@ updated: 2026-09-23
 | C → 上方 G（高十二度） | 纯十二度 | 纯五度 + 一个八度 |
 
 看名字能直接换算：**把复音程的度数减 7，就回到单音程**（大九度 → 大二度、
-纯十二度 → 纯五度）。所以复音程并不增加新的听辨类型，它只是把已经会的东西**抬了一个八度**。
+纯十二度 → 纯五度）。所以复音程并不增加新的听辨类型，它只是把已经会的东西抬了一个八度。
 
 ## 为什么还需要这套说法
 
 因为在写作里，"跳一个九度"和"跳一个二度"是两件事：
 
-- **单音程**决定旋律的轮廓 —— 级进还是跳进；
-- **复音程**决定声部之间的空间 —— 两个声部是贴着写还是拉得很开。
+- 单音程决定旋律的轮廓 —— 级进还是跳进；
+- 复音程决定声部之间的空间 —— 两个声部是贴着写还是拉得很开。
 
 同一段素材，把上方声部整体抬一个八度，音程全部"加 7"，旋律听起来还是那条，
 但两个声部之间的距离感完全改变。这属于 [[concept:register|音区]] 与配器的问题。
@@ -92,10 +92,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「复音程是另一类音程」** → 它只是单音程抬高八度的结果，性质（大/小/纯/增/减）完全不变。
-- **「九度听起来比二度难得多」** → 听辨上它就是"二度 + 八度"，先认单音程，再把八度听出来即可。
-- **「复音程不能超过两个八度」** → 可以，只是名称会继续加（如两个八度加三度）。演奏上受乐器音域限制，记谱上不受限。
-- **「同一度数一定是同一种距离」** → 九度既可能是大九度也可能是小九度，性质仍由单音程那一层决定。
+- 「复音程是另一类音程」 → 它只是单音程抬高八度的结果，性质（大/小/纯/增/减）完全不变。
+- 「九度听起来比二度难得多」 → 听辨上它就是"二度 + 八度"，先认单音程，再把八度听出来即可。
+- 「复音程不能超过两个八度」 → 可以，只是名称会继续加（如两个八度加三度）。演奏上受乐器音域限制，记谱上不受限。
+- 「同一度数一定是同一种距离」 → 九度既可能是大九度也可能是小九度，性质仍由单音程那一层决定。
 :::
 
 ::: en
@@ -120,8 +120,8 @@ category — they lift something you already know by an octave.
 
 Because in writing, "a leap of a ninth" and "a leap of a second" are two different acts:
 
-- **Simple intervals** shape the melodic outline — step or leap;
-- **Compound intervals** set the space between voices — written close together or spread far apart.
+- Simple intervals shape the melodic outline — step or leap;
+- Compound intervals set the space between voices — written close together or spread far apart.
 
 Take the same material and raise the upper voice by an octave: every interval gains 7, the melody still reads
 as the same melody, but the sense of distance between the parts changes completely. That belongs to
@@ -166,8 +166,8 @@ The same interval before and after an octave lift reads as "the same thing", yet
 
 ## Common misconceptions
 
-- **"A compound interval is a separate category."** It is a simple interval lifted an octave; the quality (major, minor, perfect, augmented, diminished) never changes.
-- **"Ninths are much harder to hear than seconds."** It is a second plus an octave. Identify the simple interval first, then hear the octave.
-- **"Compound intervals stop at two octaves."** They do not; the name simply keeps adding. Performance limits are the instrument's range, not notation.
-- **"One degree number always means one distance."** A ninth can be major or minor; the simple layer decides.
+- "A compound interval is a separate category." It is a simple interval lifted an octave; the quality (major, minor, perfect, augmented, diminished) never changes.
+- "Ninths are much harder to hear than seconds." It is a second plus an octave. Identify the simple interval first, then hear the octave.
+- "Compound intervals stop at two octaves." They do not; the name simply keeps adding. Performance limits are the instrument's range, not notation.
+- "One degree number always means one distance." A ninth can be major or minor; the simple layer decides.
 :::

@@ -47,23 +47,23 @@ updated: 2026-09-24
 
 ## 三条要注意的规则
 
-**① 弱拍的不协和必须是"经过"型。**
+① 弱拍的不协和必须是"经过"型。
 两声部同向级进时最安全；如果构成跳进，听感立刻变成"错音"。
 
-**② 不要每个弱拍都填经过音。**
+② 不要每个弱拍都填经过音。
 全部塞满会让织体失去呼吸，实质上已变成第三类（见 [[concept:third-species|第三类对位]]）。
 留白与填充的取舍，本身就是写作判断。
 
-**③ 两声部的节奏要"错开"而不是"叠住"。**
+③ 两声部的节奏要"错开"而不是"叠住"。
 如果两个声部总在同一时刻换音，第二类就退化成了"第一类加了个尾巴"。
 
 ## 与单音对位的关系
 
-第二类不是"另一个体系"，而是 [[concept:note-against-note|单音对位]] 的**第一步放宽**：
+第二类不是"另一个体系"，而是 [[concept:note-against-note|单音对位]] 的第一步放宽：
 
-> **第一类练"每一步都对"，第二类练"什么时候可以不那么对"。**
+> 第一类练"每一步都对"，第二类练"什么时候可以不那么对"。
 
-这个思路在整套训练里反复出现：**每次只放开一个限制，并给出配套的规则** ——
+这个思路在整套训练里反复出现：每次只放开一个限制，并给出配套的规则 ——
 放开弱拍，就用"级进经过"来约束它。
 
 ## 图示：强拍与弱拍的分工
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：协和与不协和的相邻
 
-第二类是两声部练习，本站放不出两声部。这里用 `interval` 对比**强拍与弱拍上会出现的两种音程**：
+第二类是两声部练习，两声部放不出来。这里用 `interval` 对比强拍与弱拍上会出现的两种音程：
 先听三度（协和，可当骨架），再听二度（不协和，只能当经过）。
 
 ```audiolab
@@ -117,10 +117,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「弱拍可以随便写不协和音」** → 必须**级进经过**。跳跃进入的不协和音听起来就是错音。
-- **「弱拍越满越好」** → 每个弱拍都填经过音会失去呼吸，实质已进入第三类的写法。
-- **「强拍的规则放宽了」** → 没有。强拍仍必须是协和音，第二类只放宽了弱拍。
-- **「第二类比第一类简单」** → 变量更多（要同时管强拍、弱拍与两声部的节奏关系），只是织体更流动。
+- 「弱拍可以随便写不协和音」 → 必须级进经过。跳跃进入的不协和音听起来就是错音。
+- 「弱拍越满越好」 → 每个弱拍都填经过音会失去呼吸，实质已进入第三类的写法。
+- 「强拍的规则放宽了」 → 没有。强拍仍必须是协和音，第二类只放宽了弱拍。
+- 「第二类比第一类简单」 → 变量更多（要同时管强拍、弱拍与两声部的节奏关系），只是织体更流动。
 :::
 
 ::: en
@@ -153,17 +153,17 @@ direction; if it is approached by leap, it immediately sounds like an error.
 effect turns it into third species (see [[concept:third-species|third species]]). Deciding where to leave space is
 itself a compositional judgement.
 
-**Three: the two voices should be offset, not stacked.** If both always change pitch at the same instant, second
+Three: the two voices should be offset, not stacked. If both always change pitch at the same instant, second
 species degenerates into "first species with a tail".
 
 ## Its relation to note-against-note writing
 
-Second species is not a separate system but the **first relaxation** of
+Second species is not a separate system but the first relaxation of
 [[concept:note-against-note|note-against-note]] writing:
 
 > **First species trains "every step right"; second species trains "when you may stop being quite so right".**
 
-The pattern recurs throughout the training: **relax one constraint at a time, and supply a rule to manage it.**
+The pattern recurs throughout the training: relax one constraint at a time, and supply a rule to manage it.
 Freeing the weak beat comes with the rule "pass by step".
 
 ## Diagram: the division of labour between beats
@@ -218,12 +218,12 @@ passing only).
 
 ## Common misconceptions
 
-- **"Weak beats can hold any dissonance."** It must be a **passing** dissonance approached and left by step. A
+- "Weak beats can hold any dissonance." It must be a passing dissonance approached and left by step. A
   leap into a dissonance sounds like a mistake.
-- **"Filling every weak beat is better."** That removes the breathing and effectively moves into third-species
+- "Filling every weak beat is better." That removes the breathing and effectively moves into third-species
   writing.
-- **"The strong-beat rule was relaxed."** It was not. Strong beats must still be consonant; only the weak beat was
+- "The strong-beat rule was relaxed." It was not. Strong beats must still be consonant; only the weak beat was
   freed.
-- **"Second species is easier than first."** More variables are in play (strong beat, weak beat, and the rhythmic
+- "Second species is easier than first." More variables are in play (strong beat, weak beat, and the rhythmic
   relation between the two voices); it is merely more flowing.
 :::

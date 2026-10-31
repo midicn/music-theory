@@ -62,7 +62,7 @@ updated: 2026-09-24
 | **转位** | **谁**在最下面？ | E 在低音 → 第一转位 |
 | **排列** | 各音**分别在哪里**？ | E 在低音，但 G 与 C 分居两个八度 |
 
-转位是"最低音的身份"，排列是"整体在音区上的分布"。**同一转位可以有多种排列。**
+转位是"最低音的身份"，排列是"整体在音区上的分布"。同一转位可以有多种排列。
 
 ## 图示：三音组，三种分布
 
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：三种排列
 
-用组件的三个按钮听同一组音 —— **「整体」是密集，「宽排列」是开放**。差别完全来自音区分布。
+用组件的三个按钮听同一组音 —— 「整体」是密集，「宽排列」是开放。差别完全来自音区分布。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"同一个和弦的三种排列","label_en":"One chord in three voicings","hint":"整体 / 分解 / 宽排列 —— 按顺序对比音区分布","hint_en":"Block, arpeggio, open — compare the spacing in order"}
@@ -116,10 +116,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「排列就是转位」** → 转位决定最低音是谁，排列决定各音的高度分布。**同一转位可以有多种排列。**
-- **「音都一样，听感应该一样」** → 不一样。极端情况下，排列变了会让人怀疑是不是另一个和弦。
-- **「音越多越厚」** → 低音区的密集排列只会糊。厚来自**跨音区的分布**，不来自音的数量。
-- **「密集排列总是更清晰」** → 在中高音区是；在低音区恰好相反。
+- 「排列就是转位」 → 转位决定最低音是谁，排列决定各音的高度分布。同一转位可以有多种排列。
+- 「音都一样，听感应该一样」 → 不一样。极端情况下，排列变了会让人怀疑是不是另一个和弦。
+- 「音越多越厚」 → 低音区的密集排列只会糊。厚来自跨音区的分布，不来自音的数量。
+- 「密集排列总是更清晰」 → 在中高音区是；在低音区恰好相反。
 :::
 
 ::: en
@@ -214,7 +214,7 @@ entirely from register distribution.
 ## Common misconceptions
 
 - **"Voicing is inversion."** Inversion fixes the bass note; voicing fixes where each note sits. **One inversion admits many voicings.**
-- **"Same notes should sound the same."** They do not. In extreme cases a different voicing makes you doubt the chord's identity.
-- **"More notes means thicker."** A close voicing low down only muddies. Thickness comes from **distribution across registers**, not from note count.
-- **"Close voicing is always clearer."** In the middle and upper registers yes; in the bass register exactly the opposite.
+- "Same notes should sound the same." They do not. In extreme cases a different voicing makes you doubt the chord's identity.
+- "More notes means thicker." A close voicing low down only muddies. Thickness comes from distribution across registers, not from note count.
+- "Close voicing is always clearer." In the middle and upper registers yes; in the bass register exactly the opposite.
 :::

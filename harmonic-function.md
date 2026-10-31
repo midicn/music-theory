@@ -48,8 +48,8 @@ updated: 2026-09-24
 | II 与 IV | 共享根音与三音 | II 可以替代 IV |
 | VII 与 V | 共享三音与五音（V7 里） | VII 承担属功能 |
 
-所以"七个级数"实际是**三组功能的多种表达**。这也是为什么分析时常常只标 T/S/D ——
-标记的是**作用**，不是**编号**。
+所以"七个级数"实际是三组功能的多种表达。这也是为什么分析时常常只标 T/S/D ——
+标记的是作用，不是编号。
 
 ## 功能进行的常规与非常规
 
@@ -60,14 +60,14 @@ updated: 2026-09-24
 | D → S | **反功能** | 属回到下属，听感"倒着走"，要谨慎使用 |
 | S → T（变格） | 常见 | 柔和收束，见 [[concept:cadence|终止式]] |
 
-"反功能"是这套体系里少见的**明确禁忌** —— 因为属已经是最紧张状态，
+"反功能"是这套体系里少见的明确禁忌 —— 因为属已经是最紧张状态，
 再回到下属等于把张力往后撤，听觉上会显得松散。
 
 ## 与小调的关系
 
-小调里功能关系**完全成立**，只是属功能必须靠升第 7 级才能拿到大三和弦
+小调里功能关系完全成立，只是属功能必须靠升第 7 级才能拿到大三和弦
 （见 [[concept:harmonic-minor|和声小调]]）。所以小调作品里的变化音不是"意外"，
-而是**功能需要的必需品**。
+而是功能需要的必需品。
 
 ## 图示：功能圈
 
@@ -116,7 +116,7 @@ updated: 2026-09-24
 
 ## 听一听：功能进行
 
-用进行播放器听 **T → S → D → T**（标准路线）与 **T → D → T**（省略下属）。
+用进行播放器听 T → S → D → T（标准路线）与 T → D → T（省略下属）。
 两者都收得住，区别在"绕了多远"。
 
 ```audiolab
@@ -129,10 +129,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「功能标记只是级数的别名」** → 它标的是**作用**。VI 在有些场合当主功能用，那时标 T 比标 VI 更有意义。
-- **「反功能是硬性禁止」** → 是"强倾向避免"。浪漫派之后有大量故意使用，效果是刻意松弛。
-- **「小调的功能关系不同」** → 完全一样，只是属功能要靠升第 7 级取得。
-- **「功能只用于古典音乐」** → 流行音乐的常见进行（如 I–V–vi–IV）同样可以用功能解释。
+- 「功能标记只是级数的别名」 → 它标的是作用。VI 在有些场合当主功能用，那时标 T 比标 VI 更有意义。
+- 「反功能是硬性禁止」 → 是"强倾向避免"。浪漫派之后有大量故意使用，效果是刻意松弛。
+- 「小调的功能关系不同」 → 完全一样，只是属功能要靠升第 7 级取得。
+- 「功能只用于古典音乐」 → 流行音乐的常见进行（如 I–V–vi–IV）同样可以用功能解释。
 :::
 
 ::: en
@@ -157,8 +157,8 @@ Because **some degrees share critical notes**:
 | II and IV | the root and third | II can substitute for IV |
 | VII and V | the third and fifth (within V7) | VII carries dominant function |
 
-So the "seven degrees" are really **several expressions of three functions**. It is why analysis often writes
-only T / S / D — it labels the **job**, not the number.
+So the "seven degrees" are really several expressions of three functions. It is why analysis often writes
+only T / S / D — it labels the job, not the number.
 
 ## Normal and abnormal successions
 
@@ -174,9 +174,9 @@ returning to the subdominant withdraws that tension and leaves the music soundin
 
 ## Relation to minor
 
-Functional relations hold **exactly the same way** in minor; the dominant simply requires a raised seventh to
+Functional relations hold exactly the same way in minor; the dominant simply requires a raised seventh to
 produce a major triad (see [[concept:harmonic-minor|harmonic minor]]). So accidentals in minor-key music are not
-surprises — **they are what the function demands.**
+surprises — they are what the function demands.
 
 ## Diagram: the functional circle
 
@@ -225,7 +225,7 @@ surprises — **they are what the function demands.**
 
 ## Listen: functional progressions
 
-Use the progression player for **T → S → D → T** (the standard route) and **T → D → T** (subdominant skipped).
+Use the progression player for T → S → D → T (the standard route) and T → D → T (subdominant skipped).
 Both close successfully; they differ in how far they travel.
 
 ```audiolab
@@ -238,8 +238,8 @@ Both close successfully; they differ in how far they travel.
 
 ## Common misconceptions
 
-- **"Function labels are just aliases for degree numbers."** They label the **job**. When a VI acts as a tonic, writing T says more than writing VI.
-- **"Retrogression is forbidden."** Strongly avoided, not forbidden. From the Romantics onward it is used deliberately, for slackening.
-- **"Minor keys work differently."** Exactly the same, except the dominant requires a raised seventh.
-- **"Function applies only to classical music."** The common pop loop (I–V–vi–IV) is just as analysable in functional terms.
+- "Function labels are just aliases for degree numbers." They label the job. When a VI acts as a tonic, writing T says more than writing VI.
+- "Retrogression is forbidden." Strongly avoided, not forbidden. From the Romantics onward it is used deliberately, for slackening.
+- "Minor keys work differently." Exactly the same, except the dominant requires a raised seventh.
+- "Function applies only to classical music." The common pop loop (I–V–vi–IV) is just as analysable in functional terms.
 :::

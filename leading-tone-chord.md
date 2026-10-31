@@ -35,7 +35,7 @@ updated: 2026-09-24
 > a 小调：G♯–B–D–F（vii°7，**减七**）
 
 它和属七和弦（V7）**功能相同** —— 都是属功能，都要解决到主和弦。
-差别在**低音位置**：属七的根音是属音，导七的根音是**导音**。
+差别在低音位置：属七的根音是属音，导七的根音是导音。
 
 ## 为什么它听起来比属七更"锐"
 
@@ -47,8 +47,8 @@ updated: 2026-09-24
 | V7 | 属音（稳定） | 有力，但低音本身是稳的 |
 | **vii°7** | **导音**（半音下方） | **更尖锐，更像"必须立刻解决"** |
 
-这也解释了为什么在**小调**里作曲家更偏爱导七：小调的属和弦需要升第 7 级才能变成大三和弦
-（见 [[concept:harmonic-minor|和声小调]]），而导七**用自然音阶就能得到**
+这也解释了为什么在小调里作曲家更偏爱导七：小调的属和弦需要升第 7 级才能变成大三和弦
+（见 [[concept:harmonic-minor|和声小调]]），而导七用自然音阶就能得到
 （把第 7 级升上去之后，第 7 级上叠三度就是减七和弦）。
 
 ## 两种形态
@@ -59,18 +59,18 @@ updated: 2026-09-24
 | 小调 | vii°7 | 减七度 | 2 |
 
 第二行要留意的：小调导七是 [[concept:diminished-seventh|减七和弦]]，
-**两个三全音**使它成为所有常用和弦里最不安定的一个。
+两个三全音使它成为所有常用和弦里最不安定的一个。
 
 ## 它与属七的替换关系
 
-在功能上二者可以互相替代，但**不能随意互换**：
+在功能上二者可以互相替代，但不能随意互换：
 
 | 替换 | 效果 |
 |---|---|
 | V7 → vii°7 | 张力增强（低音变成导音），低音线上升半音进入主音 |
 | vii°7 → V7 | 张力减弱，低音变稳，收束更"踏实" |
 
-所以选择哪一个，本质是在选**"结尾要多锐"**。
+所以选择哪一个，本质是在选"结尾要多锐"。
 
 ## 图示：同功能，不同低音
 
@@ -123,10 +123,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「导七和属七是两个不同的功能」** → 功能相同，都是属功能，都解决到主。区别只在低音位置与张力大小。
-- **「大调里的导七是减七和弦」** → 大调自然的导七是**半减七**（viiø7）。要得到减七，需要把第 4 级也升高（常见于小调或变化音写法）。
-- **「导七比属七更"高级"」** → 不是高级，是**更锐**。写作时按需要的力度选，不是按难度选。
-- **「导七只能用于小调」** → 大调同样常见，只是形态为半减七而非减七。
+- 「导七和属七是两个不同的功能」 → 功能相同，都是属功能，都解决到主。区别只在低音位置与张力大小。
+- 「大调里的导七是减七和弦」 → 大调自然的导七是半减七（viiø7）。要得到减七，需要把第 4 级也升高（常见于小调或变化音写法）。
+- 「导七比属七更"高级"」 → 不是高级，是更锐。写作时按需要的力度选，不是按难度选。
+- 「导七只能用于小调」 → 大调同样常见，只是形态为半减七而非减七。
 :::
 
 ::: en
@@ -136,8 +136,8 @@ A leading-tone seventh is a [[concept:seventh-chord|seventh chord]] built on **d
 > A minor: G♯–B–D–F (vii°7, a **diminished** seventh)
 
 It has the **same function** as the dominant seventh: both are dominant-function chords resolving to the tonic.
-They differ in **the bass**: the dominant seventh has the dominant as its root, the leading-tone seventh has the
-**leading tone**.
+They differ in the bass: the dominant seventh has the dominant as its root, the leading-tone seventh has the
+leading tone.
 
 ## Why it sounds sharper than a dominant seventh
 
@@ -149,7 +149,7 @@ Because the leading tone sits in the lowest voice. The bass is the most attended
 | V7 | the dominant (stable) | forceful, but the bass itself is settled |
 | **vii°7** | **the leading tone** (a semitone below) | **sharper, more "must resolve now"** |
 
-This also explains why composers favour it in **minor**: there the dominant needs a raised seventh to become a
+This also explains why composers favour it in minor: there the dominant needs a raised seventh to become a
 major triad (see [[concept:harmonic-minor|harmonic minor]]), whereas the leading-tone seventh **comes straight
 from the raised scale** — stack thirds on the raised seventh and you have a diminished seventh chord.
 
@@ -161,7 +161,7 @@ from the raised scale** — stack thirds on the raised seventh and you have a di
 | minor | vii°7 | diminished seventh | 2 |
 
 The second row matters: in minor the leading-tone seventh is a
-[[concept:diminished-seventh|diminished seventh]], and **two tritones** make it the least settled of the common
+[[concept:diminished-seventh|diminished seventh]], and two tritones make it the least settled of the common
 chords.
 
 ## Substituting one for the other
@@ -173,7 +173,7 @@ Functionally they can replace each other, but not indifferently:
 | V7 → vii°7 | tension increases (the bass becomes the leading tone), and the bass rises a semitone into the tonic |
 | vii°7 → V7 | tension eases, the bass settles, and the close feels firmer |
 
-So the choice is really a choice about **how sharp the ending should be**.
+So the choice is really a choice about how sharp the ending should be.
 
 ## Diagram: same function, different bass
 
@@ -227,8 +227,8 @@ position makes them sound completely different.
 
 ## Common misconceptions
 
-- **"Leading-tone and dominant sevenths are different functions."** Same function: both are dominant-function chords resolving to the tonic. They differ in bass position and degree of tension.
-- **"In major, the leading-tone seventh is diminished."** In a major key it is naturally **half-diminished** (viiø7). Getting a diminished seventh needs the fourth degree raised too (common in minor or in chromatic writing).
-- **"The leading-tone seventh is more advanced."** Not more advanced — **sharper**. Choose it by the force you need, not by difficulty.
-- **"It belongs to minor keys only."** It is just as common in major, merely as a half-diminished rather than diminished form.
+- "Leading-tone and dominant sevenths are different functions." Same function: both are dominant-function chords resolving to the tonic. They differ in bass position and degree of tension.
+- "In major, the leading-tone seventh is diminished." In a major key it is naturally half-diminished (viiø7). Getting a diminished seventh needs the fourth degree raised too (common in minor or in chromatic writing).
+- "The leading-tone seventh is more advanced." Not more advanced — sharper. Choose it by the force you need, not by difficulty.
+- "It belongs to minor keys only." It is just as common in major, merely as a half-diminished rather than diminished form.
 :::

@@ -40,9 +40,9 @@ updated: 2026-09-23
 
 - **起音**：从静音爬到最大音量用了多久。极短 = 敲击感（钢琴、鼓），较长 = 吹奏感（长笛、弦乐）。
 - **衰减**：从峰值落下来的形状。落得快 = 颗粒分明，落得慢 = 连绵。
-- **收尾**：放开之后余音怎么消失。
+- 收尾：放开之后余音怎么消失。
 
-**三、共鸣体与辐射方式。** 同一个激励方式配上不同的箱体，音色会差出十万八千里。
+三、共鸣体与辐射方式。 同一个激励方式配上不同的箱体，音色会差出十万八千里。
 钢琴的铸铁框架与音板、小提琴的拱形面板、管风琴的金属与木管，本质都是"给振动选一个放大与过滤的形状"。
 
 ## 图示：三段起音包络
@@ -87,12 +87,12 @@ updated: 2026-09-23
 | 方波 | 奇次分音，衰减较慢 | 空旷、带"电子味" |
 | 锯齿波 | 全部整数次分音 | 明亮、粗糙、像弦乐 |
 
-真实的乐器音色都是这些基础形状的**混合加变化**，而且变化过程随起音段在动 ——
+真实的乐器音色都是这些基础形状的混合加变化，而且变化过程随起音段在动 ——
 所以音色无法用一条静态曲线写完。
 
 ## 听一听：音色的"对照组"
 
-下面这些音全部由站内合成器发出，**音色完全一致**。
+下面这些音全部由站内合成器发出，音色完全一致。
 把它当作一条基准线：换一件乐器演奏同样的音，你听到的全部差别就是音色本身。
 
 ```audiolab
@@ -101,16 +101,16 @@ updated: 2026-09-23
 
 ## 音色在写作里怎么用
 
-- **换人说话**：主题交给不同乐器，等于换了一个叙述者，结构与旋律不必改。
-- **混合成新色**：两件乐器齐奏时，分音互相补足，会得到一个"既不是甲也不是乙"的第三音色。木管与弦乐的混合是配器里最常用的一招。
-- **音区即音色**：同一件乐器在不同 [[concept:register|音区]] 里音色差别极大，所以"哪件乐器"和"哪个音区"其实是同一个决定。
+- 换人说话：主题交给不同乐器，等于换了一个叙述者，结构与旋律不必改。
+- 混合成新色：两件乐器齐奏时，分音互相补足，会得到一个"既不是甲也不是乙"的第三音色。木管与弦乐的混合是配器里最常用的一招。
+- 音区即音色：同一件乐器在不同 [[concept:register|音区]] 里音色差别极大，所以"哪件乐器"和"哪个音区"其实是同一个决定。
 
 ## 常见误解
 
-- **「音色是主观的，没法讨论」** → 印象确实主观，但成因完全客观：分音构成与包络都能被测量。
-- **「音色就是乐器的牌子」** → 同一件乐器在不同音区、不同力度、不同奏法下音色各不相同。牌子只是其中一个变量。
-- **「音色和音高无关」** → 相关。音高变了，分音的绝对频率跟着变，共鸣体的响应也随之改变，音色必然一起变。
-- **「正弦波听起来最好」** → 它只是信息最少。旋律用纯正弦波演奏会显得寡淡，正因为缺少分音带来的辨识度。
+- 「音色是主观的，没法讨论」 → 印象确实主观，但成因完全客观：分音构成与包络都能被测量。
+- 「音色就是乐器的牌子」 → 同一件乐器在不同音区、不同力度、不同奏法下音色各不相同。牌子只是其中一个变量。
+- 「音色和音高无关」 → 相关。音高变了，分音的绝对频率跟着变，共鸣体的响应也随之改变，音色必然一起变。
+- 「正弦波听起来最好」 → 它只是信息最少。旋律用纯正弦波演奏会显得寡淡，正因为缺少分音带来的辨识度。
 :::
 
 ::: en
@@ -129,9 +129,9 @@ partials sound bright, sharp, metallic; suppressed upper partials sound round, s
 - **Attack**: how long it takes to climb from silence to full level. Very short reads as percussion (piano,
   drums); longer reads as blowing or bowing (flute, strings).
 - **Decay**: the shape of the fall from the peak. A fast fall gives articulation; a slow one gives continuity.
-- **Release**: how the tail disappears once you let go.
+- Release: how the tail disappears once you let go.
 
-**Three: the resonator and how it radiates.** The same excitation through a different body changes everything.
+Three: the resonator and how it radiates. The same excitation through a different body changes everything.
 A piano's cast-iron frame and soundboard, a violin's arched belly, an organ's metal and wooden pipes — all are
 ways of choosing a shape to amplify and filter the vibration.
 
@@ -178,12 +178,12 @@ partial patterns:
 | Square | odd partials, decaying slowly | hollow, electronic |
 | Sawtooth | all integer partials | bright, rough, string-like |
 
-Real instrument timbres are **mixtures of these shapes that change over time**, and the change is fastest during
+Real instrument timbres are mixtures of these shapes that change over time, and the change is fastest during
 the attack — which is why a single static curve can never describe a timbre completely.
 
 ## Listen: the control case for timbre
 
-Every tone below comes from the same in-page synth and therefore has **exactly the same timbre**.
+Every tone below comes from the same in-page synth and therefore has exactly the same timbre.
 Treat it as a baseline: play the same notes on an instrument and everything you hear differently is timbre.
 
 ```audiolab
@@ -192,14 +192,14 @@ Treat it as a baseline: play the same notes on an instrument and everything you 
 
 ## How timbre is used in writing
 
-- **A change of narrator.** Give the theme to another instrument and you have a new speaker without altering a single note of structure or melody.
-- **Blending into a third colour.** Two instruments in unison fill in each other's partials and produce a sound that is neither. Mixing woodwind with strings is the most common trick in orchestration.
-- **Register is timbre.** One instrument changes character drastically across [[concept:register|register]], so "which instrument" and "which register" are really the same decision.
+- A change of narrator. Give the theme to another instrument and you have a new speaker without altering a single note of structure or melody.
+- Blending into a third colour. Two instruments in unison fill in each other's partials and produce a sound that is neither. Mixing woodwind with strings is the most common trick in orchestration.
+- Register is timbre. One instrument changes character drastically across [[concept:register|register]], so "which instrument" and "which register" are really the same decision.
 
 ## Common misconceptions
 
-- **"Timbre is subjective, so it cannot be discussed."** The impression is subjective; the causes are entirely objective, since both partial content and envelope can be measured.
-- **"Timbre means the maker's name on the instrument."** One instrument changes timbre by register, dynamic and technique. The maker is only one variable.
-- **"Timbre has nothing to do with pitch."** It does. Change the pitch and every partial's absolute frequency changes with it, which changes how the resonator responds.
-- **"Sine waves sound best."** They simply carry the least information. A melody on pure sine tones sounds bland precisely because nothing distinguishes one from another.
+- "Timbre is subjective, so it cannot be discussed." The impression is subjective; the causes are entirely objective, since both partial content and envelope can be measured.
+- "Timbre means the maker's name on the instrument." One instrument changes timbre by register, dynamic and technique. The maker is only one variable.
+- "Timbre has nothing to do with pitch." It does. Change the pitch and every partial's absolute frequency changes with it, which changes how the resonator responds.
+- "Sine waves sound best." They simply carry the least information. A melody on pure sine tones sounds bland precisely because nothing distinguishes one from another.
 :::

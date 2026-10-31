@@ -47,18 +47,18 @@ updated: 2026-09-25
 
 **只有一个判据**：
 
-> **弧线两端的音高相同 → 连音线；不同 → 圆滑线。**
+> 弧线两端的音高相同 → 连音线；不同 → 圆滑线。
 
 | 谱面 | 判断 | 实际效果 |
 |---|---|---|
 | `♩~♪` 两个都是 C | **连音线** | 一个 1.5 拍的 C |
 | `C~D` 两个音不同 | **圆滑线** | 两个音都发声，连奏 |
 
-**所以遇到弧线，第一步不是看它有多长，而是看两端是什么音。**
+所以遇到弧线，第一步不是看它有多长，而是看两端是什么音。
 
 ## 各自的用途
 
-**连音线**（回顾 [[concept:note-values|音符时值]]）：
+连音线（回顾 [[concept:note-values|音符时值]]）：
 
 | 情形 | 为什么需要 |
 |---|---|
@@ -66,7 +66,7 @@ updated: 2026-09-25
 | 音跨过**拍点** | 让拍的分组仍然看得清 |
 | 所有音高相同 | 这是连音线成立的**前提** |
 
-**圆滑线**：
+圆滑线：
 
 | 情形 | 含义 |
 |---|---|
@@ -74,12 +74,12 @@ updated: 2026-09-25
 | 声乐 | **一字多音** —— 一个音节唱多个音 |
 | 木管 / 弦乐 | 提示**换气位置**与**弓法分组** |
 
-**第三行很实用**：管乐手看到圆滑线就知道这一段**要一口气吹完**；弦乐手据此决定一弓拉几个音
+第三行很实用：管乐手看到圆滑线就知道这一段要一口气吹完；弦乐手据此决定一弓拉几个音
 （见 [[concept:articulation|演奏法记号]] 与 [[concept:breath-phrasing|呼吸与句读]]）。
 
 ## 一个容易搞错的情形
 
-**同一小节内相邻的两个同音**：
+同一小节内相邻的两个同音：
 
 | 写法 | 含义 |
 |---|---|
@@ -87,10 +87,10 @@ updated: 2026-09-25
 | 写两个音 + **连音线** | **一个音**（时值相加） |
 | 写两个音 + **圆滑线** | **两个音**（各自发声，但连奏） |
 
-**第二与第三行的区别在"音高是否相同"** —— 如果音高相同、你却把它当圆滑线读，
-就会**多弹一次**（这在钢琴上是很明显的错误）。
+第二与第三行的区别在"音高是否相同" —— 如果音高相同、你却把它当圆滑线读，
+就会多弹一次（这在钢琴上是很明显的错误）。
 
-**在钢琴与弦乐上，音高相同且带连音线时**：**只发声一次**，不要重新击键或换弓。
+在钢琴与弦乐上，音高相同且带连音线时：只发声一次，不要重新击键或换弓。
 
 ## 图示：一条弧线，两种含义
 
@@ -135,7 +135,7 @@ updated: 2026-09-25
 
 ## 听一听：一次发声与两次发声
 
-本站无法演示谱面，但可以听**同一个音重复两次**与**一个持续音**的差别 ——
+谱面演示不了，但可以听同一个音重复两次与一个持续音的差别 ——
 这正是"圆滑线读法"与"连音线读法"在听觉上的分界。
 
 ```audiolab
@@ -144,10 +144,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「两种线是一回事」** → 完全不同：一个**合并时值**，一个**表示连奏**。判断看两端音高。
-- **「连音线连接的音要各弹一次」** → 只发声**一次**（时值相加）。重弹是明显错误。
-- **「圆滑线只用于器乐」** → 声乐里它表示**一字多音**，是最常见的用法之一。
-- **「长弧线一定是圆滑线」** → 长度不是判据。**音高**才是判据（同音相连就是连音线，多长都一样）。
+- 「两种线是一回事」 → 完全不同：一个合并时值，一个表示连奏。判断看两端音高。
+- 「连音线连接的音要各弹一次」 → 只发声一次（时值相加）。重弹是明显错误。
+- 「圆滑线只用于器乐」 → 声乐里它表示一字多音，是最常见的用法之一。
+- 「长弧线一定是圆滑线」 → 长度不是判据。音高才是判据（同音相连就是连音线，多长都一样）。
 :::
 
 ::: en
@@ -170,7 +170,7 @@ commonest reading error among beginners.
 
 **One test only**:
 
-> **Same pitch at both ends of the arc means a tie; different pitches mean a slur.**
+> Same pitch at both ends of the arc means a tie; different pitches mean a slur.
 
 | Notation | Verdict | Actual effect |
 |---|---|---|
@@ -181,7 +181,7 @@ commonest reading error among beginners.
 
 ## What each is for
 
-**Ties** (recall [[concept:note-values|note values]]):
+Ties (recall [[concept:note-values|note values]]):
 
 | Case | Why needed |
 |---|---|
@@ -189,7 +189,7 @@ commonest reading error among beginners.
 | a note crossing a **beat** | keeps the beat grouping visible |
 | all pitches equal | the **precondition** for a tie |
 
-**Slurs**:
+Slurs:
 
 | Case | Meaning |
 |---|---|
@@ -197,13 +197,13 @@ commonest reading error among beginners.
 | vocal | **one syllable over several notes** |
 | wind / strings | indicates **where to breathe** and how to group a bow |
 
-**The third row is practical**: a wind player reading a slur knows that passage must be played in one breath, and a
+The third row is practical: a wind player reading a slur knows that passage must be played in one breath, and a
 string player decides how many notes go in one bow (see [[concept:articulation|articulation]] and
 [[concept:breath-phrasing|breathing and phrasing]]).
 
 ## One case that is easily misread
 
-**Two adjacent notes of the same pitch inside one bar**:
+Two adjacent notes of the same pitch inside one bar:
 
 | Written as | Meaning |
 |---|---|
@@ -211,10 +211,10 @@ string player decides how many notes go in one bow (see [[concept:articulation|a
 | two notes plus a **tie** | **one note** (values added) |
 | two notes plus a **slur** | **two notes** (both sound, played legato) |
 
-**The difference between rows two and three is whether the pitches are equal.** If the pitches are equal and you
-read it as a slur, you will **play the note twice** — a very audible error on piano.
+The difference between rows two and three is whether the pitches are equal. If the pitches are equal and you
+read it as a slur, you will play the note twice — a very audible error on piano.
 
-**On piano and strings, equal pitches joined by a tie sound once**: do not re-strike the key or change bow.
+On piano and strings, equal pitches joined by a tie sound once: do not re-strike the key or change bow.
 
 ## Diagram: one arc, two meanings
 
@@ -259,7 +259,7 @@ read it as a slur, you will **play the note twice** — a very audible error on 
 
 ## Listen: one attack or two
 
-This site cannot show a staff, but it can play **a repeated note twice** against **one sustained note** — exactly
+This site cannot show a staff, but it can play a repeated note twice against one sustained note — exactly
 the aural difference between reading an arc as a slur and as a tie.
 
 ```audiolab
@@ -268,11 +268,11 @@ the aural difference between reading an arc as a slur and as a tie.
 
 ## Common misconceptions
 
-- **"The two signs are the same."** Entirely different: one **adds durations**, the other **marks legato**. The test
+- "The two signs are the same." Entirely different: one adds durations, the other marks legato. The test
   is the pitch at each end.
-- **"Notes joined by a tie are each played."** The note sounds **once** (values added). Re-striking is a clear error.
-- **"Slurs are only for instruments."** In vocal music a slur means **one syllable over several notes**, one of its
+- "Notes joined by a tie are each played." The note sounds once (values added). Re-striking is a clear error.
+- "Slurs are only for instruments." In vocal music a slur means one syllable over several notes, one of its
   commonest uses.
-- **"A long arc must be a slur."** Length is not the test. **Pitch** is — equal pitches make a tie however long it
+- "A long arc must be a slur." Length is not the test. Pitch is — equal pitches make a tie however long it
   is.
 :::

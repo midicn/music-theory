@@ -52,8 +52,8 @@ updated: 2026-09-24
 | 判断标准 | 和弦连接是否合理 | **每条线单独听是否像旋律** |
 | 二者关系 | —— | 对位是"线"，和声是"线交会的结果" |
 
-关键认识：**和声不是先摆好、再让旋律去填的**；在对位思维里，
-**和声是几条线走到一起时自然产生的纵向结果**（前面 [[concept:voice-leading|声部进行]]
+关键认识：和声不是先摆好、再让旋律去填的；在对位思维里，
+和声是几条线走到一起时自然产生的纵向结果（前面 [[concept:voice-leading|声部进行]]
 讲的就是同一件事的另一面）。
 
 ## 五类对位：一条训练阶梯
@@ -68,7 +68,7 @@ updated: 2026-09-24
 | **切分对位** | 用延留音错开重音 | 处理挂留与解决 |
 | **华丽对位** | 自由混合以上各种 | 无预设，接近真实写作 |
 
-这条阶梯的设计很值得注意：**它把"同时处理多件事"拆成"每次只加一件"** ——
+这条阶梯的设计很值得注意：它把"同时处理多件事"拆成"每次只加一件" ——
 这是任何复杂技能训练的通用原则。具体规则见 [[concept:first-species|第一类对位]]。
 
 ## 图示：同一时刻的两种视角
@@ -115,8 +115,8 @@ updated: 2026-09-24
 
 ## 听一听：纵向关系与横向线条
 
-对位是两条线的事，而本站的听辨件是**单声部/和弦型**的 —— 这里放不出真正的两声部对位。
-所以我只用 `interval` 演示**纵向的那一面**（两条线在同一时刻形成的音程），
+对位是两条线的事，而这里的听辨件是单声部/和弦型的 —— 这里放不出真正的两声部对位。
+所以我只用 `interval` 演示纵向的那一面（两条线在同一时刻形成的音程），
 横向的线条感请到上面的实例里听（巴赫的二部创意曲是最短路径）。
 
 ```audiolab
@@ -125,10 +125,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「对位就是几条旋律一起响」** → 关键在**每条都必须是旋律**。几条线互相让路、彼此补齐，才能算对位。
-- **「对位与和声是两套东西」** → 是同一件事的两个视角：和声是纵向结果，对位是横向过程。
-- **「主调音乐比对位低级」** → 是两种织体，分工不同。主调更适合叙述与情绪铺陈，复调更适合发展与编织。
-- **「对位法是过时的教条」** → 它训练的是"同时处理横向与纵向"的能力，这个能力在爵士编曲、影视配器里同样用得上。
+- 「对位就是几条旋律一起响」 → 关键在每条都必须是旋律。几条线互相让路、彼此补齐，才能算对位。
+- 「对位与和声是两套东西」 → 是同一件事的两个视角：和声是纵向结果，对位是横向过程。
+- 「主调音乐比对位低级」 → 是两种织体，分工不同。主调更适合叙述与情绪铺陈，复调更适合发展与编织。
+- 「对位法是过时的教条」 → 它训练的是"同时处理横向与纵向"的能力，这个能力在爵士编曲、影视配器里同样用得上。
 :::
 
 ::: en
@@ -157,7 +157,7 @@ The test is blunt and practical: no analytical tools needed, just sing it.
 | Relation | — | counterpoint is the lines; harmony is where they meet |
 
 The key realisation: **harmony is not laid out first and then filled by melody.** In contrapuntal thinking,
-**harmony is the vertical result of several lines arriving together** — the other face of what
+harmony is the vertical result of several lines arriving together — the other face of what
 [[concept:voice-leading|voice leading]] describes.
 
 ## Five species: a training ladder
@@ -172,7 +172,7 @@ The classic method adds complexity one step at a time so the student handles a s
 | **fourth** | suspensions displace the accents | holding and resolving |
 | **fifth** | a free mixture of all the above | no preset; close to real writing |
 
-Note the design: **it breaks "handling several things at once" into "add one thing at a time"** — a general
+Note the design: it breaks "handling several things at once" into "add one thing at a time" — a general
 principle in training any complex skill. Rules are covered under [[concept:first-species|first species]].
 
 ## Diagram: two views of the same instant
@@ -220,7 +220,7 @@ principle in training any complex skill. Rules are covered under [[concept:first
 ## Listen: the vertical relation, and the lines you must hear elsewhere
 
 Counterpoint needs two voices, and this site's listening components are single-voice or chord-based — so a true
-two-part example cannot be played here. I use `interval` to demonstrate **the vertical face** (the interval the
+two-part example cannot be played here. I use `interval` to demonstrate the vertical face (the interval the
 two lines form at one instant); for the horizontal lines, go to the instances above — Bach's two-part inventions
 are the shortest route.
 
@@ -230,12 +230,12 @@ are the shortest route.
 
 ## Common misconceptions
 
-- **"Counterpoint just means several melodies at once."** The point is that **each must be a melody**. Lines that
+- "Counterpoint just means several melodies at once." The point is that each must be a melody. Lines that
   make way for one another and complete one another qualify; simultaneous noodling does not.
-- **"Counterpoint and harmony are two separate subjects."** Two views of one thing: harmony is the vertical
+- "Counterpoint and harmony are two separate subjects." Two views of one thing: harmony is the vertical
   result, counterpoint the horizontal process.
-- **"Homophonic music is inferior to counterpoint."** They are two textures with different jobs. Homophony is
+- "Homophonic music is inferior to counterpoint." They are two textures with different jobs. Homophony is
   better for narration and mood; polyphony for development and weaving.
-- **"Species counterpoint is obsolete dogma."** It trains the ability to handle horizontal and vertical
+- "Species counterpoint is obsolete dogma." It trains the ability to handle horizontal and vertical
   simultaneously — an ability jazz arranging and film orchestration need just as much.
 :::

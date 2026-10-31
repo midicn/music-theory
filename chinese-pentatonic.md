@@ -58,9 +58,9 @@ updated: 2026-09-23
 
 ## 结构上的两个要点
 
-1. **同一批音、五个主音** —— 与 [[concept:dorian|教会调式]] 的思路一致：
+1. 同一批音、五个主音 —— 与 [[concept:dorian|教会调式]] 的思路一致：
    音相同，重心不同，色彩就不同。
-2. **没有半音，所以没有导音** —— 由此带来旋法上的自由：乐句可以停在任何一个音上，
+2. 没有半音，所以没有导音 —— 由此带来旋法上的自由：乐句可以停在任何一个音上，
    收束靠的是落音习惯与节奏，而不是和声推进。
 
 ## 图示：五个主音
@@ -101,24 +101,24 @@ updated: 2026-09-23
 
 ## 听一听：五声骨架
 
-听一条五声旋律时，试着找出每个乐句**落在哪个音上** —— 落音决定主音，
+听一条五声旋律时，试着找出每个乐句落在哪个音上 —— 落音决定主音，
 也决定这支曲子在五个调式里的归属。这正是"同一批音、五个主音"的实感。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","A4","C5"],"label":"五声（宫调式，从宫起）","label_en":"Pentatonic, gong mode (starting on gong)","hint":"点「上行」先记骨架；再想若从徵起会是什么样","hint_en":"Try Up to fix the frame, then imagine the same notes starting on zhi","gap":0.42}
 ```
 
-> **取材说明**：本站的实例池里，中国民歌只存在于 `chinafolk` 来源，该来源的曲目
-> 属于**仅限学习研究**的许可档位（catalog 分区为 study）。按全库的取材规则，
+> 取材说明：这里的实例池里，中国民歌只存在于 `chinafolk` 来源，该来源的曲目
+> 属于仅限学习研究的许可档位（catalog 分区为 study）。按全库的取材规则，
 > 这一条属于"高优先级池内确实没有该主题曲目"的例外情形，故仍取用，
 > 并由行内徽标逐曲标注实际档位。
 
 ## 常见误解
 
-- **「宫就是主音」** → 宫是音级名之一。主音可以是宫、商、角、徵、羽中的任何一个。
-- **「五声调式=中国音乐」** → 五声在多国都有；中国音乐的特点在于五个音的**命名、调式体系与旋法**，不在音阶本身。
-- **「五声就是大调去掉两个音」** → 结构上可以这样理解（见 [[concept:pentatonic|五声音阶]]），但它不因此从属于大小调体系。
-- **「羽调式就是小调」** → 音程结构相同，但功能与旋法不同 —— 五声里没有导音，也没有属—主的和声推进。
+- 「宫就是主音」 → 宫是音级名之一。主音可以是宫、商、角、徵、羽中的任何一个。
+- 「五声调式=中国音乐」 → 五声在多国都有；中国音乐的特点在于五个音的命名、调式体系与旋法，不在音阶本身。
+- 「五声就是大调去掉两个音」 → 结构上可以这样理解（见 [[concept:pentatonic|五声音阶]]），但它不因此从属于大小调体系。
+- 「羽调式就是小调」 → 音程结构相同，但功能与旋法不同 —— 五声里没有导音，也没有属—主的和声推进。
 :::
 
 ::: en
@@ -157,7 +157,7 @@ minor. That layer belongs to the Chinese music context — see
 
 1. **One set of notes, five tonics** — the same idea as the [[concept:dorian|church modes]]: identical
    pitches, a different centre of gravity, a different colour.
-2. **No semitone, therefore no leading tone** — which frees the melodic writing: a phrase can come to rest on
+2. No semitone, therefore no leading tone — which frees the melodic writing: a phrase can come to rest on
    any note, and closure is carried by the closing note and the rhythm rather than by harmonic drive.
 
 ## Diagram: five tonics
@@ -198,7 +198,7 @@ minor. That layer belongs to the Chinese music context — see
 
 ## Listen: the pentatonic frame
 
-As you listen to a pentatonic melody, try to catch **which note each phrase comes to rest on**. The closing note
+As you listen to a pentatonic melody, try to catch which note each phrase comes to rest on. The closing note
 decides the tonic, and therefore which of the five modes the piece belongs to. That is the felt reality of "one
 set of notes, five tonics".
 
@@ -206,15 +206,15 @@ set of notes, five tonics".
 {"type":"scale","notes":["C4","D4","E4","G4","A4","C5"],"label":"五声（宫调式，从宫起）","label_en":"Pentatonic, gong mode (starting on gong)","hint":"点「上行」先记骨架","hint_en":"Try Up to fix the frame first","gap":0.42}
 ```
 
-> **Sourcing note**: in this library Chinese folk tunes exist only in the `chinafolk` source, whose tracks carry
+> Sourcing note: in this library Chinese folk tunes exist only in the `chinafolk` source, whose tracks carry
 > a study-and-research-only licence tier (catalog zone `study`). Under the library-wide sourcing rule this is the
 > documented exception — the higher-priority pools genuinely hold no material on this topic — so the tracks are
 > used, and the inline badge marks each track's actual tier.
 
 ## Common misconceptions
 
-- **"Gong means tonic."** Gong is one of the five degree names. The tonic can be any of gong, shang, jiao, zhi or yu.
-- **"Pentatonic modes are Chinese music."** Pentatonic material is international; what is Chinese here is the **naming, the modal system and the melodic practice**, not the note set.
-- **"It is just a major scale minus two notes."** Structurally it can be described that way (see [[concept:pentatonic|pentatonic scale]]), but that does not place it under the major-minor system.
-- **"The yu mode is minor."** Same interval pattern, different function and melodic practice — there is no leading tone and no dominant-to-tonic harmonic drive.
+- "Gong means tonic." Gong is one of the five degree names. The tonic can be any of gong, shang, jiao, zhi or yu.
+- "Pentatonic modes are Chinese music." Pentatonic material is international; what is Chinese here is the naming, the modal system and the melodic practice, not the note set.
+- "It is just a major scale minus two notes." Structurally it can be described that way (see [[concept:pentatonic|pentatonic scale]]), but that does not place it under the major-minor system.
+- "The yu mode is minor." Same interval pattern, different function and melodic practice — there is no leading tone and no dominant-to-tonic harmonic drive.
 :::

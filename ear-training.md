@@ -47,11 +47,11 @@ updated: 2026-09-25
 | **③ 功能** | 和声在做什么 | "这停在属上，还要继续"（见 [[concept:harmonic-function|和声功能]]） |
 | **④ 预听** | **看谱就知道大概是什么声音** | 视奏与视唱的前提 |
 
-**第④层是练耳的"毕业标准"**：不是听到才知道，而是**看到就能预知**。
+**第④层是练耳的"毕业标准"**：不是听到才知道，而是看到就能预知。
 这也是视唱训练的核心目的（见 [[concept:sight-singing|视唱方法]]）。
 
-**第②层最实用**：能不能听出"一句话说完了"，
-直接决定了你能不能在合奏中**数准进入的位置**（见 [[concept:ensemble-listening|合奏与倾听]]）。
+第②层最实用：能不能听出"一句话说完了"，
+直接决定了你能不能在合奏中数准进入的位置（见 [[concept:ensemble-listening|合奏与倾听]]）。
 
 ## 四种有效方法
 
@@ -62,15 +62,15 @@ updated: 2026-09-25
 | **听写** | 把听到的写下来 | 写不出就是没听清 |
 | **分析真实作品** | 用真实曲目而非练习材料 | 真实音乐里有复杂与例外 |
 
-**第二行最被低估**：很多人"觉得听出来了"，但**唱不准** ——
-那就说明其实没听清。**唱是练耳的照妖镜。**
+第二行最被低估：很多人"觉得听出来了"，但唱不准 ——
+那就说明其实没听清。唱是练耳的照妖镜。
 
-**第四行也很重要**：练习材料（如孤立的音程）是**去脉络化**的，
-而真实音乐里，音程的意义**取决于上下文**（见 [[concept:interval-hearing|音程听辨]]）。
+第四行也很重要：练习材料（如孤立的音程）是去脉络化的，
+而真实音乐里，音程的意义取决于上下文（见 [[concept:interval-hearing|音程听辨]]）。
 
 ## 分项训练的分工
 
-本站另有四条分项条目，各管一层：
+另有四条分项条目，各管一层：
 
 | 条目 | 管什么 |
 |---|---|
@@ -120,7 +120,7 @@ updated: 2026-09-25
 
 ## 听一听：从关系开始
 
-用 `interval` 组件听一个音程 —— **练耳的第一步就是问"这是几度、什么性质"**，
+用 `interval` 组件听一个音程 —— 练耳的第一步就是问"这是几度、什么性质"，
 而不是问"这是什么音名"。先听，再在心里说出关系，然后点第二个音核对。
 
 ```audiolab
@@ -130,10 +130,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「练耳就是练绝对音高」** → 目标相反：练**关系**。绝对音高是加分项，且难以有效训练。
-- **「练耳靠天赋」** → **相对音高能力可通过练习获得**；方法比天赋重要。
-- **「练耳要专门抽时间」** → 四种方法都能融入日常：练琴时听、听音乐时分析、随时唱。
-- **「能听出来就够了」** → **唱得准、写得下**才是检验标准。"感觉听懂了"往往是错觉。
+- 「练耳就是练绝对音高」 → 目标相反：练关系。绝对音高是加分项，且难以有效训练。
+- 「练耳靠天赋」 → 相对音高能力可通过练习获得；方法比天赋重要。
+- 「练耳要专门抽时间」 → 四种方法都能融入日常：练琴时听、听音乐时分析、随时唱。
+- 「能听出来就够了」 → 唱得准、写得下才是检验标准。"感觉听懂了"往往是错觉。
 :::
 
 ::: en
@@ -155,10 +155,10 @@ effectively; **relative pitch (hearing relations) can be acquired through practi
 | **3 function** | what the harmony is doing | "that stopped on the dominant and continues" (see [[concept:harmonic-function|harmonic function]]) |
 | **4 prediction** | **seeing the page and knowing roughly how it sounds** | the precondition for sight-reading and sight-singing |
 
-**Layer 4 is ear training's graduation standard**: not knowing after hearing, but **predicting from seeing**. Which
+**Layer 4 is ear training's graduation standard**: not knowing after hearing, but predicting from seeing. Which
 is also the core purpose of sight-singing (see [[concept:sight-singing|sight-singing]]).
 
-**Layer 2 is the most practical**: being able to hear "that sentence has finished" directly determines whether you
+Layer 2 is the most practical: being able to hear "that sentence has finished" directly determines whether you
 can count your entries in an ensemble (see [[concept:ensemble-listening|ensemble listening]]).
 
 ## Four effective methods
@@ -170,11 +170,11 @@ can count your entries in an ensemble (see [[concept:ensemble-listening|ensemble
 | **dictation** | write down what you hear | if you cannot write it, you have not heard it |
 | **analyse real works** | use real repertoire, not exercises | real music contains complexity and exceptions |
 
-**The second row is the most undervalued**: many people "feel they heard it" but **cannot sing it accurately** —
-which means they did not hear it. **Singing is ear training's lie detector.**
+The second row is the most undervalued: many people "feel they heard it" but cannot sing it accurately —
+which means they did not hear it. Singing is ear training's lie detector.
 
-**The fourth row matters too**: exercise material (isolated intervals, say) is **decontextualised**, whereas in real
-music an interval's meaning **depends on its context** (see [[concept:interval-hearing|hearing intervals]]).
+The fourth row matters too: exercise material (isolated intervals, say) is decontextualised, whereas in real
+music an interval's meaning depends on its context (see [[concept:interval-hearing|hearing intervals]]).
 
 ## How the sub-topics divide the labour
 
@@ -228,7 +228,7 @@ Four further entries here each handle one layer:
 
 ## Listen: start from relations
 
-Use `interval` to hear one interval — **the first step in ear training is asking "which number, which quality"**,
+Use `interval` to hear one interval — the first step in ear training is asking "which number, which quality",
 not "which note name". Hear it, name the relation inwardly, then play the second note to check.
 
 ```audiolab
@@ -237,11 +237,11 @@ not "which note name". Hear it, name the relation inwardly, then play the second
 
 ## Common misconceptions
 
-- **"Ear training means absolute pitch."** The opposite: you train **relations**. Absolute pitch is a bonus and hard
+- "Ear training means absolute pitch." The opposite: you train relations. Absolute pitch is a bonus and hard
   to train.
-- **"Ear training is a gift."** **Relative pitch can be acquired by practice**; method matters more than talent.
-- **"Ear training needs dedicated sessions."** All four methods fit into daily life: listen while you practise,
+- "Ear training is a gift." Relative pitch can be acquired by practice; method matters more than talent.
+- "Ear training needs dedicated sessions." All four methods fit into daily life: listen while you practise,
   analyse while you listen, sing at any time.
-- **"Being able to hear it is enough."** **Singing it accurately and writing it down** are the tests. "It felt
+- "Being able to hear it is enough." Singing it accurately and writing it down are the tests. "It felt
   clear" is often an illusion.
 :::

@@ -56,15 +56,15 @@ updated: 2026-09-25
 | **呼吸与放松** | 缓慢呼气、有意识地释放肩颈张力 | 破解肌肉僵 |
 | **可靠的起手** | 为每个段落准备一个明确的"进入点" | 出错后能立刻接回 |
 
-**第一行最有效**：紧张的很大一部分来自"不习惯被听"。
-**在有人听的情况下练习**，是把"表演"变成"熟悉的情境" —— 这是唯一能直接训练这件事的方法。
+第一行最有效：紧张的很大一部分来自"不习惯被听"。
+在有人听的情况下练习，是把"表演"变成"熟悉的情境" —— 这是唯一能直接训练这件事的方法。
 
-**第五行最实用**：紧张时最容易"断片"。**如果每个段落都有明确的进入点**，
-断了也能立刻回到线上，而不是从头再来（**"从头再来"往往是演出失败的直接原因**）。
+第五行最实用：紧张时最容易"断片"。如果每个段落都有明确的进入点，
+断了也能立刻回到线上，而不是从头再来（"从头再来"往往是演出失败的直接原因）。
 
 ## 一个反直觉的事实
 
-**紧张程度与作品难度并不总成正比**：
+紧张程度与作品难度并不总成正比：
 
 | 现象 | 原因 |
 |---|---|
@@ -72,9 +72,9 @@ updated: 2026-09-25
 | 最难的地方反而顺利 | 注意力被技术任务**占满**，没空焦虑 |
 | 只在自己弹时紧张、合奏时不紧张 | 合奏时注意力**被外部信息占满** |
 
-**三行的机制相同**：**当注意力被音乐占满时，焦虑没有空间。**
+三行的机制相同：当注意力被音乐占满时，焦虑没有空间。
 
-这也反过来支持了"注意力外移"这条对策：**不是靠意志压住紧张，而是把注意力占满**。
+这也反过来支持了"注意力外移"这条对策：不是靠意志压住紧张，而是把注意力占满。
 
 ## 图示：恶性循环与三条出口
 
@@ -127,8 +127,8 @@ updated: 2026-09-25
 
 ## 听一听：注意力被占满的状态
 
-本站放不出演奏场景 —— 但可以用 `rhythm` 听一段**需要读谱跟随的节奏型**。
-请在听的时候**心里数"下一个音是什么"** —— 你会发现，**当注意力被信息占满时，没空想别的**。
+演奏场景放不出来 —— 但可以用 `rhythm` 听一段需要读谱跟随的节奏型。
+请在听的时候心里数"下一个音是什么" —— 你会发现，当注意力被信息占满时，没空想别的。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q e e q q","bpm":84,"label":"注意力被占满的状态","label_en":"A state where attention is fully occupied","hint":"点「播放」，在心里跟读每个音 —— 这就是“外移”后的大脑状态","hint_en":"Press play and track every note inwardly — that is what an outward-shifted mind feels like"}
@@ -137,10 +137,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「紧张是心理素质差」** → 它是**生理与认知反应**，与素质无关。专业演奏者同样紧张，只是**有对策**。
-- **「有经验就不紧张了」** → 经验改变的是**与紧张共处的能力**，不是紧张的强度（见 [[concept:stage-experience|舞台经验]]）。
-- **「出错就完了」** → **断片本身不是失败，接不回去才是**。所以"可靠的起手"值最高优先级。
-- **「压住紧张就不出错」** → 靠意志压制会**占用注意力**，反而更容易出错。正确做法是**把注意力移到音乐上**。
+- 「紧张是心理素质差」 → 它是生理与认知反应，与素质无关。专业演奏者同样紧张，只是有对策。
+- 「有经验就不紧张了」 → 经验改变的是与紧张共处的能力，不是紧张的强度（见 [[concept:stage-experience|舞台经验]]）。
+- 「出错就完了」 → 断片本身不是失败，接不回去才是。所以"可靠的起手"值最高优先级。
+- 「压住紧张就不出错」 → 靠意志压制会占用注意力，反而更容易出错。正确做法是把注意力移到音乐上。
 :::
 
 ::: en
@@ -173,16 +173,16 @@ degraded playing increases the anxiety** — that is the vicious circle.
 | **a reliable entry** | prepare a clear "entry point" for each section | lets you rejoin at once after a slip |
 
 **The first is the most effective**: much of the anxiety comes from being unaccustomed to being heard.
-**Practising with someone listening** turns "performing" into "a familiar situation" — the only direct training for
+Practising with someone listening turns "performing" into "a familiar situation" — the only direct training for
 it.
 
-**The fifth is the most practical**: under pressure the commonest failure is a blank. **If every section has a clear
-entry point**, a blank can be recovered instantly rather than starting over (**and "starting over" is often what
+The fifth is the most practical: under pressure the commonest failure is a blank. **If every section has a clear
+entry point, a blank can be recovered instantly rather than starting over (and "starting over" is often what
 actually ruins a performance**).
 
 ## A counter-intuitive fact
 
-**Nervousness does not always track difficulty**:
+Nervousness does not always track difficulty:
 
 | Phenomenon | Cause |
 |---|---|
@@ -190,7 +190,7 @@ actually ruins a performance**).
 | the hardest passages go smoothly | attention is **fully occupied** by the technical task, with no space for anxiety |
 | nervous alone, fine in ensemble | in ensemble playing attention is **filled by external information** |
 
-**All three have the same mechanism**: **when attention is full of music, anxiety has nowhere to sit.**
+All three have the same mechanism: when attention is full of music, anxiety has nowhere to sit.
 
 Which in turn supports the outward-shift measure: **not suppressing anxiety by willpower, but filling the attention
 up.**
@@ -246,7 +246,7 @@ up.**
 ## Listen: the feeling of full attention
 
 This site cannot stage a performance — but use `rhythm` on a pattern that must be tracked. **Ask yourself inwardly
-what the next note is** as you listen: you will notice that **when attention is full of information there is no room
+what the next note is as you listen: you will notice that when attention is full of information there is no room
 for anything else**.
 
 ```audiolab
@@ -255,12 +255,12 @@ for anything else**.
 
 ## Common misconceptions
 
-- **"Nerves mean weak character."** They are **physiological and cognitive responses**, unrelated to character.
-  Professionals are just as nervous; they simply **have countermeasures**.
-- **"Experience removes nerves."** Experience changes **the ability to work with anxiety**, not its intensity (see
+- "Nerves mean weak character." They are physiological and cognitive responses, unrelated to character.
+  Professionals are just as nervous; they simply have countermeasures.
+- "Experience removes nerves." Experience changes the ability to work with anxiety, not its intensity (see
   [[concept:stage-experience|stage experience]]).
-- **"A slip is the end."** **The blank itself is not the failure; failing to rejoin is.** So a reliable entry point
+- "A slip is the end." The blank itself is not the failure; failing to rejoin is. So a reliable entry point
   deserves the highest priority.
-- **"Suppressing nerves prevents errors."** Suppression by willpower **uses attention**, making errors more likely.
-  The right move is **shifting attention onto the music**.
+- "Suppressing nerves prevents errors." Suppression by willpower uses attention, making errors more likely.
+  The right move is shifting attention onto the music.
 :::

@@ -47,13 +47,13 @@ updated: 2026-09-23
 
 - **张力—解决**：不协和音出现 → 期待积累 → 解决到协和音 → 释放。这一套是 [[concept:cadence|终止式]] 与整座调性体系的运作方式。
 - **推动转调**：把不协和音重新解释成新调里的音，调性就转移了，见 [[concept:modulation|转调]]。
-- **当作色彩**：到了近现代，作曲家开始把不协和当成稳定的颜色本身用，而不是必须解决的东西。
+- 当作色彩：到了近现代，作曲家开始把不协和当成稳定的颜色本身用，而不是必须解决的东西。
 
 ## 协和与不协和是历史性的判断
 
 分界线不是固定的。三度在早期曾被归入不协和，后来成为最简单的和声材料；
 今天流行音乐里，七和弦已经近似"协和"。同一组音程在不同语境里的地位不同，
-所以这条楼梯要当作**倾向**来用，而不是当作法律条文。
+所以这条楼梯要当作倾向来用，而不是当作法律条文。
 
 ## 图示：协和度的分层
 
@@ -100,10 +100,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「协和就是好听，不协和就是难听」** → 这是功能分类，不是审美评价。不协和是推动力，缺了它音乐无法前进。
-- **「协和与不协和是固定不变的规则」** → 分界线随时代移动。三度从"不协和"变成了最基本的和声材料。
-- **「不协和音必须立刻解决」** → 传统写法里通常如此，但印象派与爵士里，不协和可以长时间停留甚至作为终点。
-- **「协和度只由音程决定」** → 也受音区、力度、配器影响。低音区的完全协和反而容易糊成一团。
+- 「协和就是好听，不协和就是难听」 → 这是功能分类，不是审美评价。不协和是推动力，缺了它音乐无法前进。
+- 「协和与不协和是固定不变的规则」 → 分界线随时代移动。三度从"不协和"变成了最基本的和声材料。
+- 「不协和音必须立刻解决」 → 传统写法里通常如此，但印象派与爵士里，不协和可以长时间停留甚至作为终点。
+- 「协和度只由音程决定」 → 也受音区、力度、配器影响。低音区的完全协和反而容易糊成一团。
 :::
 
 ::: en
@@ -128,14 +128,14 @@ Dissonance is where musical motion comes from. Without it, music could only stan
   discharges. This is how [[concept:cadence|cadences]] and the whole tonal system work.
 - **Modulation**: reinterpret a dissonance as belonging to a new key and the key has shifted — see
   [[concept:modulation|modulation]].
-- **Colour**: from the late nineteenth century onward composers began using dissonance as a stable colour in
+- Colour: from the late nineteenth century onward composers began using dissonance as a stable colour in
   itself rather than something that must resolve.
 
 ## The line is historical
 
 The boundary is not fixed. Thirds were once classed as dissonant and later became the simplest harmonic
 material; in today's popular music a seventh chord is nearly consonant. The same intervals hold different
-positions in different contexts, so treat this ladder as a **tendency**, not as a statute.
+positions in different contexts, so treat this ladder as a tendency, not as a statute.
 
 ## Diagram: the ladder of consonance
 
@@ -182,8 +182,8 @@ is not loudness; it is whether you expect something to happen next.
 
 ## Common misconceptions
 
-- **"Consonant means pleasant, dissonant means unpleasant."** This is a functional classification, not an aesthetic verdict. Dissonance is the engine; without it music cannot move.
-- **"The boundary is a fixed rule."** It moves with history. The third travelled from dissonance to the most basic harmonic material.
-- **"A dissonance must resolve at once."** Usually true in traditional writing, but in Impressionism and jazz a dissonance can linger or even serve as an endpoint.
-- **"Consonance depends only on the interval."** Register, dynamics and orchestration all matter — a perfect consonance in the low register can easily turn to mud.
+- "Consonant means pleasant, dissonant means unpleasant." This is a functional classification, not an aesthetic verdict. Dissonance is the engine; without it music cannot move.
+- "The boundary is a fixed rule." It moves with history. The third travelled from dissonance to the most basic harmonic material.
+- "A dissonance must resolve at once." Usually true in traditional writing, but in Impressionism and jazz a dissonance can linger or even serve as an endpoint.
+- "Consonance depends only on the interval." Register, dynamics and orchestration all matter — a perfect consonance in the low register can easily turn to mud.
 :::

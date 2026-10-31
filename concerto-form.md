@@ -52,11 +52,11 @@ updated: 2026-09-25
 **为什么要呈示两遍？** 因为独奏者需要一次"重新介绍"的机会 ——
 如果独奏直接混在乐队里开始，就失去了"登场感"。
 
-**注意**：双呈示部是古典时期的惯例，**巴洛克与浪漫派都不必遵守**（见 [[concept:sonata-form|奏鸣曲式]]）。
+注意：双呈示部是古典时期的惯例，巴洛克与浪漫派都不必遵守（见 [[concept:sonata-form|奏鸣曲式]]）。
 
 ## 华彩段：结构上的"留白"
 
-**华彩段（cadenza）**是协奏曲独有的段落：
+华彩段（cadenza）是协奏曲独有的段落：
 
 | 特征 | 说明 |
 |---|---|
@@ -65,8 +65,8 @@ updated: 2026-09-25
 | **来源** | 早期由独奏者**即兴**（见 [[concept:improvisation|即兴]]），19 世纪后多由作曲家或演奏家**写定** |
 | **收束** | 独奏以颤音或音阶引出乐队的回归 |
 
-**它在结构上是一个"暂停"**：主题与调性都停下来，让"个体"单独站一会儿。
-**这一停，恰恰是协奏曲最有辨识度的一刻** —— 因为它把"个体 vs 集体"这条主线推到了最前面。
+它在结构上是一个"暂停"：主题与调性都停下来，让"个体"单独站一会儿。
+这一停，恰恰是协奏曲最有辨识度的一刻 —— 因为它把"个体 vs 集体"这条主线推到了最前面。
 
 ## 三个乐章与速度布局
 
@@ -78,7 +78,7 @@ updated: 2026-09-25
 | 第二 | 慢 | 抒情，常在关系调上；有时独奏与乐队"对唱" |
 | 第三 | 快 | 回旋或奏鸣回旋，**常含又一次华彩段**，明亮收束 |
 
-**华彩段在第一与第三乐章都可能有**，但第三乐章的更常见（作为全曲的炫技高点）。
+华彩段在第一与第三乐章都可能有，但第三乐章的更常见（作为全曲的炫技高点）。
 
 ## 图示：个体与集体
 
@@ -135,8 +135,8 @@ updated: 2026-09-25
 
 ## 听一听：独奏与整体的对比
 
-协奏曲的核心是"编制对比"，本站放不出乐队 —— 这里用 `chord` 的两种排列近似那种对比：
-**密集排列（紧）与宽排列（厚）**。请把它当作"独奏 vs 乐队"的粗略类比。
+协奏曲的核心是"编制对比"，乐队放不出来 —— 这里用 `chord` 的两种排列近似那种对比：
+密集排列（紧）与宽排列（厚）。请把它当作"独奏 vs 乐队"的粗略类比。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"紧密（近似独奏的清晰线条）","label_en":"Close voicing — akin to a clear solo line","hint":"先听整体，再听宽排列","hint_en":"Hear Block first, then Open"}
@@ -149,10 +149,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「协奏曲就是独奏曲加伴奏」** → 不是。它是**对话与竞逐**：独奏与乐队有来有回，而非主从关系。
-- **「双呈示部是必须的」** → 古典时期的惯例。巴洛克协奏曲（如勃兰登堡）不用它；浪漫派也常省略。
-- **「华彩段是随意发挥」** → 位置、和声框架与收束方式都有明确规定；**自由的只是内容，不是结构**。
-- **「协奏曲的张力靠演奏难度」** → 难度是表演层面的事；**结构层面的张力来自"个体 vs 集体"的对比**。
+- 「协奏曲就是独奏曲加伴奏」 → 不是。它是对话与竞逐：独奏与乐队有来有回，而非主从关系。
+- 「双呈示部是必须的」 → 古典时期的惯例。巴洛克协奏曲（如勃兰登堡）不用它；浪漫派也常省略。
+- 「华彩段是随意发挥」 → 位置、和声框架与收束方式都有明确规定；自由的只是内容，不是结构。
+- 「协奏曲的张力靠演奏难度」 → 难度是表演层面的事；结构层面的张力来自"个体 vs 集体"的对比。
 :::
 
 ::: en
@@ -180,12 +180,12 @@ The Classical concerto's first movement has a distinctive design:
 **Why twice?** Because the soloist needs a chance to be "re-introduced". If the solo simply emerged from the
 orchestral texture, the sense of an entrance would be lost.
 
-**Note**: the double exposition is a Classical convention; **Baroque and Romantic concertos need not follow it**
+**Note**: the double exposition is a Classical convention; Baroque and Romantic concertos need not follow it
 (see [[concept:sonata-form|sonata form]]).
 
 ## The cadenza: a structural blank
 
-A **cadenza** is unique to the concerto:
+A cadenza is unique to the concerto:
 
 | Feature | Explanation |
 |---|---|
@@ -194,8 +194,8 @@ A **cadenza** is unique to the concerto:
 | **origin** | improvised by the soloist in earlier practice (see [[concept:improvisation|improvisation]]), usually written out after the nineteenth century |
 | **closure** | a trill or scale brings the orchestra back |
 
-**Structurally it is a pause**: theme and tonality both stop so the individual can stand alone for a moment.
-**And that pause is the concerto's most identifiable moment** — because it pushes the "individual against
+Structurally it is a pause: theme and tonality both stop so the individual can stand alone for a moment.
+And that pause is the concerto's most identifiable moment — because it pushes the "individual against
 collective" thread to the front.
 
 ## Three movements and their tempo layout
@@ -208,7 +208,7 @@ Concertos usually use three movements, with a tempo arc slightly different from 
 | second | slow | lyrical, often in a related key; sometimes solo and orchestra "sing to each other" |
 | third | fast | rondo or sonata-rondo, **often with another cadenza**, bright close |
 
-**A cadenza may appear in the first or the third movement**, more often the third, as the work's virtuosic peak.
+A cadenza may appear in the first or the third movement, more often the third, as the work's virtuosic peak.
 
 ## Diagram: individual and collective
 
@@ -257,7 +257,7 @@ Concertos usually use three movements, with a tempo arc slightly different from 
 ## Listen: solo against the whole
 
 A concerto's core is contrast of forces, and this site cannot play an orchestra — so `chord` approximates it with
-two layouts: **close (taut) and open (thick)**. Treat them as a rough stand-in for "solo versus orchestra".
+two layouts: close (taut) and open (thick). Treat them as a rough stand-in for "solo versus orchestra".
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"紧密（近似独奏的清晰线条）","label_en":"Close voicing — akin to a clear solo line","hint":"先听整体，再听宽排列","hint_en":"Hear Block first, then Open"}
@@ -270,12 +270,12 @@ two layouts: **close (taut) and open (thick)**. Treat them as a rough stand-in f
 
 ## Common misconceptions
 
-- **"A concerto is a solo piece with accompaniment."** It is **dialogue and contest**: solo and orchestra answer each
+- "A concerto is a solo piece with accompaniment." It is dialogue and contest: solo and orchestra answer each
   other, not principal and subordinate.
-- **"A double exposition is required."** A Classical convention. Baroque concertos (the Brandenburgs) do not use it,
+- "A double exposition is required." A Classical convention. Baroque concertos (the Brandenburgs) do not use it,
   and Romantic ones often omit it.
-- **"A cadenza is free improvisation."** Its position, harmonic frame and manner of closure are prescribed; **only
+- "A cadenza is free improvisation." Its position, harmonic frame and manner of closure are prescribed; **only
   the content is free, not the structure**.
-- **"A concerto's tension comes from difficulty."** Difficulty is a performance matter; the **structural** tension
+- "A concerto's tension comes from difficulty." Difficulty is a performance matter; the structural tension
   comes from the individual-against-collective contrast.
 :::

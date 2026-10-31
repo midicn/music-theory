@@ -56,13 +56,13 @@ IV → I 缺少导音的那股冲力，所以听起来**更松弛、更有"落�
 
 ## 阻碍终止的用处
 
-V → vi 的效果是**推迟**：明明要落地，却转到了关系小调上。
-作曲家常用它来**延长乐句** —— 一次该结束的地方不结束，段落因此被拉长，
+V → vi 的效果是推迟：明明要落地，却转到了关系小调上。
+作曲家常用它来延长乐句 —— 一次该结束的地方不结束，段落因此被拉长，
 这也是 [[concept:melody|旋律]] 写作里扩大结构的常用手段。
 
 ## 终止式与曲式
 
-终止式的**强度**直接决定了段落级别：
+终止式的强度直接决定了段落级别：
 
 | 终止强度 | 通常划分出的单位 |
 |---|---|
@@ -70,7 +70,7 @@ V → vi 的效果是**推迟**：明明要落地，却转到了关系小调上�
 | 中（变格 / 弱的正格） | 乐句结束 |
 | 强（完全正格） | 乐段结束、乐章段落分界 |
 
-所以分析 [[concept:sonata-form|奏鸣曲式]] 的段落边界时，第一步就是**找终止式**。
+所以分析 [[concept:sonata-form|奏鸣曲式]] 的段落边界时，第一步就是找终止式。
 
 ## 图示：四种终止的落点
 
@@ -131,10 +131,10 @@ V → vi 的效果是**推迟**：明明要落地，却转到了关系小调上�
 
 ## 常见误解
 
-- **「终止式就是"结束"」** → 半终止完全不结束，反而制造期待。它是"标点"，不只是"句号"。
-- **「变格终止是正格的弱化版」** → 更像另一种语气：庄严、松弛、有余韵，而不是"力度不够"。
-- **「阻碍终止是写错了」** → 它是有意的推迟手段，是扩大乐句的常用技术。
-- **「终止式只用于古典音乐」** → 流行音乐的"回到主和弦"与半终止（停在 V）同样可以用这套语言描述。
+- 「终止式就是"结束"」 → 半终止完全不结束，反而制造期待。它是"标点"，不只是"句号"。
+- 「变格终止是正格的弱化版」 → 更像另一种语气：庄严、松弛、有余韵，而不是"力度不够"。
+- 「阻碍终止是写错了」 → 它是有意的推迟手段，是扩大乐句的常用技术。
+- 「终止式只用于古典音乐」 → 流行音乐的"回到主和弦"与半终止（停在 V）同样可以用这套语言描述。
 :::
 
 ::: en
@@ -181,7 +181,7 @@ The **strength** of a cadence fixes the level of the division it marks:
 | medium (plagal, weak authentic) | the end of a phrase |
 | strong (full authentic) | the end of a period, a section boundary |
 
-Which is why the first step in analysing [[concept:sonata-form|sonata form]] is **finding the cadences**.
+Which is why the first step in analysing [[concept:sonata-form|sonata form]] is finding the cadences.
 
 ## Diagram: where each cadence lands
 
@@ -242,8 +242,8 @@ In order: authentic (V→I, firmest), plagal (IV→I, softer), half (I→V, hang
 
 ## Common misconceptions
 
-- **"A cadence means an ending."** A half cadence does not end anything; it creates expectation. A cadence is punctuation, not only a full stop.
-- **"The plagal cadence is a weaker authentic."** It is more like a different tone of voice — solemn, relaxed, with afterglow — rather than insufficient force.
-- **"A deceptive cadence is a mistake."** It is a deliberate postponement device, commonly used to extend phrases.
-- **"Cadences belong to classical music."** A pop song returning to the tonic, or resting on V, can be described in exactly the same language.
+- "A cadence means an ending." A half cadence does not end anything; it creates expectation. A cadence is punctuation, not only a full stop.
+- "The plagal cadence is a weaker authentic." It is more like a different tone of voice — solemn, relaxed, with afterglow — rather than insufficient force.
+- "A deceptive cadence is a mistake." It is a deliberate postponement device, commonly used to extend phrases.
+- "Cadences belong to classical music." A pop song returning to the tonic, or resting on V, can be described in exactly the same language.
 :::

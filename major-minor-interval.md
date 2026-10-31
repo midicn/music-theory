@@ -53,8 +53,8 @@ updated: 2026-09-23
 因为**三等分**问题。一个八度被分成三段：主音到三度、三度到五度、五度到八度。
 三度落在哪一侧，决定了整个三和弦的明暗：
 
-- 大三度 + 小三度 = **大三和弦**（明亮、稳定）
-- 小三度 + 大三度 = **小三和弦**（暗淡、内敛）
+- 大三度 + 小三度 = 大三和弦（明亮、稳定）
+- 小三度 + 大三度 = 小三和弦（暗淡、内敛）
 
 两种三和弦用的是同样的三个音级名，唯一的差别就是那一个半音落在哪一段里。
 这一层直接通向 [[concept:triad|三和弦]]，也是流行音乐里"换大小调"最直接的开关。
@@ -129,10 +129,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「大就是音量大」** → 完全无关。这里的"大"指音数多一个半音，与力度没有关系。
-- **「所有音程都有大小两种」** → 一、四、五、八度只有"纯"。它们再宽或再窄，用的是增、减，不是大小。
-- **「小三度比大三度低」** → 两者起点相同，只是终点低一个半音。大三度听起来更宽，不是更高。
-- **「大小调的区别在音阶的调号」** → 更本质的区别是三、六、七度用了"大"还是"小"的那一个。调号只是结果。
+- 「大就是音量大」 → 完全无关。这里的"大"指音数多一个半音，与力度没有关系。
+- 「所有音程都有大小两种」 → 一、四、五、八度只有"纯"。它们再宽或再窄，用的是增、减，不是大小。
+- 「小三度比大三度低」 → 两者起点相同，只是终点低一个半音。大三度听起来更宽，不是更高。
+- 「大小调的区别在音阶的调号」 → 更本质的区别是三、六、七度用了"大"还是"小"的那一个。调号只是结果。
 :::
 
 ::: en
@@ -161,8 +161,8 @@ between a major and a minor scale is that three of them (third, sixth, seventh) 
 Because of a **three-way division**. An octave splits into three stretches: tonic to third, third to fifth,
 fifth to octave. Which side the third falls on decides the whole triad's light or shade:
 
-- major third + minor third = a **major triad** (bright, stable)
-- minor third + major third = a **minor triad** (dark, inward)
+- major third + minor third = a major triad (bright, stable)
+- minor third + major third = a minor triad (dark, inward)
 
 Both triads use the same three letter names. The only difference is which stretch that one semitone falls into.
 This leads straight to [[concept:triad|triads]], and it is the switch behind every key change from major to
@@ -238,8 +238,8 @@ One semitone apart: one is bright, the other dark. This pair is the master switc
 
 ## Common misconceptions
 
-- **"Major means louder."** Unrelated. Here it means one semitone wider; loudness plays no part.
-- **"Every interval comes in major and minor."** Unisons, fourths, fifths and octaves are perfect only. Their wider and narrower forms are augmented and diminished.
-- **"A minor third is lower."** Both start on the same note; only the endpoint drops a semitone. The major third sounds wider, not higher.
-- **"Major and minor differ by the key signature."** The real difference is whether the third, sixth and seventh use the major or the minor form. The key signature is a consequence.
+- "Major means louder." Unrelated. Here it means one semitone wider; loudness plays no part.
+- "Every interval comes in major and minor." Unisons, fourths, fifths and octaves are perfect only. Their wider and narrower forms are augmented and diminished.
+- "A minor third is lower." Both start on the same note; only the endpoint drops a semitone. The major third sounds wider, not higher.
+- "Major and minor differ by the key signature." The real difference is whether the third, sixth and seventh use the major or the minor form. The key signature is a consequence.
 :::

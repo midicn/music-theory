@@ -33,8 +33,8 @@ updated: 2026-09-24
 > 在 C 大调里，主和弦是 C。那么"**D 的属和弦**"（A–C♯–E）就可以指向 D 小调那个区域 ——
 > 这个 A 和弦就叫 **V/V**（"五级的五级"），也就是**副属和弦**。
 
-它带来的新音（C♯）**不属于 C 大调音阶**。所以副属和弦天然是一处变化音，
-也是一处**色彩变化点**。
+它带来的新音（C♯）不属于 C 大调音阶。所以副属和弦天然是一处变化音，
+也是一处色彩变化点。
 
 ## 常用的一组
 
@@ -45,22 +45,22 @@ updated: 2026-09-24
 | **V/V** | 第 5 级 | D 大三（D–F♯–A） | F♯ |
 | **V/vi** | 第 6 级 | E 大三（E–G♯–B） | G♯ |
 
-注意第二行：**V/IV 与 I 是同一个和弦**，所以它不产生副属效果 ——
+注意第二行：V/IV 与 I 是同一个和弦，所以它不产生副属效果 ——
 要指向下属，得用 V7/IV（C 属七：C–E–G–B♭），B♭ 才是那个新音。
 
 ## 它解决到哪里
 
-副属和弦的"目标"就是它指向的那个级数，而且**优先解决到该级的小三和弦或大三和弦**：
+副属和弦的"目标"就是它指向的那个级数，而且优先解决到该级的小三和弦或大三和弦：
 
 > V/V → V（D 大三 → G 大三）
 > V/vi → vi（E 大三 → a 小三）
 
-如果目标级是小三和弦（如 ii、vi），副属和弦里的**升高音**就是一个"临时导音"，
+如果目标级是小三和弦（如 ii、vi），副属和弦里的升高音就是一个"临时导音"，
 它上行半音进入目标音 —— 与真正的属→主完全同构，只是缩小到了局部。
 
 ## 与转调的区别
 
-两者用的是**同一套手段**（都是"给某级配一个属"），区别在**它有没有被确认**：
+两者用的是同一套手段（都是"给某级配一个属"），区别在它有没有被确认：
 
 | | 副属和弦 | 转调 |
 |---|---|---|
@@ -68,7 +68,7 @@ updated: 2026-09-24
 | 新调号 | 不出现 | 常出现 |
 | 听感 | 色彩变化 | 中心转移 |
 
-所以副属和弦是**离调**（见 [[concept:tonicization|离调]]）最常用的手段。
+所以副属和弦是离调（见 [[concept:tonicization|离调]]）最常用的手段。
 
 ## 图示：指向与解决
 
@@ -112,7 +112,7 @@ updated: 2026-09-24
 
 ## 听一听：副属和弦的色彩
 
-用进行播放器对比两条：**I → V → I**（全在原调内）与 **I → V/V → V → I**（中途借了 D 的属）。
+用进行播放器对比两条：I → V → I（全在原调内）与 I → V/V → V → I（中途借了 D 的属）。
 后者的"亮一下"就是副属和弦的效果。
 
 ```audiolab
@@ -125,10 +125,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「副属和弦就是转调」** → 它只是**离调**：借一下中心，随即回来。区别在时长与是否建立新调号。
-- **「V/IV 一定带来变化音」** → V/IV 与 I 是同一个和弦，不产生效果；要用 **V7/IV**（含降七音）才有效。
-- **「副属和弦可以任意指向任何级」** → 原则上可以，但实际最常用的是指向 **ii、V、vi**；指向 vii° 与 III 的效果很弱或容易听成转调。
-- **「副属和弦必须解决」** → 传统写作里通常解决到目标级；也可以不解决而用作色彩，但那样就失去了"指向"的作用。
+- 「副属和弦就是转调」 → 它只是离调：借一下中心，随即回来。区别在时长与是否建立新调号。
+- 「V/IV 一定带来变化音」 → V/IV 与 I 是同一个和弦，不产生效果；要用 V7/IV（含降七音）才有效。
+- 「副属和弦可以任意指向任何级」 → 原则上可以，但实际最常用的是指向 ii、V、vi；指向 vii° 与 III 的效果很弱或容易听成转调。
+- 「副属和弦必须解决」 → 传统写作里通常解决到目标级；也可以不解决而用作色彩，但那样就失去了"指向"的作用。
 :::
 
 ::: en
@@ -139,7 +139,7 @@ degree too.**
 > is written **V/V** ("five of five"), a **secondary dominant**.
 
 The note it introduces (C♯) **is not in the C major scale**, so a secondary dominant is always an accidental, and
-always a **point of colour change**.
+always a point of colour change.
 
 ## The common set
 
@@ -150,8 +150,8 @@ always a **point of colour change**.
 | **V/V** | degree 5 | D major (D–F♯–A) | F♯ |
 | **V/vi** | degree 6 | E major (E–G♯–B) | G♯ |
 
-Note the second row: **V/IV is the same chord as I**, so it produces no secondary-dominant effect. To point at the
-subdominant you need **V7/IV** (C dominant seventh: C–E–G–B♭), where the B♭ is the new note.
+Note the second row: V/IV is the same chord as I, so it produces no secondary-dominant effect. To point at the
+subdominant you need V7/IV (C dominant seventh: C–E–G–B♭), where the B♭ is the new note.
 
 ## Where it resolves
 
@@ -160,13 +160,13 @@ A secondary dominant's target is the degree it points at, and it normally resolv
 > V/V → V (D major → G major)
 > V/vi → vi (E major → A minor)
 
-If the target is a minor triad (ii or vi), the **raised note** in the secondary dominant acts as a temporary
+If the target is a minor triad (ii or vi), the raised note in the secondary dominant acts as a temporary
 leading tone and rises a semitone into the target — exactly the same shape as a real dominant to tonic, simply
 localised.
 
 ## How it differs from modulation
 
-Both use **the same device** — giving a degree its own dominant. The difference is whether it **gets confirmed**:
+Both use the same device — giving a degree its own dominant. The difference is whether it gets confirmed:
 
 | | Secondary dominant | Modulation |
 |---|---|---|
@@ -174,7 +174,7 @@ Both use **the same device** — giving a degree its own dominant. The differenc
 | New key signature | does not appear | usually appears |
 | Impression | a change of colour | a change of centre |
 
-So the secondary dominant is the commonest means of **tonicization** (see [[concept:tonicization|tonicization]]).
+So the secondary dominant is the commonest means of tonicization (see [[concept:tonicization|tonicization]]).
 
 ## Diagram: pointing and resolving
 
@@ -218,7 +218,7 @@ So the secondary dominant is the commonest means of **tonicization** (see [[conc
 
 ## Listen: the colour of a secondary dominant
 
-Compare two progressions: **I → V → I** (entirely diatonic) and **I → V/V → V → I** (borrowing D's dominant). The
+Compare two progressions: I → V → I (entirely diatonic) and I → V/V → V → I (borrowing D's dominant). The
 brightening in the second is the secondary dominant at work.
 
 ```audiolab
@@ -231,8 +231,8 @@ brightening in the second is the secondary dominant at work.
 
 ## Common misconceptions
 
-- **"A secondary dominant is a modulation."** It is **tonicization**: the centre is borrowed and returned. The difference is duration and whether a new signature appears.
-- **"V/IV always brings an accidental."** V/IV is the same chord as I and has no effect; **V7/IV** (with the lowered seventh) is what works.
-- **"It can point at any degree equally well."** In principle yes, but in practice ii, V and vi are the common targets; pointing at vii° or III is weak or easily heard as a modulation.
-- **"It must resolve."** Traditional writing resolves it onto the target; it can also be left unresolved as colour, but then it loses its pointing function.
+- "A secondary dominant is a modulation." It is tonicization: the centre is borrowed and returned. The difference is duration and whether a new signature appears.
+- "V/IV always brings an accidental." V/IV is the same chord as I and has no effect; V7/IV (with the lowered seventh) is what works.
+- "It can point at any degree equally well." In principle yes, but in practice ii, V and vi are the common targets; pointing at vii° or III is weak or easily heard as a modulation.
+- "It must resolve." Traditional writing resolves it onto the target; it can also be left unresolved as colour, but then it loses its pointing function.
 :::

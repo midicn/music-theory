@@ -28,42 +28,47 @@ updated: 2026-09-24
 ---
 
 ::: zh
-第三类把每一步再拆细：固定旋律一个音，对位声部走**四个音**。
+第三类把每一步再拆细。
+固定旋律一个音，对位声部走**四个音**。
 
-> 织体因此从"一步一顿"变成"一串音" —— 而一串音里，**不协和音可以连续出现**。
+> 织体从"一步一顿"变成"一串音"。
+> 而一串音里，**不协和音可以连续出现**。
 
 ## 判断标准从"每个音"变成"每组头一个音"
 
-这是第三类最关键的思维转变：
+这是第三类最关键的思维转变。
 
 | | 第二类 | 第三类 |
 |---|---|---|
-| 检查单位 | **每个音** | **每组的第一音** |
-| 不协和位置 | 只能在弱拍 | 组内**任何位置**（除组首） |
-| 不协和数量 | 一个 | **可以成串** |
+| 检查单位 | **每个音。** | **每组的第一音。** |
+| 不协和位置 | 只能在弱拍。 | 组内**任何位置**，组首除外。 |
+| 不协和数量 | 一个。 | **可以成串。** |
 
-也就是说：**听觉上被"点数"的是每组的第一音**（它落在强拍或次强拍上），
-其余三个音只要**级进、快速、不停留**，即使连环不协和也不会被听成落点。
+听觉上被"点数"的，是每组的第一音。
+它落在强拍或次强拍上。
+其余三个音只要**级进、快速、不停留**，即使连环不协和，也不会被听成落点。
 
 ## 组内不协和的三种处理
 
 | 类型 | 形态 | 说明 |
 |---|---|---|
-| **经过** | 级进填充 | 与第二类相同 |
-| **邻音** | 离开又回来 | 绕一下就走 |
-| **跳进的例外** | 级进进入、跳进离去（再反向级进回来） | 这是本类**唯一**允许的跳进处理，因为它有明确的进出路径 |
+| **经过** | 级进填充。 | 与第二类相同。 |
+| **邻音** | 离开又回来。 | 绕一下就走。 |
+| **跳进的例外** | 级进进入、跳进离去，再反向级进回来。 | 本类**唯一**允许的跳进处理，因为它有明确的进出路径。 |
 
-第三条要特别小心：它**只适用于特定形态**。把不协和音随意跳进跳出，在任何一类对位里都是错的
-（见 [[concept:non-chord-tone-treatment|和弦外音处理]]）。
+第三条要特别小心。
+它只适用于这一种形态。
+把不协和音随意跳进跳出，在任何一类对位里都是错的（见 [[concept:non-chord-tone-treatment|和弦外音处理]]）。
 
 ## 它离真实写作更近了
 
-第二类的织体还带着"练习感"，第三类的**音型化**（同一时值连成串）则是真实作品里最常见的形态之一 ——
-巴赫的二部创意曲、赋格的间插段、古典时期的伴奏音型都属于这一类。
+第二类的织体还带着练习感。
+第三类的音型化，也就是同一时值连成串，是真实作品里最常见的形态之一。
+巴赫的二部创意曲、赋格的间插段、古典时期的伴奏音型，都属于这一类。
 
-所以从这个训练阶段开始，**判断标准越来越依赖"整体是否像音乐"**，
-而不是"每个格子是否合规"。这正是五类对位阶梯的设计意图：
-**规则越松，对音乐判断力的要求越高。**
+从这个阶段开始，判断标准越来越依赖"整体是否像音乐"。
+"每个格子是否合规"退到后面。
+这正是五类对位阶梯的设计意图：规则越松，对音乐判断力的要求越高。
 
 ## 图示：检查单位从音变成组
 
@@ -106,8 +111,8 @@ updated: 2026-09-24
 
 ## 听一听：组首与组内的差别
 
-第三类是两声部练习，本站放不出两声部。这里用 `interval` 对比**组首可用的音程与组内可用的音程**：
-先听三度（可当组首），再听二度（只能组内快速掠过）。
+第三类是两声部练习，这里放不出两声部。
+用 `interval` 对比两种音程：先听三度，它可当组首；再听二度，它只能组内快速掠过。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"E4","label":"组首：三度（可被点数）","label_en":"Group head: a third, countable","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 D4 得到二度 —— 一组四音里它可以成串出现，但不能落在组首。","hint2_en":"Set b to D4 for a second — inside a group of four it may come in runs, but must not stand at the head."}
@@ -115,10 +120,11 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「不协和音可以随便放了」** → 只是**位置**放宽到组内，处理方式（级进、不停留）**没有放宽**。
-- **「四音一组必须都是同一时值」** → 训练里通常是；实际写作里常有变化，那时已进入第五类（华丽对位）。
-- **「第三类比第二类难得多」** → 规则只多一条（组首须协和），难在**判断点从"每个音"变成了"每组音"**。
-- **「音型化只是伴奏手法」** → 它也是复调织体的基本形态，巴赫的创意曲与赋格间插段大量使用。
+- 「不协和音可以随便放了」 → 只是位置放宽到组内。处理方式没放宽：级进、不停留。
+- 「四音一组必须都是同一时值」 → 训练里通常如此。实际写作常有变化，那时已进入第五类，华丽对位。
+- 「第三类比第二类难得多」 → 规则只多一条：组首须协和。难在判断点从"每个音"变成"每组音"。
+- 「音型化只是伴奏手法」 → 它也是复调织体的基本形态。巴赫的创意曲与赋格间插段大量使用。
+
 :::
 
 ::: en
@@ -149,16 +155,16 @@ they are dissonant in succession.
 | **neighbour** | leaves and returns | a detour |
 | **the leap exception** | entered by step, left by leap (then returning by step) | the **only** permitted leap treatment here, because the entry and exit are both defined |
 
-The third needs care: it applies **only in that specific shape**. Leaping into and out of a dissonance at will is
+The third needs care: it applies only in that specific shape. Leaping into and out of a dissonance at will is
 wrong in every species (see [[concept:non-chord-tone-treatment|treating non-chord tones]]).
 
 ## It is closer to real writing
 
-Second-species texture still feels like an exercise; third-species **figuration** (runs at one note value) is one
+Second-species texture still feels like an exercise; third-species figuration (runs at one note value) is one
 of the commonest textures in real music — Bach's two-part inventions, fugal episodes and Classical accompaniment
 figures all belong to it.
 
-So from this stage onward, **judgement depends increasingly on whether the whole sounds like music**, not on
+So from this stage onward, judgement depends increasingly on whether the whole sounds like music, not on
 whether each cell is compliant. That is precisely the design of the species ladder: **the looser the rules, the
 more musical judgement is required.**
 
@@ -212,12 +218,12 @@ a group head with one usable only inside**: a third (countable), then a second (
 
 ## Common misconceptions
 
-- **"Dissonances may now go anywhere."** Only their **position** is relaxed, into the group; their **treatment**
+- "Dissonances may now go anywhere." Only their position is relaxed, into the group; their treatment
   (by step, non-resting) is unchanged.
-- **"A group of four must be all the same note value."** In the exercise, usually; in real writing it varies, at
+- "A group of four must be all the same note value." In the exercise, usually; in real writing it varies, at
   which point you are in fifth-species territory.
-- **"Third species is much harder than second."** Only one rule is added (the head must be consonant); the real
-  difficulty is that **the point of judgement moves from note to group.**
-- **"Figuration is only an accompaniment device."** It is also a fundamental polyphonic texture — Bach's
+- "Third species is much harder than second." Only one rule is added (the head must be consonant); the real
+  difficulty is that the point of judgement moves from note to group.
+- "Figuration is only an accompaniment device." It is also a fundamental polyphonic texture — Bach's
   inventions and fugal episodes use it heavily.
 :::

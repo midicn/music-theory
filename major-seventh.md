@@ -50,8 +50,8 @@ updated: 2026-09-24
 大调音阶上叠三度，**第 1 级与第 4 级是自然的大七和弦**（Imaj7 / IVmaj7）。
 小调里不自然出现，需要升第 3 级或升第 6 级。
 
-在传统和声里它很少作为目标使用；到了 20 世纪，它变成了**稳定的色彩和弦** ——
-爵士与城市流行音乐里，大七和弦常常是**句子的终点**，而不需要解决。
+在传统和声里它很少作为目标使用；到了 20 世纪，它变成了稳定的色彩和弦 ——
+爵士与城市流行音乐里，大七和弦常常是句子的终点，而不需要解决。
 这是"和弦功能"随风格变化的典型例子。
 
 ## 图示：七音与八度只差半音
@@ -102,10 +102,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「大七和属七只差一个音，差不多」** → 七音差半个音，紧张度完全不同：小七度柔和、大七度尖锐。
-- **「大七和弦必须解决」** → 传统和声里通常如此；爵士与流行里它是稳定的终点。
-- **「大七和弦只在大调里有」** → 大调第 1、4 级自然产生；小调里需要变化音。
-- **「带"大"字所以比属七更"强"」** → "大七"指的是七度的**大小**（大七度），与和弦的强弱或功能无关。
+- 「大七和属七只差一个音，差不多」 → 七音差半个音，紧张度完全不同：小七度柔和、大七度尖锐。
+- 「大七和弦必须解决」 → 传统和声里通常如此；爵士与流行里它是稳定的终点。
+- 「大七和弦只在大调里有」 → 大调第 1、4 级自然产生；小调里需要变化音。
+- 「带"大"字所以比属七更"强"」 → "大七"指的是七度的大小（大七度），与和弦的强弱或功能无关。
 :::
 
 ::: en
@@ -133,7 +133,7 @@ Stacking thirds on a major scale produces natural major seventh chords on **degr
 Minor keys do not produce it without chromatic alteration.
 
 In traditional harmony it is rarely a destination. In the twentieth century it became a **stable colour chord**:
-in jazz and city pop a major seventh is often the **end of a phrase**, needing no resolution. A textbook case of
+in jazz and city pop a major seventh is often the end of a phrase, needing no resolution. A textbook case of
 harmonic function shifting with style.
 
 ## Diagram: the seventh sitting a semitone below the octave
@@ -184,8 +184,8 @@ Hear the almost-arriving-and-stopping quality, then compare it with the dominant
 
 ## Common misconceptions
 
-- **"Major and dominant sevenths differ by one note, so they are alike."** The seventh differs by a semitone and the tension is completely different — soft for the minor seventh, sharp for the major.
-- **"A major seventh must resolve."** Usually true traditionally; in jazz and pop it is a stable endpoint.
-- **"Major sevenths only exist in major keys."** They arise naturally on degrees 1 and 4 of a major scale; minor keys need accidentals.
-- **"The word major makes it 'stronger' than a dominant seventh."** "Major seventh" names the **size** of the seventh, not the chord's strength or function.
+- "Major and dominant sevenths differ by one note, so they are alike." The seventh differs by a semitone and the tension is completely different — soft for the minor seventh, sharp for the major.
+- "A major seventh must resolve." Usually true traditionally; in jazz and pop it is a stable endpoint.
+- "Major sevenths only exist in major keys." They arise naturally on degrees 1 and 4 of a major scale; minor keys need accidentals.
+- "The word major makes it 'stronger' than a dominant seventh." "Major seventh" names the size of the seventh, not the chord's strength or function.
 :::

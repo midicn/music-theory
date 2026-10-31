@@ -44,22 +44,22 @@ updated: 2026-09-25
 | **③ 逐步提速并巩固** | 小幅度提速，回到整曲 | 提速后仍然对 |
 
 **第①步最容易被跳过。** 说不出"卡在哪一拍"，就只能一遍遍从头过 ——
-在**会的部分浪费了大部分时间**，难点却没被解决。
+在会的部分浪费了大部分时间，难点却没被解决。
 
 ## 核心原则：重复正确，而不是重复错误
 
 这是练习的机制，值得单独说清：
 
-> **"练习"不是"弹很多遍"，而是"把正确的动作重复到自动化"。**
+> "练习"不是"弹很多遍"，而是"把正确的动作重复到自动化"。
 
 | 弹法 | 结果 |
 |---|---|
 | 一遍对、一遍错，来回几十遍 | **练会了两种做法**（其中一种是错的） |
 | 放慢到**每次都做对**，重复多次 | 只有一种做法被自动化 |
 
-**第二行才是有效的** —— 所以"慢到能做对"不是保守，而是**唯一能保证练对的方式**。
+第二行才是有效的 —— 所以"慢到能做对"不是保守，而是唯一能保证练对的方式。
 
-**这也解释了为什么"越练越差"会发生**：
+这也解释了为什么"越练越差"会发生：
 如果错的次数多于对的次数，自动化的就是那个错的做法。
 
 ## 三个实用判据
@@ -70,7 +70,7 @@ updated: 2026-09-25
 | **能在没有错的位置也放慢做对一次吗？** | 这是检验"是否真的自动化"还是"顺手滑过去" |
 | **断开的地方能接上吗？** | 单独练衔接处（乐句之间、段落之间） |
 
-**第一行最有用**：很多人的"熟练"其实是**靠记忆的顺序**撑着的 ——
+第一行最有用：很多人的"熟练"其实是靠记忆的顺序撑着的 ——
 一旦从中间开始就散架，说明每一处都还没独立站住。
 
 ## 与另外几条的分工
@@ -83,7 +83,7 @@ updated: 2026-09-25
 | [[concept:rhythm-training\|节奏训练]] | 时间维度的专项 |
 | [[concept:recording-self-assessment\|录音与自我评估]] | 如何客观发现问题 |
 
-**本条讲的是"总纲"**：先找到难点，再用后面的方法分别处理。
+本条讲的是"总纲"：先找到难点，再用后面的方法分别处理。
 
 ## 图示：三步法与两个误区
 
@@ -128,7 +128,7 @@ updated: 2026-09-25
 
 ## 听一听：短单元的重复
 
-练习的"降速到做对"对应到听觉上，就是**把一段短的东西反复做稳**。
+练习的"降速到做对"对应到听觉上，就是把一段短的东西反复做稳。
 用 `rhythm` 听一段最简单的反复形态 —— 练琴时真正的对象，往往就是这样四拍的规模。
 
 ```audiolab
@@ -137,10 +137,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「练习就是把曲子多弹几遍」** → 那是**检查**。练习的对象是**难点**，不是整曲。
-- **「慢练是浪费时间」** → 慢练是**唯一能保证练对**的方式（见 [[concept:slow-practice|慢练]]）。
-- **「弹对了就行」** → 偶尔弹对不算：要**连续做对三次以上**，才算把正确动作固定下来。
-- **「熟练就是能从头弹到尾」** → 真正的熟练是**能从任意位置开始**、能随时停下再继续。
+- 「练习就是把曲子多弹几遍」 → 那是检查。练习的对象是难点，不是整曲。
+- 「慢练是浪费时间」 → 慢练是唯一能保证练对的方式（见 [[concept:slow-practice|慢练]]）。
+- 「弹对了就行」 → 偶尔弹对不算：要连续做对三次以上，才算把正确动作固定下来。
+- 「熟练就是能从头弹到尾」 → 真正的熟练是能从任意位置开始、能随时停下再继续。
 :::
 
 ::: en
@@ -160,7 +160,7 @@ What you practise is not the whole piece but **the hard places**.
 | **3 raise the tempo and consolidate** | small increases, then back to the whole | still correct at the new tempo |
 
 **Step 1 is the one most often skipped.** If you cannot say which beat sticks, the only option is running through
-from the top — **spending most of the time on what you can already play** while the difficulty goes unsolved.
+from the top — spending most of the time on what you can already play while the difficulty goes unsolved.
 
 ## The core principle: repeat what is right, not what is wrong
 
@@ -173,10 +173,10 @@ The mechanism deserves stating plainly:
 | one right, one wrong, dozens of times | **two ways learned**, one of them wrong |
 | slow enough to be right **every** time, many times | only one way becomes automatic |
 
-**The second row is the effective one** — so "slow enough to be right" is not caution but **the only way to
+The second row is the effective one — so "slow enough to be right" is not caution but **the only way to
 guarantee you are practising correctly**.
 
-**Which also explains "getting worse with practice"**: if the wrong repetitions outnumber the right ones, the wrong
+Which also explains "getting worse with practice": if the wrong repetitions outnumber the right ones, the wrong
 version is what becomes automatic.
 
 ## Three practical tests
@@ -187,7 +187,7 @@ version is what becomes automatic.
 | **Can you play the easy places slowly and still be right?** | Distinguishes true automation from coasting |
 | **Can you join a break?** | Practise the joins separately (between phrases, between sections) |
 
-**The first is the most useful**: much apparent fluency is **held up by the order of memory** — start in the middle
+The first is the most useful: much apparent fluency is held up by the order of memory — start in the middle
 and it collapses, which shows no single place stands on its own yet.
 
 ## How this divides the labour with other entries
@@ -200,7 +200,7 @@ and it collapses, which shows no single place stands on its own yet.
 | [[concept:rhythm-training\|rhythm training]] | the temporal dimension |
 | [[concept:recording-self-assessment\|recording and self-assessment]] | finding problems objectively |
 
-**This entry is the outline**: find the difficulties first, then use those methods on them.
+This entry is the outline: find the difficulties first, then use those methods on them.
 
 ## Diagram: the three steps and the two traps
 
@@ -245,7 +245,7 @@ and it collapses, which shows no single place stands on its own yet.
 
 ## Listen: repetition in small units
 
-"Slow down until you can do it right" corresponds, aurally, to **repeating a short span until it is stable**. Use
+"Slow down until you can do it right" corresponds, aurally, to repeating a short span until it is stable. Use
 `rhythm` on the simplest possible repeated shape — the real object of practice is often this four-beat scale.
 
 ```audiolab
@@ -254,12 +254,12 @@ and it collapses, which shows no single place stands on its own yet.
 
 ## Common misconceptions
 
-- **"Practising means playing the piece several times."** That is **checking**. What you practise is the difficulty,
+- "Practising means playing the piece several times." That is checking. What you practise is the difficulty,
   not the whole.
-- **"Slow practice wastes time."** It is **the only way to guarantee practising correctly** (see
+- "Slow practice wastes time." It is the only way to guarantee practising correctly (see
   [[concept:slow-practice|slow practice]]).
-- **"Getting it right once is enough."** Three correct repetitions in a row are the minimum before the correct
+- "Getting it right once is enough." Three correct repetitions in a row are the minimum before the correct
   action is fixed.
-- **"Fluency means playing it from start to finish."** Real fluency is **starting from any point** and stopping and
+- "Fluency means playing it from start to finish." Real fluency is starting from any point and stopping and
   resuming at will.
 :::

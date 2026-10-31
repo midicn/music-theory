@@ -28,46 +28,50 @@ updated: 2026-09-24
 ---
 
 ::: zh
-第五类对位不再增加新规则，而是**把前四类混在一起自由使用**：
+第五类对位不再增加新规则。
+它把前四类混在一起，自由使用。
 
-> 同一句里可以有一音对一音、两只手错开的经过音、串状的音型、以及延留音 ——
+> 同一句里可以有一音对一音、两只手错开的经过音、串状的音型、以及延留音。
 > 时值随音乐需要变化，没有预设模式。
 
 ## 它是阶梯的最后一格，也是"离开阶梯"的第一步
 
-五类对位的设计逻辑到这里显形：
+五类对位的设计逻辑，到这里显形。
 
 | 类别 | 新增的变量 | 判断点 |
 |---|---|---|
-| 一 | 无（每步都查） | 每个音 |
-| 二 | 弱拍 | 强拍 + 弱拍 |
-| 三 | 组内不协和 | 每组首音 |
-| 四 | 强拍延留 | 准备—挂留—解决 |
-| **五** | **无（自由混合）** | **整体是否像音乐** |
+| 一 | 无：每步都查。 | 每个音。 |
+| 二 | 弱拍。 | 强拍 + 弱拍。 |
+| 三 | 组内不协和。 | 每组首音。 |
+| 四 | 强拍延留。 | 准备—挂留—解决。 |
+| **五** | **无：自由混合。** | **整体是否像音乐。** |
 
-也就是说：**第五类不再教你"检查哪一格"，它要求你回到最初的标准** ——
-每条线单独唱像不像旋律（见 [[concept:counterpoint|对位]]）。
+第五类不再教你"检查哪一格"。
+它要求你回到最初的标准：每条线单独唱，像不像旋律（见 [[concept:counterpoint|对位]]）。
 
 ## 为什么自由反而更难
 
-因为**没有格子可以依靠了**。前四类里，每个音的位置都由类型决定；第五类里，
-"这里该用一个长音还是两个短音"完全由音乐判断决定 —— 而这恰好是最难教的部分。
+因为没有格子可以依靠了：前四类里，每个音的位置都由类型决定。
+第五类里，"这里用一个长音还是两个短音"全看音乐判断。
+而这恰好是最难教的部分。
 
-实际写作时，第五类的取舍通常围绕三件事：
+写作时的取舍，通常围绕三个问题。
 
 | 判断 | 依据 |
 |---|---|
-| **哪里该动、哪里该停** | 呼吸：连续音型太久会失去轮廓，长音太久会失去推进 |
-| **不协和放在哪** | 强拍上的不协和必须有准备与解决（第四类规则仍然适用） |
-| **两个声部是否错开** | 同步换音过多会退回"单音对位"的僵硬感 |
+| **哪里该动、哪里该停** | 呼吸。连续音型太久会失去轮廓，长音太久会失去推进。 |
+| **不协和放在哪** | 强拍上的不协和必须有准备与解决（第四类规则仍然适用）。 |
+| **两个声部是否错开** | 同步换音过多，会退回单音对位的僵硬感。 |
 
-第二行值得强调：**第五类放开了时值，但没有放开"不协和的处理"**。
-规则可以混用，纪律不能丢 —— 这也是本类的核心。
+第二行值得强调。
+**第五类放开了时值，没有放开不协和的处理。**
+规则可以混用，纪律不能丢。
+这就是本类的核心。
 
 ## 它离真实作品只有一步
 
-二部创意曲、赋格的主题与对题、室内乐里的两句对话 —— 全都属于第五类的形态。
-所以第五类练习做完，就可以直接进入**真实作品的写作与分析了**。
+二部创意曲、赋格的主题与对题、室内乐里的两句对话，都是第五类的形态。
+练完第五类，就可以直接进入真实作品的写作与分析。
 
 ## 图示：时值自由变化，纪律不变
 
@@ -113,8 +117,9 @@ updated: 2026-09-24
 
 ## 听一听：自由混用的一串音
 
-第五类是两声部练习，本站放不出两声部。这里用 `scale` 听一组**自由变化的音型**：
-它展示的是"时值可以自由，但每一步仍需级进、仍需有骨架音"。
+第五类是两声部练习，这里放不出两声部。
+用 `scale` 听一组自由变化的音型也够。
+时值可以自由，每一步仍要级进，仍要有骨架音。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","E4","D4","C4"],"label":"自由音型（级进往返，骨架音清楚）","label_en":"A free figure — stepwise, with clear skeletal notes","hint":"点「上行」/「下行」听骨架音在哪","hint_en":"Try Up and Down and notice where the skeletal notes fall","gap":0.3}
@@ -122,10 +127,11 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「第五类是"什么都行"」** → 时值自由，但处理不协和的纪律（级进、解决）完全不变。
-- **「它比前四类简单」** → 规则最少，判断最难：没有格子可依靠，全靠音乐感。
-- **「前四类只是练习，第五类才是写作」** → 前四类练的是第五类要用的每一项能力，跳过它们通常写不好。
-- **「华丽对位就是装饰很多」** → "华丽"指时值的自由变化，不指音符多。长音与休止同样是它的手段。
+- 「第五类是"什么都行"」 → 时值自由，处理不协和的纪律不变：级进、解决。
+- 「它比前四类简单」 → 规则最少，判断最难。没有格子可依靠，全靠音乐感。
+- 「前四类只是练习，第五类才是写作」 → 前四类练的正是第五类要用的每一项能力。跳过它们，通常写不好。
+- 「华丽对位就是装饰很多」 → "华丽"指时值的自由变化，不指音符多。长音与休止同样是它的手段。
+
 :::
 
 ::: en
@@ -225,12 +231,12 @@ it shows that note values may vary freely while every step still moves by step a
 
 ## Common misconceptions
 
-- **"Fifth species means anything goes."** Note values are free; the discipline of treating dissonance (by step,
+- "Fifth species means anything goes." Note values are free; the discipline of treating dissonance (by step,
   resolved) is unchanged.
-- **"It is easier than the first four."** Fewest rules, hardest judgement: no cells to lean on, only musical
+- "It is easier than the first four." Fewest rules, hardest judgement: no cells to lean on, only musical
   sense.
-- **"The first four are exercises; only the fifth is real writing."** The first four train each ability the fifth
+- "The first four are exercises; only the fifth is real writing." The first four train each ability the fifth
   requires; skipping them usually shows.
-- **"Florid means heavily ornamented."** "Florid" refers to freedom of note value, not to number of notes. Long
+- "Florid means heavily ornamented." "Florid" refers to freedom of note value, not to number of notes. Long
   notes and rests are equally its tools.
 :::

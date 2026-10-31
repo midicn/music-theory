@@ -43,15 +43,15 @@ updated: 2026-09-24
 | **自然小调** | 第 1、4、5 级（i / iv / v）—— 主和弦本身就是小三和弦 |
 | **小调写作** | 第 1 级常作为全曲中心，第 4 级作下属 |
 
-注意最上面一行：**大调里也有三个小三和弦**，而且数量与大三和弦相同（各 3 个）。
+注意最上面一行：大调里也有三个小三和弦，而且数量与大三和弦相同（各 3 个）。
 所以"大调=全是大三和弦"是错的 —— 大三、小三各三个，加一个减三和弦，
 这就是大调音阶上七个三和弦的全部构成（见 [[concept:scale-harmony|音阶的和声含义]]）。
 
 ## 与小调的关系
 
-自然小调的第 7 级没有升高，所以第 5 级（属和弦）是**小三和弦**，
+自然小调的第 7 级没有升高，所以第 5 级（属和弦）是小三和弦，
 "属 → 主"的推进力因此偏弱。这也是小调作品几乎都会把第 7 级升上去的原因
-（见 [[concept:harmonic-minor|和声小调]]）——**目的就是让属和弦变回大三和弦**。
+（见 [[concept:harmonic-minor|和声小调]]）——目的就是让属和弦变回大三和弦。
 
 ## 图示：镜像关系
 
@@ -94,10 +94,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「小三和弦是"悲伤"的和弦」** → 它提供的是**较暗的色彩与较弱的稳定感**，情绪由速度、节奏、和声共同决定。
-- **「大调里没有小三和弦」** → 有三个（ii、iii、vi），与大三和弦数量相同。
-- **「小三和弦和大三和弦的五音不同」** → 五音一样，两者都是纯五度。差别只在三音。
-- **「小调的主和弦是减三和弦」** → 自然小调的主和弦是小三和弦；减三和弦出现在小调的第 2 级。
+- 「小三和弦是"悲伤"的和弦」 → 它提供的是较暗的色彩与较弱的稳定感，情绪由速度、节奏、和声共同决定。
+- 「大调里没有小三和弦」 → 有三个（ii、iii、vi），与大三和弦数量相同。
+- 「小三和弦和大三和弦的五音不同」 → 五音一样，两者都是纯五度。差别只在三音。
+- 「小调的主和弦是减三和弦」 → 自然小调的主和弦是小三和弦；减三和弦出现在小调的第 2 级。
 :::
 
 ::: en
@@ -124,9 +124,9 @@ complete set of seven, as covered under [[concept:scale-harmony|scales as harmon
 
 ## Its relation to minor keys
 
-In natural minor the seventh degree is unraised, so the chord on degree 5 (the dominant) is a **minor triad**
+In natural minor the seventh degree is unraised, so the chord on degree 5 (the dominant) is a minor triad
 and its push to the tonic is weak. That is precisely why minor-key music almost always raises the seventh
-(see [[concept:harmonic-minor|harmonic minor]]) — **the point is to turn the dominant back into a major triad.**
+(see [[concept:harmonic-minor|harmonic minor]]) — the point is to turn the dominant back into a major triad.
 
 ## Diagram: the mirror relation
 
@@ -170,8 +170,8 @@ major version.
 
 ## Common misconceptions
 
-- **"A minor triad is a sad chord."** It supplies **a darker colour and less stability**; mood also depends on tempo, rhythm and harmony.
-- **"Major keys contain no minor triads."** They contain three (ii, iii, vi) — the same number as major triads.
-- **"Minor and major triads have different fifths."** The fifth is identical; both are perfect. Only the third differs.
-- **"A minor key's tonic is a diminished triad."** In natural minor the tonic is a minor triad; the diminished triad sits on degree 2.
+- "A minor triad is a sad chord." It supplies a darker colour and less stability; mood also depends on tempo, rhythm and harmony.
+- "Major keys contain no minor triads." They contain three (ii, iii, vi) — the same number as major triads.
+- "Minor and major triads have different fifths." The fifth is identical; both are perfect. Only the third differs.
+- "A minor key's tonic is a diminished triad." In natural minor the tonic is a minor triad; the diminished triad sits on degree 2.
 :::

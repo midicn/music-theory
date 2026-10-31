@@ -28,11 +28,11 @@ updated: 2026-09-25
 ---
 
 ::: zh
-复三部曲式（compound ternary）是 [[concept:ternary-form|三段体]] 的放大版：
+复三部曲式（compound ternary）是 [[concept:ternary-form|三段体]] 的放大版。
 
 > **外观还是 ABA，但每一段本身就是一个完整的曲式。**
 
-区别不在规模，而在**层级**：
+区别不在规模，而在**层级**。
 
 | | 单三段体（simple） | 复三部曲式（compound） |
 |---|---|---|
@@ -41,34 +41,34 @@ updated: 2026-09-25
 | 标记 | ABA | **A（a b）B（c d）A** |
 | 常见体裁 | 歌曲、小品 | **圆舞曲 · 谐谑曲 · 进行曲 · 小步舞曲** |
 
-**判断方法**：看 A 段"能不能单独成篇"。如果 A 段自己就有一个完整的"出去—回来"，
-那外层就是复三部曲式。
+**判断方法**：看 A 段能不能单独成篇。
+如果 A 段自己有一个完整的出去—回来，外层就是复三部曲式。
 
 ## 中间段的名字：三声中部
 
-复三部的中间段（B）传统上叫 **trio（三声中部）**，这个名字来自巴洛克时期：
+复三部的中间段（B）传统上叫 **trio（三声中部）**。这个名字来自巴洛克时期。
 
-> 当时这类舞曲的中间段**由三件乐器演奏**（其他声部休息），于是整段被叫作"三声部"，
-> 后来即使乐器数量变了，名字仍保留。
+> 当时这类舞曲的中间段由三件乐器演奏，其他声部休息。
+> 于是整段被叫作"三声部"。后来乐器数量变了，名字仍保留。
 
-这也是一个有趣的现象：**术语常常比它描述的事实活得更久** ——
-今天写"Trio"的段落可能由整个乐队演奏，但名字还叫"三声部"。
+术语常常比它描述的事实活得更久。
+今天标"Trio"的段落可能由整个乐队演奏，名字还叫"三声部"。
 
 ## 为什么这种层级有用
 
-因为它同时解决两个尺度上的问题：
+它同时解决两个尺度上的问题。
 
 | 尺度 | 解决的问题 |
 |---|---|
 | **大尺度** | ABA 提供"出去—回来"的完整感（整首作品） |
 | **小尺度** | 每段内部各有自己的对比与收束（段落内部） |
 
-**否则会长篇单调**：如果 A 段长达三分钟却只是同一种材料平铺，
-听者在中途就会失去方向。复三部的层级保证了**每一层都有自己的起伏**。
+否则容易长篇单调。A 段长达三分钟却只是同一种材料平铺，听者中途就会失去方向。
+复三部的层级让每一层都有自己的起伏。
 
 ## 与回旋曲式的区别
 
-两者都能写长，但组织方式不同：
+两者都能写长，组织方式不同。
 
 | | 复三部曲式 | 回旋曲式 |
 |---|---|---|
@@ -131,9 +131,9 @@ updated: 2026-09-25
 
 ## 听一听：层级的必要
 
-用 `progression` 听一段较长的功能进行。请留意**它内部也有起伏** ——
-如果整段都是同一个和弦，即使很长也不会形成"段落感"。
-**复三部曲式的价值就在于让每一层都有自己的起伏。**
+用 `progression` 听一段较长的功能进行。请留意它内部也有起伏。
+整段都是同一个和弦，再长也不会形成"段落感"。
+复三部曲式的价值，就是让每一层都有自己的起伏。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I","V","I"],"label":"段落内部的起伏（两次收束）","label_en":"Internal shaping: two closes inside one section","hint":"逐个和弦依次听：注意中间那次回到 I 也是一个“小结束”","hint_en":"Hear each chord: the middle return to I is a small close too"}
@@ -142,10 +142,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「复三部只是三段体写长一点」** → 差别在**层级**：单三段的每段是乐段，复三部的每段是**曲式**。
-- **「三声中部就是三个声部」** → 名字是历史遗留（原由三件乐器演奏），今天的 Trio 可能由整个乐队演奏。
-- **「复三部与回旋曲式差不多」** → 复三部只有一个中间段；回旋曲式有多个插部。
-- **「层级越多越高级」** → 层级是**为内容服务**的。短小的乐思硬套两层结构，只会显得空洞。
+- 「复三部只是三段体写长一点」 → 差别在层级。单三段的每段是乐段，复三部的每段是曲式。
+- 「三声中部就是三个声部」 → 名字是历史遗留，原由三件乐器演奏。今天的 Trio 可能由整个乐队演奏。
+- 「复三部与回旋曲式差不多」 → 复三部只有一个中间段，回旋曲式有多个插部。
+- 「层级越多越高级」 → 层级为内容服务。短小的乐思硬套两层结构，只会显得空洞。
 :::
 
 ::: en
@@ -169,10 +169,10 @@ compound.
 
 The middle section of a compound ternary is traditionally called the **trio**, and the name comes from the Baroque:
 
-> Such middle sections were **played by three instruments** (the other parts resting), so the section was called
+> Such middle sections were played by three instruments (the other parts resting), so the section was called
 > "three-part"; the name stuck even after the scoring changed.
 
-An interesting pattern in itself: **terms often outlive the facts they describe** — a passage marked "Trio" today
+An interesting pattern in itself: terms often outlive the facts they describe — a passage marked "Trio" today
 may be played by the whole orchestra, and still be called "three-part".
 
 ## Why the extra level is useful
@@ -184,8 +184,8 @@ Because it solves a problem at each scale:
 | **large** | ABA provides the completeness of going out and returning (the whole work) |
 | **small** | each section has its own contrast and closure (inside the section) |
 
-**Without it, length turns monotonous**: a three-minute A section laid out as one continuous material loses the
-listener halfway. The extra level guarantees that **every layer has its own rise and fall.**
+Without it, length turns monotonous: a three-minute A section laid out as one continuous material loses the
+listener halfway. The extra level guarantees that every layer has its own rise and fall.
 
 ## The difference from rondo form
 
@@ -252,8 +252,8 @@ Both can be long, but they organise differently:
 
 ## Listen: why the extra level is needed
 
-Use `progression` on a longer functional span. Notice that **it has shaping inside it** — a section made of one
-chord throughout would feel formless however long. **That is exactly what compound ternary's levels provide.**
+Use `progression` on a longer functional span. Notice that it has shaping inside it — a section made of one
+chord throughout would feel formless however long. That is exactly what compound ternary's levels provide.
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I","V","I"],"label":"段落内部的起伏（两次收束）","label_en":"Internal shaping: two closes inside one section","hint":"逐个和弦依次听：中间那次回到 I 也是一个小的结束","hint_en":"Hear each chord: the middle return to I is a small close too"}
@@ -261,12 +261,12 @@ chord throughout would feel formless however long. **That is exactly what compou
 
 ## Common misconceptions
 
-- **"Compound ternary is just longer ternary."** The difference is **level**: in simple ternary each section is a
-  period; in compound ternary each section is a **form**.
-- **"A trio means three voices."** The name is historical (three instruments originally); a Trio today may be played
+- "Compound ternary is just longer ternary." The difference is level: in simple ternary each section is a
+  period; in compound ternary each section is a form.
+- "A trio means three voices." The name is historical (three instruments originally); a Trio today may be played
   by the full orchestra.
-- **"Compound ternary and rondo are much alike."** Compound ternary has a single middle section; a rondo has several
+- "Compound ternary and rondo are much alike." Compound ternary has a single middle section; a rondo has several
   episodes.
-- **"More levels is more advanced."** Levels **serve the content**. Forcing two levels onto a short idea only leaves
+- "More levels is more advanced." Levels serve the content. Forcing two levels onto a short idea only leaves
   it hollow.
 :::

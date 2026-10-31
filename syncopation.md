@@ -60,7 +60,7 @@ updated: 2026-09-25
 | 做法 | 在原有网格上**错位** | 另立一套不同的等分（见 [[concept:polyrhythm|复节奏]]） |
 | 记谱 | 只需延音线或重音 | 需要两套标记 |
 
-一句话：**切分是"同一个周期的错位"，复节奏是"两个周期并存"。**
+一句话：切分是"同一个周期的错位"，复节奏是"两个周期并存"。
 
 ## 它在哪里最常见
 
@@ -128,7 +128,7 @@ updated: 2026-09-25
 
 ## 听一听：方正与切分
 
-用 `rhythm` 组件对比**四拍均分**与**切分音型**。请留意听者"预期落点"的变化 ——
+用 `rhythm` 组件对比四拍均分与切分音型。请留意听者"预期落点"的变化 ——
 这正是切分唯一要做的事。
 
 ```audiolab
@@ -142,10 +142,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「切分就是弱起」** → 弱起（anacrusis）只是**从小节前开始**，不一定错位；切分的关键是**重音被挪到非重音位置**。
-- **「切分让音乐失去节拍」** → 恰恰相反：**节拍仍在，只是重音被推迟**。没有节拍就没有切分。
-- **「切分与复节奏是一回事」** → 切分是单一周期的错位，复节奏是两个周期并存。
-- **「切分只属于流行与爵士」** → 古典音乐里大量用于推迟终止；文艺复兴的舞曲也早有切分。
+- 「切分就是弱起」 → 弱起（anacrusis）只是从小节前开始，不一定错位；切分的关键是重音被挪到非重音位置。
+- 「切分让音乐失去节拍」 → 恰恰相反：节拍仍在，只是重音被推迟。没有节拍就没有切分。
+- 「切分与复节奏是一回事」 → 切分是单一周期的错位，复节奏是两个周期并存。
+- 「切分只属于流行与爵士」 → 古典音乐里大量用于推迟终止；文艺复兴的舞曲也早有切分。
 :::
 
 ::: en
@@ -252,7 +252,7 @@ In one line: **syncopation displaces one cycle; polyrhythm runs two cycles side 
 
 ## Listen: square and syncopated
 
-Use the `rhythm` component to compare **four even quarters** with **a syncopated figure**. Listen to what happens
+Use the `rhythm` component to compare **four even quarters** with a syncopated figure. Listen to what happens
 to your expectation of arrival — that is all syncopation does.
 
 ```audiolab
@@ -265,11 +265,11 @@ to your expectation of arrival — that is all syncopation does.
 
 ## Common misconceptions
 
-- **"Syncopation means an anacrusis."** An anacrusis simply starts before the bar; it need not displace the accent.
-  Syncopation's point is that **the accent lands on a non-accented position**.
-- **"Syncopation destroys the metre."** The opposite: **the metre is still there, the accent merely arrives late.**
+- "Syncopation means an anacrusis." An anacrusis simply starts before the bar; it need not displace the accent.
+  Syncopation's point is that the accent lands on a non-accented position.
+- "Syncopation destroys the metre." The opposite: the metre is still there, the accent merely arrives late.
   No metre, no syncopation.
-- **"Syncopation and polyrhythm are the same."** One displaces a single cycle; the other runs two cycles at once.
-- **"Syncopation belongs to pop and jazz."** Classical music uses it heavily to postpone cadences, and Renaissance
+- "Syncopation and polyrhythm are the same." One displaces a single cycle; the other runs two cycles at once.
+- "Syncopation belongs to pop and jazz." Classical music uses it heavily to postpone cadences, and Renaissance
   dances were already syncopated.
 :::

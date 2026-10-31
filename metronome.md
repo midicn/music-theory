@@ -51,10 +51,10 @@ updated: 2026-09-25
 | 性质 | **校准工具** | 有弹性的表达 |
 | 作用 | 让演奏者知道"拍点是否均匀" | 让乐句有呼吸 |
 
-**关键概念是 rubato（弹性速度）**：演奏者有意在某处加快、某处放慢，以塑造乐句。
-它不是"没跟上节拍器"，而是**主动偏离**（见 [[concept:free-meter|自由节拍与散板]]）。
+关键概念是 rubato（弹性速度）：演奏者有意在某处加快、某处放慢，以塑造乐句。
+它不是"没跟上节拍器"，而是主动偏离（见 [[concept:free-meter|自由节拍与散板]]）。
 
-> 一句话：**节拍器是用来"检查"的，不是用来"演奏"的。**
+> 一句话：节拍器是用来"检查"的，不是用来"演奏"的。
 
 ## 它的正确用法
 
@@ -65,7 +65,7 @@ updated: 2026-09-25
 | **稳定复杂节奏** | 复节奏、切分、连音，先跟节拍器对上再放开 |
 | **对齐重音周期** | 确认重音落在正确的拍上（见 [[concept:metric-accent|强弱规律]]） |
 
-第二行最有用：**人耳对渐快极不敏感**，尤其是演奏自己熟悉的段落时。
+第二行最有用：人耳对渐快极不敏感，尤其是演奏自己熟悉的段落时。
 节拍器是唯一能客观照出这件事的工具。
 
 ## 它的误用
@@ -76,7 +76,7 @@ updated: 2026-09-25
 | 全程跟节拍器练习 | 学会的是"跟机器"，不是"控制速度" |
 | 用它代替对律动的内在感受 | 一旦拿掉节拍器就散 |
 
-判断标准很简单：**练习时跟节拍器，演奏时听自己。**
+判断标准很简单：练习时跟节拍器，演奏时听自己。
 如果演奏时需要心里"数拍器"才能不乱，说明内在律动还没建立。
 
 ## 图示：工具与表达
@@ -123,8 +123,8 @@ updated: 2026-09-25
 
 ## 听一听：等距与弹性
 
-用 `rhythm` 组件听**严格等距**的一串音 —— 这是节拍器提供的参照。
-真实的演奏会在这条基准上做伸缩：**先听准"直线的样子"，才知道自己偏了多少。**
+用 `rhythm` 组件听严格等距的一串音 —— 这是节拍器提供的参照。
+真实的演奏会在这条基准上做伸缩：先听准"直线的样子"，才知道自己偏了多少。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":96,"label":"♩ = 96：节拍器的等距基准","label_en":"Quarter = 96: the metronome's even reference","hint":"点「播放」，这就是“校准线”","hint_en":"Press play — this is the calibration line"}
@@ -133,10 +133,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「跟节拍器练才能准」** → 它是**校准**工具。全程跟机器练习，学到的是"跟机器"，不是"控制速度"。
-- **「rubato 是不准」** → rubato 是**主动偏离**，是乐句处理手段，不是失误。
-- **「BPM 越高越快越难」** → 难度取决于**时值密度与节奏复杂度**，不只看 BPM。慢速里的复杂切分同样很难。
-- **「节拍器是近代才有的，所以古典作品不需要按它演奏」** → 前半句对，后半句要分开看：巴洛克与古典作品有各自的速度传统（见 [[concept:tempo|速度术语]]），**不等于"随便多快"**。
+- 「跟节拍器练才能准」 → 它是校准工具。全程跟机器练习，学到的是"跟机器"，不是"控制速度"。
+- 「rubato 是不准」 → rubato 是主动偏离，是乐句处理手段，不是失误。
+- 「BPM 越高越快越难」 → 难度取决于时值密度与节奏复杂度，不只看 BPM。慢速里的复杂切分同样很难。
+- 「节拍器是近代才有的，所以古典作品不需要按它演奏」 → 前半句对，后半句要分开看：巴洛克与古典作品有各自的速度传统（见 [[concept:tempo|速度术语]]），不等于"随便多快"。
 :::
 
 ::: en
@@ -163,10 +163,10 @@ The two are often set against each other, but **they do not belong to the same l
 | Nature | a **calibration tool** | flexible expression |
 | Job | to show whether the beat is even | to give phrases breath |
 
-The key concept is **rubato**: the performer deliberately speeds up here and slows there to shape a phrase. It is
-not "failing to keep up" but **deliberate departure** (see [[concept:free-meter|free metre and sanban]]).
+The key concept is rubato: the performer deliberately speeds up here and slows there to shape a phrase. It is
+not "failing to keep up" but deliberate departure (see [[concept:free-meter|free metre and sanban]]).
 
-> In one line: **the metronome is for checking, not for performing.**
+> In one line: the metronome is for checking, not for performing.
 
 ## Where it is genuinely useful
 
@@ -177,7 +177,7 @@ not "failing to keep up" but **deliberate departure** (see [[concept:free-meter|
 | **stabilising complex rhythms** | polyrhythms, syncopations and tuplets: lock them to the metronome first, then let go |
 | **aligning accents** | confirm the accent falls on the right beat (see [[concept:metric-accent|metric accent]]) |
 
-The second row is the most valuable: **the ear is very insensitive to gradual speeding up**, especially in
+The second row is the most valuable: the ear is very insensitive to gradual speeding up, especially in
 passages you know well. The metronome is the only tool that exposes it objectively.
 
 ## Where it goes wrong
@@ -188,7 +188,7 @@ passages you know well. The metronome is the only tool that exposes it objective
 | practising with it constantly | you learn to follow a machine, not to control speed |
 | using it instead of an internal sense of pulse | take it away and everything falls apart |
 
-The rule is simple: **practise with the metronome, perform by listening.** If you need to count the metronome
+The rule is simple: practise with the metronome, perform by listening. If you need to count the metronome
 mentally while performing, the internal pulse has not been built yet.
 
 ## Diagram: tool and expression
@@ -235,7 +235,7 @@ mentally while performing, the internal pulse has not been built yet.
 
 ## Listen: even versus flexible
 
-Use `rhythm` to hear **a strictly even run** — the reference a metronome provides. Real performance stretches
+Use `rhythm` to hear a strictly even run — the reference a metronome provides. Real performance stretches
 against this line: **hear what "straight" sounds like first, and you will know how far you have strayed.**
 
 ```audiolab
@@ -244,12 +244,12 @@ against this line: **hear what "straight" sounds like first, and you will know h
 
 ## Common misconceptions
 
-- **"Only metronome practice makes you accurate."** It is a **calibration** tool. Practising with it constantly
+- "Only metronome practice makes you accurate." It is a calibration tool. Practising with it constantly
   teaches following a machine, not controlling speed.
-- **"Rubato means out of time."** Rubato is **deliberate departure** — a phrasing device, not a mistake.
-- **"Higher BPM means harder."** Difficulty depends on **note density and rhythmic complexity**, not BPM alone. Slow
+- "Rubato means out of time." Rubato is deliberate departure — a phrasing device, not a mistake.
+- "Higher BPM means harder." Difficulty depends on note density and rhythmic complexity, not BPM alone. Slow
   music with hard syncopation is difficult too.
-- **"The metronome is modern, so earlier music need not follow it."** The first half is true; the second needs care:
+- "The metronome is modern, so earlier music need not follow it." The first half is true; the second needs care:
   Baroque and Classical works had their own tempo conventions (see [[concept:tempo|tempo terms]]) — which is **not
   the same as "any speed goes"**.
 :::

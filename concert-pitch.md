@@ -97,11 +97,11 @@ updated: 2026-09-23
 
 因为音高标准是**演奏实践的前提**，也是历史演奏的分水岭。
 
-- **合奏要先定音**。乐团开场时的对音，就是全体向同一个参照靠拢。参照对了，之后才可能谈音准。
-- **移调乐器要换算**。写的是同一个音名，实际发声高度取决于乐器自身的构造与标准音高。见 [[concept:note-name|音名]]。
-- **古乐演奏会换标准**。今天用 415 Hz 演奏巴洛克作品，是为了让当年的乐器构造、弦张力、人声负担回到原来的状态。
+- 合奏要先定音。乐团开场时的对音，就是全体向同一个参照靠拢。参照对了，之后才可能谈音准。
+- 移调乐器要换算。写的是同一个音名，实际发声高度取决于乐器自身的构造与标准音高。见 [[concept:note-name|音名]]。
+- 古乐演奏会换标准。今天用 415 Hz 演奏巴洛克作品，是为了让当年的乐器构造、弦张力、人声负担回到原来的状态。
   这属于演奏实践问题，见 [[concept:historical-performance|历史演奏法]]。
-- **键盘的等距依赖它**。十二平均律把八度切成十二份，切完之后每一份的绝对频率由标准音高确定。
+- 键盘的等距依赖它。十二平均律把八度切成十二份，切完之后每一份的绝对频率由标准音高确定。
   标准音高一变，整套键位的频率整体平移。
 
 ## 听一听：A4 与它的八度
@@ -112,10 +112,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「A 就是 440 Hz」** → A 是音名，440 Hz 是近代给 A4 这个音名配的频率。"A"这个字母本身不含数字。
-- **「音高越统一越好，所以古人很落后」** → 各地音高不同在过去是常态而非失误；统一是为了合奏，不是为了正确。
-- **「调音器显示 440 就说明音准完美」** → 它只说明这一个参照音对上了。整场演奏的音准还要看乐器构造、演奏法与平均律的取舍。
-- **「古乐就是音更低」** → 打巴洛克作品用 415 Hz 是常见做法，但历史上各地音高有高有低，并不单调地"更低"。
+- 「A 就是 440 Hz」 → A 是音名，440 Hz 是近代给 A4 这个音名配的频率。"A"这个字母本身不含数字。
+- 「音高越统一越好，所以古人很落后」 → 各地音高不同在过去是常态而非失误；统一是为了合奏，不是为了正确。
+- 「调音器显示 440 就说明音准完美」 → 它只说明这一个参照音对上了。整场演奏的音准还要看乐器构造、演奏法与平均律的取舍。
+- 「古乐就是音更低」 → 打巴洛克作品用 415 Hz 是常见做法，但历史上各地音高有高有低，并不单调地"更低"。
 :::
 
 ::: en
@@ -192,9 +192,9 @@ says "this note is A", the default meaning is that 440 Hz A.
 Because pitch standard is the precondition of performance practice, and the dividing line in historical playing.
 
 - **Ensembles tune first.** The tuning moment at the start of a concert brings everyone toward one reference. Only after that can intonation mean anything.
-- **Transposing instruments need conversion.** The written name may be the same, but the sounding pitch depends on the instrument's construction and on the standard. See [[concept:note-name|note name]].
-- **Period performances change standard.** Playing Baroque music at 415 Hz today restores the original instrument build, string tension and vocal burden. That is a performance-practice question — see [[concept:historical-performance|historical performance]].
-- **Equal spacing on a keyboard depends on it.** Equal temperament cuts the octave into twelve; where those twelve then sit in absolute frequency is decided by the standard. Shift the standard and the whole keyboard shifts.
+- Transposing instruments need conversion. The written name may be the same, but the sounding pitch depends on the instrument's construction and on the standard. See [[concept:note-name|note name]].
+- Period performances change standard. Playing Baroque music at 415 Hz today restores the original instrument build, string tension and vocal burden. That is a performance-practice question — see [[concept:historical-performance|historical performance]].
+- Equal spacing on a keyboard depends on it. Equal temperament cuts the octave into twelve; where those twelve then sit in absolute frequency is decided by the standard. Shift the standard and the whole keyboard shifts.
 
 ## Listen: A4 and its octave
 
@@ -204,8 +204,8 @@ Because pitch standard is the precondition of performance practice, and the divi
 
 ## Common misconceptions
 
-- **"A means 440 Hz."** A is a note name; 440 Hz is the frequency assigned to the name A4 in modern practice. The letter itself contains no number.
-- **"Unified pitch is better, so earlier musicians were backward."** Differing local pitches were the norm rather than a mistake. Unification serves ensemble playing, not correctness.
-- **"A tuner reading 440 means perfect intonation."** It means this one reference matches. Overall intonation still depends on instrument build, technique and the temperament chosen.
-- **"Period performance simply means lower pitch."** 415 Hz is a common choice for Baroque repertoire, but historically pitch ran both high and low, not consistently lower.
+- "A means 440 Hz." A is a note name; 440 Hz is the frequency assigned to the name A4 in modern practice. The letter itself contains no number.
+- "Unified pitch is better, so earlier musicians were backward." Differing local pitches were the norm rather than a mistake. Unification serves ensemble playing, not correctness.
+- "A tuner reading 440 means perfect intonation." It means this one reference matches. Overall intonation still depends on instrument build, technique and the temperament chosen.
+- "Period performance simply means lower pitch." 415 Hz is a common choice for Baroque repertoire, but historically pitch ran both high and low, not consistently lower.
 :::

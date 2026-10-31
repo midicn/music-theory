@@ -43,14 +43,14 @@ updated: 2026-09-23
 | **排列** | 这些音之间的**音程结构** | 大调 = 全全半全全全半 |
 
 **排列比选择更重要**：同样是 7 个音，把半音的位置挪一挪，就得到完全不同的调式（见 [[concept:dorian|多里亚]] 等）。
-换句话说，音阶的性格写在**半音落在哪儿**，而不是"用了几个音"。
+也就是说，音阶的性格写在**半音落在哪儿**，而不是"用了几个音"。
 
 ## 主音：音阶的"家"
 
-音阶的第一个音叫**主音**（tonic）。它不只是起点，还是听感上的归宿：
+音阶的第一个音叫主音（tonic）。它不只是起点，还是听感上的归宿：
 旋律走到主音时会觉得"到家了"。
 
-把同一条音程结构从不同的音上开始，就得到**同一种音阶的不同调**——
+把同一条音程结构从不同的音上开始，就得到同一种音阶的不同调——
 这就是移调。结构不变，绝对高度全变。调号的存在就是为了记录这件事，
 见 [[concept:key-signature|调号]]。
 
@@ -109,7 +109,7 @@ updated: 2026-09-23
 
 ## 听一听：一条音阶的走法
 
-音阶的听感来自**全音与半音的位置**。上行时留意哪一步"迈得小"——那一步定义了整条音阶的性格。
+音阶的听感来自全音与半音的位置。上行时留意哪一步"迈得小"——那一步定义了整条音阶的性格。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C 大调音阶","label_en":"C major scale","hint":"点「上行」听半音落在哪里","hint_en":"Try Up and listen for where the semitones fall","gap":0.38}
@@ -117,10 +117,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「音阶就是音的顺序」** → 顺序只是表象，本质是**音程结构**（全音半音怎么排）。
-- **「音阶越多越厉害」** → 一条大调音阶加几条调式，已能覆盖绝大多数音乐。数量不是能力。
-- **「音阶之外的都是错音」** → 变化音（见 [[concept:chromatic|半音阶]]）是常用的色彩手段，只是不属于当前音阶而已。
-- **「同一条音阶的不同调只是高低不同」** → 结构相同、绝对高度不同，记谱（调号）与乐器上的手感也跟着变。
+- 「音阶就是音的顺序」 → 顺序只是表象，本质是音程结构（全音半音怎么排）。
+- 「音阶越多越厉害」 → 一条大调音阶加几条调式，已能覆盖绝大多数音乐。数量不是能力。
+- 「音阶之外的都是错音」 → 变化音（见 [[concept:chromatic|半音阶]]）是常用的色彩手段，只是不属于当前音阶而已。
+- 「同一条音阶的不同调只是高低不同」 → 结构相同、绝对高度不同，记谱（调号）与乐器上的手感也跟着变。
 :::
 
 ::: en
@@ -143,10 +143,10 @@ get an entirely different mode (see [[concept:dorian|Dorian]] and friends). A sc
 
 ## The tonic: a scale's home
 
-The first degree is the **tonic**. It is not merely a starting point; it is where the ear wants to end. A
+The first degree is the tonic. It is not merely a starting point; it is where the ear wants to end. A
 melody arriving on the tonic feels like coming home.
 
-Start the same interval pattern on a different pitch and you have **the same scale in a different key** — that
+Start the same interval pattern on a different pitch and you have the same scale in a different key — that
 is transposition. The pattern is unchanged; the absolute pitches all move. Key signatures exist to record this;
 see [[concept:key-signature|key signature]].
 
@@ -205,7 +205,7 @@ see [[concept:key-signature|key signature]].
 
 ## Listen: walking a scale
 
-A scale's character comes from **where the whole tones and semitones fall**. As you listen up, notice which
+A scale's character comes from where the whole tones and semitones fall. As you listen up, notice which
 step feels shorter — that step defines the whole scale.
 
 ```audiolab
@@ -214,8 +214,8 @@ step feels shorter — that step defines the whole scale.
 
 ## Common misconceptions
 
-- **"A scale is the order of the notes."** Order is surface; the substance is the **interval pattern**.
-- **"More scales means more skill."** One major scale plus a few modes covers most music. Quantity is not ability.
-- **"Anything outside the scale is a wrong note."** Chromatic notes (see [[concept:chromatic|chromatic scale]]) are a standard colouring device; they simply belong to another set.
-- **"The same scale in another key is just higher or lower."** The pattern is the same, but the absolute pitches, the notation and the instrument's feel all change.
+- "A scale is the order of the notes." Order is surface; the substance is the interval pattern.
+- "More scales means more skill." One major scale plus a few modes covers most music. Quantity is not ability.
+- "Anything outside the scale is a wrong note." Chromatic notes (see [[concept:chromatic|chromatic scale]]) are a standard colouring device; they simply belong to another set.
+- "The same scale in another key is just higher or lower." The pattern is the same, but the absolute pitches, the notation and the instrument's feel all change.
 :::

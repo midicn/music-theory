@@ -63,22 +63,22 @@ updated: 2026-09-25
 | **18 世纪以后** | 逐渐系统化（与键盘乐器的发展、乐队规模扩大有关） |
 | **浪漫派** | 标记极其详尽（`ppp` 到 `fff`、大量渐变） |
 
-**所以"巴洛克作品没有力度标记"不是作曲者不重要力度**，
-而是**那个时代的力度不属于需要写下来的信息**（见 [[concept:historical-performance|历史演奏法]]）。
+所以"巴洛克作品没有力度标记"不是作曲者不重要力度，
+而是那个时代的力度不属于需要写下来的信息（见 [[concept:historical-performance|历史演奏法]]）。
 
 ## 三条实务认识
 
-**① 力度不等于音量。**
+① 力度不等于音量。
 同一个 `mf`，在低音区听起来比在高音区"更响"（见 [[concept:register|音区]]）。
-所以配器时**力度记号的写法要与音区配合**：低音区的 `f` 常常写得更保守。
+所以配器时力度记号的写法要与音区配合：低音区的 `f` 常常写得更保守。
 
-**② 力度与织体互相影响。**
+② 力度与织体互相影响。
 一个和弦（多人同奏）与一个单音，同样标 `f`，实际厚度差别很大。
-**所以"力度"实际是"音响效果"，不只是演奏者的用力程度。**
+所以"力度"实际是"音响效果"，不只是演奏者的用力程度。
 
-**③ 渐变的速度与范围都要设计。**
+③ 渐变的速度与范围都要设计。
 `crescendo` 若从 `p` 到 `f` 只用了半小节，效果是"突强"；若用了八小节，效果是"逐步累积"（见 [[concept:climax|高潮设计]]）。
-**渐变的"长度"本身就是表现手段。**
+渐变的"长度"本身就是表现手段。
 
 ## 与演奏法记号的区别
 
@@ -89,8 +89,8 @@ updated: 2026-09-25
 | 管什么 | 音**多响** | 音与音**怎么连接** |
 | 例 | `f` `p` `<` `>` | 连音线 · 断奏点 · 重音 `>` |
 
-**注意**：重音记号 `>` 与渐弱记号外形相近，但**含义完全不同** ——
-重音是**瞬间的**强调，渐弱是**一段时间内的**下降。读谱时要看清它标在音上还是标在音之间。
+注意：重音记号 `>` 与渐弱记号外形相近，但含义完全不同 ——
+重音是瞬间的强调，渐弱是一段时间内的下降。读谱时要看清它标在音上还是标在音之间。
 
 ## 图示：相对关系，不是绝对值
 
@@ -137,8 +137,8 @@ updated: 2026-09-25
 
 ## 听一听：强与弱的对比
 
-用 `chord` 听**同一个和弦的两种排列**（紧密 / 宽排列）——
-**同样的音、同样的"力度"，厚度却不同**。这正说明"力度"实际是**音响效果**，
+用 `chord` 听同一个和弦的两种排列（紧密 / 宽排列）——
+同样的音、同样的"力度"，厚度却不同。这正说明"力度"实际是音响效果，
 不只取决于演奏者用多大力。
 
 ```audiolab
@@ -152,10 +152,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「力度记号表示绝对音量」** → 是**相对**关系，没有绝对标准。同一个 `p` 在不同作品里差别很大。
-- **「巴洛克不标力度，说明力度不重要」** → 那个时代的力度不属于"需要写下来的信息"（场合与编制自然决定）。
-- **「`f` 就是尽量响」** → 它是在**本曲的力度体系内**偏强。`ff` 在有些作品里仍很克制。
-- **「重音记号与渐弱记号差不多」** → 完全不同：`>` 是**瞬间强调**，渐弱是**一段时间内的下降**。要看它标在音上还是音之间。
+- 「力度记号表示绝对音量」 → 是相对关系，没有绝对标准。同一个 `p` 在不同作品里差别很大。
+- 「巴洛克不标力度，说明力度不重要」 → 那个时代的力度不属于"需要写下来的信息"（场合与编制自然决定）。
+- 「`f` 就是尽量响」 → 它是在本曲的力度体系内偏强。`ff` 在有些作品里仍很克制。
+- 「重音记号与渐弱记号差不多」 → 完全不同：`>` 是瞬间强调，渐弱是一段时间内的下降。要看它标在音上还是音之间。
 :::
 
 ::: en
@@ -200,14 +200,14 @@ loudness was not information that needed writing down in that era (see
 
 ## Three practical points
 
-**1. Dynamics are not volume.** The same `mf` sounds louder in a low register than a high one (see
-[[concept:register|register]]). So in scoring, **markings must be adjusted for register**: an `f` in the bass is
+1. Dynamics are not volume. The same `mf` sounds louder in a low register than a high one (see
+[[concept:register|register]]). So in scoring, markings must be adjusted for register: an `f` in the bass is
 usually written more conservatively.
 
-**2. Dynamics and texture interact.** A chord played by many and a single note both marked `f` differ greatly in
-thickness. **So "dynamics" is really "sonic result", not just how hard the performer pushes.**
+2. Dynamics and texture interact. A chord played by many and a single note both marked `f` differ greatly in
+thickness. So "dynamics" is really "sonic result", not just how hard the performer pushes.
 
-**3. The length of a crescendo is itself expressive.** `p` to `f` over half a bar is a sudden jolt; over eight bars
+3. The length of a crescendo is itself expressive. `p` to `f` over half a bar is a sudden jolt; over eight bars
 it is a gradual accumulation (see [[concept:climax|designing a climax]]). **The duration of the change is part of
 the effect.**
 
@@ -220,8 +220,8 @@ The two are often confused, but they work on different dimensions:
 | Governs | how **loud** | how notes **connect** |
 | Examples | `f`, `p`, `<`, `>` | slurs, staccato dots, accents |
 
-**Note**: an accent `>` and a diminuendo look similar but **mean entirely different things** — an accent is a
-**momentary** emphasis, a diminuendo a **decline over time**. Read carefully whether the sign sits on a note or
+Note: an accent `>` and a diminuendo look similar but mean entirely different things — an accent is a
+momentary emphasis, a diminuendo a decline over time. Read carefully whether the sign sits on a note or
 between notes.
 
 ## Diagram: relations, not absolutes
@@ -269,8 +269,8 @@ between notes.
 
 ## Listen: the contrast of thick and thin
 
-Use `chord` to hear **one chord in two layouts** (close and open) — **the same notes at the same "dynamic", yet a
-different thickness**. Which shows that "dynamics" is really a **sonic result**, not merely how hard the performer
+Use `chord` to hear one chord in two layouts (close and open) — **the same notes at the same "dynamic", yet a
+different thickness. Which shows that "dynamics" is really a sonic result**, not merely how hard the performer
 presses.
 
 ```audiolab
@@ -283,12 +283,12 @@ presses.
 
 ## Common misconceptions
 
-- **"A dynamic marking states absolute volume."** It is **relative**; there is no absolute standard. The same `p`
+- "A dynamic marking states absolute volume." It is relative; there is no absolute standard. The same `p`
   differs greatly between works.
-- **"Baroque music marks no dynamics, so dynamics did not matter."** Loudness was simply not information that
+- "Baroque music marks no dynamics, so dynamics did not matter." Loudness was simply not information that
   needed writing down; occasion and forces settled it.
-- **"`f` means as loud as possible."** It means on the loud side **within this piece's system**. Some `ff` markings
+- "`f` means as loud as possible." It means on the loud side within this piece's system. Some `ff` markings
   remain restrained.
-- **"An accent and a diminuendo are much the same."** Different entirely: `>` is a **momentary** emphasis, a
-  diminuendo a **decline over time**.
+- "An accent and a diminuendo are much the same." Different entirely: `>` is a momentary emphasis, a
+  diminuendo a decline over time.
 :::

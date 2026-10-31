@@ -53,12 +53,12 @@ updated: 2026-09-25
 | 听感 | 每拍一个重音，共三个 | 每两拍一组，共两大组 |
 | 常见体裁 | 圆舞曲、进行曲 | 摇篮曲、船歌、许多民间舞曲 |
 
-**关键：这不是"快慢"的区别，而是"每拍内部分成几份"的区别。**
+关键：这不是"快慢"的区别，而是"每拍内部分成几份"的区别。
 把 3/4 弹快不会变成 6/8；把 6/8 弹慢也不会变成 3/4。
 
 ## 混合拍子：重音分组决定听感
 
-5/4 和 7/8 本身是**不完整的**——它们必须被指定分组方式：
+5/4 和 7/8 本身是不完整的——它们必须被指定分组方式：
 
 | 拍号 | 分组 | 听感 |
 |---|---|---|
@@ -66,15 +66,15 @@ updated: 2026-09-25
 | **5/4** | **2+3** | 像"两拍 + 三拍"，重音在前，更方正 |
 | **7/8** | **2+2+3** | 巴尔干民间音乐最典型的分组 |
 
-**同一串音，换一种分组就变成另一首曲子** —— 因为重音周期变了（见 [[concept:metric-accent|强弱规律]]）。
-这也是混合拍子"听起来很现代"的原因：它不是靠不协和，而是靠**让人数不清拍**来制造不安。
+同一串音，换一种分组就变成另一首曲子 —— 因为重音周期变了（见 [[concept:metric-accent|强弱规律]]）。
+这也是混合拍子"听起来很现代"的原因：它不是靠不协和，而是靠让人数不清拍来制造不安。
 
 ## 与连音的关系
 
-一个容易混的边界：**复拍子里的三个音不需要连音记号**（分母本身就是 8 或 16），
+一个容易混的边界：复拍子里的三个音不需要连音记号（分母本身就是 8 或 16），
 而在单拍子里想放三个音就必须写三连音（见 [[concept:tuplet|连音]]）。
 
-> **判断口诀：三是不是"写在拍号里"的？**
+> 判断口诀：三是不是"写在拍号里"的？
 > 是 → 复拍子（无需连音）；不是 → 单拍子（需要连音）。
 
 ## 图示：三种拍子的内部结构
@@ -142,7 +142,7 @@ updated: 2026-09-25
 
 ## 听一听：两大拍与三拍
 
-用 `rhythm` 对比 **6/8**（六个八分，按两个大拍感受）与 **3/4**（三个四分）。
+用 `rhythm` 对比 6/8（六个八分，按两个大拍感受）与 3/4（三个四分）。
 请数"大重音隔多久回来"—— 6/8 是每三个小单位一组、共两组；3/4 是每拍一个重音、共三个。
 
 ```audiolab
@@ -155,10 +155,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「6/8 就是加快的 3/4」** → 不是速度问题，是**内部等分方式**问题。两者是两类拍子。
-- **「分子是 3 的倍数就是复拍子」** → 还需看分母：6/4 的写法常按两个大拍走，真正的判据是**听每拍内部分几份**。
-- **「5/4 只是很少见」** → 它需要**指定分组**（3+2 或 2+3）才算完整；不同的分组是**不同的曲子**。
-- **「复拍子里的三音是三连音」** → 不是（见 [[concept:tuplet|连音]]）。拍号里写了三，就不需要连音记号。
+- 「6/8 就是加快的 3/4」 → 不是速度问题，是内部等分方式问题。两者是两类拍子。
+- 「分子是 3 的倍数就是复拍子」 → 还需看分母：6/4 的写法常按两个大拍走，真正的判据是听每拍内部分几份。
+- 「5/4 只是很少见」 → 它需要指定分组（3+2 或 2+3）才算完整；不同的分组是不同的曲子。
+- 「复拍子里的三音是三连音」 → 不是（见 [[concept:tuplet|连音]]）。拍号里写了三，就不需要连音记号。
 :::
 
 ::: en
@@ -187,12 +187,12 @@ The most practical distinction in this entry:
 | Impression | one accent per beat, three in all | pairs of beats, two groups in all |
 | Typical genres | waltz, march | lullaby, barcarolle, many folk dances |
 
-**The point: this is not a matter of speed but of how each beat divides.** Playing 3/4 faster does not make it
+The point: this is not a matter of speed but of how each beat divides. Playing 3/4 faster does not make it
 6/8, and playing 6/8 slower does not make it 3/4.
 
 ## Irregular metre: grouping decides the sound
 
-5/4 and 7/8 are **incomplete** on their own — they must be given a grouping:
+5/4 and 7/8 are incomplete on their own — they must be given a grouping:
 
 | Signature | Grouping | Impression |
 |---|---|---|
@@ -200,17 +200,17 @@ The most practical distinction in this entry:
 | **5/4** | **2+3** | two then three, accent first, more square |
 | **7/8** | **2+2+3** | the classic Balkan folk grouping |
 
-**The same notes regrouped become a different piece**, because the accent cycle changes (see
+The same notes regrouped become a different piece, because the accent cycle changes (see
 [[concept:metric-accent|metric accent]]). It also explains why irregular metre "sounds modern": the unsettling
-effect comes not from dissonance but from **being unable to count**.
+effect comes not from dissonance but from being unable to count.
 
 ## Its relation to tuplets
 
-A boundary that is easily confused: **three notes inside a compound beat need no tuplet marking** (the
+A boundary that is easily confused: three notes inside a compound beat need no tuplet marking (the
 denominator already is 8 or 16), whereas three inside a simple beat require a triplet (see
 [[concept:tuplet|tuplet]]).
 
-> **A one-line test: is the three written into the time signature?**
+> A one-line test: is the three written into the time signature?
 > Yes → compound metre (no tuplet needed); no → simple metre (a triplet is required).
 
 ## Diagram: the inner structure of the three types
@@ -278,7 +278,7 @@ denominator already is 8 or 16), whereas three inside a simple beat require a tr
 
 ## Listen: two large beats versus three
 
-Use `rhythm` to compare **6/8** (six eighths felt as two large beats) with **3/4** (three quarters). Count how
+Use `rhythm` to compare 6/8 (six eighths felt as two large beats) with 3/4 (three quarters). Count how
 long it takes the main accent to return — in 6/8 it is one group of three out of two groups; in 3/4 it is every
 beat, three times.
 
@@ -292,12 +292,12 @@ beat, three times.
 
 ## Common misconceptions
 
-- **"6/8 is just 3/4 played faster."** Not a matter of speed but of **how the beat divides**. They are two
+- "6/8 is just 3/4 played faster." Not a matter of speed but of how the beat divides. They are two
   different classes of metre.
-- **"Any numerator divisible by 3 is compound."** The denominator matters too: 6/4 is usually felt as two large
-  beats, and the real test is **hearing how the beat divides**.
-- **"5/4 is merely rare."** It is **incomplete without a grouping** (3+2 or 2+3), and different groupings are
+- "Any numerator divisible by 3 is compound." The denominator matters too: 6/4 is usually felt as two large
+  beats, and the real test is hearing how the beat divides.
+- "5/4 is merely rare." It is incomplete without a grouping (3+2 or 2+3), and different groupings are
   different pieces.
-- **"The threes in compound metre are triplets."** They are not (see [[concept:tuplet|tuplet]]). The three is
+- "The threes in compound metre are triplets." They are not (see [[concept:tuplet|tuplet]]). The three is
   written into the signature, so no tuplet marking is needed.
 :::

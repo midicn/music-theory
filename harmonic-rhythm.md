@@ -57,10 +57,10 @@ updated: 2026-09-24
 和声节奏最有力的用法是**改变它**：
 
 - **逐步加快** → 制造推进感，常用于走向高潮（配器上再加厚，效果成倍）；
-- **突然放缓** → 制造"落地"的收束感，常用于段落结尾；
-- **保持不变** → 稳定，适合铺陈与叙述。
+- 突然放缓 → 制造"落地"的收束感，常用于段落结尾；
+- 保持不变 → 稳定，适合铺陈与叙述。
 
-所以分析一段音乐时，除了看"用了哪些和弦"，还值得看"**和弦换得有多快**" ——
+所以分析一段音乐时，除了看"用了哪些和弦"，还值得看"和弦换得有多快" ——
 很多时候推进感来自后者，而不是前者。
 
 ## 图示：同一旋律，两种和声节奏
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：和声节奏的快慢
 
-用进行播放器听一段完整的功能圈（I–IV–V–I）。把它**连听两遍**，
+用进行播放器听一段完整的功能圈（I–IV–V–I）。把它连听两遍，
 想象第一遍每小节一个和弦、第二遍每半小节一个和弦 —— 同一组和弦，推进感完全不同。
 
 ```audiolab
@@ -117,10 +117,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「节奏就是旋律的节奏」** → 还有和声节奏、织体节奏（伴奏音型）。三者常不同步，这是音乐层次感的来源。
-- **「和弦换得越快越有推动力」** → 只有在**与周围形成对比**时才有效。一直很快会失去对比，反而显得吵。
-- **「和声节奏必须与拍子对齐」** → 通常会，但切分式的和声更换（和弦在弱拍上换）是常用的推进手法。
-- **「和声节奏只是伴奏问题」** → 它直接影响听者对结构的感知，是曲式分析的一部分。
+- 「节奏就是旋律的节奏」 → 还有和声节奏、织体节奏（伴奏音型）。三者常不同步，这是音乐层次感的来源。
+- 「和弦换得越快越有推动力」 → 只有在与周围形成对比时才有效。一直很快会失去对比，反而显得吵。
+- 「和声节奏必须与拍子对齐」 → 通常会，但切分式的和声更换（和弦在弱拍上换）是常用的推进手法。
+- 「和声节奏只是伴奏问题」 → 它直接影响听者对结构的感知，是曲式分析的一部分。
 :::
 
 ::: en
@@ -155,9 +155,9 @@ Its most powerful use is **changing it**:
 - **gradually faster** → generates drive, standard on the way to a climax (doubled in effect when the scoring
   thickens too);
 - **suddenly slower** → produces the sense of landing, common at the end of a section;
-- **held constant** → stable, good for exposition and narration.
+- held constant → stable, good for exposition and narration.
 
-So when analysing a passage, besides asking "which chords", it is worth asking "**how fast do they change**" —
+So when analysing a passage, besides asking "which chords", it is worth asking "how fast do they change" —
 the sense of momentum often comes from the latter rather than the former.
 
 ## Diagram: one melody, two harmonic rhythms
@@ -205,7 +205,7 @@ the sense of momentum often comes from the latter rather than the former.
 
 ## Listen: fast and slow harmonic rhythm
 
-Use the progression player on a complete functional circle (I–IV–V–I). Play it **twice in your head** — once with
+Use the progression player on a complete functional circle (I–IV–V–I). Play it twice in your head — once with
 one chord per bar, once with one chord per half bar. The same chords, a completely different sense of drive.
 
 ```audiolab
@@ -214,12 +214,12 @@ one chord per bar, once with one chord per half bar. The same chords, a complete
 
 ## Common misconceptions
 
-- **"Rhythm means melodic rhythm."** There is also harmonic rhythm and textural rhythm (the accompaniment
+- "Rhythm means melodic rhythm." There is also harmonic rhythm and textural rhythm (the accompaniment
   figure). The three often run out of phase, and that layering is where much of the richness comes from.
-- **"Faster chords always drive harder."** Only when it **contrasts** with what surrounds it. Constant speed
+- "Faster chords always drive harder." Only when it contrasts with what surrounds it. Constant speed
   removes the contrast and merely sounds busy.
-- **"Harmonic rhythm must align with the beat."** Usually it does, but syncopated chord changes (changing on a
+- "Harmonic rhythm must align with the beat." Usually it does, but syncopated chord changes (changing on a
   weak beat) are a standard propulsive device.
-- **"It is only an accompaniment matter."** It directly shapes how the listener perceives structure, and belongs
+- "It is only an accompaniment matter." It directly shapes how the listener perceives structure, and belongs
   to formal analysis.
 :::

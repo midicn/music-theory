@@ -48,7 +48,7 @@ updated: 2026-09-23
 | 相对大调 | 同 | **降** | **降** | 同 | 同 | **降** | **降** |
 
 特征音是**第 2 级**（小二度）。它与 [[concept:dorian|多里亚]] 的唯一区别就在这一处：
-**第 2 级是小的还是大的？小的是弗里吉亚。**
+第 2 级是小的还是大的？小的是弗里吉亚。
 
 ## 图示：主音上方的半音
 
@@ -96,10 +96,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「弗里吉亚只是小调的一种」** → 它与自然小调差在第 2 级，且这一处差别正是它全部辨识度的来源。
-- **「降 2 级就是走音」** → 它是音阶内的合法音，只是不常见于大调体系，故听着"外来的"。
-- **「弗里吉亚只有西班牙用」** → 巴尔干、土耳其、犹太与弗拉门戈传统里都有，名称里的"西班牙"只是最广为人知的一处。
-- **「弗里吉亚与洛克里亚很像」** → 洛克里亚还多降一个第 5 级（见 [[concept:locrian|洛克里亚]]），主音上方同样只有半音，但缺乏稳定的五度支撑。
+- 「弗里吉亚只是小调的一种」 → 它与自然小调差在第 2 级，且这一处差别正是它全部辨识度的来源。
+- 「降 2 级就是走音」 → 它是音阶内的合法音，只是不常见于大调体系，故听着"外来的"。
+- 「弗里吉亚只有西班牙用」 → 巴尔干、土耳其、犹太与弗拉门戈传统里都有，名称里的"西班牙"只是最广为人知的一处。
+- 「弗里吉亚与洛克里亚很像」 → 洛克里亚还多降一个第 5 级（见 [[concept:locrian|洛克里亚]]），主音上方同样只有半音，但缺乏稳定的五度支撑。
 :::
 
 ::: en
@@ -124,7 +124,7 @@ and flamenco music lean on it heavily, which is why it is often called the Spani
 | vs. major | = | **lowered** | **lowered** | = | = | **lowered** | **lowered** |
 
 The characteristic note is the **second**. Its only difference from [[concept:dorian|Dorian]] is right there:
-**is the second minor or major? Minor means Phrygian.**
+is the second minor or major? Minor means Phrygian.
 
 ## Diagram: a semitone above the tonic
 
@@ -173,8 +173,8 @@ exotic colour.
 
 ## Common misconceptions
 
-- **"Phrygian is just a kind of minor."** It differs from natural minor at the second degree, and that one difference is its entire identity.
-- **"A lowered second is a wrong note."** It is a legal scale tone, simply rare in the major system, which is why it sounds imported.
-- **"Only Spain uses it."** Balkan, Turkish, Jewish and flamenco traditions all use it; "Spanish" is just the best-known home.
-- **"Phrygian and Locrian are much alike."** Locrian also lowers the fifth (see [[concept:locrian|Locrian]]): the semitone above the tonic is there too, but the stable fifth is gone.
+- "Phrygian is just a kind of minor." It differs from natural minor at the second degree, and that one difference is its entire identity.
+- "A lowered second is a wrong note." It is a legal scale tone, simply rare in the major system, which is why it sounds imported.
+- "Only Spain uses it." Balkan, Turkish, Jewish and flamenco traditions all use it; "Spanish" is just the best-known home.
+- "Phrygian and Locrian are much alike." Locrian also lowers the fifth (see [[concept:locrian|Locrian]]): the semitone above the tonic is there too, but the stable fifth is gone.
 :::

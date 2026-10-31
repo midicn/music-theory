@@ -30,10 +30,10 @@ updated: 2026-09-25
 ::: zh
 组曲的组织原则很特别，一句话：
 
-> **它是一组"各自成立的乐曲"按某种原则排在一起 —— 而不追求"整体性"。**
+> **它是一组"各自成立的乐曲"按某种原则排在一起，而不追求"整体性"。**
 
-这与 [[concept:large-scale-forms|奏鸣曲、交响曲]] 正好相反：
-后者要求各乐章在调性、主题与情绪上构成一个整体；**组曲不要求**。
+这与 [[concept:large-scale-forms|奏鸣曲、交响曲]] 正好相反。
+后者要求各乐章在调性、主题与情绪上构成一个整体，组曲不要求。
 
 ## 巴洛克舞曲组曲：序列固定
 
@@ -41,45 +41,46 @@ updated: 2026-09-25
 
 | 位置 | 舞曲 | 国籍 | 速度与性格 |
 |---|---|---|---|
-| （前置） | **前奏曲** | — | 自由、展示技巧（常可省略） |
-| 1 | **阿勒曼德** | 德国 | 中速、庄重、**四拍** |
-| 2 | **库朗特** | 法国 | 快速、**三拍**、流动性强 |
-| 3 | **萨拉班德** | 西班牙 | **极慢**、二拍、重音落在第二拍 |
-| 4 | **吉格** | 英国／爱尔兰 | 快速、**复合拍子**（常 6/8），常为赋格式收尾 |
+| （前置） | 前奏曲 | — | 自由、展示技巧（常可省略） |
+| 1 | 阿勒曼德 | 德国 | 中速、庄重、四拍 |
+| 2 | 库朗特 | 法国 | 快速、三拍、流动性强 |
+| 3 | 萨拉班德 | 西班牙 | 极慢、二拍、重音落在第二拍 |
+| 4 | 吉格 | 英国／爱尔兰 | 快速、复合拍子（常 6/8），常为赋格式收尾 |
 
-**这张表里有三条设计原则**，值得单独注意：
+**序列不是随意的**，背后有三条设计原则：
 
 | 原则 | 说明 |
 |---|---|
-| **速度对比** | 中 → 快 → 极慢 → 快：一张"慢—快—慢—快"的呼吸弧线 |
-| **节拍交替** | 四拍 → 三拍 → 二拍 → 复合拍：**每首的节拍都不同** |
-| **国籍交替** | 德 → 法 → 西 → 英：**各乐章自带不同的民族风格** |
+| 速度对比 | 中 → 快 → 极慢 → 快：一张"慢—快—慢—快"的呼吸弧线 |
+| 节拍交替 | 四拍 → 三拍 → 二拍 → 复合拍：每首的节拍都不同 |
+| 国籍交替 | 德 → 法 → 西 → 英：各乐章自带不同的民族风格 |
 
-所以组曲不是随机拼盘 —— 它靠**速度、节拍、民族风格的对比**来组织。这一点常被忽略：
-**组曲的"统一"不在于主题，而在于这套对比的框架。**
+所以组曲不是随机拼盘。
+它靠速度、节拍、民族风格的对比来组织；统一不在主题，而在这套对比的框架里。
 
 ## 后来它变成了什么
 
 | 时期 | 组曲的含义 |
 |---|---|
-| **巴洛克** | 一套舞曲（上述序列），通常同一调 |
-| **古典** | 组曲形式式微，被奏鸣曲与交响曲取代；小夜曲、嬉游曲保留其精神 |
-| **19 世纪** | 从戏剧、芭蕾、歌剧中**选段**组成"音乐会组曲" |
-| **20 世纪** | 电影配乐组曲、舞剧组曲；也有作曲家重写巴洛克式组曲 |
+| 巴洛克 | 一套舞曲（上述序列），通常同一调 |
+| 古典 | 组曲形式式微，被奏鸣曲与交响曲取代；小夜曲、嬉游曲保留其精神 |
+| 19 世纪 | 从戏剧、芭蕾、歌剧中选段组成"音乐会组曲" |
+| 20 世纪 | 电影配乐组曲、舞剧组曲；也有作曲家重写巴洛克式组曲 |
 
-第三行值得注意：**当"选段"成为组曲的主要来源后，"组曲"的核心特征从"舞曲序列"变成了"独立乐章的集合"** ——
-这正是组曲与奏鸣曲的根本分野。
+19 世纪以后，"选段"成了组曲的主要来源。
+组曲的核心特征也随之从"舞曲序列"变成"独立乐章的集合"。
+这正是它与奏鸣曲的根本分野。
 
 ## 与奏鸣曲的关键区别
 
 | | 组曲 | 奏鸣曲（多乐章） |
 |---|---|---|
-| 各乐章的关系 | **各自独立** | 构成**整体**（调性 / 主题 / 情绪） |
-| 调性 | 常同一调，或各首自由 | **有调性布局** |
+| 各乐章的关系 | 各自独立 | 构成整体（调性 / 主题 / 情绪） |
+| 调性 | 常同一调，或各首自由 | 有调性布局 |
 | 乐章数量 | 不固定（4 到 20 余首） | 通常 3–4 |
-| 顺序原则 | 速度 / 节拍 / 风格的对比 | **戏剧性的弧线**（快—慢—舞曲—快） |
+| 顺序原则 | 速度 / 节拍 / 风格的对比 | 戏剧性的弧线（快—慢—舞曲—快） |
 
-一句话：**组曲是"并列"，奏鸣曲是"叙事"。**
+一句话：组曲是**并列**，奏鸣曲是**叙事**。
 
 ## 图示：三种对比轴
 
@@ -135,8 +136,8 @@ updated: 2026-09-25
 
 ## 听一听：性格各异的乐章
 
-用 `chord` 组件听同一个和弦的三种性质（大 / 小 / 减）——
-**每个都独立成立、色彩各异**。这就像组曲的乐章：**各自完整，靠对比排在一起。**
+用 `chord` 听同一个和弦的三种性质：大、小、减。
+每个都独立成立，色彩各异，就像组曲的乐章：各自完整，靠对比排在一起。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"大三和弦（明亮）","label_en":"Major triad — bright","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -148,19 +149,19 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「组曲只是曲子拼在一起」** → 巴洛克组曲有**固定序列**，并由速度、节拍、民族风格三条对比轴组织。
-- **「组曲的乐章也构成一个整体」** → 不要求。**这正是它与奏鸣曲的根本分野**（并列 vs 叙事）。
-- **「组曲过时了」** → 19 世纪的"选段组曲"、20 世纪的电影配乐组曲都是它的延续。
-- **「组曲必须都是舞曲」** → 巴洛克组曲如此；19 世纪之后"选段组曲"里可以是任何体裁。
+- 「组曲只是曲子拼在一起」 → 巴洛克组曲有固定序列，并由速度、节拍、民族风格三条对比轴组织。
+- 「组曲的乐章也构成一个整体」 → 不要求。这正是它与奏鸣曲的根本分野（并列 vs 叙事）。
+- 「组曲过时了」 → 19 世纪的"选段组曲"、20 世纪的电影配乐组曲都是它的延续。
+- 「组曲必须都是舞曲」 → 巴洛克组曲如此；19 世纪之后"选段组曲"里可以是任何体裁。
 :::
 
 ::: en
 The organising principle of a suite is peculiar, and it fits in one sentence:
 
-> **It is a set of self-standing pieces arranged by some principle — with no pursuit of wholeness.**
+> **It is a set of self-standing pieces arranged by some principle, with no pursuit of wholeness.**
 
-That is exactly the opposite of [[concept:large-scale-forms|a sonata or symphony]], where the movements are meant
-to form a whole in key, theme and mood. **A suite makes no such demand.**
+That is exactly the opposite of [[concept:large-scale-forms|a sonata or symphony]].
+There the movements form a whole in key, theme and mood, and a suite makes no such demand.
 
 ## The Baroque dance suite: a fixed sequence
 
@@ -168,46 +169,47 @@ The Baroque suite (or partita) has a fairly fixed order:
 
 | Position | Dance | Origin | Speed and character |
 |---|---|---|---|
-| (prefixed) | **prelude** | — | free, display of technique (often omitted) |
-| 1 | **Allemande** | German | moderate, grave, **in four** |
-| 2 | **Courante** | French | fast, **in three**, flowing |
-| 3 | **Sarabande** | Spanish | **very slow**, in two, accent on the second beat |
-| 4 | **Gigue** | English / Irish | fast, **compound metre** (often 6/8), often a fugal close |
+| (prefixed) | prelude | — | free, display of technique (often omitted) |
+| 1 | Allemande | German | moderate, grave, in four |
+| 2 | Courante | French | fast, in three, flowing |
+| 3 | Sarabande | Spanish | very slow, in two, accent on the second beat |
+| 4 | Gigue | English / Irish | fast, compound metre (often 6/8), often a fugal close |
 
-**Three design principles hide in that table**, each worth noting:
+**The order is not arbitrary**: three design principles sit behind it.
 
 | Principle | Explanation |
 |---|---|
-| **contrast of speed** | moderate, fast, very slow, fast — a breathing arc of slow and fast |
-| **alternating metre** | four, three, two, compound: **every movement differs** |
-| **alternating nationality** | German, French, Spanish, English: **each movement carries a different national style** |
+| contrast of speed | moderate, fast, very slow, fast — a breathing arc of slow and fast |
+| alternating metre | four, three, two, compound: every movement differs |
+| alternating nationality | German, French, Spanish, English: each movement carries a different national style |
 
-So a suite is not a random assortment — it is organised by **contrast in speed, metre and national style**. This is
-often missed: **a suite's coherence lies not in its themes but in this framework of contrasts.**
+So a suite is not a random assortment.
+It is organised by contrast in speed, metre and national style; its coherence lies in that framework, not in
+its themes.
 
 ## What it later became
 
 | Period | What "suite" meant |
 |---|---|
-| **Baroque** | a set of dances (the sequence above), usually in one key |
-| **Classical** | the suite declined, replaced by sonata and symphony; serenades and divertimenti kept its spirit |
-| **nineteenth century** | **selections** from theatre, ballet or opera assembled into a "concert suite" |
-| **twentieth century** | film-score suites, ballet suites; some composers rewrote Baroque-style suites |
+| Baroque | a set of dances (the sequence above), usually in one key |
+| Classical | the suite declined, replaced by sonata and symphony; serenades and divertimenti kept its spirit |
+| nineteenth century | selections from theatre, ballet or opera assembled into a "concert suite" |
+| twentieth century | film-score suites, ballet suites; some composers rewrote Baroque-style suites |
 
-The third row matters: **once "selections" became the main source, the defining feature of a suite shifted from "a
-sequence of dances" to "a collection of independent movements"** — which is precisely the division between a suite
-and a sonata.
+After the nineteenth century, selections became the main source.
+The defining feature shifted from "a sequence of dances" to "a collection of independent movements".
+That is precisely the division between a suite and a sonata.
 
 ## The key difference from a sonata
 
 | | Suite | Multi-movement sonata |
 |---|---|---|
-| Relation of movements | **independent** | forming **a whole** (key, theme, mood) |
-| Tonality | usually one key, or freely varied | **a planned tonal scheme** |
+| Relation of movements | independent | forming a whole (key, theme, mood) |
+| Tonality | usually one key, or freely varied | a planned tonal scheme |
 | Number of movements | unfixed (four to twenty or more) | usually three or four |
-| Ordering principle | contrast of speed, metre, style | **a dramatic arc** (fast, slow, dance, fast) |
+| Ordering principle | contrast of speed, metre, style | a dramatic arc (fast, slow, dance, fast) |
 
-In one line: **a suite juxtaposes; a sonata narrates.**
+In one line: a suite **juxtaposes**; a sonata **narrates**.
 
 ## Diagram: three axes of contrast
 
@@ -263,9 +265,9 @@ In one line: **a suite juxtaposes; a sonata narrates.**
 
 ## Listen: movements with different characters
 
-Use `chord` to hear one chord in three qualities (major, minor, diminished) — **each stands on its own, each a
-different colour.** That is like the movements of a suite: **complete in themselves, placed together for
-contrast.**
+Use `chord` to hear one chord in three qualities: major, minor, diminished.
+Each stands on its own, a different colour, like the movements of a suite: complete in themselves, placed together
+for contrast.
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"大三和弦（明亮）","label_en":"Major triad — bright","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -277,12 +279,12 @@ contrast.**
 
 ## Common misconceptions
 
-- **"A suite is just pieces thrown together."** The Baroque suite had a **fixed sequence**, organised by three axes
+- "A suite is just pieces thrown together." The Baroque suite had a fixed sequence, organised by three axes
   of contrast: speed, metre and national style.
-- **"A suite's movements also form a whole."** They need not. **That is exactly the divide from a sonata**
+- "A suite's movements also form a whole." They need not. That is exactly the divide from a sonata
   (juxtaposition versus narrative).
-- **"The suite is obsolete."** The nineteenth-century concert suite and the twentieth-century film-score suite are
+- "The suite is obsolete." The nineteenth-century concert suite and the twentieth-century film-score suite are
   its continuations.
-- **"A suite must be all dances."** True of the Baroque suite; after the nineteenth century a "selection suite" may
+- "A suite must be all dances." True of the Baroque suite; after the nineteenth century a "selection suite" may
   contain anything.
 :::

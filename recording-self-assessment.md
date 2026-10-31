@@ -28,66 +28,68 @@ updated: 2026-09-25
 ---
 
 ::: zh
-先说这条的核心，它是一个反直觉的事实：
+先给出这条的核心，它是一个反直觉的事实。
 
 > **演奏时，你听到的是"意图"，不是实际发出的声音。**
 
-大脑会用"我想弹成什么样"去**填补**实际的声音 ——
-所以你觉得自己弹得"和想象中差不多"，而录音里却是另一回事。
-**这不是自我欺骗，而是听觉与动作的必然耦合。**
+大脑会用"我想弹成什么样"去**填补**实际的声音。
+于是你觉得自己弹得"和想象中差不多"，录音里却是另一回事。
+这不是自我欺骗，听觉与动作本来就绑在一起。
 
-**所以录音是最客观的老师**：它把"实际发出的声音"从你手里**拿走**，
-变成一段可以反复听、且**不带实时动作压力**的东西。
+**所以录音是最客观的老师。**
+它把"实际发出的声音"从你手里拿走，变成一段可以反复听、又不带实时动作压力的东西。
 
 ## 四步流程
 
 | 步骤 | 做什么 |
 |---|---|
-| **① 录** | 完整录一遍（不要只录片段 —— 整曲才能暴露结构与耐力问题） |
-| **② 冷处理** | **隔一段时间再听**（几小时或隔天） |
-| **③ 客观听** | 用下面的四层去听，**不要一边听一边想"这里我知道"** |
-| **④ 记具体问题** | 写下**可执行**的描述 |
+| **① 录** | 完整录一遍。不要只录片段，整曲才能暴露结构与耐力问题。 |
+| **② 冷处理** | **隔一段时间再听**，几小时或隔天。 |
+| **③ 客观听** | 用下面的四层去听。不要一边听一边想"这里我知道"。 |
+| **④ 记具体问题** | 写下**可执行**的描述。 |
 
-**第②步不可省**：刚弹完就听，你会**带着刚才的动作记忆**去听，
-注意力会落在"我刚才哪里费劲"，而不是"听起来是什么样"。
-**隔一段时间，耳朵会恢复成听众的耳朵。**
+第②步不可省：刚弹完就听，你会带着刚才的动作记忆去听。
+注意力落在"我刚才哪里费劲"，而不是"听起来是什么样"。
+隔一段时间，耳朵会恢复成听众的耳朵。
 
 ## 听四层
 
 | 层 | 听什么 | 典型发现 |
 |---|---|---|
-| **① 节奏** | 是否**始终**稳定（尤其难处与转接处） | "以为很稳，其实在难的地方偷偷加速了" |
-| **② 力度** | 层次是否如预期（见 [[concept:dynamics\|力度记号]]） | "想要的渐强听起来像突然变响" |
-| **③ 分句** | 句读是否清晰（见 [[concept:breath-phrasing\|呼吸与句读]]） | "一直在往前冲，句尾没有收" |
-| **④ 音色** | 是否均匀、有无多余撞击（见 [[concept:articulation\|演奏法记号]]） | "强的地方音色变硬了" |
+| **① 节奏** | 是否**始终**稳定，尤其难处与转接处。 | "以为很稳，其实在难的地方偷偷加速了。" |
+| **② 力度** | 层次是否如预期（见 [[concept:dynamics\|力度记号]]）。 | "想要的渐强听起来像突然变响。" |
+| **③ 分句** | 句读是否清晰（见 [[concept:breath-phrasing\|呼吸与句读]]）。 | "一直在往前冲，句尾没有收。" |
+| **④ 音色** | 是否均匀，有无多余撞击（见 [[concept:articulation\|演奏法记号]]）。 | "强的地方音色变硬了。" |
 
-**第①层最容易发现惊喜（其实是惊吓）**：因为**人耳对"逐步加速"极不敏感**
-（见 [[concept:metronome|节拍器与 BPM]]）—— 录音是唯一能客观照出它的手段。
+第①层的发现最像惊吓，因为人耳对"逐步加速"极不敏感（见 [[concept:metronome|节拍器与 BPM]]）。
+录音是唯一能客观照出它的手段。
 
 ## 记录要"可执行"
 
-这是本条最实用的一条规则：
+这是本条最实用的规则。
 
 | 无效的记录 | 有效的记录 |
 |---|---|
-| "弹得不好" | "第 17–24 小节的渐强开始得太晚" |
-| "节奏不太稳" | "第 33 小节转接处抢了半拍" |
-| "音色不理想" | "第 51 小节高音区压得太重，音色发硬" |
+| "弹得不好。" | "第 17–24 小节的渐强开始得太晚。" |
+| "节奏不太稳。" | "第 33 小节转接处抢了半拍。" |
+| "音色不理想。" | "第 51 小节高音区压得太重，音色发硬。" |
 
-**区别在于"可执行性"**：有效的记录**直接指向下一次练习的对象**
-（与 [[concept:practice-method|练习方法]] 的"能说出具体是哪几拍"是同一要求）。
+区别在"可执行性"：有效的记录直接指向下一次练习的对象。
+这与 [[concept:practice-method|练习方法]] 里"能说出具体是哪几拍"是同一个要求。
 
 ## 一个常见错误
 
-**只听自己弹错的地方。**
+只听自己弹错的地方。
 
 | 只听错处 | 后果 |
 |---|---|
-| 找到"技术上错了哪里" | 但**错过了"整体听起来如何"** |
-| —— | 而录音的**最大价值恰恰在整体**：分句、层次、走向 |
+| 找到"技术上错了哪里"。 | 但**错过了"整体听起来如何"**。 |
+| —— | 录音的**最大价值恰恰在整体**：分句、层次、走向。 |
 
-**所以听录音时先当"听众"听一遍**（整体印象如何？想不想继续听下去？），
-**第二遍再当"检查员"**。顺序反了，就会只听见错处。
+所以听录音时，第一遍先当"听众"。
+整体印象如何？想不想继续听下去？
+第二遍再当"检查员"。
+顺序反了，就只会听见错处。
 
 ## 图示：意图与实际之间的偏差
 
@@ -133,9 +135,11 @@ updated: 2026-09-25
 
 ## 听一听：从"意图"到"实际"
 
-本站无法播放你的录音 —— 但可以用 `rhythm` 做一次小小的"意图 vs 实际"练习：
-**先在心里默数四拍，再播放**。多数人会发现**自己心里的四拍与实际的四拍并不一样长**——
-这就是"意图与实际的偏差"在时间维度上的最小示例。
+你的录音不在播放器里。
+但 `rhythm` 能做一次小小的"意图 vs 实际"练习。
+先在心里默数四拍，再点播放。
+多数人会发现，心里的四拍与实际四拍并不一样长。
+这是"意图与实际的偏差"在时间上的最小示例。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":76,"label":"实际的时间（与你心里默数的对照）","label_en":"Actual time — compare it with your inner count","hint":"先在心里数四拍，再点播放核对","hint_en":"Count four beats inwardly first, then press play to check"}
@@ -143,10 +147,11 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「我知道自己弹得怎么样，不用录」** → 演奏时听到的是**意图**，与实际存在系统性偏差。
-- **「录完马上听」** → 要先**冷处理**：刚弹完听，注意力仍被动作记忆占据。
-- **「录音就是找错」** → 录音**最大的价值在整体效果**（分句、层次、走向），不只是技术错处。
-- **「记录写"哪里不好"就够了」** → 要写到**可执行**（哪几小节、什么问题），否则下次无法针对性地练。
+- 「我知道自己弹得怎么样，不用录」 → 演奏时听到的是意图，它和实际声音有系统性偏差。
+- 「录完马上听」 → 要先冷处理。刚弹完时，注意力还被动作记忆占着。
+- 「录音就是找错」 → 录音最大的价值在整体效果：分句、层次、走向。不只是技术错处。
+- 「记录写"哪里不好"就够了」 → 要写到可执行：哪几小节、什么问题。否则下次没法针对性地练。
+
 :::
 
 ::: en
@@ -158,8 +163,8 @@ The brain **fills in** the actual sound with "how I mean it to go" — so you fe
 imagination, while the recording says otherwise. **This is not self-deception but an inevitable coupling of hearing
 and action.**
 
-**Which makes a recording the most objective teacher**: it **takes** the actual sound **out of your hands** and
-turns it into something you can hear repeatedly, **without the pressure of real-time action**.
+**Which makes a recording the most objective teacher**: it **takes** the actual sound out of your hands and
+turns it into something you can hear repeatedly, without the pressure of real-time action.
 
 ## A four-step procedure
 
@@ -170,8 +175,8 @@ turns it into something you can hear repeatedly, **without the pressure of real-
 | **3 listen objectively** | use the four layers below; **do not think "I know that bit" as you go** |
 | **4 write down specifics** | notes that are **actionable** |
 
-**Step 2 cannot be skipped**: listening straight after playing, you hear **through the memory of the actions just
-made**, and attention lands on "where I struggled" rather than "how it sounds". **After a gap, your ears become an
+Step 2 cannot be skipped: listening straight after playing, you hear **through the memory of the actions just
+made, and attention lands on "where I struggled" rather than "how it sounds". After a gap, your ears become an
 audience's ears again.**
 
 ## Four layers to listen for
@@ -183,7 +188,7 @@ audience's ears again.**
 | **3 phrasing** | is the punctuation clear? (see [[concept:breath-phrasing\|breathing and phrasing]]) | "it rushes forward and never lands at the phrase end" |
 | **4 timbre** | is it even, without superfluous impact? (see [[concept:articulation\|articulation]]) | "the sound turns hard when it is loud" |
 
-**Layer 1 delivers the biggest surprises**: because **the ear barely notices gradual acceleration** (see
+Layer 1 delivers the biggest surprises: because the ear barely notices gradual acceleration (see
 [[concept:metronome|metronome and BPM]]) — a recording is the only objective check.
 
 ## Notes must be actionable
@@ -196,19 +201,19 @@ This is the entry's most practical rule:
 | "rhythm was unsteady" | "I rushed half a beat at the join in bar 33" |
 | "the sound was not ideal" | "bar 51: pressing too hard in the upper register, the sound turns hard" |
 
-**The difference is actionability**: a useful note **points directly at the next practice session** (the same
+The difference is actionability: a useful note points directly at the next practice session (the same
 requirement as "say exactly which beats" under [[concept:practice-method|how to practise]]).
 
 ## A common mistake
 
-**Listening only for the wrong notes.**
+Listening only for the wrong notes.
 
 | Only hunting errors | Consequence |
 |---|---|
 | you find where the technique failed | but **miss how the whole thing sounds** |
 | — | and a recording's **greatest value is precisely the whole**: phrasing, shape, direction |
 
-**So listen once as an audience** (what is the overall impression? do I want to keep listening?), **and only on the
+So listen once as an audience (what is the overall impression? do I want to keep listening?), **and only on the
 second pass as an inspector**. Reverse the order and you will hear nothing but the errors.
 
 ## Diagram: the gap between intention and reality
@@ -255,8 +260,8 @@ second pass as an inspector**. Reverse the order and you will hear nothing but t
 
 ## Listen: intention versus actual
 
-This site cannot play your recording — but `rhythm` can run a small "intention versus actual" exercise: **count four
-beats inwardly first, then press play.** Most people find **their inner four beats and the actual four are not the
+Your recording cannot be played here — but `rhythm` can run a small "intention versus actual" exercise: **count four
+beats inwardly first, then press play. Most people find their inner four beats and the actual four are not the
 same length** — the smallest example in the time dimension of the gap between intention and reality.
 
 ```audiolab
@@ -265,12 +270,12 @@ same length** — the smallest example in the time dimension of the gap between 
 
 ## Common misconceptions
 
-- **"I know how I play; no need to record."** While playing you hear **intention**, which deviates systematically
+- "I know how I play; no need to record." While playing you hear intention, which deviates systematically
   from reality.
-- **"Listen back immediately."** **Let it rest first**: straight afterwards, attention is still occupied by the
+- "Listen back immediately." Let it rest first: straight afterwards, attention is still occupied by the
   memory of the actions.
-- **"A recording is for finding mistakes."** Its **greatest value is the whole** (phrasing, shape, direction), not
+- "A recording is for finding mistakes." Its greatest value is the whole (phrasing, shape, direction), not
   only errors.
-- **"Saying what was bad is enough."** Be **actionable** (which bars, what problem), or next time you cannot target
+- "Saying what was bad is enough." Be actionable (which bars, what problem), or next time you cannot target
   it.
 :::

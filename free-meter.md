@@ -28,11 +28,11 @@ updated: 2026-09-25
 ---
 
 ::: zh
-自由节拍（free metre）指的是：**没有固定的等分拍，也没有固定的重音周期。**
+自由节拍（free metre）指的是**没有固定的等分拍**，也没有固定的重音周期。
 
-最容易产生的误解是把它当成"没有节奏"。实际上——
+最容易产生的误解，是把它当成"没有节奏"。
 
-> **没有拍号 ≠ 没有节奏。** 节奏的要素（长短、张弛、句读）仍然全部存在，
+> **没有拍号不等于没有节奏。** 长短、张弛、句读这些要素仍然全部存在。
 > 只是不再由"等分网格"来组织。
 
 ## 西方传统里的自由节拍
@@ -44,12 +44,13 @@ updated: 2026-09-25
 | **rubato** | 拍子存在，但被有意拉伸 | **演奏者的乐句判断** |
 | **幻想曲 / 前奏曲** | 节拍自由，近即兴 | **和声的紧张与缓解** |
 
-最后一行的机制值得注意：**当节拍松掉之后，重音的来源就换成了别的维度** ——
-歌词、语调、和声张力。这正是自由节拍并不"乱"的原因。
+最后一行的机制值得注意。
+**当节拍松掉之后，重音的来源就换成了别的维度**：歌词、语调、和声张力。
+这正是自由节拍并不"乱"的原因。
 
 ## 中国的散板
 
-**散板**是中国戏曲与器乐中的自由节拍形式：
+**散板**是中国戏曲与器乐中的自由节拍形式。
 
 | 项 | 说明 |
 |---|---|
@@ -58,10 +59,10 @@ updated: 2026-09-25
 | **有张弛** | 通过疏密、长短、力度做出张力 |
 | **无等分律动** | 没有可数的固定拍 |
 
-关键认识：**散板是"把定量的拍子抽掉，但把句读与张弛保留下来"** ——
-它的组织原则从"时间等分"换成了"**语气**"。
+关键认识：散板把定量的拍子抽掉，但把句读与张弛保留下来。
+它的组织原则从"时间等分"换成了"语气"。
 
-这与西方圣咏的逻辑其实相通：**两者都把重音交给了语言或语气，而不是小节。**
+这与西方圣咏的逻辑相通。两者都把重音交给了语言或语气，而不是小节。
 
 ## 记谱上的三种做法
 
@@ -71,7 +72,8 @@ updated: 2026-09-25
 | **虚线小节线** | 提示句读而非规范拍子 |
 | **写拍号 + 大量延长记号/速度变化** | 幻想曲、rubato 段落 |
 
-第三种最常见于 19 世纪后的乐谱 —— 作曲者用**写得尽量细的速度与表情标记**来弥补拍子的松动。
+第三种最常见于 19 世纪后的乐谱。
+作曲者用尽量细的速度与表情标记，来弥补拍子的松动。
 
 ## 图示：重音的来源换了
 
@@ -124,8 +126,10 @@ updated: 2026-09-25
 
 ## 听一听：拍子松掉之后
 
-自由节拍是"时间组织"的事，本站的听辨件都是等速的 —— 所以这里只能听**等分后的形态**。
-请把它当作参照：真实演奏中，这样的段落会被**拉伸、压缩**，而句读的位置保持不变。
+自由节拍是"时间组织"的事，这个听辨件却是等速的。
+所以只能听到等分后的形态。
+请把它当作参照：真实演奏中这样的段落会被拉伸、压缩。
+句读的位置保持不变。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4"],"label":"等分形态（真实演奏会拉伸压缩）","label_en":"An even form — real performance stretches and compresses it","hint":"点「上行」：想象每一个音的长短都可自由伸缩，但句尾要停","hint_en":"Try Up and imagine each note freely stretched, with a pause at the phrase end","gap":0.5}
@@ -133,10 +137,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「没有拍号就是没有节奏」** → 节奏的要素（长短、张弛、句读）全部存在，只是不由等分网格组织。
-- **「散板是随便弹」** → 散板有板式、有句读、有张弛规范，只是没有可数的固定拍。
-- **「自由节拍比有拍号简单」** → 更难：**没有网格可以依靠**，全靠演奏者对语气与结构的判断。
-- **「自由节拍是东方或古代独有的」** → 圣咏、宣叙调、rubato 都属于它；西方音乐从未离开过它。
+- 「没有拍号就是没有节奏」 → 长短、张弛、句读这些要素都在，只是不由等分网格组织。
+- 「散板是随便弹」 → 散板有板式、有句读、有张弛规范，只是没有可数的固定拍。
+- 「自由节拍比有拍号简单」 → 更难。没有网格可以依靠，全靠演奏者对语气与结构的判断。
+- 「自由节拍是东方或古代独有的」 → 圣咏、宣叙调、rubato 都属于它。西方音乐从未离开过它。
 :::
 
 ::: en
@@ -170,10 +174,10 @@ words, inflection, harmonic tension. That is why free metre is not chaotic.
 | **tension** | created by density, duration and dynamics |
 | **no even pulse** | there is no countable fixed beat |
 
-The key point: **sanban removes the measured beat but keeps phrasing and tension** — its organising principle
-shifts from "dividing time" to "**tone of voice**".
+The key point: sanban removes the measured beat but keeps phrasing and tension — its organising principle
+shifts from "dividing time" to "tone of voice".
 
-Which is in fact the same logic as chant: **both hand the accent to language or inflection rather than to a bar.**
+Which is in fact the same logic as chant: both hand the accent to language or inflection rather than to a bar.
 
 ## Three notational approaches
 
@@ -184,7 +188,7 @@ Which is in fact the same logic as chant: **both hand the accent to language or 
 | **a time signature plus many fermatas and tempo changes** | fantasias, rubato passages |
 
 The third is commonest in scores after the nineteenth century: composers compensate for the loosened beat by
-**writing tempo and expression markings as precisely as possible**.
+writing tempo and expression markings as precisely as possible.
 
 ## Diagram: the source of accent changes
 
@@ -238,7 +242,7 @@ The third is commonest in scores after the nineteenth century: composers compens
 ## Listen: after the beat loosens
 
 Free metre concerns the organisation of time, and this site's listening tools are all steady — so what follows is
-only the **even form**. Treat it as a reference point: in real performance such a passage is **stretched and
+only the even form. Treat it as a reference point: in real performance such a passage is **stretched and
 compressed**, while the phrase boundaries stay put.
 
 ```audiolab
@@ -247,12 +251,12 @@ compressed**, while the phrase boundaries stay put.
 
 ## Common misconceptions
 
-- **"No time signature means no rhythm."** Every element of rhythm — durations, tension, phrasing — remains; it is
+- "No time signature means no rhythm." Every element of rhythm — durations, tension, phrasing — remains; it is
   just not organised by an even grid.
-- **"Sanban means playing at random."** Sanban has a metrical system, phrasing and conventions of tension; it
+- "Sanban means playing at random." Sanban has a metrical system, phrasing and conventions of tension; it
   merely lacks a countable fixed beat.
-- **"Free metre is easier than measured metre."** Harder: **there is no grid to lean on**, so everything rests on
+- "Free metre is easier than measured metre." Harder: there is no grid to lean on, so everything rests on
   the performer's judgement of inflection and structure.
-- **"Free metre is uniquely Eastern or ancient."** Chant, recitative and rubato all belong to it; Western music
+- "Free metre is uniquely Eastern or ancient." Chant, recitative and rubato all belong to it; Western music
   never left it behind.
 :::

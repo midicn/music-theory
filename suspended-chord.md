@@ -33,17 +33,17 @@ updated: 2026-09-24
 > 大三：C–**E**–G　　挂四：C–**F**–G（三音换成四度）
 > 　　　　　　　　　挂二：C–**D**–G（三音换成二度）
 
-换掉的这个音恰好是**决定大小调色彩的那个音**（见 [[concept:major-triad|大三和弦]]、
+换掉的这个音恰好是决定大小调色彩的那个音（见 [[concept:major-triad|大三和弦]]、
 [[concept:minor-triad|小三和弦]]）。所以挂留和弦最要紧的特征是：
 
-> **它既不是大也不是小。**
+> 它既不是大也不是小。
 
 这带来一种特殊的听感：和弦本身是协和的（纯四度、纯五度都在），
-**但缺少"明暗"这条信息，于是悬着** —— 这正是"挂留"（suspended）一词的本义。
+但缺少"明暗"这条信息，于是悬着 —— 这正是"挂留"（suspended）一词的本义。
 
 ## 它来自对位，不是一个"新和弦"
 
-挂留和弦的历史来源是**延留音**：一个声部在前一个和弦里是小音，进入下一个和弦时**没有动**，
+挂留和弦的历史来源是延留音：一个声部在前一个和弦里是小音，进入下一个和弦时没有动，
 于是暂时变成了一个不属于该和弦的音；等到下一步它再落下来，就解决了。
 
 | 阶段 | 状态 | 例 |
@@ -52,15 +52,15 @@ updated: 2026-09-24
 | **挂留** | 该音被"留"住，形成不协和 | C–F–G（F 挂四） |
 | 解决 | 该音下行（或上行）落到和弦音 | C–E–G |
 
-所以挂留和弦在传统和声里是**过程性的**：出现即为解决做准备。
+所以挂留和弦在传统和声里是过程性的：出现即为解决做准备。
 
 ## 现代用法
 
-到了流行与爵士，挂留和弦获得了新的身份：**可以独立停留的和弦**。
+到了流行与爵士，挂留和弦获得了新的身份：可以独立停留的和弦。
 
-- **sus4** 常用于段落开头，制造"悬而未决"的开场感；
-- **sus2** 听感更空旷（因为二度与根音相撞，但被上方五度撑开）；
-- 两者都常用来**推迟**大小色彩的确定，让音乐多悬一会儿。
+- sus4 常用于段落开头，制造"悬而未决"的开场感；
+- sus2 听感更空旷（因为二度与根音相撞，但被上方五度撑开）；
+- 两者都常用来推迟大小色彩的确定，让音乐多悬一会儿。
 
 ## 图示：换掉的那个音
 
@@ -112,10 +112,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「挂留和弦是"没有解决的"和弦」** → 传统和声里它是过程；现代用法里它可以就是终点。
-- **「sus4 与 sus2 只是记法不同」** → 换掉的音不同（四度 vs 二度），听感也不同：sus4 更紧、sus2 更空。
-- **「挂留和弦是近代发明的」** → 它来自对位法的延留音，几百年前就是常规写法。
-- **「挂留和弦仍分大小」** → 不分。三音被换掉之后，大与小这条信息就不存在了 —— 这正是它悬着的原因。
+- 「挂留和弦是"没有解决的"和弦」 → 传统和声里它是过程；现代用法里它可以就是终点。
+- 「sus4 与 sus2 只是记法不同」 → 换掉的音不同（四度 vs 二度），听感也不同：sus4 更紧、sus2 更空。
+- 「挂留和弦是近代发明的」 → 它来自对位法的延留音，几百年前就是常规写法。
+- 「挂留和弦仍分大小」 → 不分。三音被换掉之后，大与小这条信息就不存在了 —— 这正是它悬着的原因。
 :::
 
 ::: en
@@ -124,17 +124,17 @@ A suspended chord does one thing only: **it removes the third of a triad.**
 > major: C–**E**–G　　 sus4: C–**F**–G (third replaced by the fourth)
 > 　　　　　　　　　　 sus2: C–**D**–G (third replaced by the second)
 
-The note removed happens to be **the one that decides major or minor** (see [[concept:major-triad|major triad]]
+The note removed happens to be the one that decides major or minor (see [[concept:major-triad|major triad]]
 and [[concept:minor-triad|minor triad]]). So the defining property is:
 
-> **It is neither major nor minor.**
+> It is neither major nor minor.
 
 That produces a peculiar effect: the chord itself is consonant (the perfect fourth and fifth are both there),
-**but the information about brightness is missing, so it hangs.** That is exactly what "suspended" means.
+but the information about brightness is missing, so it hangs. That is exactly what "suspended" means.
 
 ## It comes from counterpoint, not from a new chord
 
-Historically the suspended chord came from the **suspension**: a voice stays put while the harmony changes, so
+Historically the suspended chord came from the suspension: a voice stays put while the harmony changes, so
 it briefly becomes a note foreign to the new chord, and then steps down to resolve.
 
 | Stage | State | Example |
@@ -143,15 +143,15 @@ it briefly becomes a note foreign to the new chord, and then steps down to resol
 | **suspension** | the note is held, creating dissonance | C–F–G (a suspended fourth) |
 | resolution | the note steps down (or up) to a chord tone | C–E–G |
 
-So in traditional harmony a suspended chord is **a process**: its appearance prepares its own resolution.
+So in traditional harmony a suspended chord is a process: its appearance prepares its own resolution.
 
 ## Modern use
 
-In pop and jazz the suspended chord acquired a new identity: **a chord that may simply stay.**
+In pop and jazz the suspended chord acquired a new identity: a chord that may simply stay.
 
-- **sus4** is commonly used at the start of a section to create anticipation;
-- **sus2** sounds more open (the second collides with the root but the fifth above holds it apart);
-- both are often used to **postpone** the arrival of major or minor, letting the music hang a while longer.
+- sus4 is commonly used at the start of a section to create anticipation;
+- sus2 sounds more open (the second collides with the root but the fifth above holds it apart);
+- both are often used to postpone the arrival of major or minor, letting the music hang a while longer.
 
 ## Diagram: the note that got replaced
 
@@ -204,8 +204,8 @@ settled.
 
 ## Common misconceptions
 
-- **"A suspended chord is an unresolved chord."** Traditional writing treats it as a process; modern writing lets it be the destination.
-- **"sus4 and sus2 differ only in notation."** A different note is replaced (fourth versus second) and the sound differs: sus4 tighter, sus2 more open.
-- **"Suspended chords are a modern invention."** They come from contrapuntal suspensions and have been standard for centuries.
-- **"A suspended chord is still major or minor."** It is neither. Once the third is gone, major and minor no longer exist — which is precisely why it hangs.
+- "A suspended chord is an unresolved chord." Traditional writing treats it as a process; modern writing lets it be the destination.
+- "sus4 and sus2 differ only in notation." A different note is replaced (fourth versus second) and the sound differs: sus4 tighter, sus2 more open.
+- "Suspended chords are a modern invention." They come from contrapuntal suspensions and have been standard for centuries.
+- "A suspended chord is still major or minor." It is neither. Once the third is gone, major and minor no longer exist — which is precisely why it hangs.
 :::

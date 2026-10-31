@@ -28,48 +28,48 @@ updated: 2026-09-25
 ---
 
 ::: zh
-一段体是最容易被忽略的曲式，因为它的定义是**否定式**的：
+一段体是最容易被忽略的曲式，因为它的定义是否定式的：
 
 > **全曲只有一个乐思，不再作段落级的对比与回归。**
 
-也就是：它**没有** ABA，也**没有** AB。听完就是"一个完整的东西"。
+也就是说：没有 ABA，也没有 AB。听完只有一个完整的东西。
 
 ## 两个必须分清的概念
 
-这是本条最要紧的部分 —— **"一段体"与"乐段"不是一回事**：
+一段体与乐段常被混为一谈。其实二者不在一个层级上：
 
-| | **乐段**（period） | **一段体**（one-part form） |
+| | 乐段（period） | 一段体（one-part form） |
 |---|---|---|
-| 属于哪一层 | **旋律层**：由两个乐句构成 | **整曲层**：整首作品的曲式 |
+| 属于哪一层 | 旋律层：由两个乐句构成 | 整曲层：整首作品的曲式 |
 | 讲的是 | 乐句怎么成对（见 [[concept:phrase|乐句与乐段]]） | 全曲有没有段落对比 |
-| 一首曲子可以 | 含**多个**乐段 | 只有一个曲式 |
+| 一首曲子可以 | 含多个乐段 | 只有一个曲式 |
 
-**所以"一段体"内部完全可以是"两个乐句"甚至"四个乐句"** ——
+所以"一段体"内部完全可以是两个乐句，甚至四个乐句。
 分句是旋律层的事，与"曲式只有一个部分"并不矛盾。
 
 ## 长度不是判据
 
-最容易犯的错误是以为一段体 = 短：
+最容易犯的错误是以为一段体等于短：
 
 | 误区 | 实际 |
 |---|---|
-| 一段体一定很短 | **长度不限** —— 一首 8 小节的民歌和一首 40 小节的练习曲都可能是 |
+| 一段体一定很短 | 长度不限：一首 8 小节的民歌和一首 40 小节的练习曲都可能是 |
 | 长曲子一定不是一段体 | 只要全曲不做段落级对比与回归，再长也是一段体 |
 
-**判据只有一条**：全曲有没有"出去再回来"或"两段对比"这种**段落级**的安排。
-有 → 二段体或三段体；没有 → 一段体。
+**判据只有一条**：全曲有没有"出去再回来"或"两段对比"这种段落级的安排。
+有就是二段体或三段体；没有就是一段体。
 
 ## 它出现在哪里
 
 | 类型 | 说明 |
 |---|---|
-| **民歌 / 圣咏** | 一首短歌常是一个完整乐思，不自成段落 |
-| **短小器乐曲** | 前奏曲、练习曲、小品 |
-| **主题本身** | 变奏曲的**主题**、赋格的**主题**都常是一段体（见 [[concept:theme-variations|变奏曲式]]） |
-| **乐章内部** | 大型作品里的一个短小段落 |
+| 民歌 / 圣咏 | 一首短歌常是一个完整乐思，不自成段落 |
+| 短小器乐曲 | 前奏曲、练习曲、小品 |
+| 主题本身 | 变奏曲的主题、赋格的主题都常是一段体（见 [[concept:theme-variations|变奏曲式]]） |
+| 乐章内部 | 大型作品里的一个短小段落 |
 
-第三行值得注意：**一段体是"更复杂结构的材料"** ——
-变奏曲的主题、奏鸣曲式的主题，本身就是一段体。**这正说明一段体是构件，不只是缩小的作品。**
+一段体常常是更复杂结构的材料：变奏曲的主题、奏鸣曲式的主题，本身都是一段体。
+它不只是缩小的作品，也是**构件**。
 
 ## 图示：三种层级不要混
 
@@ -120,7 +120,7 @@ updated: 2026-09-25
 ## 听一听：一个乐思自足
 
 用 `progression` 听一段"完整陈述并收束"的进行 —— 只有一次离开与回归，没有第二次。
-**这就是一段体在和声层面的样子**：说完就结束，不做更大的安排。
+这就是一段体在和声层面的样子：说完就结束，不做更大的安排。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"一个完整乐思（说完就结束）","label_en":"One complete idea — said, then finished","hint":"逐个和弦依次听：只有一次收束，没有第二次","hint_en":"Hear each chord: one close, and no second"}
@@ -128,31 +128,31 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「一段体就是乐段」** → 不同层级：乐段属**旋律层**（由乐句构成），一段体属**整曲层**（全曲的曲式）。
-- **「一段体一定很短」** → 长度不限。判据是**有没有段落级对比与回归**，不是长短。
-- **「一段体没有结构」** → 它有完整的内部结构（乐句成对、有起有收），只是**不做段落级的安排**。
-- **「它是初级形态」** → 它是**构件**：变奏曲的主题、赋格的主题、奏鸣曲式的主题本身就是一段体。
+- 「一段体就是乐段」 → 不同层级：乐段属旋律层（由乐句构成），一段体属整曲层（全曲的曲式）。
+- 「一段体一定很短」 → 长度不限。判据是有没有段落级对比与回归，不是长短。
+- 「一段体没有结构」 → 它有完整的内部结构（乐句成对、有起有收），只是不做段落级的安排。
+- 「它是初级形态」 → 它是构件：变奏曲的主题、赋格的主题、奏鸣曲式的主题本身就是一段体。
 :::
 
 ::: en
-One-part form is the most easily overlooked form, because its definition is **negative**:
+One-part form is the most easily overlooked form, because its definition is negative:
 
 > **The whole piece is one idea, with no sectional contrast or return.**
 
-That is: there is **no** ABA and **no** AB. What you hear is "one complete thing".
+That is: no ABA and no AB. What you hear is "one complete thing".
 
 ## Two concepts that must be kept apart
 
-This is the heart of the entry — **"one-part form" and "period" are not the same thing**:
+One-part form and period are often confused; they belong to different levels:
 
-| | **Period** | **One-part form** |
+| | Period | One-part form |
 |---|---|---|
-| Which level | **melodic**: built from two phrases | **whole piece**: the form of the work |
+| Which level | melodic: built from two phrases | whole piece: the form of the work |
 | Concerns | how phrases pair (see [[concept:phrase|phrase and period]]) | whether the piece has sectional contrast |
-| A piece may contain | **several** periods | only one form |
+| A piece may contain | several periods | only one form |
 
-**So a one-part form may well contain two or even four phrases.** Phrasing belongs to the melodic level and does
-not contradict "the form has one part".
+So a one-part form may well contain two or even four phrases.
+Phrasing belongs to the melodic level and does not contradict "the form has one part".
 
 ## Length is not the test
 
@@ -160,24 +160,23 @@ The commonest error is assuming one-part means short:
 
 | Misconception | Reality |
 |---|---|
-| it must be short | **no length limit** — an eight-bar folk song and a forty-bar study both qualify |
+| it must be short | no length limit: an eight-bar folk song and a forty-bar study both qualify |
 | a long piece cannot be one-part | if the whole piece avoids sectional contrast and return, it qualifies however long |
 
-**There is one test**: does the piece contain a **sectional** "out and back" or "two-part contrast"? Yes means
-binary or ternary; no means one-part.
+**One test** decides it: does the piece contain a sectional "out and back" or a "two-part contrast"?
+Yes means binary or ternary; no means one-part.
 
 ## Where it appears
 
 | Type | Explanation |
 |---|---|
-| **folk song / hymn** | a short song is often one complete idea, not divided into sections |
-| **short instrumental pieces** | preludes, studies, small pieces |
-| **themes themselves** | the **theme** of a variation set and the **subject** of a fugue are often one-part (see [[concept:theme-variations|variation form]]) |
-| **inside a movement** | a short passage within a larger work |
+| folk song / hymn | a short song is often one complete idea, not divided into sections |
+| short instrumental pieces | preludes, studies, small pieces |
+| themes themselves | the theme of a variation set and the subject of a fugue are often one-part (see [[concept:theme-variations|variation form]]) |
+| inside a movement | a short passage within a larger work |
 
-The third row matters: **one-part form is the material of more complex structures** — the theme of a variation set
-and the subject of a sonata movement are themselves one-part. **Which shows it is a building block, not merely a
-shrunk-down piece.**
+One-part form is often the material of more complex structures: the theme of a variation set and the subject of a
+sonata movement are themselves one-part. It is a **building block**, not merely a shrunk-down piece.
 
 ## Diagram: don't mix the levels
 
@@ -227,8 +226,8 @@ shrunk-down piece.**
 
 ## Listen: one idea, self-sufficient
 
-Use `progression` on a span with a single departure and return and no second one. **That is one-part form at the
-harmonic level**: it says its piece and stops, without larger planning.
+Use `progression` on a span with a single departure and return and no second one. That is one-part form at the
+harmonic level: it says its piece and stops, without larger planning.
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"一个完整乐思（说完就结束）","label_en":"One complete idea — said, then finished","hint":"逐个和弦依次听：只有一次收束，没有第二次","hint_en":"Hear each chord: one close, and no second"}
@@ -236,11 +235,11 @@ harmonic level**: it says its piece and stops, without larger planning.
 
 ## Common misconceptions
 
-- **"One-part form is a period."** Different levels: a period belongs to the **melodic** level (built from
-  phrases), one-part form to the **whole-piece** level.
-- **"One-part form must be short."** No length limit. The test is **sectional contrast and return**, not size.
-- **"One-part form has no structure."** It has a complete internal structure (paired phrases, a rise and a close) —
-  it simply makes no **sectional** arrangement.
-- **"It is a beginner's shape."** It is a **building block**: variation themes, fugue subjects and sonata subjects
+- "One-part form is a period." Different levels: a period belongs to the melodic level (built from
+  phrases), one-part form to the whole-piece level.
+- "One-part form must be short." No length limit. The test is sectional contrast and return, not size.
+- "One-part form has no structure." It has a complete internal structure (paired phrases, a rise and a close) —
+  it simply makes no sectional arrangement.
+- "It is a beginner's shape." It is a building block: variation themes, fugue subjects and sonata subjects
   are themselves one-part.
 :::

@@ -61,15 +61,15 @@ updated: 2026-09-25
 
 两个问句就能判断：
 
-> **① 把音高换掉（全用一个音）还认得出吗？** → 认得出，节奏就是它的核心
-> **② 把节奏换掉（全用同一种时值）还认得出吗？** → 认得出，音高关系就是它的核心
+> ① 把音高换掉（全用一个音）还认得出吗？ → 认得出，节奏就是它的核心
+> ② 把节奏换掉（全用同一种时值）还认得出吗？ → 认得出，音高关系就是它的核心
 
-**两条都认不出** → 它既不是完整的动机，也还不是主题，只是一段音符。
-**至少一条认得出** → 它具备动机的特征：**有一个突出的维度**。
+两条都认不出 → 它既不是完整的动机，也还不是主题，只是一段音符。
+至少一条认得出 → 它具备动机的特征：有一个突出的维度。
 
 ## 主题的写法要求
 
-主题比动机多一条要求：**必须自带"可发展的余地"**。
+主题比动机多一条要求：必须自带"可发展的余地"。
 这也是作曲上最难判断的地方 ——
 
 | 主题类型 | 问题 |
@@ -78,7 +78,7 @@ updated: 2026-09-25
 | **太空洞** | 没有特征，发展后仍无特征 |
 | **刚好** | 有鲜明的特征 + 留有未说尽的部分 |
 
-这也解释了为什么很多经典主题**听上去很朴素**：
+这也解释了为什么很多经典主题听上去很朴素：
 它把特征压缩在最少的音里，反而留出了最大的发展空间。
 
 ## 图示：动机与主题的关系
@@ -134,8 +134,8 @@ updated: 2026-09-25
 
 ## 听一听：一个单元的可能性
 
-用 `scale` 组件听一条音阶，再想象把其中**三个音**单独拿出来反复改造（移位、倒影、扩大）——
-**这正是动机驱动型作品的全部材料来源**。
+用 `scale` 组件听一条音阶，再想象把其中三个音单独拿出来反复改造（移位、倒影、扩大）——
+这正是动机驱动型作品的全部材料来源。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"素材：从中可以取出动机","label_en":"Material: motives can be taken from this","hint":"点「上行」，想象只取前三个音反复改造","hint_en":"Try Up and imagine taking only the first three notes and developing them","gap":0.32}
@@ -143,10 +143,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「动机和主题是同一个东西」** → 区分在**完整度**：动机是材料，主题是完整的陈述。
-- **「动机就是短的旋律」** → 短只是表象。动机的定义是**有辨识力的最小单元**（至少一个维度突出）。
-- **「主题越长越好」** → 相反：太完整的主题**无处发展**。经典主题往往把特征压在最少的音里。
-- **「动机只用于古典音乐」** → 电影配乐的主题变形、流行歌的 hook 重复，都是动机思维。
+- 「动机和主题是同一个东西」 → 区分在完整度：动机是材料，主题是完整的陈述。
+- 「动机就是短的旋律」 → 短只是表象。动机的定义是有辨识力的最小单元（至少一个维度突出）。
+- 「主题越长越好」 → 相反：太完整的主题无处发展。经典主题往往把特征压在最少的音里。
+- 「动机只用于古典音乐」 → 电影配乐的主题变形、流行歌的 hook 重复，都是动机思维。
 :::
 
 ::: en
@@ -182,15 +182,15 @@ This is [[concept:contrapuntal-devices|contrapuntal devices]] applied at the mel
 
 Two questions settle it:
 
-> **1. Replace every pitch with one note — is it still recognisable?** If yes, rhythm is its core.
-> **2. Replace every duration with one value — is it still recognisable?** If yes, the pitch relations are its core.
+> 1. Replace every pitch with one note — is it still recognisable? If yes, rhythm is its core.
+> 2. Replace every duration with one value — is it still recognisable? If yes, the pitch relations are its core.
 
-**Neither survives** → it is not a complete motive and not yet a subject, just a run of notes.
-**At least one survives** → it has the mark of a motive: **one dimension stands out**.
+Neither survives → it is not a complete motive and not yet a subject, just a run of notes.
+At least one survives → it has the mark of a motive: one dimension stands out.
 
 ## What a subject additionally requires
 
-A subject demands one more thing: **it must leave room to develop.** This is the hardest judgement in composing —
+A subject demands one more thing: it must leave room to develop. This is the hardest judgement in composing —
 
 | Type | Problem |
 |---|---|
@@ -198,7 +198,7 @@ A subject demands one more thing: **it must leave room to develop.** This is the
 | **too empty** | no character, and no character can be developed out of it |
 | **just right** | a striking feature plus something left unsaid |
 
-Which explains why many classic subjects **sound plain**: the feature is compressed into the fewest notes,
+Which explains why many classic subjects sound plain: the feature is compressed into the fewest notes,
 leaving the largest space for development.
 
 ## Diagram: motive and subject
@@ -254,8 +254,8 @@ leaving the largest space for development.
 
 ## Listen: the possibilities of one unit
 
-Use `scale` to hear a scale, then imagine taking **three notes** from it and reworking them (transposition,
-mirror, augmentation) — **that is the entire material of a motive-driven work.**
+Use `scale` to hear a scale, then imagine taking three notes from it and reworking them (transposition,
+mirror, augmentation) — that is the entire material of a motive-driven work.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"素材：从中可以取出动机","label_en":"Material: motives can be taken from this","hint":"点「上行」，想象只取前三个音反复改造","hint_en":"Try Up and imagine taking only the first three notes and developing them","gap":0.32}
@@ -263,12 +263,12 @@ mirror, augmentation) — **that is the entire material of a motive-driven work.
 
 ## Common misconceptions
 
-- **"A motive and a subject are the same."** They differ in **completeness**: a motive is material, a subject is a
+- "A motive and a subject are the same." They differ in completeness: a motive is material, a subject is a
   finished statement.
-- **"A motive is just a short melody."** Brevity is only appearance. A motive is the **smallest identifiable unit**,
+- "A motive is just a short melody." Brevity is only appearance. A motive is the smallest identifiable unit,
   with at least one dimension standing out.
-- **"Longer subjects are better."** The opposite: too complete a subject has **nowhere to develop**. Classic
+- "Longer subjects are better." The opposite: too complete a subject has nowhere to develop. Classic
   subjects compress their feature into the fewest notes.
-- **"Motives belong to classical music."** Thematic transformation in film scores and the repeated hook of a pop
+- "Motives belong to classical music." Thematic transformation in film scores and the repeated hook of a pop
   song are motive thinking.
 :::

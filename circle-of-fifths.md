@@ -55,12 +55,12 @@ updated: 2026-09-24
 | **主—属—下属在哪？** | 主音**左右各一步**：顺时针是属，逆时针是下属（见 [[concept:harmonic-function|和声功能]]） |
 | **升 F 和降 G 是什么关系？** | 圈上同一个位置的两种写法（见 [[concept:enharmonic|等音]]） |
 
-第二行与第三行尤其有用：**功能关系在圈上就是"邻居关系"** ——
+第二行与第三行尤其有用：功能关系在圈上就是"邻居关系" ——
 这解释了为什么 I–IV–V–I 听起来那么自然，也解释了为什么"属"推回"主"的力度最强。
 
 ## 为什么是五度，不是三度或四度
 
-因为纯五度的比例是 **3:2** —— 最简单比例里唯一的非八度成员（见 [[concept:perfect-interval|纯音程]]）。
+因为纯五度的比例是 3:2 —— 最简单比例里唯一的非八度成员（见 [[concept:perfect-interval|纯音程]]）。
 往上叠五度 12 次几乎回到原点（差一点，这个差就是音差），
 所以它能"绕成一圈"，而叠三度或四度都做不到这一点。
 
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：点着圈听
 
-下面是一张可点的五度圈 —— **点任意一格，就听到那个调的主三和弦**，
+下面是一张可点的五度圈 —— 点任意一格，就听到那个调的主三和弦，
 圆心显示调名与升降号数。先点 C，再点相邻的 G，最后点对面的 F♯/G♭，比较三种距离的听感差别。
 
 ```audiolab
@@ -117,10 +117,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「五度圈是用来背调号的」** → 背调号只是它最浅的用途。它同时解释近关系、功能位置与等音关系。
-- **「顺时针一定加升号」** → 严格说：顺时针是"加一个升号**或**减一个降号"。走过 6 个升号之后进入降号区。
-- **「圈上相邻的调听起来很像」** → 只是**转调平滑**（共同音多），不等于"听起来像同一个调"。
-- **「升 F 大调和降 G 大调是两个调」** → 音高完全相同，是等音调，只是记谱与使用习惯不同（见 [[concept:enharmonic|等音]]）。
+- 「五度圈是用来背调号的」 → 背调号只是它最浅的用途。它同时解释近关系、功能位置与等音关系。
+- 「顺时针一定加升号」 → 严格说：顺时针是"加一个升号或减一个降号"。走过 6 个升号之后进入降号区。
+- 「圈上相邻的调听起来很像」 → 只是转调平滑（共同音多），不等于"听起来像同一个调"。
+- 「升 F 大调和降 G 大调是两个调」 → 音高完全相同，是等音调，只是记谱与使用习惯不同（见 [[concept:enharmonic|等音]]）。
 :::
 
 ::: en
@@ -206,7 +206,7 @@ does not do this.
 
 ## Listen: click around the circle
 
-Below is a clickable circle — **click any segment to hear that key's tonic triad**, with the key name and
+Below is a clickable circle — click any segment to hear that key's tonic triad, with the key name and
 signature shown in the middle. Try C first, then the neighbouring G, then the opposite F♯/G♭, and compare how the
 three distances feel.
 
@@ -216,8 +216,8 @@ three distances feel.
 
 ## Common misconceptions
 
-- **"The circle is for memorising key signatures."** That is its shallowest use. It also explains close relations, functional positions and enharmonic equivalence.
-- **"Clockwise always means adding a sharp."** Strictly, clockwise means adding a sharp **or** removing a flat. After six sharps you enter the flat region.
-- **"Neighbouring keys sound alike."** They make modulations smooth, because they share notes — which is not the same as sounding like one key.
-- **"F♯ major and G♭ major are two keys."** Identical pitches, enharmonic keys, differing only in notation and habit (see [[concept:enharmonic|enharmonic]]).
+- "The circle is for memorising key signatures." That is its shallowest use. It also explains close relations, functional positions and enharmonic equivalence.
+- "Clockwise always means adding a sharp." Strictly, clockwise means adding a sharp or removing a flat. After six sharps you enter the flat region.
+- "Neighbouring keys sound alike." They make modulations smooth, because they share notes — which is not the same as sounding like one key.
+- "F♯ major and G♭ major are two keys." Identical pitches, enharmonic keys, differing only in notation and habit (see [[concept:enharmonic|enharmonic]]).
 :::

@@ -104,7 +104,7 @@ updated: 2026-09-23
 
 ## 听一听：和弦的三副面孔
 
-同一个 C 大三和弦，三种听法：**整体**（柱式）、**分解**（琶音）、**宽排列**（摊开到两个八度）。
+同一个 C 大三和弦，三种听法：整体（柱式）、分解（琶音）、宽排列（摊开到两个八度）。
 和弦的"性格"一半来自构成音，另一半来自排列方式。
 
 ```audiolab
@@ -113,10 +113,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「三个音一起响就是和弦」** → 必须是**三度叠置**。音程杂乱的音群是音簇，不能命名也不承担功能。
-- **「和弦必须三个音」** → 两个音只是音程；三个以上都算，七、九、十三和弦都是和弦。
-- **「和弦的根音就是最低音」** → 转位之后最低音不是根音，但根音仍是根音（见 [[concept:chord-inversion|转位]]）。
-- **「同一组音只有一种听感」** → 排列与转位会让同一组音听起来完全不同（见 [[concept:chord-voicing|排列]]）。
+- 「三个音一起响就是和弦」 → 必须是三度叠置。音程杂乱的音群是音簇，不能命名也不承担功能。
+- 「和弦必须三个音」 → 两个音只是音程；三个以上都算，七、九、十三和弦都是和弦。
+- 「和弦的根音就是最低音」 → 转位之后最低音不是根音，但根音仍是根音（见 [[concept:chord-inversion|转位]]）。
+- 「同一组音只有一种听感」 → 排列与转位会让同一组音听起来完全不同（见 [[concept:chord-voicing|排列]]）。
 :::
 
 ::: en
@@ -196,7 +196,7 @@ those four variables describe the great majority of chords.
 
 ## Listen: three faces of one chord
 
-The same C major triad heard three ways: **as a block**, **broken up** (arpeggio), and **spread wide** across two
+The same C major triad heard three ways: as a block, broken up (arpeggio), and spread wide across two
 octaves. Half a chord's character comes from its notes, the other half from how they are arranged.
 
 ```audiolab
@@ -205,8 +205,8 @@ octaves. Half a chord's character comes from its notes, the other half from how 
 
 ## Common misconceptions
 
-- **"Any three notes together make a chord."** They must be **stacked in thirds**. Mixed intervals give a cluster, which cannot be named or carry function.
-- **"A chord has three notes."** Two notes are an interval; three or more are chords, and sevenths, ninths and thirteenths are all chords.
-- **"A chord's root is its lowest note."** After inversion the bass is not the root, yet the root is still the root (see [[concept:chord-inversion|inversion]]).
-- **"One set of notes sounds one way."** Voicing and inversion make the same notes sound completely different (see [[concept:chord-voicing|voicing]]).
+- "Any three notes together make a chord." They must be stacked in thirds. Mixed intervals give a cluster, which cannot be named or carry function.
+- "A chord has three notes." Two notes are an interval; three or more are chords, and sevenths, ninths and thirteenths are all chords.
+- "A chord's root is its lowest note." After inversion the bass is not the root, yet the root is still the root (see [[concept:chord-inversion|inversion]]).
+- "One set of notes sounds one way." Voicing and inversion make the same notes sound completely different (see [[concept:chord-voicing|voicing]]).
 :::

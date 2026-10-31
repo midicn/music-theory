@@ -43,11 +43,11 @@ updated: 2026-09-23
 
 这张表就是**调内和弦**的全部清单。它解释了和声学里几乎所有的基础结论：
 
-- **I、IV、V 是大三和弦** → 所以"主—下属—属"是调性的骨架；
-- **只有 vii 是减三和弦** → 所以它不稳定，必须解决；
-- **vii 的根音是大调第 7 级（导音）** → 所以它天然指向 I，这是终止式的来源（见 [[concept:cadence|终止式]]）。
+- I、IV、V 是大三和弦 → 所以"主—下属—属"是调性的骨架；
+- 只有 vii 是减三和弦 → 所以它不稳定，必须解决；
+- vii 的根音是大调第 7 级（导音） → 所以它天然指向 I，这是终止式的来源（见 [[concept:cadence|终止式]]）。
 
-**这一切都不是规定，而是音阶结构的必然结果。** 你把大调音阶的结构改了，
+这一切都不是规定，而是音阶结构的必然结果。 你把大调音阶的结构改了，
 和弦序列立刻跟着变 —— 这就是调式各有其和声色彩的原因。
 
 ## 换个音阶，换一整套和弦
@@ -58,7 +58,7 @@ updated: 2026-09-23
 | 自然小调 | 小三 | 暗，且属和弦是小三 → 推进力弱（故有和声小调） |
 | [[concept:dorian|多里亚]] | 小三 | 与自然小调只差第 6 级，但 IV 级和弦变大三 → 最显著的区别 |
 
-也就是说：**说"某调式听起来如何"，一半是在说"它上面能长出哪些和弦"。**
+也就是说：说"某调式听起来如何"，一半是在说"它上面能长出哪些和弦"。
 
 ## 图示：叠三度
 
@@ -113,10 +113,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「音阶只管旋律」** → 音阶同时决定可用的和弦。改了音阶，整套和声都变。
-- **「调内和弦是规定出来的」** → 它是叠三度的必然结果，不是人为规定。
-- **「小调的属和弦和小调一样是小三和弦」** → 自然小调如此，但实际写作里几乎都会把第 7 级升上去得到**大**三和弦（[[concept:harmonic-minor|和声小调]]），否则终止式立不住。
-- **「所有调式都有同样的和弦序列」** → 完全不同。多里亚与自然小调在旋律上只差一个音，但在和弦上会多出一个大三和弦。
+- 「音阶只管旋律」 → 音阶同时决定可用的和弦。改了音阶，整套和声都变。
+- 「调内和弦是规定出来的」 → 它是叠三度的必然结果，不是人为规定。
+- 「小调的属和弦和小调一样是小三和弦」 → 自然小调如此，但实际写作里几乎都会把第 7 级升上去得到大三和弦（[[concept:harmonic-minor|和声小调]]），否则终止式立不住。
+- 「所有调式都有同样的和弦序列」 → 完全不同。多里亚与自然小调在旋律上只差一个音，但在和弦上会多出一个大三和弦。
 :::
 
 ::: en
@@ -136,9 +136,9 @@ chords appears.
 This table is the complete inventory of **diatonic chords**, and it accounts for almost every basic conclusion in
 harmony:
 
-- **I, IV and V are major** → so tonic, subdominant and dominant form the tonal skeleton;
-- **only vii is diminished** → so it is unstable and must resolve;
-- **vii's root is the seventh degree (the leading tone)** → so it points at I, which is where cadences come from
+- I, IV and V are major → so tonic, subdominant and dominant form the tonal skeleton;
+- only vii is diminished → so it is unstable and must resolve;
+- vii's root is the seventh degree (the leading tone) → so it points at I, which is where cadences come from
   (see [[concept:cadence|cadence]]).
 
 **None of this is a rule imposed from outside; all of it follows from the scale's structure.** Change the
@@ -152,7 +152,7 @@ structure and the chord sequence changes with it — which is why each mode has 
 | natural minor | minor | dark, and its dominant is minor → weak pull (hence harmonic minor) |
 | [[concept:dorian|Dorian]] | minor | one note from natural minor, but its IV becomes major — the most striking difference |
 
-In other words: **saying how a mode sounds is half saying which chords can grow on it.**
+In other words: saying how a mode sounds is half saying which chords can grow on it.
 
 ## Diagram: stacking thirds
 
@@ -207,8 +207,8 @@ path connecting melodic material to harmonic material.
 
 ## Common misconceptions
 
-- **"A scale is only about melody."** It also fixes which chords are available; change the scale and the whole harmony changes.
-- **"Diatonic chords are a set of rules."** They are the necessary result of stacking thirds.
-- **"A minor key's dominant is a minor triad."** True of natural minor, but in practice the seventh is almost always raised to give a **major** dominant ([[concept:harmonic-minor|harmonic minor]]), or cadences will not hold.
-- **"Every mode has the same chord sequence."** They are all different. Dorian and natural minor differ by one melodic note but Dorian gains a major triad where minor has a minor one.
+- "A scale is only about melody." It also fixes which chords are available; change the scale and the whole harmony changes.
+- "Diatonic chords are a set of rules." They are the necessary result of stacking thirds.
+- "A minor key's dominant is a minor triad." True of natural minor, but in practice the seventh is almost always raised to give a major dominant ([[concept:harmonic-minor|harmonic minor]]), or cadences will not hold.
+- "Every mode has the same chord sequence." They are all different. Dorian and natural minor differ by one melodic note but Dorian gains a major triad where minor has a minor one.
 :::

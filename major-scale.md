@@ -55,7 +55,7 @@ updated: 2026-09-23
 ## 大调不是"快乐的音阶"
 
 "大调=快乐、小调=悲伤"这个说法流传很广，但只在下半句对。
-大调的真正特点不是情绪，而是**稳定性**：三级为大三度，主和弦是大三和弦，
+大调的真正特点不是情绪，而是稳定性：三级为大三度，主和弦是大三和弦，
 属音与导音形成最强的回到主音的引力。这个结构既可以写进行曲，也可以写哀歌。
 
 ## 图示：两个半音的位置
@@ -116,10 +116,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「大调就是开心的音乐」** → 大调提供的是**稳定与引力**，情绪由节奏、和声、速度共同决定。
-- **「大调音阶有 12 条，因为半音有 12 个」** → 大调音阶只有一种结构，但可以从 12 个音上起，而且两端还要用等音调记法补齐（C♯ 大调 / D♭ 大调是同一个音高）。
-- **「半音都在第 3–4 和第 7–8 音之间，是因为这两个间隔更小」** → 顺序反了。音阶定义在前，半音位置是这条定义的结果，不是原因。
-- **「大调音阶里不能出现变化音」** → 可以。比如把第 6 音降低，就得到旋律小调的下行形态或民间音乐的混合色彩。
+- 「大调就是开心的音乐」 → 大调提供的是稳定与引力，情绪由节奏、和声、速度共同决定。
+- 「大调音阶有 12 条，因为半音有 12 个」 → 大调音阶只有一种结构，但可以从 12 个音上起，而且两端还要用等音调记法补齐（C♯ 大调 / D♭ 大调是同一个音高）。
+- 「半音都在第 3–4 和第 7–8 音之间，是因为这两个间隔更小」 → 顺序反了。音阶定义在前，半音位置是这条定义的结果，不是原因。
+- 「大调音阶里不能出现变化音」 → 可以。比如把第 6 音降低，就得到旋律小调的下行形态或民间音乐的混合色彩。
 :::
 
 ::: en
@@ -150,7 +150,7 @@ the reverse. That rule is the [[concept:circle-of-fifths|circle of fifths]], and
 
 ## Major does not mean "happy"
 
-The popular saying — major happy, minor sad — is only half true. What major actually supplies is **stability**:
+The popular saying — major happy, minor sad — is only half true. What major actually supplies is stability:
 a major third, a major tonic triad, and a dominant and leading tone that pull hard toward home. The same
 structure writes marches and writes laments.
 
@@ -212,8 +212,8 @@ are exactly the step that arrives home and the step that just left it.
 
 ## Common misconceptions
 
-- **"Major means happy music."** Major supplies **stability and pull**; mood comes from rhythm, harmony and tempo together.
-- **"There are twelve major scales because there are twelve semitones."** There is one major pattern, startable on twelve pitches — and the extremes need enharmonic spelling (C♯ major and D♭ major are the same pitches).
-- **"The semitones sit at 3–4 and 7–8 because those gaps are smaller."** That reverses cause and effect: the scale is defined first, and the semitone positions are its consequence.
-- **"No accidentals can appear in a major scale."** They can. Lower the sixth degree and you get the descending form of melodic minor, or a folk-inflected colour.
+- "Major means happy music." Major supplies stability and pull; mood comes from rhythm, harmony and tempo together.
+- "There are twelve major scales because there are twelve semitones." There is one major pattern, startable on twelve pitches — and the extremes need enharmonic spelling (C♯ major and D♭ major are the same pitches).
+- "The semitones sit at 3–4 and 7–8 because those gaps are smaller." That reverses cause and effect: the scale is defined first, and the semitone positions are its consequence.
+- "No accidentals can appear in a major scale." They can. Lower the sixth degree and you get the descending form of melodic minor, or a folk-inflected colour.
 :::

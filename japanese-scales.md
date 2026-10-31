@@ -22,7 +22,7 @@ instances:
   - thesession-019704 | 另一条五声材料，用于听"同样的五个音、半音位置不同则色彩全变" | A further pentatonic item, for hearing how the same five-note pool turns into a different colour when the semitones move
 sources:
   - 都节音阶（insk/insen）与琉球音阶的五音构成与半音位置，属日本传统音乐理论的通行表述
-  - 日本音阶与雅乐、俗乐诸种调式的区别属专门领域，本站只讲最常被引用的两条五声形态
+  - 日本音阶与雅乐、俗乐诸种调式的区别属专门领域，这里只讲最常被引用的两条五声形态
 updated: 2026-09-23
 ---
 
@@ -42,7 +42,7 @@ updated: 2026-09-23
 - **都节**在**开头**就有半音（C–D♭）→ 立刻带出阴郁、紧缩的色彩；
 - **琉球**的半音在中段（E–F）→ 色彩更开阔，常用于冲绳民谣。
 
-同样是五个音、同样没有三全音，**只因半音落在不同位置，色彩就完全不同** ——
+同样是五个音、同样没有三全音，只因半音落在不同位置，色彩就完全不同 ——
 这正是 [[concept:semitone|半音与全音]] 那一节说的"音阶的性格写在哪里"的实例。
 
 ## 和中国五声的关系
@@ -53,9 +53,9 @@ updated: 2026-09-23
 | 半音 | 无 | 有（两处） | 有（一处） |
 | 音程骨架 | 全音 + 小三度 | 半音 + 大三度 | 半音 + 大三度 |
 
-最要紧的一点：**"五声"只说明音的数量，不说明色彩。** 半音在哪里，才是决定性的。
+最要紧的一点："五声"只说明音的数量，不说明色彩。 半音在哪里，才是决定性的。
 
-> **取材说明**：本站实例池里没有标记为日本音阶的曲目，本条改用**可听可验证的推导法** ——
+> 取材说明：现有曲库里没有标记为日本音阶的曲目，本条改用可听可验证的推导法 ——
 > 用库内五声/七声材料，把半音位置移到位，对比听辨。这一做法与 [[concept:locrian|洛克里亚]] 一致。
 
 ## 图示：同样的五个音，半音换位置
@@ -104,10 +104,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「五声音阶都一样」** → 数量相同不等于结构相同。半音的有无与位置才是决定性的。
-- **「日本音阶只有两条」** → 那是最常被引用的两条。雅乐与俗乐中的调式体系要复杂得多，属专门领域。
-- **「都节听起来就是"日本味"」** → 那种听感来自半音位置与旋法习惯，不来自"日本"这个概念本身。
-- **「它们属于中国五声的分支」** → 音数相同但结构不同（中国五声无半音），是各自独立发展的体系。
+- 「五声音阶都一样」 → 数量相同不等于结构相同。半音的有无与位置才是决定性的。
+- 「日本音阶只有两条」 → 那是最常被引用的两条。雅乐与俗乐中的调式体系要复杂得多，属专门领域。
+- 「都节听起来就是"日本味"」 → 那种听感来自半音位置与旋法习惯，不来自"日本"这个概念本身。
+- 「它们属于中国五声的分支」 → 音数相同但结构不同（中国五声无半音），是各自独立发展的体系。
 :::
 
 ::: en
@@ -124,7 +124,7 @@ Two pentatonic scales from Japanese music are quoted most often in theory teachi
 The comparison is clear:
 
 - **insen** has a semitone at the **start** (C–D♭), which immediately produces a dark, constricted colour;
-- **ryukyu** puts its semitone **mid-scale** (E–F), which reads as more open and is common in Okinawan song.
+- **ryukyu** puts its semitone mid-scale (E–F), which reads as more open and is common in Okinawan song.
 
 Same five notes, no tritone in either — **only the position of the semitones differs, and the colour is
 completely different**. This is precisely the "a scale's character is written where the semitones land" point
@@ -138,11 +138,11 @@ from [[concept:semitone|semitones and whole tones]].
 | Semitones | none | two | one |
 | Skeleton | whole tones + minor thirds | semitones + major thirds | semitones + major thirds |
 
-The essential point: **"pentatonic" only states how many notes there are, not what colour they make.** Where
+The essential point: "pentatonic" only states how many notes there are, not what colour they make. Where
 the semitones sit decides everything.
 
-> **Sourcing note**: this library holds no material labelled as a Japanese scale, so this entry uses an
-> **audible, verifiable derivation** — pentatonic and seven-note material from the library, with the semitones
+> Sourcing note: this library holds no material labelled as a Japanese scale, so this entry uses an
+> audible, verifiable derivation — pentatonic and seven-note material from the library, with the semitones
 > moved into place for comparison. The same approach is used for [[concept:locrian|Locrian]].
 
 ## Diagram: the same five notes, the semitone relocated
@@ -191,8 +191,8 @@ Hear the insen semitone (C–C♯, tight) and then ryukyu's (E–F). Same five n
 
 ## Common misconceptions
 
-- **"All pentatonic scales are alike."** The same count is not the same structure; whether semitones exist and where they sit decides everything.
-- **"Japanese music has only two scales."** These are the two most quoted. The modal systems of gagaku and folk practice are far richer and belong to specialist study.
-- **"Insen simply sounds Japanese."** That impression comes from the semitone placement and melodic habit, not from the label.
-- **"They are branches of the Chinese pentatonic."** The note count matches but the structure differs (no semitones in the Chinese form); they are separately developed systems.
+- "All pentatonic scales are alike." The same count is not the same structure; whether semitones exist and where they sit decides everything.
+- "Japanese music has only two scales." These are the two most quoted. The modal systems of gagaku and folk practice are far richer and belong to specialist study.
+- "Insen simply sounds Japanese." That impression comes from the semitone placement and melodic habit, not from the label.
+- "They are branches of the Chinese pentatonic." The note count matches but the structure differs (no semitones in the Chinese form); they are separately developed systems.
 :::

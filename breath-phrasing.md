@@ -48,22 +48,22 @@ updated: 2026-09-25
 
 ## 声乐优先原则：为呼吸写旋律
 
-一个很实用的事实：**旋律的句长受呼吸限制**。
+一个很实用的事实：旋律的句长受呼吸限制。
 
 | 演唱者 | 一个自然呼吸能唱的大致长度 |
 |---|---|
 | 一般歌唱者（中速） | 4–8 小节 |
 | 训练有素的歌唱者 | 可延长，但靠的是技巧，不是常态 |
 
-所以写作时若一句写得太长，演唱者就只能在中间**偷偷换气** ——
-那会把句读切错位置。**因此"能不能一口气唱下来"是旋律写作的一条硬约束。**
+所以写作时若一句写得太长，演唱者就只能在中间偷偷换气 ——
+那会把句读切错位置。因此"能不能一口气唱下来"是旋律写作的一条硬约束。
 
-器乐写作也继承了这条传统：即使没有人要唱，**旋律仍按"能唱"的句长来写**，
+器乐写作也继承了这条传统：即使没有人要唱，旋律仍按"能唱"的句长来写，
 因为这符合听者的期待。
 
 ## 演奏中的句读
 
-对演奏者而言，句读不是分析出来的，而是**做出来的**：
+对演奏者而言，句读不是分析出来的，而是做出来的：
 
 | 手段 | 效果 |
 |---|---|
@@ -72,7 +72,7 @@ updated: 2026-09-25
 | **时间伸缩** | 句尾稍缓、句首稍紧（见 [[concept:metronome|节拍器与 BPM]]：rubato） |
 | **音色变化** | 分句时轻微改变音色 |
 
-**管乐与声乐最直观**：它们必须真的换气，所以句读是物理性的。
+管乐与声乐最直观：它们必须真的换气，所以句读是物理性的。
 弦乐与键盘则可以"不换气地"连奏 —— 这正是不分句、听起来像练习的原因。
 
 ## 图示：三种强度的停顿
@@ -128,8 +128,8 @@ updated: 2026-09-25
 
 ## 听一听：有呼吸与无呼吸
 
-用 `scale` 组件听一条音阶 —— 它是**没有呼吸**的形态（一直往前，等速进行）。
-再想一下《欢乐颂》：同样的级进，**因为句尾用长音"落地"，就变成了旋律。**
+用 `scale` 组件听一条音阶 —— 它是没有呼吸的形态（一直往前，等速进行）。
+再想一下《欢乐颂》：同样的级进，因为句尾用长音"落地"，就变成了旋律。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"没有呼吸的形态（等速进行）","label_en":"A form without breathing — even motion throughout","hint":"点「上行」：这就是“跑动”的听感","hint_en":"Try Up — this is what a run sounds like","gap":0.3}
@@ -138,10 +138,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「呼吸只是演奏处理」** → 它在**写作**层面就存在：句长受可唱性约束，器乐也继承这条。
-- **「停顿都一样」** → 有层级：长音（逗号）< 休止（分号）< 终止式（句号）。**停在哪里决定段落级别。**
-- **「器乐不需要考虑呼吸」** → 器乐虽不必真换气，但旋律仍按"能唱"的句长写 —— 否则听者会失去句读感。
-- **「分句靠感觉」** → 有依据：长音、休止、终止式三个信号，加上歌词或诗句的句读。
+- 「呼吸只是演奏处理」 → 它在写作层面就存在：句长受可唱性约束，器乐也继承这条。
+- 「停顿都一样」 → 有层级：长音（逗号）< 休止（分号）< 终止式（句号）。停在哪里决定段落级别。
+- 「器乐不需要考虑呼吸」 → 器乐虽不必真换气，但旋律仍按"能唱"的句长写 —— 否则听者会失去句读感。
+- 「分句靠感觉」 → 有依据：长音、休止、终止式三个信号，加上歌词或诗句的句读。
 :::
 
 ::: en
@@ -165,14 +165,14 @@ full stop. The level of a section is read from where it stops (see [[concept:phr
 
 ## The vocal priority: write for the breath
 
-A practical fact: **phrase length in a melody is limited by breathing.**
+A practical fact: phrase length in a melody is limited by breathing.
 
 | Singer | Rough length in one natural breath |
 |---|---|
 | an ordinary singer at a moderate tempo | 4–8 bars |
 | a trained singer | longer, but by technique, not by default |
 
-So a phrase written too long forces the singer to **sneak a breath** in the middle — which cuts the phrasing in the
+So a phrase written too long forces the singer to sneak a breath in the middle — which cuts the phrasing in the
 wrong place. **"Can it be sung in one breath" is therefore a hard constraint on melodic writing.**
 
 Instrumental writing inherited the rule: even with nobody singing, **melodies are still shaped in singable phrase
@@ -180,7 +180,7 @@ lengths**, because that matches the listener's expectation.
 
 ## Phrasing in performance
 
-For a performer, phrasing is not analysed but **made**:
+For a performer, phrasing is not analysed but made:
 
 | Means | Effect |
 |---|---|
@@ -189,7 +189,7 @@ For a performer, phrasing is not analysed but **made**:
 | **flexible timing** | a slight easing at the end, a slight urgency at the start (see [[concept:metronome|metronome and BPM]] on rubato) |
 | **change of colour** | a slight timbral shift at the break |
 
-**Wind players and singers make this most obvious**: they must physically breathe, so their phrasing is
+Wind players and singers make this most obvious: they must physically breathe, so their phrasing is
 physiological. Strings and keyboards can play on without breathing — which is exactly why unphrased playing sounds
 like an exercise.
 
@@ -246,8 +246,8 @@ like an exercise.
 
 ## Listen: with and without breathing
 
-Use `scale` to hear a scale — a form **without breathing** (onward motion at an even rate). Then think of the Ode
-of Joy: the same kind of stepwise motion, **but with each phrase landing on a longer note, it becomes a melody.**
+Use `scale` to hear a scale — a form without breathing (onward motion at an even rate). Then think of the Ode
+of Joy: the same kind of stepwise motion, but with each phrase landing on a longer note, it becomes a melody.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"没有呼吸的形态（等速进行）","label_en":"A form without breathing — even motion throughout","hint":"点「上行」：这就是跑动的听感","hint_en":"Try Up — this is what a run sounds like","gap":0.3}
@@ -255,12 +255,12 @@ of Joy: the same kind of stepwise motion, **but with each phrase landing on a lo
 
 ## Common misconceptions
 
-- **"Breathing is only a performance matter."** It exists at the **writing** level: phrase length is limited by
+- "Breathing is only a performance matter." It exists at the writing level: phrase length is limited by
   singability, and instrumental music inherits the limit.
-- **"All pauses are alike."** They are hierarchical: long note (comma) < rest (semicolon) < cadence (full stop).
-  **Where it stops sets the level of division.**
-- **"Instrumental music need not consider breathing."** Instruments need not actually breathe, but melodies are
+- "All pauses are alike." They are hierarchical: long note (comma) < rest (semicolon) < cadence (full stop).
+  Where it stops sets the level of division.
+- "Instrumental music need not consider breathing." Instruments need not actually breathe, but melodies are
   still written in singable lengths — otherwise the listener loses the sense of phrasing.
-- **"Phrasing is a matter of feeling."** It has evidence: long notes, rests, cadences, plus the punctuation of the
+- "Phrasing is a matter of feeling." It has evidence: long notes, rests, cadences, plus the punctuation of the
   words or verse.
 :::

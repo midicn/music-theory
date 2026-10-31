@@ -50,7 +50,7 @@ updated: 2026-09-25
 | 后句句末 | **正格终止**（回到主） | **收束**：话说完 |
 
 如果前后两句都是同样的收束方式，那就不是"乐段"，只是两个并列的乐句。
-**"一问一答"才是乐段的标志。**
+"一问一答"才是乐段的标志。
 
 ## 为什么四小节这么常见
 
@@ -73,8 +73,8 @@ updated: 2026-09-25
 | **ab** | 两句不同，形成对比 | 常见于抒情旋律 |
 | **aab** | 重复两次后转折 | 常见于民歌 |
 
-**aa' 之所以最常见**，因为它同时满足两件事：**给听者熟悉感（a），又给新鲜感（a'）** ——
-与 [[concept:melody|旋律]] 里"可记忆性来自重复与变化的比例"是同一条经验。
+aa' 最常见，因为它同时给了两样东西：熟悉感（a）与新鲜感（a'）。
+[[concept:melody|旋律]] 里说"可记忆性来自重复与变化的比例"，是同一条经验。
 
 ## 图示：乐段的"一问一答"
 
@@ -122,8 +122,8 @@ updated: 2026-09-25
 
 ## 听一听：开放与收束
 
-用 `progression` 组件对比**半终止**（停在属，开放）与**正格终止**（回主，收束）。
-这就是乐段里前句与后句的差别 —— **分句的判据在终止式，不在旋律的停顿感。**
+用 `progression` 组件对比半终止（停在属，开放）与正格终止（回主，收束）。
+这就是乐段里前句与后句的差别 —— 分句的判据在终止式，不在旋律的停顿感。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V"],"label":"前句：半终止（开放，话没说完）","label_en":"First phrase: half cadence — open, unfinished","hint":"逐个和弦依次听，注意它停在哪","hint_en":"Hear each chord and notice where it stops"}
@@ -135,10 +135,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「靠气口就能分句」** → 判据是**终止式的强弱**。旋律的停顿可能与实际结构不一致，必须连着和声看。
-- **「乐段就是两个乐句」** → 需要**一问一答**（前开放、后收束）。两句都收束只是并列，不构成乐段。
-- **「四小节是规定」** → 是三个实际条件（呼吸 / 记忆 / 可再分）的重合，不是规范。
-- **「aaba 只是流行歌的结构」** → 它是最古老的旋律组织方式之一，民歌与圣咏里大量存在。
+- 「靠气口就能分句」 → 判据是终止式的强弱。旋律的停顿可能与实际结构不一致，必须连着和声看。
+- 「乐段就是两个乐句」 → 需要一问一答（前开放、后收束）。两句都收束只是并列，不构成乐段。
+- 「四小节是规定」 → 是三个实际条件（呼吸 / 记忆 / 可再分）的重合，不是规范。
+- 「aaba 只是流行歌的结构」 → 它是最古老的旋律组织方式之一，民歌与圣咏里大量存在。
 :::
 
 ::: en
@@ -188,8 +188,9 @@ All three at once, so it became the "default length" — not because it is more 
 | **ab** | two different phrases in contrast | common in lyrical melodies |
 | **aab** | two repeats then a turn | common in folk song |
 
-**aa' is the commonest because it does two things at once**: it gives familiarity (a) and freshness (a') — the
-same experience as "memorability comes from the ratio of repetition to change" under [[concept:melody|melody]].
+aa' is the commonest because it does two things at once: it gives familiarity (a) and freshness (a').
+The same experience appears under [[concept:melody|melody]] as "memorability comes from the ratio of repetition to
+change".
 
 ## Diagram: the period as question and answer
 
@@ -237,7 +238,7 @@ same experience as "memorability comes from the ratio of repetition to change" u
 
 ## Listen: open and closed
 
-Use `progression` to compare a **half cadence** (resting on the dominant, open) with an **authentic cadence**
+Use `progression` to compare a half cadence (resting on the dominant, open) with an authentic cadence
 (returning home). That is the difference between a period's first and second phrase — **phrasing is judged by
 cadence, not by where the melody seems to pause.**
 
@@ -251,12 +252,12 @@ cadence, not by where the melody seems to pause.**
 
 ## Common misconceptions
 
-- **"You can phrase it by breathing points."** The criterion is the **strength of the cadence**. A melodic pause may
+- "You can phrase it by breathing points." The criterion is the strength of the cadence. A melodic pause may
   not match the structure; read it with the harmony.
-- **"A period is just two phrases."** It needs **question and answer** (open then closed). Two closing phrases are
+- "A period is just two phrases." It needs question and answer (open then closed). Two closing phrases are
   parallel, not a period.
-- **"Four bars is a rule."** It is the coincidence of three practical conditions (breath, memory, divisibility),
+- "Four bars is a rule." It is the coincidence of three practical conditions (breath, memory, divisibility),
   not a regulation.
-- **"aaba is a pop-song shape."** It is one of the oldest ways of organising a melody and appears throughout folk
+- "aaba is a pop-song shape." It is one of the oldest ways of organising a melody and appears throughout folk
   song and chant.
 :::

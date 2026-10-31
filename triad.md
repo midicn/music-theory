@@ -49,13 +49,13 @@ updated: 2026-09-23
 （大三和弦 vs 小三和弦）。这与 [[concept:interval-inversion|音程转位]] 的道理一致：
 上下关系本身就是结构信息。
 
-**② 分布极不均匀。** 在大调音阶上叠三度得到的七个三和弦里，
-大三和弦 3 个、小三和弦 3 个、减三和弦 1 个、增三和弦 **0 个**。
+② 分布极不均匀。 在大调音阶上叠三度得到的七个三和弦里，
+大三和弦 3 个、小三和弦 3 个、减三和弦 1 个、增三和弦 0 个。
 增三和弦在自然音阶里根本不出现 —— 这正是它听起来"不属于任何调"的原因。
 
 ## 三和弦与调性
 
-三和弦是调性的最小承重单位：**主和弦决定调的中心，属和弦决定回到中心的引力**。
+三和弦是调性的最小承重单位：主和弦决定调的中心，属和弦决定回到中心的引力。
 这层关系见 [[concept:harmonic-function|和声功能]]；
 而"哪些三和弦能在某条音阶上出现"，见 [[concept:scale-harmony|音阶的和声含义]]。
 
@@ -124,10 +124,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「三和弦有很多种」** → 只有四种，因为两个三度各只有大/小两种宽度。
-- **「减三和弦和增三和弦只是理论上的」** → 减三和弦在调内大量出现（大调第 7 级、小调第 2 级）；增三和弦在自然音阶里不出现，但在半音化写作中很常见。
-- **「把音重新排一下还是同一个和弦」** → 转位后根音不变，和弦名称也不变，但听感与功能会变（见 [[concept:chord-inversion|转位]]）。
-- **「三和弦的音必须挨着」** → 排列可以很宽，只要仍是那三个音级（见 [[concept:chord-voicing|和弦排列]]）。
+- 「三和弦有很多种」 → 只有四种，因为两个三度各只有大/小两种宽度。
+- 「减三和弦和增三和弦只是理论上的」 → 减三和弦在调内大量出现（大调第 7 级、小调第 2 级）；增三和弦在自然音阶里不出现，但在半音化写作中很常见。
+- 「把音重新排一下还是同一个和弦」 → 转位后根音不变，和弦名称也不变，但听感与功能会变（见 [[concept:chord-inversion|转位]]）。
+- 「三和弦的音必须挨着」 → 排列可以很宽，只要仍是那三个音级（见 [[concept:chord-voicing|和弦排列]]）。
 :::
 
 ::: en
@@ -151,8 +151,8 @@ All of its variation comes from one thing: **how wide each of those two thirds i
 which comes first (major triad versus minor triad). The same logic as
 [[concept:interval-inversion|interval inversion]]: the up-down relation is structural information.
 
-**Two: the distribution is very uneven.** Of the seven triads stacked on a major scale: three are major, three
-are minor, one is diminished, and **none is augmented**. The augmented triad never occurs in a diatonic scale,
+Two: the distribution is very uneven. Of the seven triads stacked on a major scale: three are major, three
+are minor, one is diminished, and none is augmented. The augmented triad never occurs in a diatonic scale,
 which is exactly why it sounds like it belongs to no key.
 
 ## Triads and tonality
@@ -226,8 +226,8 @@ In order: major, minor, diminished, augmented. The first two can stand; the last
 
 ## Common misconceptions
 
-- **"There are many kinds of triad."** Only four, because each of the two thirds is either major or minor.
-- **"Diminished and augmented triads are theoretical."** Diminished triads appear constantly in keys (degree 7 in major, degree 2 in minor); augmented triads never appear in a diatonic scale but are common in chromatic writing.
-- **"Rearranging the notes keeps the same chord."** After inversion the root and the name stay the same, but the sound and function change (see [[concept:chord-inversion|inversion]]).
-- **"A triad's notes must be adjacent."** The voicing can be wide open, so long as the three degree names remain (see [[concept:chord-voicing|voicing]]).
+- "There are many kinds of triad." Only four, because each of the two thirds is either major or minor.
+- "Diminished and augmented triads are theoretical." Diminished triads appear constantly in keys (degree 7 in major, degree 2 in minor); augmented triads never appear in a diatonic scale but are common in chromatic writing.
+- "Rearranging the notes keeps the same chord." After inversion the root and the name stay the same, but the sound and function change (see [[concept:chord-inversion|inversion]]).
+- "A triad's notes must be adjacent." The voicing can be wide open, so long as the three degree names remain (see [[concept:chord-voicing|voicing]]).
 :::

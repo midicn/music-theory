@@ -28,8 +28,9 @@ updated: 2026-09-24
 ---
 
 ::: zh
-第一类对位就是 [[concept:note-against-note|单音对位]] 的**严格训练阶段**：
-一音对一音，每一步都要经得起检查。它只教一件事 —— **把"这一步用什么音程"变成条件反射**。
+第一类对位是 [[concept:note-against-note|单音对位]] 的**严格训练阶段**。
+一音对一音，每一步都要经得起检查。
+它只教一件事：把"这一步用什么音程"练成条件反射。
 
 ## 两条核心规则
 
@@ -37,34 +38,37 @@ updated: 2026-09-24
 
 | 音程类别 | 音程 | 在第一类里 |
 |---|---|---|
-| **完全协和** | 纯一、纯八、纯五、纯四 | 用在**起点与终点**（骨架位置） |
-| **不完全协和** | 大/小 三度、六度 | 用在**内部**（流动位置） |
-| **不协和** | 二度、七度、增四减五 | **本类禁用** |
+| **完全协和** | 纯一、纯八、纯五、纯四。 | 用在**起点与终点**（骨架位置）。 |
+| **不完全协和** | 大、小三度，六度。 | 用在**内部**（流动位置）。 |
+| **不协和** | 二度、七度、增四减五。 | **本类禁用。** |
 
-为什么这样分？因为完全协和**太稳定**：连续用它，音乐会听起来像一串终止式，
-**分不出哪里是真正的结束**。所以骨架位置只在开头结尾（偶有中间的关键点），
+为什么这样分？
+完全协和**太稳定**。
+连续用它，音乐会像一串终止式，分不出哪里才是真正的结束。
+所以骨架位置只在开头结尾，偶尔出现在中间的关键点。
 中间用三度六度来"走动"（见 [[concept:consonance|协和与不协和]]）。
 
-**② 避免平行与隐伏五八度。**
+② 避免平行与隐伏五八度。
 
-完全协和不能**连续**出现（见 [[concept:parallel-fifths|平行五八度]]）——
+完全协和不能连续出现（见 [[concept:parallel-fifths|平行五八度]]）。
 两声部会合成一条线，声部数量凭空少一个。
-**隐伏五八度**（同向到达、且高声部有跳进）同样要避免。
+隐伏五八度（同向到达、高声部有跳进）同样要避免。
 
 ## 写作时的检查顺序
 
-这是第一类最实用的部分 —— **按固定顺序查，不要凭感觉**：
+按固定顺序查，不要凭感觉。
 
 | 顺序 | 查什么 | 不合格的样子 |
 |---|---|---|
-| **1** | 每一步的纵向音程是否合法 | 中间出现二度或七度 |
-| **2** | 起止是否落在完全协和上 | 结尾停在六度上（听起来没结束） |
-| **3** | 有没有连续的完全协和 | 两个五度连着走 |
-| **4** | 两条线的方向 | 全程同向（尤其全程同向跳进） |
-| **5** | 每条线单独唱是否像旋律 | 出现了连续的大跳或"来回横跳" |
+| **1** | 每一步的纵向音程是否合法。 | 中间出现二度或七度。 |
+| **2** | 起止是否落在完全协和上。 | 结尾停在六度上，听起来没结束。 |
+| **3** | 有没有连续的完全协和。 | 两个五度连着走。 |
+| **4** | 两条线的方向。 | 全程同向，尤其全程同向跳进。 |
+| **5** | 每条线单独唱是否像旋律。 | 连续大跳，或"来回横跳"。 |
 
-**第 5 条最重要，也最容易忘。** 前四条都合格、但两个声部都唱不出旋律的写法，
-在检查表上是"全对"，在音乐上是失败的（见 [[concept:counterpoint|对位]]）。
+第 5 条最重要，也最容易忘。
+前四条全合格、两个声部却都唱不出旋律的写法，在检查表上是"全对"。
+在音乐上，它是失败的（见 [[concept:counterpoint|对位]]）。
 
 ## 图示：骨架位置与流动位置
 
@@ -110,9 +114,9 @@ updated: 2026-09-24
 
 ## 听一听：骨架与流动的差别
 
-第一类是两声部练习，本站听辨件放不出两声部。这里用 `interval` 对比**骨架音程与流动音程**：
-先听八度与五度（完全协和，稳定），再听三度（不完全协和，有流动感）——
-第一类对位要练的正是"在正确的时刻选对其中一种"。
+第一类是两声部练习，这里放不出两声部。
+用 `interval` 对比骨架音程与流动音程：先听八度与五度，再听三度。
+第一类对位要练的，正是在正确的时刻选对其中一种。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"G4","label":"骨架位置：纯五度","label_en":"A structural point: a perfect fifth","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 E4 就是流动位置的三度 —— 稳定与流动，正是第一类对位要分清的两种处境。","hint2_en":"Set b to E4 for a third at a flowing point — stable versus flowing is exactly the distinction first species trains."}
@@ -120,10 +124,11 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「第一类对位只是入门练习，没什么内容」** → 它教的判断（骨架 vs 流动、完全 vs 不完全协和）贯穿全部和声写作。
-- **「完全协和越多越安全」** → 完全协和**不能连续**，而且连续出现会让调性中心模糊。
-- **「只要每个音程都合法就写对了」** → 第 5 条才是关键：**每条线单独唱必须像旋律**。
-- **「规则太多太死板」** → 每条规则都对应一个可听见的后果（融合成一条线、听不出结束、线条不像旋律）——不是审美偏好。
+- 「第一类对位只是入门练习，没什么内容」 → 它教的判断（骨架与流动、完全与不完全协和）贯穿全部和声写作。
+- 「完全协和越多越安全」 → 完全协和不能连续。连续出现还会让调性中心模糊。
+- 「只要每个音程都合法就写对了」 → 第 5 条才是关键。每条线单独唱，必须像旋律。
+- 「规则太多太死板」 → 每条规则都对应一个可听见的后果：融合成一条线、听不出结束、线条不像旋律。这不是审美偏好。
+
 :::
 
 ::: en
@@ -141,19 +146,19 @@ note, every step accountable. It teaches exactly one thing — **making "which i
 | **dissonance** | seconds, sevenths, tritone | **forbidden in this species** |
 
 Why the split? Because perfect consonances are **too stable**: use them continuously and the music sounds like a
-string of cadences, so **you can no longer tell where the real ending is**. Structural points therefore occur only
+string of cadences, so you can no longer tell where the real ending is. Structural points therefore occur only
 at the opening and close (with the occasional interior pivot), while thirds and sixths do the walking (see
 [[concept:consonance|consonance and dissonance]]).
 
-**Two: avoid parallel and hidden fifths and octaves.**
+Two: avoid parallel and hidden fifths and octaves.
 
-Perfect consonances must not appear **consecutively** (see [[concept:parallel-fifths|parallel fifths]]) — the two
-voices fuse into one and the texture loses a voice. **Hidden fifths and octaves** (arriving by similar motion with
+Perfect consonances must not appear consecutively (see [[concept:parallel-fifths|parallel fifths]]) — the two
+voices fuse into one and the texture loses a voice. Hidden fifths and octaves (arriving by similar motion with
 a leap in the upper voice) are avoided too.
 
 ## The order to check your work
 
-This is the most practical part — **check in a fixed order, never by feel**:
+This is the most practical part — check in a fixed order, never by feel:
 
 | Order | Check | What failure looks like |
 |---|---|---|
@@ -163,7 +168,7 @@ This is the most practical part — **check in a fixed order, never by feel**:
 | **4** | direction of the two lines | similar motion throughout, especially with leaps |
 | **5** | does each line work as a melody when sung alone? | repeated wide leaps, or jumping back and forth |
 
-**The fifth matters most and is the most forgotten.** A setting that passes the first four and yet yields no
+The fifth matters most and is the most forgotten. A setting that passes the first four and yet yields no
 singable line in either voice is "all correct" on the checklist and a failure in music (see
 [[concept:counterpoint|counterpoint]]).
 
@@ -221,11 +226,11 @@ trains choosing the right one at the right moment.
 
 ## Common misconceptions
 
-- **"First species is just a beginner exercise."** The distinction it teaches — frame versus flow, perfect versus
+- "First species is just a beginner exercise." The distinction it teaches — frame versus flow, perfect versus
   imperfect — runs through all harmonic writing.
-- **"More perfect consonances is safer."** They must not be consecutive, and consecutive use blurs the tonal
+- "More perfect consonances is safer." They must not be consecutive, and consecutive use blurs the tonal
   centre.
-- **"If every interval is legal, the writing is correct."** The fifth test is decisive: **each line must sing.**
-- **"Too many rules, too rigid."** Every rule names an audible consequence — voices fusing, the ending
+- "If every interval is legal, the writing is correct." The fifth test is decisive: each line must sing.
+- "Too many rules, too rigid." Every rule names an audible consequence — voices fusing, the ending
   disappearing, a line that stops being melodic. Not taste, consequence.
 :::

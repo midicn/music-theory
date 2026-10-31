@@ -42,14 +42,14 @@ updated: 2026-09-23
 | 第 1、3、5、7 音（C E♭ F♯ A） | 减七和弦 |
 | 第 2、4、6、8 音（D F G♯ B） | 另一条减七和弦 |
 
-所以八声音阶也叫**减音阶**：它就是把两条减七和弦合起来、按高低排好。
-这也解释了它的两个特性：**对称**（每隔三个半音重复一次结构）与**没有主音**
-（与 [[concept:whole-tone|全音音阶]]、[[concept:chromatic|半音阶]]一样，等距结构无法提供中心）。
+所以八声音阶也叫减音阶。它就是把两条减七和弦合起来，按高低排好。
+这也解释了它的两个特性。
+一是对称：每隔三个半音，结构就重复一次。
+二是没有主音：与 [[concept:whole-tone|全音音阶]]、[[concept:chromatic|半音阶]]一样，等距结构给不出中心。
 
 ## 只有三条
 
-由于每三个半音结构重复一次，八声音阶**只有三条**（从 C、从 C♯、从 D 各一条），
-再往上都是这三条的重复。
+结构每三个半音重复一次，所以八声音阶只有三条：从 C、C♯、D 起，再往上都是重复。
 
 ## 图示：两条减七和弦叠成一条音阶
 
@@ -85,7 +85,8 @@ updated: 2026-09-23
 
 ## 听一听：全半交替
 
-听的时候留意"一大步一小步"的节奏感 —— 这是它区别于全音音阶（步幅全同）的关键。
+听的时候留意"一大步一小步"的节奏感。
+全音音阶每一步都一样，八声音阶靠这种交替才区分得出来。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","Eb4","F4","F#4","G#4","A4","B4","C5"],"label":"C 八声音阶","label_en":"C octatonic scale","hint":"点「上行」听全音与半音交替","hint_en":"Try Up — whole and half steps alternate","gap":0.34}
@@ -93,10 +94,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「八声音阶是七声加一个音」** → 它不是对七声音阶的增补，而是**全半交替**这一独立结构的产物。
-- **「它和全音音阶是一回事」** → 全音音阶步幅全同（6 音），八声音阶步幅交替（8 音），听感差别明显。
-- **「它有十二个调」** → 只有三条（从 C、C♯、D 起），因为结构每三个半音重复一次。
-- **「只有俄罗斯乐派用」** → 爵士里它是减七和弦即兴的标准材料，电影配乐也常用它制造不安。
+- 「八声音阶是七声加一个音」 → 它不是对七声音阶的增补，而是全半交替这一独立结构的产物。
+- 「它和全音音阶是一回事」 → 全音音阶步幅全同（6 音），八声音阶步幅交替（8 音），听感差别明显。
+- 「它有十二个调」 → 只有三条（从 C、C♯、D 起），因为结构每三个半音重复一次。
+- 「只有俄罗斯乐派用」 → 爵士里它是减七和弦即兴的标准材料，电影配乐也常用它制造不安。
 :::
 
 ::: en
@@ -115,15 +116,17 @@ Take **every other note** of the octatonic and you get two **diminished seventh 
 | notes 1, 3, 5, 7 (C E♭ F♯ A) | a diminished seventh chord |
 | notes 2, 4, 6, 8 (D F G♯ B) | the other diminished seventh chord |
 
-So the octatonic is also called the **diminished scale**: it is two diminished sevenths combined and sorted by
-pitch. That explains two of its properties: it is **symmetrical** (the structure repeats every three semitones)
-and it has **no tonic** (like the [[concept:whole-tone|whole-tone]] and [[concept:chromatic|chromatic]] scales,
-an equidistant structure offers no centre).
+So the octatonic is also called the diminished scale.
+It is two diminished sevenths combined and sorted by pitch.
+That explains two of its properties.
+It is symmetrical: the structure repeats every three semitones.
+And it has no tonic: like the [[concept:whole-tone|whole-tone]] and [[concept:chromatic|chromatic]] scales, an
+equidistant structure offers no centre.
 
 ## Only three of them
 
-Because the structure repeats every three semitones, there are **only three** octatonic scales (from C, from C♯,
-from D). Every other starting note repeats one of them.
+The structure repeats every three semitones, so there are only three octatonic scales.
+They start on C, C♯ and D; every other starting note repeats one of them.
 
 ## Diagram: two diminished sevenths make one scale
 
@@ -159,8 +162,8 @@ from D). Every other starting note repeats one of them.
 
 ## Listen: alternating steps
 
-Notice the feel of one long step then one short step. That alternation is what separates it from the whole-tone
-scale, where every step is identical.
+Notice the feel of one long step then one short step.
+The whole-tone scale keeps every step identical, so this alternation is what tells them apart.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","Eb4","F4","F#4","G#4","A4","B4","C5"],"label":"C 八声音阶","label_en":"C octatonic scale","hint":"点「上行」听全音与半音交替","hint_en":"Try Up — whole and half steps alternate","gap":0.34}
@@ -168,8 +171,8 @@ scale, where every step is identical.
 
 ## Common misconceptions
 
-- **"The octatonic is a seven-note scale plus one."** It is not an add-on but the product of an independent structure: alternating whole and half steps.
-- **"It is the same as the whole-tone scale."** The whole-tone scale has identical steps (six notes); the octatonic alternates (eight notes). The heard difference is plain.
-- **"There are twelve of them."** Only three — from C, C♯ and D — because the structure repeats every three semitones.
-- **"Only Russian composers used it."** In jazz it is standard material for improvising over diminished sevenths, and film scoring uses it to create unease.
+- "The octatonic is a seven-note scale plus one." It is not an add-on but the product of an independent structure: alternating whole and half steps.
+- "It is the same as the whole-tone scale." The whole-tone scale has identical steps (six notes); the octatonic alternates (eight notes). The heard difference is plain.
+- "There are twelve of them." Only three — from C, C♯ and D — because the structure repeats every three semitones.
+- "Only Russian composers used it." In jazz it is standard material for improvising over diminished sevenths, and film scoring uses it to create unease.
 :::

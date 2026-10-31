@@ -51,7 +51,7 @@ updated: 2026-09-25
 | 格里高利圣咏 | **有** | 无和声（单声部） |
 
 所以：**节奏是音乐的普遍条件，和声不是。**
-换句话说，一段音乐可以没有和声，但不能没有节奏 —— 这就是它在理论体系里排在
+也就是说，一段音乐可以没有和声，但不能没有节奏 —— 这就是它在理论体系里排在
 [[concept:meter|节拍]] 与 [[concept:melody|旋律]] 之前的原因。
 
 ## 三个层次
@@ -64,7 +64,7 @@ updated: 2026-09-25
 | **节奏型** | 反复出现的具体长短组合 | 性格（进行曲？舞曲？见 [[concept:rhythmic-pattern|节奏型]]） |
 | **速度** | 每分钟多少拍 | 情绪与紧张度（见 [[concept:tempo|速度]]） |
 
-**同一个节奏型换速度，性格会变**：进行曲放慢就成了葬礼音乐 ——
+同一个节奏型换速度，性格会变：进行曲放慢就成了葬礼音乐 ——
 这说明三层是独立的变量，而不是一回事。
 
 ## 节奏如何塑造性格
@@ -79,7 +79,7 @@ updated: 2026-09-25
 | 长音为主、少动 | 宽广、抒情、圣咏感 |
 
 这也是"节奏型"值得单列一条的原因（见 [[concept:rhythmic-pattern|节奏型]]）：
-**它是最省力、也最有效的性格工具** —— 不必改旋律，只改长短就够了。
+它是最省力、也最有效的性格工具 —— 不必改旋律，只改长短就够了。
 
 ## 图示：标尺与走法
 
@@ -140,7 +140,7 @@ updated: 2026-09-25
 
 ## 听一听：同一节拍下的节奏型
 
-用 `rhythm` 组件对比**四拍均分**与**切分**——节拍（4/4）完全相同，只有实际长短不同。
+用 `rhythm` 组件对比四拍均分与切分——节拍（4/4）完全相同，只有实际长短不同。
 这就是"标尺不变、走法改变"的最短演示。
 
 ```audiolab
@@ -153,10 +153,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「节奏就是节拍」** → 节拍是**等分标尺**，节奏是**实际长短**。两者的区别正是切分能成立的前提。
-- **「节奏只是旋律的附属」** → 独立存在的打击乐、无音高音乐都以节奏为核心；成体系的音乐可以完全没有和声。
-- **「节奏快慢等于速度」** → 速度是**演奏参数**；节奏是**结构**。同一节奏型在不同速度下是同一结构、不同情绪。
-- **「复杂节奏一定更高级」** → 简单节奏可以撑起整首作品（《小星星》）。复杂度要服务于目的，不是目的本身。
+- 「节奏就是节拍」 → 节拍是等分标尺，节奏是实际长短。两者的区别正是切分能成立的前提。
+- 「节奏只是旋律的附属」 → 独立存在的打击乐、无音高音乐都以节奏为核心；成体系的音乐可以完全没有和声。
+- 「节奏快慢等于速度」 → 速度是演奏参数；节奏是结构。同一节奏型在不同速度下是同一结构、不同情绪。
+- 「复杂节奏一定更高级」 → 简单节奏可以撑起整首作品（《小星星》）。复杂度要服务于目的，不是目的本身。
 :::
 
 ::: en
@@ -196,7 +196,7 @@ In practice rhythm operates on three levels at once:
 | **pattern** | the recurring combination of durations | character (march? dance? see [[concept:rhythmic-pattern|rhythmic pattern]]) |
 | **tempo** | beats per minute | mood and tension (see [[concept:tempo|tempo]]) |
 
-**Change the tempo of a rhythmic pattern and its character changes**: a march slowed down becomes funeral music.
+Change the tempo of a rhythmic pattern and its character changes: a march slowed down becomes funeral music.
 The three layers are independent variables, not one thing.
 
 ## How rhythm shapes character
@@ -272,7 +272,7 @@ effective tool for character** — change the durations alone, leave the melody 
 
 ## Listen: two patterns in the same metre
 
-Use the `rhythm` component to compare **four even quarters** with **a syncopated figure** — the metre (4/4) is
+Use the `rhythm` component to compare four even quarters with a syncopated figure — the metre (4/4) is
 identical; only the actual durations differ. That is "same ruler, different walk" in its shortest form.
 
 ```audiolab
@@ -285,12 +285,12 @@ identical; only the actual durations differ. That is "same ruler, different walk
 
 ## Common misconceptions
 
-- **"Rhythm and metre are the same thing."** Metre is the **even ruler**; rhythm is the **actual durations**. Their
+- "Rhythm and metre are the same thing." Metre is the even ruler; rhythm is the actual durations. Their
   difference is exactly what makes syncopation possible.
-- **"Rhythm is an appendage of melody."** Percussion and unpitched music are built on rhythm; whole traditions
+- "Rhythm is an appendage of melody." Percussion and unpitched music are built on rhythm; whole traditions
   exist without harmony.
-- **"Fast and slow is tempo, so tempo equals rhythm."** Tempo is a **performance parameter**; rhythm is
-  **structure**. One pattern at two tempos is one structure with two moods.
-- **"Complex rhythm is more advanced."** A simple rhythm can carry a whole piece (Twinkle). Complexity serves a
+- "Fast and slow is tempo, so tempo equals rhythm." Tempo is a performance parameter; rhythm is
+  structure. One pattern at two tempos is one structure with two moods.
+- "Complex rhythm is more advanced." A simple rhythm can carry a whole piece (Twinkle). Complexity serves a
   purpose; it is not the purpose.
 :::

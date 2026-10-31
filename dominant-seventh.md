@@ -49,9 +49,9 @@ updated: 2026-09-24
 | 三音 E | 上行到主音 F（半音） |
 | 七音 B♭ | 下行到 A（半音） |
 
-一个升、一个降，两者**同时**解决 —— 这是所有收束动作里最干净的一种。
+一个升、一个降，两者同时解决 —— 这是所有收束动作里最干净的一种。
 三全音属于最不稳定的音程（见 [[concept:augmented-diminished|增音程与减音程]]），
-而属七和弦把它包装成了一个完整和弦，于是"不稳定"变成了可以规划、可以用和声处理的**工具**。
+而属七和弦把它包装成了一个完整和弦，于是"不稳定"变成了可以规划、可以用和声处理的工具。
 
 ## 大小调里的两种构造
 
@@ -60,12 +60,12 @@ updated: 2026-09-24
 | **大调 V7** | 大三 + 小七，完全来自音阶 | 无需变化音 |
 | **小调 V7** | 需要把第 7 级**升上去** | 自然小调的 V 级是小七和弦，必须先变 [[concept:harmonic-minor|和声小调]] |
 
-第二行解释了一个长期存在的疑问：**小调作品里为什么总出现升第 7 级的变化音？**
+第二行解释了一个长期存在的疑问：小调作品里为什么总出现升第 7 级的变化音？
 因为不升它，就没有属七和弦 —— 也就没有能推动收束的和声。
 
 ## 它为什么能"转调"
 
-属七和弦还有一个额外用途：**它含三全音，而三全音是不对称的**。
+属七和弦还有一个额外用途：它含三全音，而三全音是不对称的。
 同一条属七和弦可以被重新解释成另一个调的属七和弦 —— 这是
 [[concept:modulation|转调]] 最常用的手段之一，也是 [[concept:circle-of-fifths|五度圈]]
 能"绕"起来的和声基础。
@@ -133,10 +133,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「属七和弦就是第五级的和弦」** → 更要紧的是它的**结构**（大三 + 小七）与由此带来的三全音。名字来自它最常出现的位置，不是它的定义。
-- **「小调的属七和弦来自自然小调」** → 自然小调的第 5 级是小七和弦。要得到属七，必须升第 7 级。
-- **「属七和弦必须解决到主和弦」** → 传统和声里几乎总是；爵士与流行里它常被当成稳定色彩，或去往别处。
-- **「属七和大七只差一个音，听感差不多」** → 差的是半个音，紧张度差别极大：小七度柔和、大七度尖锐。
+- 「属七和弦就是第五级的和弦」 → 更要紧的是它的结构（大三 + 小七）与由此带来的三全音。名字来自它最常出现的位置，不是它的定义。
+- 「小调的属七和弦来自自然小调」 → 自然小调的第 5 级是小七和弦。要得到属七，必须升第 7 级。
+- 「属七和弦必须解决到主和弦」 → 传统和声里几乎总是；爵士与流行里它常被当成稳定色彩，或去往别处。
+- 「属七和大七只差一个音，听感差不多」 → 差的是半个音，紧张度差别极大：小七度柔和、大七度尖锐。
 :::
 
 ::: en
@@ -160,9 +160,9 @@ That is the engine. The two notes of the tritone pull in **opposite directions**
 | the third, E | rises a semitone to the tonic, F |
 | the seventh, B♭ | falls a semitone to A |
 
-One rises, one falls, and both resolve **at once** — the cleanest closing gesture there is. The tritone is among
+One rises, one falls, and both resolve at once — the cleanest closing gesture there is. The tritone is among
 the least settled intervals (see [[concept:augmented-diminished|augmented and diminished]]), and the dominant
-seventh packs it into a single chord — turning instability into a planned, harmonically usable **tool**.
+seventh packs it into a single chord — turning instability into a planned, harmonically usable tool.
 
 ## Two constructions, major and minor
 
@@ -171,12 +171,12 @@ seventh packs it into a single chord — turning instability into a planned, har
 | **V7 in major** | major triad + minor seventh, straight from the scale | no accidental needed |
 | **V7 in minor** | the seventh degree must be **raised** | natural minor's degree 5 is a minor seventh chord; [[concept:harmonic-minor|harmonic minor]] comes first |
 
-The second line answers a long-standing puzzle: **why do minor-key works keep sharpening the seventh?** Without
+The second line answers a long-standing puzzle: why do minor-key works keep sharpening the seventh? Without
 it there is no dominant seventh — and therefore no harmony capable of driving a close.
 
 ## Why it also enables modulation
 
-The dominant seventh has a further use: **it contains a tritone, and a tritone is asymmetrical.** The same chord
+The dominant seventh has a further use: it contains a tritone, and a tritone is asymmetrical. The same chord
 can be reinterpreted as the dominant seventh of another key — one of the commonest means of
 [[concept:modulation|modulation]], and the harmonic basis that lets the
 [[concept:circle-of-fifths|circle of fifths]] keep turning.
@@ -238,8 +238,8 @@ seventh.
 
 ## Common misconceptions
 
-- **"A dominant seventh is simply the chord on degree 5."** What matters more is its **structure** (major triad plus minor seventh) and the tritone that follows. Its position gave it the name, not its definition.
-- **"A minor key's dominant seventh comes from natural minor."** Natural minor's degree 5 is a minor seventh chord. Getting a dominant seventh requires raising the seventh.
-- **"A dominant seventh must resolve to the tonic."** In traditional harmony almost always; in jazz and pop it often acts as a stable colour or heads elsewhere.
-- **"Dominant and major sevenths differ by one note, so they sound similar."** The difference is a semitone, and the tension differs enormously — a minor seventh is soft, a major seventh sharp.
+- "A dominant seventh is simply the chord on degree 5." What matters more is its structure (major triad plus minor seventh) and the tritone that follows. Its position gave it the name, not its definition.
+- "A minor key's dominant seventh comes from natural minor." Natural minor's degree 5 is a minor seventh chord. Getting a dominant seventh requires raising the seventh.
+- "A dominant seventh must resolve to the tonic." In traditional harmony almost always; in jazz and pop it often acts as a stable colour or heads elsewhere.
+- "Dominant and major sevenths differ by one note, so they sound similar." The difference is a semitone, and the tension differs enormously — a minor seventh is soft, a major seventh sharp.
 :::

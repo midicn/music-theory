@@ -44,17 +44,17 @@ updated: 2026-09-23
 | 用途 | 建立调性 | 提供**经过、装饰、张力**的材料 |
 
 因为每一步都相同，半音阶无法提供"哪里是家"的信息 —— 这也是它常被用来写
-**下行叹息**、**上行冲力**或**不安的过渡段**的原因。
+**下行叹息**、上行冲力或不安的过渡段的原因。
 
 ## 记法上的两种传统
 
 同一条半音阶，谱面上有不同写法（用升号还是降号、是否重复某个音级名）：
 
-- **和声半音阶**：按调性功能选升或降（上行倾向用升号、下行倾向用降号），
+- 和声半音阶：按调性功能选升或降（上行倾向用升号、下行倾向用降号），
   严格写法下某些音级名会出现两次；
-- **现代写法**：一律用升号（或一律用降号），简单但对调性方向提示较少。
+- 现代写法：一律用升号（或一律用降号），简单但对调性方向提示较少。
 
-这与 [[concept:enharmonic|等音]] 是同一个问题：**听感相同，写法承载功能**。
+这与 [[concept:enharmonic|等音]] 是同一个问题：听感相同，写法承载功能。
 
 ## 图示：处处都是半音
 
@@ -100,7 +100,7 @@ updated: 2026-09-23
 
 ## 听一听：十二个半音
 
-先听半音阶，再听大调音阶。前者提供的是**材料**，后者提供的是**结构**。
+先听半音阶，再听大调音阶。前者提供的是材料，后者提供的是结构。
 
 ```audiolab
 {"type":"scale","notes":["C4","C#4","D4","D#4","E4","F4","F#4","G4","G#4","A4","A#4","B4","C5"],"label":"C 半音阶","label_en":"C chromatic scale","hint":"点「上行」听每一步都一样宽","hint_en":"Try Up — every step is identical","gap":0.24,"dur":0.26}
@@ -108,10 +108,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「半音阶是一条调」** → 它没有主音，不能建立调性，只提供材料。
-- **「半音阶就是全音阶的反面」** → 两者都把八度等分（12 份 / 6 份），因而**都缺少调性所需的不等距结构**。
-- **「写升记号和写降记号一样」** → 听感相同，但写法提示方向（上行倾向用升号、下行用降号），见 [[concept:enharmonic|等音]]。
-- **「半音阶是近代才有的」** → 材料自古就有（古希腊的四音列里已含半音）；近代的是把它当作和声手段系统使用。
+- 「半音阶是一条调」 → 它没有主音，不能建立调性，只提供材料。
+- 「半音阶就是全音阶的反面」 → 两者都把八度等分（12 份 / 6 份），因而都缺少调性所需的不等距结构。
+- 「写升记号和写降记号一样」 → 听感相同，但写法提示方向（上行倾向用升号、下行用降号），见 [[concept:enharmonic|等音]]。
+- 「半音阶是近代才有的」 → 材料自古就有（古希腊的四音列里已含半音）；近代的是把它当作和声手段系统使用。
 :::
 
 ::: en
@@ -132,15 +132,15 @@ it; it is the full set of available pitches.
 | Purpose | to establish a key | to supply **passing, colouring and tension** |
 
 Because every step is identical, the chromatic scale cannot tell the ear where home is — which is exactly why it
-gets used for **descending sighs**, **upward surges** and **restless transitions**.
+gets used for **descending sighs**, **upward surges** and restless transitions.
 
 ## Two notational traditions
 
 The same scale can be written in different ways (sharps or flats, whether a letter name repeats):
 
-- **Harmonic chromatic**: choose sharps or flats by tonal function (sharps when rising, flats when falling), so
+- Harmonic chromatic: choose sharps or flats by tonal function (sharps when rising, flats when falling), so
   under a strict reading some letter names appear twice.
-- **Modern practice**: all sharps (or all flats), simple but offering less directional information.
+- Modern practice: all sharps (or all flats), simple but offering less directional information.
 
 This is the same question as [[concept:enharmonic|enharmonic]] spelling: **the sound is identical while the
 writing carries function**.
@@ -189,8 +189,8 @@ writing carries function**.
 
 ## Listen: twelve semitones
 
-Hear the chromatic scale, then the major scale. The first supplies **material**; the second supplies
-**structure**.
+Hear the chromatic scale, then the major scale. The first supplies material; the second supplies
+structure.
 
 ```audiolab
 {"type":"scale","notes":["C4","C#4","D4","D#4","E4","F4","F#4","G4","G#4","A4","A#4","B4","C5"],"label":"C 半音阶","label_en":"C chromatic scale","hint":"点「上行」听每一步都一样宽","hint_en":"Try Up — every step is identical","gap":0.24,"dur":0.26}
@@ -198,8 +198,8 @@ Hear the chromatic scale, then the major scale. The first supplies **material**;
 
 ## Common misconceptions
 
-- **"The chromatic scale is a key."** It has no tonic and cannot establish one; it supplies material only.
-- **"It is the opposite of the whole-tone scale."** Both divide the octave equally (twelve parts and six), so **both lack the unequal structure tonality needs**.
-- **"Sharps and flats are interchangeable when writing it."** The sound matches, but spelling signals direction (sharps rising, flats falling) — see [[concept:enharmonic|enharmonic]].
-- **"Chromaticism is modern."** The material is ancient (Greek tetrachords already contained semitones); what is modern is its systematic use as a harmonic device.
+- "The chromatic scale is a key." It has no tonic and cannot establish one; it supplies material only.
+- "It is the opposite of the whole-tone scale." Both divide the octave equally (twelve parts and six), so both lack the unequal structure tonality needs.
+- "Sharps and flats are interchangeable when writing it." The sound matches, but spelling signals direction (sharps rising, flats falling) — see [[concept:enharmonic|enharmonic]].
+- "Chromaticism is modern." The material is ancient (Greek tetrachords already contained semitones); what is modern is its systematic use as a harmonic device.
 :::

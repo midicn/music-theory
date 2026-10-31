@@ -105,9 +105,9 @@ updated: 2026-09-23
 ## 常见误解
 
 - **「声音越大音就越高」** → 不会。音量由振动幅度决定，音高由频率决定，两者互不干涉。把音量拧大，音高一个赫兹都不动。
-- **「噪音是形容难听的声音」** → 这里是振动分类，不是审美评价。军鼓打一整个乐章，从头到尾都是噪音。
-- **「低音听起来就是音量大」** → 低音指的是频率低，与力度无关。低音区乐器需要更大的振幅才能被听清，那是另一件事。
-- **「有音高就能写进谱子」** → 写谱还要音高稳定到能被重复。锣、木鱼因此通常只记节奏。
+- 「噪音是形容难听的声音」 → 这里是振动分类，不是审美评价。军鼓打一整个乐章，从头到尾都是噪音。
+- 「低音听起来就是音量大」 → 低音指的是频率低，与力度无关。低音区乐器需要更大的振幅才能被听清，那是另一件事。
+- 「有音高就能写进谱子」 → 写谱还要音高稳定到能被重复。锣、木鱼因此通常只记节奏。
 :::
 
 ::: en
@@ -194,7 +194,7 @@ That is what makes them tones rather than mere sounds.
 ## Common misconceptions
 
 - **"Louder means higher."** No. Loudness comes from amplitude, pitch from frequency; they do not interact. Turn the volume up and the pitch does not move by a single hertz.
-- **"Noise means an ugly sound."** It is a classification of vibration, not an aesthetic verdict. A snare drum plays noise for an entire movement.
-- **"Bass sounds like it is just louder."** Bass means low frequency, which has nothing to do with loudness. Low instruments need a larger amplitude to be heard clearly — a different matter entirely.
-- **"If it has a pitch, it can be notated."** Notation also demands that the pitch be stable enough to repeat, which is why gongs and wood blocks usually get rhythm only.
+- "Noise means an ugly sound." It is a classification of vibration, not an aesthetic verdict. A snare drum plays noise for an entire movement.
+- "Bass sounds like it is just louder." Bass means low frequency, which has nothing to do with loudness. Low instruments need a larger amplitude to be heard clearly — a different matter entirely.
+- "If it has a pitch, it can be notated." Notation also demands that the pitch be stable enough to repeat, which is why gongs and wood blocks usually get rhythm only.
 :::

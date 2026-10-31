@@ -28,9 +28,10 @@ updated: 2026-09-25
 ---
 
 ::: zh
-演奏法记号管的是一个独立维度：
+演奏法记号管的是一个独立维度：音与音之间怎么连接。
+它不负责音有多响，那是 [[concept:dynamics|力度记号]] 的事。
 
-> **它决定音与音之间"怎么连接"** —— 不是"多响"（那是 [[concept:dynamics|力度记号]] 的事）。
+> **它决定音与音之间怎么连接**，与响度无关。
 
 ## 基本记号
 
@@ -43,11 +44,11 @@ updated: 2026-09-25
 | **>**（楔形） | 重音（accent） | **瞬间**加强 |
 | **^** | 强跳音（marcato） | 短且强 |
 
-**注意**：`>`（重音）与渐弱记号外形相近，但含义完全不同（见 [[concept:dynamics|力度记号]]）。
+**注意**：`>`（重音）与渐弱记号外形相近，含义却完全不同。渐弱属于 [[concept:dynamics|力度记号]] 的范围。
 
 ## 它在不同乐器上的名称
 
-同一件事，不同乐器有不同的说法：
+同一件事，不同乐器有各自的叫法。
 
 | 乐器 | 术语 | 说明 |
 |---|---|---|
@@ -56,24 +57,25 @@ updated: 2026-09-25
 | **键盘** | 触键方式 | 手指的离键高度与速度 |
 | **声乐** | 咬字与连断 | 与歌词音节配合 |
 
-**所以"演奏法"是跨乐器的通用概念，而"弓法""吐音"是它在具体乐器上的实现方式。**
+所以"演奏法"是跨乐器的通用概念。弓法、吐音只是它在具体乐器上的实现方式。
 
 ## 为什么它值得单列
 
-因为**同一串音，不同演奏法就是不同性格** ——
+同一串音，换一种演奏法就是另一种性格。
 
 | 同一串音 | 连奏 | 断奏 |
 |---|---|---|
 | 听感 | 歌唱、连贯、抒情 | 轻快、颗粒感、生机 |
 | 常见场合 | 慢乐章、旋律主题 | 谐谑曲、舞曲、快速段落 |
 
-**这与"改节奏型就改性格"是同一类现象**（见 [[concept:rhythmic-pattern|节奏型]]）：
-**音高和时值都没变，性格却完全不同** ——
-说明演奏法是**独立的表达维度**，不是"音高与时值的附属"。
+这与"改节奏型就改性格"是同一类现象（见 [[concept:rhythmic-pattern|节奏型]]）。
+音高和时值都没变，性格却完全不同。
+演奏法因此是独立的表达维度，不是音高与时值的附属。
 
 ## 一个历史要点
 
-与力度记号一样（见 [[concept:dynamics|力度记号]]），演奏法记号的**实际处理也随时代变化**：
+演奏法记号的实际处理也随时代变化。
+这一点与力度记号相同（见 [[concept:dynamics|力度记号]]）。
 
 | 时期 | 情况 |
 |---|---|
@@ -81,9 +83,9 @@ updated: 2026-09-25
 | **古典** | 标记逐渐细化，但仍有大量惯例（如"不标圆滑线时的默认连断"） |
 | **浪漫以后** | 标记极其详尽 |
 
-**所以"照谱面直译"往往不是正确读法** ——
-不标圆滑线的巴洛克段落，**并不意味着要断奏**，而要看当时的惯例（见
-[[concept:historical-performance|历史演奏法]]）。
+所以"照谱面直译"往往不是正确读法。
+巴洛克段落不标圆滑线，并不意味着要断奏。
+连断方式要看当时的惯例（见 [[concept:historical-performance|历史演奏法]]）。
 
 ## 图示：三个维度互不替代
 
@@ -126,8 +128,9 @@ updated: 2026-09-25
 
 ## 听一听：连奏与断奏的性格
 
-用 `rhythm` 组件对比两种时值形态 —— **后面的"留白"就相当于断奏的效果**（音与音之间出现空隙）。
-请留意性格如何立刻改变。
+用 `rhythm` 组件对比两种时值形态。
+后面的"留白"相当于断奏，音与音之间出现空隙。
+听的时候请留意，性格会立刻改变。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":92,"label":"连奏感（音之间没有空隙）","label_en":"Legato feel — no gaps between notes","hint":"先听这一档","hint_en":"Hear this setting first"}
@@ -139,10 +142,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「演奏法是"小细节"」** → 它是**独立的表达维度**：同一串音换演奏法，性格完全改变。
-- **「不标圆滑线就是断奏」** → 尤其在巴洛克作品里，**默认连断要看时代惯例**，不能照谱直译。
-- **「断奏就是把音弹短」** → 断奏是**音之间分开**（保留部分时值）；把音压得极短是**顿音**，两者不同。
-- **「重音记号与渐弱记号差不多」** → 完全不同：`>` 是**瞬间强调**，渐弱是**一段时间内的下降**。
+- 「演奏法是"小细节"」 → 它是独立的表达维度，换演奏法性格就变。
+- 「不标圆滑线就是断奏」 → 巴洛克连断看时代惯例，照谱直译会错。
+- 「断奏就是把音弹短」 → 断奏是分开音、保留时值，极短的是顿音。
+- 「重音记号与渐弱记号差不多」 → 完全不同，`>` 瞬间强调，渐弱是渐次下降。
 :::
 
 ::: en
@@ -161,7 +164,7 @@ Articulation governs an independent dimension:
 | **>** (wedge) | accent | a **momentary** emphasis |
 | **^** | marcato | short and strong |
 
-**Note**: `>` (accent) looks like a diminuendo but means something entirely different (see
+Note: `>` (accent) looks like a diminuendo but means something entirely different (see
 [[concept:dynamics|dynamics]]).
 
 ## What it is called on different instruments
@@ -187,9 +190,9 @@ Because **the same run of notes under different articulation is a different char
 | Sound | singing, connected, lyrical | light, granular, lively |
 | Typical use | slow movements, melodic themes | scherzos, dances, fast passages |
 
-**This is the same kind of phenomenon as "change the rhythmic pattern and the character changes"** (see
+This is the same kind of phenomenon as "change the rhythmic pattern and the character changes" (see
 [[concept:rhythmic-pattern|rhythmic pattern]]): **neither pitch nor duration changes, yet the character does** —
-which shows articulation is an **independent expressive dimension**, not an appendage of pitch and duration.
+which shows articulation is an independent expressive dimension, not an appendage of pitch and duration.
 
 ## One historical point
 
@@ -202,7 +205,7 @@ with the era**:
 | **Classical** | marks become more detailed, but many conventions remain (for instance the default when no slur is written) |
 | **after the Romantic era** | extremely detailed marking |
 
-**So "translating the page literally" is often not the right reading** — a Baroque passage with no slurs **does not
+So "translating the page literally" is often not the right reading — a Baroque passage with no slurs **does not
 imply staccato**; the convention of the time must be consulted (see
 [[concept:historical-performance|historical performance]]).
 
@@ -247,7 +250,7 @@ imply staccato**; the convention of the time must be consulted (see
 
 ## Listen: the character of legato and staccato
 
-Use `rhythm` to compare two shapes — **the gap in the second stands for staccato** (a space opens between notes).
+Use `rhythm` to compare two shapes — the gap in the second stands for staccato (a space opens between notes).
 Notice how fast the character changes.
 
 ```audiolab
@@ -260,12 +263,12 @@ Notice how fast the character changes.
 
 ## Common misconceptions
 
-- **"Articulation is a small detail."** It is an **independent expressive dimension**: change it and the character
+- "Articulation is a small detail." It is an independent expressive dimension: change it and the character
   changes completely.
-- **"No slur means staccato."** Especially in Baroque music, **the default connection follows period convention**;
+- "No slur means staccato." Especially in Baroque music, the default connection follows period convention;
   the page cannot be translated literally.
-- **"Staccato just means playing short."** Staccato **separates** notes (part of the value retained); squeezing notes
-  to their shortest is **staccatissimo**, a different thing.
-- **"An accent and a diminuendo are much the same."** Different entirely: `>` is **momentary**, a diminuendo a
-  **decline over time**.
+- "Staccato just means playing short." Staccato separates notes (part of the value retained); squeezing notes
+  to their shortest is staccatissimo, a different thing.
+- "An accent and a diminuendo are much the same." Different entirely: `>` is momentary, a diminuendo a
+  decline over time.
 :::

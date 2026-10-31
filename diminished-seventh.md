@@ -43,21 +43,21 @@ updated: 2026-09-24
 
 ## 后果二：两个三全音
 
-四个音里能找出**两对**相距 6 个半音的音：
+四个音里能找出两对相距 6 个半音的音：
 
 | 一对 | 音程 |
 |---|---|
 | C ↔ G♭（根音与五音） | 减五度 |
 | E♭ ↔ B𝄫（三音与七音） | 减七度（等音于大六度） |
 
-所以减七和弦是**音程层面最不稳定的和弦**。它一旦出现，几乎必然要求立刻解决。
+所以减七和弦是音程层面最不稳定的和弦。它一旦出现，几乎必然要求立刻解决。
 
 ## 后果三：没有唯一的根音
 
 四个音等距，任何音都可以被听成根音。这带来两个实用后果：
 
-- **听感极不稳定**，常被用来制造恐怖、悬疑与不安（默片配乐、恐怖片配乐里它是常客）；
-- **是最好用的转调枢纽之一** —— 同一条减七和弦可以属于四个不同的调，
+- 听感极不稳定，常被用来制造恐怖、悬疑与不安（默片配乐、恐怖片配乐里它是常客）；
+- 是最好用的转调枢纽之一 —— 同一条减七和弦可以属于四个不同的调，
   换一个解释方向，调性就转到别处去了（见 [[concept:modulation|转调]]）。
 
 ## 图示：三种等距结构对照
@@ -119,10 +119,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「减七和半减七是一回事」** → 七音不同：**半减七**的七音是小七度，**减七**的七音低半个音。听感差别明显，见 [[concept:half-diminished-seventh|半减七和弦]]。
-- **「减七和弦有十二个」** → 只有三个（其余是等音重复）。
-- **「B𝄫 是写错了」** → 不是。它是合法的重降记号；写成 A 会破坏"每隔一个音级名"的叠置结构。
-- **「减七和弦只能用来制造恐怖」** → 那是它的一种用法。它同样是转调枢纽，也是浪漫派和声里最常用的推进工具之一。
+- 「减七和半减七是一回事」 → 七音不同：半减七的七音是小七度，减七的七音低半个音。听感差别明显，见 [[concept:half-diminished-seventh|半减七和弦]]。
+- 「减七和弦有十二个」 → 只有三个（其余是等音重复）。
+- 「B𝄫 是写错了」 → 不是。它是合法的重降记号；写成 A 会破坏"每隔一个音级名"的叠置结构。
+- 「减七和弦只能用来制造恐怖」 → 那是它的一种用法。它同样是转调枢纽，也是浪漫派和声里最常用的推进工具之一。
 :::
 
 ::: en
@@ -149,16 +149,16 @@ Among the four notes you can find **two separate pairs** six semitones apart:
 | C ↔ G♭ (root and fifth) | diminished fifth |
 | E♭ ↔ B𝄫 (third and seventh) | diminished seventh (enharmonically a major sixth) |
 
-So the diminished seventh is **the least stable chord at the level of intervals**. Once it appears, resolution
+So the diminished seventh is the least stable chord at the level of intervals. Once it appears, resolution
 is almost compulsory.
 
 ## Consequence three: no single root
 
 With four equal steps, any note can be heard as the root. Two practical results follow:
 
-- it sounds **unmistakably unstable**, which is why it is a fixture of horror and suspense scoring and of silent
+- it sounds unmistakably unstable, which is why it is a fixture of horror and suspense scoring and of silent
   film accompaniment;
-- it is one of the **handiest pivots for modulation** — the same chord can belong to four different keys, and
+- it is one of the handiest pivots for modulation — the same chord can belong to four different keys, and
   reinterpreting it turns the music elsewhere (see [[concept:modulation|modulation]]).
 
 ## Diagram: three equidistant structures compared
@@ -220,8 +220,8 @@ Notice how it hangs in mid-air — more tense than a diminished triad, because i
 
 ## Common misconceptions
 
-- **"Diminished and half-diminished sevenths are the same."** Their sevenths differ: minor in the **half-diminished**, a semitone lower in the **diminished** seventh. The heard difference is plain — see [[concept:half-diminished-seventh|half-diminished seventh]].
-- **"There are twelve diminished sevenths."** Only three; the rest are enharmonic repeats.
-- **"B𝄫 must be a typo."** It is a legal double flat. Writing A would break the every-other-letter stacking.
-- **"It is only good for horror."** That is one use. It is equally a modulation pivot and one of the Romantic era's commonest propulsive devices.
+- "Diminished and half-diminished sevenths are the same." Their sevenths differ: minor in the half-diminished, a semitone lower in the diminished seventh. The heard difference is plain — see [[concept:half-diminished-seventh|half-diminished seventh]].
+- "There are twelve diminished sevenths." Only three; the rest are enharmonic repeats.
+- "B𝄫 must be a typo." It is a legal double flat. Writing A would break the every-other-letter stacking.
+- "It is only good for horror." That is one use. It is equally a modulation pivot and one of the Romantic era's commonest propulsive devices.
 :::

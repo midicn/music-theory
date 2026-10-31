@@ -47,13 +47,13 @@ updated: 2026-09-23
 
 1. **单音**：C♯ = D♭，E♯ = F，C♭ = B。还有重升（C𝄪）与重降（D𝄫），极端调性里才会出现。
 2. **音程**：增四度 = 减五度（6 个半音），见 [[concept:augmented-diminished|增程与减程]]。
-3. **调**：C♯ 大调 = D♭ 大调。调号不同（7 升 vs 5 降），键位相同。
+3. 调：C♯ 大调 = D♭ 大调。调号不同（7 升 vs 5 降），键位相同。
 
 ## 平均律的"抹平"是有代价的
 
 十二平均律把每个半音切成等份，等音才在键位上完全重合。换成别的律制，
 C♯ 与 D♭ 会有实际音高差（这也是弦乐与管乐演奏者会对等音敏感、而钢琴不必的原因）。
-换句话说：**等音是平均律的产物**，不是自然的必然。
+记住一点：等音是平均律的产物，不是自然的必然。
 
 ## 图示：同键位，两种写法
 
@@ -94,7 +94,7 @@ C♯ 与 D♭ 会有实际音高差（这也是弦乐与管乐演奏者会对等
 
 ## 听一听：听不出差别，正是要点
 
-在平均律乐器上，下面两对音高完全相同 —— 这恰恰说明"等音"是**记谱与功能的区分**，
+在平均律乐器上，下面两对音高完全相同 —— 这恰恰说明"等音"是记谱与功能的区分，
 不是听觉的区分。听的时候，请把注意力放在"这一对音在谱面上会怎么走向"。
 
 ```audiolab
@@ -103,10 +103,10 @@ C♯ 与 D♭ 会有实际音高差（这也是弦乐与管乐演奏者会对等
 
 ## 常见误解
 
-- **「等音就是同一个音」** → 键位相同，名字、功能、走向都不同。记谱上它们是两个音。
-- **「重升重降是印刷错误」** → 是合法记号，出现在升号很多的调里（如 G♯ 小调需要 F𝄪）。
-- **「所有乐器上等音都完全一样」** → 只在十二平均律下如此。弦乐与管乐可以根据倾向微调音高。
-- **「既然一样，写作时随便选」** → 选错会破坏调性逻辑。调号、倾向音、和声功能都要一致。
+- 「等音就是同一个音」 → 键位相同，名字、功能、走向都不同。记谱上它们是两个音。
+- 「重升重降是印刷错误」 → 是合法记号，出现在升号很多的调里（如 G♯ 小调需要 F𝄪）。
+- 「所有乐器上等音都完全一样」 → 只在十二平均律下如此。弦乐与管乐可以根据倾向微调音高。
+- 「既然一样，写作时随便选」 → 选错会破坏调性逻辑。调号、倾向音、和声功能都要一致。
 :::
 
 ::: en
@@ -131,7 +131,7 @@ spellings and all that directional information vanishes — which is why notatio
 1. **Single notes**: C♯ = D♭, E♯ = F, C♭ = B. Double sharps (C𝄪) and double flats (D𝄫) appear only in extreme keys.
 2. **Intervals**: an augmented fourth equals a diminished fifth (6 semitones) — see
    [[concept:augmented-diminished|augmented and diminished]].
-3. **Keys**: C♯ major equals D♭ major. Different key signatures (seven sharps versus five flats), the same keys.
+3. Keys: C♯ major equals D♭ major. Different key signatures (seven sharps versus five flats), the same keys.
 
 ## What equal temperament flattens away
 
@@ -180,7 +180,7 @@ product of equal temperament**, not a law of nature.
 ## Listen: no difference in sound — that is the point
 
 On an equal-tempered instrument the two pairs below sound identical. That is exactly the lesson: enharmonic
-equivalence is a distinction of **notation and function**, not of hearing. As you listen, think about how each
+equivalence is a distinction of notation and function, not of hearing. As you listen, think about how each
 spelling would move next on the page.
 
 ```audiolab
@@ -189,8 +189,8 @@ spelling would move next on the page.
 
 ## Common misconceptions
 
-- **"Enharmonic means the same note."** The key is the same; the name, function and tendency are not. In notation they are two notes.
-- **"Double sharps and flats are printing errors."** They are legal accidentals, needed in keys with many sharps (G♯ minor requires F𝄪).
-- **"Every instrument treats them as identical."** Only under twelve-tone equal temperament. Strings and winds can shade the pitch toward its tendency.
-- **"Since they sound alike, pick either."** The wrong choice breaks the tonal logic: key signature, tendency tone and harmonic function must all agree.
+- "Enharmonic means the same note." The key is the same; the name, function and tendency are not. In notation they are two notes.
+- "Double sharps and flats are printing errors." They are legal accidentals, needed in keys with many sharps (G♯ minor requires F𝄪).
+- "Every instrument treats them as identical." Only under twelve-tone equal temperament. Strings and winds can shade the pitch toward its tendency.
+- "Since they sound alike, pick either." The wrong choice breaks the tonal logic: key signature, tendency tone and harmonic function must all agree.
 :::

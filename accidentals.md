@@ -41,12 +41,12 @@ updated: 2026-09-25
 | **𝄫** | 重降号 | 降低两个半音 |
 
 **重升与重降看起来奇怪，但有明确的必要性**：
-当某个音**已经被调号升高过一次**（比如 F♯），而你又需要**再升高它**时，
-就用重升号（𝄪）——**而不是写 G**。原因见下面第三种用途。
+当某个音已经被调号升高过一次（比如 F♯），而你又需要再升高它时，
+就用重升号（𝄪）——而不是写 G。原因见下面第三种用途。
 
 ## 一条范围规则
 
-> **变音记号只在本小节内、同一高度上有效。**
+> 变音记号只在本小节内、同一高度上有效。
 
 | 情形 | 规则 |
 |---|---|
@@ -54,12 +54,12 @@ updated: 2026-09-25
 | 跨到**下一小节** | **必须重标**（否则自动还原） |
 | 同一小节内**不同八度**的同音名 | **需要另标**（严格记谱规范） |
 
-**最后一行是容易被忽略的细节**：变音记号的作用是**"那个高度的音"**，不是"那个音名在任何八度"。
+最后一行是容易被忽略的细节：变音记号的作用是"那个高度的音"，不是"那个音名在任何八度"。
 （不同出版社的从宽做法不一，但严格规范要求另标。）
 
 ## 三种用途
 
-**① 为和声功能服务**（最常见）
+① 为和声功能服务（最常见）
 
 | 用法 | 例 |
 |---|---|
@@ -67,18 +67,18 @@ updated: 2026-09-25
 | 副属和弦的变化音 | 见 [[concept:leading-tone-chord|导七和弦]] |
 | 半音经过 | 见 [[concept:chromatic|半音]] |
 
-**② 改变调式**
+② 改变调式
 旋律小调的上行升高第 6、7 级，就是靠临时记号实现的。
 
-**③ 等音写法**（为什么需要重升重降）
+③ 等音写法（为什么需要重升重降）
 
-同一个音高，可以有**不同的写法**，而写法**携带和声意义**（见 [[concept:enharmonic|等音的写法]]）：
+同一个音高，可以有不同的写法，而写法携带和声意义（见 [[concept:enharmonic|等音的写法]]）：
 
 | 音高 | 可能的写法 | 各自的意义 |
 |---|---|---|
 | 与 G 同高 | **G** · **F𝄪**（重升 F） · **A𝄫**（重降 A） | G：本位的第 5 级；F𝄪：升高的 F（在 G♯ 小调里它是导音）；A𝄫：降低的 A |
 
-**所以"写法"不是排版问题，而是"这个音在和声上担任什么角色"** ——
+所以"写法"不是排版问题，而是"这个音在和声上担任什么角色" ——
 写成 F𝄪 的音，读谱者立刻知道它要上行解决到 G♯；写成 G 就失去了这个信息。
 
 ## 图示：一条范围规则
@@ -127,19 +127,19 @@ updated: 2026-09-25
 
 ## 听一听：本位与升高
 
-用 `interval` 对比**大二度**与**小二度** —— 后者正是临时记号常造成的效果（升高半音）。
-**变音记号在听觉上就是"半音的移动"**。
+用 `interval` 对比大二度与小二度 —— 后者正是临时记号常造成的效果（升高半音）。
+变音记号在听觉上就是"半音的移动"。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"D4","label":"大二度（无变音）","label_en":"A major second — no accidental","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 D♭4（= C♯4）就是小二度 —— 升高或降低半音，正是变音记号做的事。","hint2_en":"Set b to D♭4 — a minor second. That half-step shift is what an accidental does."}
 ```
 
-## 常见误解
+## 容易混淆的两处
 
-- **「临时记号会一直有效」** → 只在**本小节内**有效；跨小节必须重标。
-- **「重升号罕见，可以写成高一级的音」** → 写法携带**和声意义**。F𝄪 与 G 同高，但在 G♯ 小调里 F𝄪 是导音，写成 G 就丢了信息。
-- **「变音记号就是"改变音高"」** → 它常为**和声功能**服务（升导音、半音经过），不只是"改个音"。
-- **「同一小节内不同八度的同音名也自动生效」** → 严格规范要求**另标**：记号作用于"那个高度"。
+- 「临时记号会一直有效」 → 只在本小节内有效；跨小节必须重标。
+- 「重升号罕见，可以写成高一级的音」 → 写法携带和声意义。F𝄪 与 G 同高，但在 G♯ 小调里 F𝄪 是导音，写成 G 就丢了信息。
+- 「变音记号就是"改变音高"」 → 它常为和声功能服务（升导音、半音经过），不只是"改个音"。
+- 「同一小节内不同八度的同音名也自动生效」 → 严格规范要求另标：记号作用于"那个高度"。
 :::
 
 ::: en
@@ -156,12 +156,12 @@ There are **five** accidentals, but only **one** scope rule and **three** uses.
 | **𝄫** | double flat | lowers by two semitones |
 
 **The double sharp and double flat look odd but are necessary**: when a note has **already been raised by the key
-signature** (F♯, say) and you need to **raise it again**, you write 𝄪 — **not G**. The reason is the third use
+signature (F♯, say) and you need to raise it again, you write 𝄪 — not G**. The reason is the third use
 below.
 
 ## One scope rule
 
-> **An accidental applies only within its bar, to that pitch.**
+> An accidental applies only within its bar, to that pitch.
 
 | Case | Rule |
 |---|---|
@@ -169,12 +169,12 @@ below.
 | crossing into the **next bar** | **the sign must be repeated** (otherwise it reverts) |
 | the **same note name in another octave**, same bar | **a separate sign is required** (strict practice) |
 
-**That last row is easily missed**: an accidental governs **that specific pitch**, not "that note name in any
+That last row is easily missed: an accidental governs that specific pitch, not "that note name in any
 octave". (Publishers differ in leniency; strict practice requires the extra sign.)
 
 ## Three uses
 
-**1. Serving harmonic function** (the commonest)
+1. Serving harmonic function (the commonest)
 
 | Use | Example |
 |---|---|
@@ -182,11 +182,11 @@ octave". (Publishers differ in leniency; strict practice requires the extra sign
 | chromatic notes in secondary dominants | see [[concept:leading-tone-chord|leading-tone seventh]] |
 | chromatic passing motion | see [[concept:chromatic|chromatic]] |
 
-**2. Altering the mode.** The raised sixth and seventh of melodic minor are written with accidentals.
+2. Altering the mode. The raised sixth and seventh of melodic minor are written with accidentals.
 
-**3. Enharmonic spelling** (why double sharps and flats exist)
+3. Enharmonic spelling (why double sharps and flats exist)
 
-The same sounding pitch can be **written in different ways**, and the spelling **carries harmonic meaning** (see
+The same sounding pitch can be written in different ways, and the spelling carries harmonic meaning (see
 [[concept:enharmonic|enharmonic spelling]]):
 
 | Pitch | Possible spellings | What each means |
@@ -242,20 +242,20 @@ F𝄪, the reader knows at once that it resolves upward to G♯; written as G, t
 
 ## Listen: natural and raised
 
-Use `interval` to compare **a major second** with **a minor second** — the latter is exactly the effect an accidental
-usually produces. **An accidental, heard, is a semitone shift.**
+Use `interval` to compare a major second with a minor second — the latter is exactly the effect an accidental
+usually produces. An accidental, heard, is a semitone shift.
 
 ```audiolab
 {"type":"interval","a":"C4","b":"D4","label":"大二度（无变音）","label_en":"A major second — no accidental","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 D♭4（= C♯4）就是小二度 —— 半音的移动正是变音记号做的事。","hint2_en":"Set b to D♭4 — a minor second. That half-step shift is what an accidental does."}
 ```
 
-## Common misconceptions
+## Two common mix-ups
 
-- **"An accidental lasts."** Only **within its bar**; across a bar line it must be rewritten.
-- **"Double sharps are rare, so write the next note up."** Spelling carries **harmonic meaning**. F𝄪 and G sound
+- "An accidental lasts." Only within its bar; across a bar line it must be rewritten.
+- "Double sharps are rare, so write the next note up." Spelling carries harmonic meaning. F𝄪 and G sound
   alike, but in G♯ minor F𝄪 is the leading tone — writing G throws that away.
-- **"An accidental just changes a pitch."** It often serves **harmonic function** (raising a leading tone,
+- "An accidental just changes a pitch." It often serves harmonic function (raising a leading tone,
   chromatic passing), not merely "changing a note".
-- **"The same note name in another octave carries over automatically."** Strict practice requires **a separate
+- "The same note name in another octave carries over automatically." Strict practice requires **a separate
   sign**: the accidental governs that pitch.
 :::

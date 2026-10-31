@@ -50,14 +50,14 @@ updated: 2026-09-24
 
 ## 自然音阶里没有它
 
-前面说过，大调音阶的七个三和弦是：**大三 3 · 小三 3 · 减三 1 · 增三 0**。
-增三和弦在自然音阶里**一个都不出现**，必须靠**变化音**才能得到。
+前面说过，大调音阶的七个三和弦是：大三 3 · 小三 3 · 减三 1 · 增三 0。
+增三和弦在自然音阶里一个都不出现，必须靠变化音才能得到。
 
 因此它的典型用法都是"不安定"的：
 
-- **过渡**：从一个和声区滑向另一个，不落在任何稳定和弦上；
-- **半音化推进**：三个音同时向上或向下推进半个音，产生"整块滑移"的效果；
-- **制造悬浮**：在需要"悬着"的段落作为持续和声（印象派与电影配乐常用）。
+- 过渡：从一个和声区滑向另一个，不落在任何稳定和弦上；
+- 半音化推进：三个音同时向上或向下推进半个音，产生"整块滑移"的效果；
+- 制造悬浮：在需要"悬着"的段落作为持续和声（印象派与电影配乐常用）。
 
 ## 图示：两种对称结构
 
@@ -99,10 +99,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「增三和弦就是大三和弦加个升号」** → 是大三度再加一个大三度；根音到五音是**增五度**，不再是纯五度。
-- **「它在乐曲里很常见」** → 它**不在任何自然音阶里**，只能靠变化音得到，因此比大/小三和弦少见得多。
-- **「转位之后根音会变」** → 因为结构对称，转位后听起来"像换了个和弦"，但按记谱根音仍是原来那个。**这是它最容易被听错的地方。**
-- **「对称结构听起来更稳定」** → 恰恰相反。稳定来自音与音之间的**不等距**；等距结构（增三、减七、全音音阶）都没有归属感。
+- 「增三和弦就是大三和弦加个升号」 → 是大三度再加一个大三度；根音到五音是增五度，不再是纯五度。
+- 「它在乐曲里很常见」 → 它不在任何自然音阶里，只能靠变化音得到，因此比大/小三和弦少见得多。
+- 「转位之后根音会变」 → 因为结构对称，转位后听起来"像换了个和弦"，但按记谱根音仍是原来那个。这是它最容易被听错的地方。
+- 「对称结构听起来更稳定」 → 恰恰相反。稳定来自音与音之间的不等距；等距结构（增三、减七、全音音阶）都没有归属感。
 :::
 
 ::: en
@@ -135,9 +135,9 @@ zero augmented.** The augmented triad never appears diatonically; it requires **
 
 Which is why its typical uses are all unsettled ones:
 
-- **Transitions**: sliding from one harmonic area to another without landing on a stable chord;
-- **Chromatic motion**: all three notes move a semitone in the same direction, giving a block-slide effect;
-- **Suspension**: held as a sustained harmony where hovering is the point (common in Impressionism and film
+- Transitions: sliding from one harmonic area to another without landing on a stable chord;
+- Chromatic motion: all three notes move a semitone in the same direction, giving a block-slide effect;
+- Suspension: held as a sustained harmony where hovering is the point (common in Impressionism and film
   scoring).
 
 ## Diagram: two symmetrical structures
@@ -181,8 +181,8 @@ reason it works only as a transition.
 
 ## Common misconceptions
 
-- **"An augmented triad is a major triad with a sharp added."** It is a major third plus another major third; root to fifth is an **augmented** fifth, no longer perfect.
-- **"It is common in music."** It appears in **no diatonic scale** and requires chromatic alteration, so it is far rarer than major and minor triads.
-- **"Inversion changes the root."** Because the structure is symmetrical, inversions **sound** like different chords, yet in notation the root stays put. **This is where the ear is most easily fooled.**
-- **"Symmetry should sound more stable."** The opposite. Stability comes from **unequal** distances; equidistant structures (augmented triad, diminished seventh, whole-tone scale) offer no sense of belonging.
+- "An augmented triad is a major triad with a sharp added." It is a major third plus another major third; root to fifth is an augmented fifth, no longer perfect.
+- "It is common in music." It appears in no diatonic scale and requires chromatic alteration, so it is far rarer than major and minor triads.
+- "Inversion changes the root." Because the structure is symmetrical, inversions sound like different chords, yet in notation the root stays put. This is where the ear is most easily fooled.
+- "Symmetry should sound more stable." The opposite. Stability comes from unequal distances; equidistant structures (augmented triad, diminished seventh, whole-tone scale) offer no sense of belonging.
 :::

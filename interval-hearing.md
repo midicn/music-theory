@@ -28,7 +28,7 @@ updated: 2026-09-25
 ---
 
 ::: zh
-本站另有一条 [[concept:interval-ear-training|音程的听辨方法]]（在 T2）—— 分工很清楚：
+另有一条 [[concept:interval-ear-training|音程的听辨方法]]（在 T2）—— 分工很清楚：
 
 > **那条讲"音程是什么、怎么孤立地听"；**
 > **本条讲"把音程放在调性框架里听"，以及为什么这样听更有效。**
@@ -43,7 +43,7 @@ updated: 2026-09-25
 | **大三度** | 在 **V 级**上（如 G–B） | **带张力**：B 是导音，强烈指向主音（见 [[concept:harmonic-function\|和声功能]]） |
 
 **两个都是大三度，但一个"落定"、一个"要走"** ——
-所以**孤立地听音程，只能得到"这是大三度"这个贫乏的信息**（与 [[concept:ear-training|练耳]] 里"练习材料是去脉络化的"是同一件事）。
+所以孤立地听音程，只能得到"这是大三度"这个贫乏的信息（与 [[concept:ear-training|练耳]] 里"练习材料是去脉络化的"是同一件事）。
 
 ## 正确顺序：先建地图，再听音程
 
@@ -53,8 +53,8 @@ updated: 2026-09-25
 | **② 听级数** | 每个音**与主音的关系**（一级？五级？） |
 | **③ 再听音程** | 相邻音之间的距离与方向 |
 
-**第②步是关键，也是最常被跳过的一步。** 它的意思是：
-**不要问"这两个音之间是几度"，而要问"这两个音分别在调里是第几级"。**
+第②步是关键，也是最常被跳过的一步。 它的意思是：
+不要问"这两个音之间是几度"，而要问"这两个音分别在调里是第几级"。
 
 | 听法 | 得到的信息 |
 |---|---|
@@ -63,7 +63,7 @@ updated: 2026-09-25
 
 ## 一条实用的辅助技巧（及其边界）
 
-**用已知旋律当"锚"** 是常见的入门方法：
+用已知旋律当"锚" 是常见的入门方法：
 
 | 音程 | 可用的锚 |
 |---|---|
@@ -71,14 +71,14 @@ updated: 2026-09-25
 | 纯四度 | 《婚礼进行曲》开头 |
 | 小三度 | 《欢乐颂》中的下行小三度 |
 
-**但要注意它的边界**：
+但要注意它的边界：
 
 | 锚能做什么 | 锚不能做什么 |
 |---|---|
 | 帮你**快速识别**一个孤立音程 | **不能**告诉你它在调里做什么 |
 | 入门阶段降低门槛 | 依赖锚会**延缓调内听觉的建立** |
 
-**所以锚是"拐杖"，不是"腿"** —— 入门可用，但目标是不需要它。
+所以锚是"拐杖"，不是"腿" —— 入门可用，但目标是不需要它。
 
 ## 图示：同一个大三度的两种身份
 
@@ -118,8 +118,8 @@ updated: 2026-09-25
 
 ## 听一听：同一个音程、两种处境
 
-用 `interval` 听**同一个大三度 C–E**。它听起来"稳定明亮"。
-现在想象它出现在属和弦上（G–B）—— **同样的音程宽度，但因为 B 是导音，它会强烈要求走向主音**。
+用 `interval` 听同一个大三度 C–E。它听起来"稳定明亮"。
+现在想象它出现在属和弦上（G–B）—— 同样的音程宽度，但因为 B 是导音，它会强烈要求走向主音。
 音频无法直接演示两种调内处境，但这个对比正是本条的核心。
 
 ```audiolab
@@ -129,10 +129,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「音程听辨就是听出几度」** → 那只得到**孤立信息**。调内音程听辨问的是**"第几级到第几级"**。
-- **「同一个音程听起来总是一样」** → 不一样。**位置不同，功能与听感都不同**。
-- **「用旋律当锚就够了」** → 锚是**拐杖**：入门可用，但它**不能告诉你音程在调里做什么**。
-- **「要先练好孤立音程，再练调内」** → 更有效的是**尽早建立主音与级数地图**（见 [[concept:scale-hearing|调性听辨]]）——
+- 「音程听辨就是听出几度」 → 那只得到孤立信息。调内音程听辨问的是"第几级到第几级"。
+- 「同一个音程听起来总是一样」 → 不一样。位置不同，功能与听感都不同。
+- 「用旋律当锚就够了」 → 锚是拐杖：入门可用，但它不能告诉你音程在调里做什么。
+- 「要先练好孤立音程，再练调内」 → 更有效的是尽早建立主音与级数地图（见 [[concept:scale-hearing|调性听辨]]）——
   有了地图，音程自然有位置。
 :::
 
@@ -174,7 +174,7 @@ notes" but "which degree is each of them in the key".**
 
 ## A useful crutch — and its limits
 
-**Using a known melody as an anchor** is a common beginner method:
+Using a known melody as an anchor is a common beginner method:
 
 | Interval | Usable anchor |
 |---|---|
@@ -182,14 +182,14 @@ notes" but "which degree is each of them in the key".**
 | perfect fourth | the opening of the Wedding March |
 | minor third | the descending minor third in the Ode of Joy |
 
-**But note its limits**:
+But note its limits:
 
 | An anchor can | An anchor cannot |
 |---|---|
 | help you **quickly identify** an isolated interval | tell you **what it does in the key** |
 | lower the barrier at the start | replace tonal hearing — relying on it **delays** it |
 
-**So an anchor is a crutch, not a leg**: usable at the beginning, with the goal of not needing it.
+So an anchor is a crutch, not a leg: usable at the beginning, with the goal of not needing it.
 
 ## Diagram: two identities for one major third
 
@@ -229,7 +229,7 @@ notes" but "which degree is each of them in the key".**
 
 ## Listen: one interval, two situations
 
-Use `interval` to hear **the same major third C–E**. It sounds stable and bright. Now imagine it on the dominant
+Use `interval` to hear the same major third C–E. It sounds stable and bright. Now imagine it on the dominant
 (G–B) — **the same width, but because B is the leading tone it demands to resolve to the tonic.** The audio cannot
 stage both tonal contexts, yet this contrast is the entry's core.
 
@@ -239,11 +239,11 @@ stage both tonal contexts, yet this contrast is the entry's core.
 
 ## Common misconceptions
 
-- **"Interval hearing means naming the number"** — that gives **isolated information**. Tonal interval hearing asks
-  **"from which degree to which degree".**
-- **"The same interval always sounds the same."** It does not: **position changes function and feel**.
-- **"Melodic anchors are enough."** They are a **crutch**: usable at the start, but they **cannot tell you what the
+- "Interval hearing means naming the number" — that gives isolated information. Tonal interval hearing asks
+  "from which degree to which degree".
+- "The same interval always sounds the same." It does not: position changes function and feel.
+- "Melodic anchors are enough." They are a crutch: usable at the start, but they **cannot tell you what the
   interval does in the key**.
-- **"Learn isolated intervals first, then tonal ones."** More effective is **building the tonic and degree map early**
+- "Learn isolated intervals first, then tonal ones." More effective is building the tonic and degree map early
   (see [[concept:scale-hearing|hearing key]]) — with the map, intervals have positions.
 :::

@@ -55,13 +55,13 @@ updated: 2026-09-23
 | 宽一个半音 | 增音程 | 纯五度 → 增五度 |
 | 窄一个半音 | 减音程 | 纯五度 → 减五度 |
 
-一个小陷阱：**纯四度宽一个半音是增四度**，而这个音程与**减五度**音数相同（都是 6 个半音），
+一个小陷阱：**纯四度宽一个半音是增四度**，而这个音程与减五度音数相同（都是 6 个半音），
 只是写法与倾向不同。这一点见 [[concept:augmented-diminished|增音程与减音程]] 与
 [[concept:enharmonic|等音]]。
 
 ## 五度为什么支配着调性
 
-纯五度的比例 3:2 是所有简单比例里**唯一的"非八度"成员**。往上叠五度，
+纯五度的比例 3:2 是所有简单比例里唯一的"非八度"成员。往上叠五度，
 12 次之后几乎回到出发点（这就是 [[concept:circle-of-fifths|五度圈]]），
 调性体系里的近关系调、调号顺序、属功能全部建立在这条链上。
 
@@ -119,10 +119,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「纯的意思是音准很准」** → 这里的"纯"指频率比最简（2:1、3:2、4:3），与演奏音准无关。
-- **「纯音程没有增减」** → 有。纯五度宽一个半音是增五度，窄一个是减五度。
-- **「纯四度听起来比纯五度更协和，因为它更窄」** → 更窄不等于更协和。协和度由比例简单程度决定，四度与五度地位相当，只是方向相反。
-- **「三度也是纯的才更协和」** → 三度的比例是 5:4 与 6:5，本来就复杂于四度五度，所以才有大小之分与色彩差异。
+- 「纯的意思是音准很准」 → 这里的"纯"指频率比最简（2:1、3:2、4:3），与演奏音准无关。
+- 「纯音程没有增减」 → 有。纯五度宽一个半音是增五度，窄一个是减五度。
+- 「纯四度听起来比纯五度更协和，因为它更窄」 → 更窄不等于更协和。协和度由比例简单程度决定，四度与五度地位相当，只是方向相反。
+- 「三度也是纯的才更协和」 → 三度的比例是 5:4 与 6:5，本来就复杂于四度五度，所以才有大小之分与色彩差异。
 :::
 
 ::: en
@@ -154,8 +154,8 @@ Perfect intervals cannot become major or minor, but they can widen or narrow:
 | one semitone wider | augmented | perfect fifth → augmented fifth |
 | one semitone narrower | diminished | perfect fifth → diminished fifth |
 
-One trap: **a perfect fourth widened by a semitone is an augmented fourth**, and that interval has the same
-size as a **diminished fifth** (6 semitones each) while being spelled and tending differently — see
+One trap: a perfect fourth widened by a semitone is an augmented fourth, and that interval has the same
+size as a diminished fifth (6 semitones each) while being spelled and tending differently — see
 [[concept:augmented-diminished|augmented and diminished]] and [[concept:enharmonic|enharmonic]].
 
 ## Why the fifth governs tonality
@@ -218,8 +218,8 @@ why it turns up everywhere, in tuning, stringing and harmonic scaffolding across
 
 ## Common misconceptions
 
-- **"Perfect means in tune."** Here it means the simplest ratio (2:1, 3:2, 4:3), nothing about intonation.
-- **"Perfect intervals cannot be augmented or diminished."** They can. A fifth widened by a semitone is augmented; narrowed, diminished.
-- **"The fourth sounds more consonant than the fifth because it is narrower."** Narrower is not more consonant. Consonance follows ratio simplicity; fourth and fifth rank alike, just pointing opposite ways.
-- **"Thirds would be more consonant if they were perfect."** Their ratios (5:4 and 6:5) are already more complex than the fourth and fifth, which is why they split into major and minor and carry colour.
+- "Perfect means in tune." Here it means the simplest ratio (2:1, 3:2, 4:3), nothing about intonation.
+- "Perfect intervals cannot be augmented or diminished." They can. A fifth widened by a semitone is augmented; narrowed, diminished.
+- "The fourth sounds more consonant than the fifth because it is narrower." Narrower is not more consonant. Consonance follows ratio simplicity; fourth and fifth rank alike, just pointing opposite ways.
+- "Thirds would be more consonant if they were perfect." Their ratios (5:4 and 6:5) are already more complex than the fourth and fifth, which is why they split into major and minor and carry colour.
 :::

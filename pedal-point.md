@@ -39,10 +39,10 @@ updated: 2026-09-24
 
 **低音持续时，上方和声的张力得不到低音的"解决"。**
 正常情况下，一个不协和的和弦要在低音走到它该去的位置时才松开；
-现在低音赖着不动，张力只能**一层层往上堆**。
+现在低音赖着不动，张力只能一层层往上堆。
 
-而**当低音终于移动的那一刻**，积攒的张力一次性释放 ——
-所以持续低音几乎总是出现在**需要"憋一下再放"**的位置：
+而当低音终于移动的那一刻，积攒的张力一次性释放 ——
+所以持续低音几乎总是出现在需要"憋一下再放"的位置：
 
 | 位置 | 作用 |
 |---|---|
@@ -57,16 +57,16 @@ updated: 2026-09-24
 | 上方 | 不一定变化 | **必须继续变化**（否则就只是长音） |
 | 作用 | 延长某个音 | **制造和声层面的张力累积** |
 
-**判别标准很干脆：上方和声有没有继续动。** 不动就只是长音，动了才是持续低音。
+判别标准很干脆：上方和声有没有继续动。 不动就只是长音，动了才是持续低音。
 
 ## 与固定低音变奏的关系
 
-持续低音最极端的用法是**整首作品都建立在它上面** —— 这就是「**固定低音变奏**」
+持续低音最极端的用法是整首作品都建立在它上面 —— 这就是「固定低音变奏」
 （ground bass / basso ostinato）：低音主题反复循环，上方不断写新内容。
 
 > 巴洛克时期极为流行：《绿袖子》的加固定低音变奏、帕赫贝尔《卡农》的低音、
 > 大量恰空与帕萨卡利亚都属此类。
-> 它与 [[concept:theme-variations|变奏曲式]] 的关系是：**变化在上方，不变在下方。**
+> 它与 [[concept:theme-variations|变奏曲式]] 的关系是：变化在上方，不变在下方。
 
 ## 图示：低音不动，上方在动
 
@@ -107,8 +107,8 @@ updated: 2026-09-24
 
 ## 听一听：低音不动的效果
 
-用进行播放器听一段完整的功能进行。想象最低音**从头到尾停在同一个音上**（属持续音），
-只有上方在换 —— 那就是持续低音的听感：**一直没解决，于是越攒越紧。**
+用进行播放器听一段完整的功能进行。想象最低音从头到尾停在同一个音上（属持续音），
+只有上方在换 —— 那就是持续低音的听感：一直没解决，于是越攒越紧。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"常规进行（低音会移动）","label_en":"A normal progression, with the bass moving","hint":"逐个和弦依次听，留意低音每次都在换","hint_en":"Hear each chord in turn and notice the bass changing every time"}
@@ -116,10 +116,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「持续低音就是长音」** → 判别标准是**上方是否继续变化**。上方不动就只是长音。
-- **「它必须出现在最低声部」** → 最低声部最常见（也因而得名），但**高音或内声部同样可以持续**。
-- **「它只能用在结尾」** → 属持续音确实常用于推向终止，但主持续音常用于**开头**确定中心（如许多前奏曲的起始几小节）。
-- **「它只属于巴洛克」** → 浪漫派（李斯特、瓦格纳）用它堆积张力，流行音乐的低音踏板音、电子舞曲的持续 bass note 都是同一手法。
+- 「持续低音就是长音」 → 判别标准是上方是否继续变化。上方不动就只是长音。
+- 「它必须出现在最低声部」 → 最低声部最常见（也因而得名），但高音或内声部同样可以持续。
+- 「它只能用在结尾」 → 属持续音确实常用于推向终止，但主持续音常用于开头确定中心（如许多前奏曲的起始几小节）。
+- 「它只属于巴洛克」 → 浪漫派（李斯特、瓦格纳）用它堆积张力，流行音乐的低音踏板音、电子舞曲的持续 bass note 都是同一手法。
 :::
 
 ::: en
@@ -152,17 +152,17 @@ almost always appears where something must be **held back and then released**:
 | Above it | need not change | **must keep changing** (otherwise it is merely a long note) |
 | Function | sustains a pitch | **accumulates harmonic tension** |
 
-**The test is blunt: does the upper harmony keep moving?** If not, it is a long note; if it does, it is a pedal
+The test is blunt: does the upper harmony keep moving? If not, it is a long note; if it does, it is a pedal
 point.
 
 ## Its relation to ground-bass variations
 
-The most extreme use is a whole piece built on one — the **ground bass** (basso ostinato): a bass figure repeats
+The most extreme use is a whole piece built on one — the ground bass (basso ostinato): a bass figure repeats
 while everything above is newly written each time.
 
 > It was extremely popular in the Baroque: the ground-bass variations on Greensleeves, the bass of Pachelbel's
 > Canon, and a great many chaconnes and passacaglias. Its relation to
-> [[concept:theme-variations|variation form]] is this: **change above, constancy below.**
+> [[concept:theme-variations|variation form]] is this: change above, constancy below.
 
 ## Diagram: the bass stays, everything above moves
 
@@ -203,7 +203,7 @@ while everything above is newly written each time.
 
 ## Listen: the effect of a stationary bass
 
-Use the progression player on a complete progression. Imagine the lowest note **staying on one pitch throughout**
+Use the progression player on a complete progression. Imagine the lowest note staying on one pitch throughout
 (a dominant pedal) while only the upper parts change — that is the sound of a pedal point: **never resolved, so
 ever tighter.**
 
@@ -213,12 +213,12 @@ ever tighter.**
 
 ## Common misconceptions
 
-- **"A pedal point is a long note."** The test is **whether the upper harmony keeps changing**. If nothing above
+- "A pedal point is a long note." The test is whether the upper harmony keeps changing. If nothing above
   moves, it is only a long note.
-- **"It must be in the lowest voice."** The bass is the commonest place (hence the name), but **upper and inner
+- "It must be in the lowest voice." The bass is the commonest place (hence the name), but **upper and inner
   voices can hold too**.
-- **"It only belongs at the end."** A dominant pedal usually drives a cadence, but a tonic pedal often opens a
+- "It only belongs at the end." A dominant pedal usually drives a cadence, but a tonic pedal often opens a
   piece to establish the centre (as in the first bars of many preludes).
-- **"It is Baroque only."** Romantic composers (Liszt, Wagner) used it to pile up tension, and a pop song's
+- "It is Baroque only." Romantic composers (Liszt, Wagner) used it to pile up tension, and a pop song's
   sustained bass note or a dance track's held bass is the same device.
 :::

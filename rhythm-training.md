@@ -45,20 +45,20 @@ updated: 2026-09-25
 
 ## 四个具体方法
 
-**① 念词法**
-把节奏型**念出来**（"长—短—短"、"哒—哒哒"）。语言天然带重音，
+① 念词法
+把节奏型念出来（"长—短—短"、"哒—哒哒"）。语言天然带重音，
 所以它比"数一二三四"更接近音乐的实际感受，也更容易记住。
 
-**② 走步法**
-用走路感受拍点。**身体参与的记忆远比脑子的记忆牢固** ——
+② 走步法
+用走路感受拍点。身体参与的记忆远比脑子的记忆牢固 ——
 这也是为什么"走两步就知道是什么舞曲"（见 [[concept:dance-rhythm|舞曲节奏型]]）。
 
-**③ 慢练**
-把速度降到能**完全做对**的程度，再逐步提高。慢练的作用不是"慢"，
-而是**让正确的动作有机会被重复**。
+③ 慢练
+把速度降到能完全做对的程度，再逐步提高。慢练的作用不是"慢"，
+而是让正确的动作有机会被重复。
 
-**④ 分层练**
-两只手先各自练熟，再合起来。合不起来的原因通常不是手的问题，而是**其中一层还不够自动**。
+④ 分层练
+两只手先各自练熟，再合起来。合不起来的原因通常不是手的问题，而是其中一层还不够自动。
 
 ## 节拍器怎么用（容易用错）
 
@@ -68,7 +68,7 @@ updated: 2026-09-25
 | 慢速段落用它**对齐**重音 | 用它代替内在律动 |
 | 发现"渐快"后**关掉再练一遍** | 一直开着，离开就不会 |
 
-核心原则：**它是校准工具，不是演奏标准**（见 [[concept:metronome|节拍器与 BPM]]）。
+核心原则：它是校准工具，不是演奏标准（见 [[concept:metronome|节拍器与 BPM]]）。
 
 ## 常见困难与对策
 
@@ -79,7 +79,7 @@ updated: 2026-09-25
 | 慢速能弹对，快速就散 | 速度超过当前控制力 | 降速，找到"刚好不出错"的那一档 |
 | 节拍器一关就偏 | 一直在"跟"而不是"有" | 关掉节拍器，用走步重建 |
 
-第一行的诊断最有用：**遇到乱，先怀疑"律动不稳"，而不是"这段太难"。**
+第一行的诊断最有用：遇到乱，先怀疑"律动不稳"，而不是"这段太难"。
 
 ## 图示：顺序不能反
 
@@ -125,7 +125,7 @@ updated: 2026-09-25
 
 ## 听一听：稳定律动的参照
 
-用 `rhythm` 组件听**最简单的均分** —— 这是第①步要建立的那种稳定。
+用 `rhythm` 组件听最简单的均分 —— 这是第①步要建立的那种稳定。
 把它听熟，再回到自己的练习里"不数拍走一走"。
 
 ```audiolab
@@ -134,10 +134,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「节奏练不好就是练得少」** → 多数情况是**顺序错了**（跳过了建立律动这一步）。
-- **「必须一直数拍」** → 数拍是过渡手段。目标是**不必数也能稳定**。
-- **「节拍器开得越多越准」** → 它是校准工具。全程跟机器，学到的是"跟机器"。
-- **「慢练只是把速度降下来」** → 慢练的目的是**让正确动作有机会被重复**，所以慢到"完全不出错"才有意义。
+- 「节奏练不好就是练得少」 → 多数情况是顺序错了（跳过了建立律动这一步）。
+- 「必须一直数拍」 → 数拍是过渡手段。目标是不必数也能稳定。
+- 「节拍器开得越多越准」 → 它是校准工具。全程跟机器，学到的是"跟机器"。
+- 「慢练只是把速度降下来」 → 慢练的目的是让正确动作有机会被重复，所以慢到"完全不出错"才有意义。
 :::
 
 ::: en
@@ -162,14 +162,14 @@ steady just walking, without counting?** If not, steps 2 and 3 are built on sand
 **One: speak it.** Say the pattern aloud ("long-short-short", "da da-da"). Language carries accents naturally, so
 it is closer to the musical experience than counting numbers, and easier to remember.
 
-**Two: walk it.** Feel the beat with your feet. **The body remembers far better than the head** — which is also
+Two: walk it. Feel the beat with your feet. The body remembers far better than the head — which is also
 why "walk two steps and you know the dance" (see [[concept:dance-rhythm|dance rhythms]]).
 
-**Three: slow practice.** Reduce the tempo until you can do it **perfectly**, then raise it step by step. The point
-is not slowness but **giving the correct action a chance to repeat**.
+Three: slow practice. Reduce the tempo until you can do it perfectly, then raise it step by step. The point
+is not slowness but giving the correct action a chance to repeat.
 
-**Four: layer it.** Learn each hand separately before combining. When they will not combine, the cause is usually
-not the hands but **one layer not yet automatic**.
+Four: layer it. Learn each hand separately before combining. When they will not combine, the cause is usually
+not the hands but one layer not yet automatic.
 
 ## Using the metronome (easily misused)
 
@@ -179,7 +179,7 @@ not the hands but **one layer not yet automatic**.
 | use it to **align accents** in slow passages | using it instead of an internal pulse |
 | having spotted acceleration, **switch it off and play again** | leaving it on, unable to play without it |
 
-The core principle: **a calibration tool, not a performance standard** (see
+The core principle: a calibration tool, not a performance standard (see
 [[concept:metronome|metronome and BPM]]).
 
 ## Common difficulties and what they mean
@@ -238,7 +238,7 @@ difficulty of the passage.**
 
 ## Listen: a reference for a steady pulse
 
-Use `rhythm` to hear **the simplest even pattern** — the steadiness step 1 is meant to build. Learn its sound,
+Use `rhythm` to hear the simplest even pattern — the steadiness step 1 is meant to build. Learn its sound,
 then go back to your practice and "walk it without counting".
 
 ```audiolab
@@ -247,9 +247,9 @@ then go back to your practice and "walk it without counting".
 
 ## Common misconceptions
 
-- **"Bad rhythm just means not enough practice."** Most often the **order** is wrong — step 1 was skipped.
-- **"You must always count."** Counting is a stepping stone. The goal is steadiness **without** it.
-- **"More metronome means more accuracy."** It is a calibration tool. Constant use teaches following a machine.
-- **"Slow practice just means a lower tempo."** Its purpose is **letting the correct action repeat**, so it only
+- "Bad rhythm just means not enough practice." Most often the order is wrong — step 1 was skipped.
+- "You must always count." Counting is a stepping stone. The goal is steadiness without it.
+- "More metronome means more accuracy." It is a calibration tool. Constant use teaches following a machine.
+- "Slow practice just means a lower tempo." Its purpose is letting the correct action repeat, so it only
   counts if you slow down to the point of making no errors.
 :::

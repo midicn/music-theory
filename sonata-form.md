@@ -44,7 +44,7 @@ updated: 2026-09-25
 | **展开部** | 把主题**拆开**、片段化（见 [[concept:thematic-development|主题的发展]]） | **游移**：大量转调，远离主调 | 激化张力 |
 | **再现部** | 两个主题都回来 | **统一**：第二主题改在主调 | **解决张力** |
 
-**再现部的关键不在"主题回来了"，而在"调性统一了"。** 这是它区别于 ABA 三段体的地方：
+再现部的关键不在"主题回来了"，而在"调性统一了"。 这是它区别于 ABA 三段体的地方：
 
 | | 三段体的 A 回归 | 奏鸣曲式的再现 |
 |---|---|---|
@@ -53,7 +53,7 @@ updated: 2026-09-25
 
 ## 为什么它成了古典时期最重要的曲式
 
-因为它天然支持一种观感：**冲突 → 激化 → 解决**。
+因为它天然支持一种观感：冲突 → 激化 → 解决。
 
 | 部分 | 对应 |
 |---|---|
@@ -62,7 +62,7 @@ updated: 2026-09-25
 | 再现部 | 让它们在同一条线上和解（调性统一） |
 
 这套结构在古典时期的交响曲、奏鸣曲、室内乐的第一乐章里普遍出现，
-**因为它是当时审美里"严肃、有分量"的等价物**（见 [[concept:large-scale-forms|大型作品结构]]）。
+因为它是当时审美里"严肃、有分量"的等价物（见 [[concept:large-scale-forms|大型作品结构]]）。
 
 ## 三个常见变体
 
@@ -124,8 +124,8 @@ updated: 2026-09-25
 
 ## 听一听：离开与回归
 
-用 `progression` 听**主调 → 属调 → 回主调**的骨架。请留意最后那一次回主调：
-**它不是"又弹了一遍"，而是"终于落定了"** —— 这正是奏鸣曲式再现部的心理效果。
+用 `progression` 听主调 → 属调 → 回主调的骨架。请留意最后那一次回主调：
+它不是"又弹了一遍"，而是"终于落定了" —— 这正是奏鸣曲式再现部的心理效果。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","V","V","I"],"label":"主调 → 属调（离开）→ 回主调（落定）","label_en":"Tonic to dominant, then home again","hint":"逐个和弦依次听：最后一次回到 I 就是“统一”","hint_en":"Hear each chord: the final return to I is the unification"}
@@ -134,10 +134,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「奏鸣曲式＝奏鸣曲」** → 奏鸣曲是**体裁**（一种多乐章作品），奏鸣曲式是**曲式**（一种结构）。交响曲、协奏曲、室内乐的第一乐章也用奏鸣曲式。
-- **「它只是三段体的一种」** → 关键在于**调性分裂与统一**；缺了这一层就只是 ABA（见 [[concept:ternary-form|三段体]]）。
-- **「必须有两个主题」** → 常见但非必需。有些作品的两个"主题"其实是同一素材的不同形态；也有作品只有一个主题。
-- **「必须有展开部」** → 慢乐章与序曲常省略展开部，直接呈示接再现。
+- 「奏鸣曲式＝奏鸣曲」 → 奏鸣曲是体裁（一种多乐章作品），奏鸣曲式是曲式（一种结构）。交响曲、协奏曲、室内乐的第一乐章也用奏鸣曲式。
+- 「它只是三段体的一种」 → 关键在于调性分裂与统一；缺了这一层就只是 ABA（见 [[concept:ternary-form|三段体]]）。
+- 「必须有两个主题」 → 常见但非必需。有些作品的两个"主题"其实是同一素材的不同形态；也有作品只有一个主题。
+- 「必须有展开部」 → 慢乐章与序曲常省略展开部，直接呈示接再现。
 :::
 
 ::: en
@@ -167,7 +167,7 @@ it differs from ABA:
 
 ## Why it became the central form of the Classical era
 
-Because it naturally supports one shape: **conflict, escalation, resolution.**
+Because it naturally supports one shape: conflict, escalation, resolution.
 
 | Section | Corresponds to |
 |---|---|
@@ -238,7 +238,7 @@ equivalent of "serious, weighty"** (see [[concept:large-scale-forms|large-scale 
 
 ## Listen: departure and return
 
-Use `progression` to hear the skeleton **tonic, dominant, back to tonic**. Notice the final return: **it is not
+Use `progression` to hear the skeleton tonic, dominant, back to tonic. Notice the final return: **it is not
 "here it is again" but "everything has settled"** — precisely the psychological effect of a recapitulation.
 
 ```audiolab
@@ -247,12 +247,12 @@ Use `progression` to hear the skeleton **tonic, dominant, back to tonic**. Notic
 
 ## Common misconceptions
 
-- **"Sonata form means a sonata."** A sonata is a **genre** (a multi-movement work); sonata form is a **structure**.
+- "Sonata form means a sonata." A sonata is a genre (a multi-movement work); sonata form is a structure.
   Symphonies, concertos and chamber works use it for their first movements too.
-- **"It is just a kind of ternary form."** The decisive feature is **tonal split and unification**; without it, it is
+- "It is just a kind of ternary form." The decisive feature is tonal split and unification; without it, it is
   only ABA (see [[concept:ternary-form|ternary form]]).
-- **"Two subjects are required."** Common but not essential. In some works the two "subjects" are different shapes of
+- "Two subjects are required." Common but not essential. In some works the two "subjects" are different shapes of
   one idea; others have only one subject.
-- **"A development section is required."** Slow movements and overtures often omit it, joining exposition straight to
+- "A development section is required." Slow movements and overtures often omit it, joining exposition straight to
   recapitulation.
 :::

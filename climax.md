@@ -43,7 +43,7 @@ updated: 2026-09-25
 | 效果 | 突然吵一下 | 期待被兑现 |
 
 **没有铺垫的"最响"，只会让人觉得吵，而不是高。**
-这就是为什么高潮的设计本质上是**前面几十小节的设计**。
+这就是为什么高潮的设计本质上是前面几十小节的设计。
 
 ## 五种可叠加的手段
 
@@ -57,7 +57,7 @@ updated: 2026-09-25
 | **和声** | 离调最远 / 不协和度最高 |
 | **织体** | 声部最多、配器最厚 |
 
-**五个维度同向叠加**时效果最强；只有一两项到达峰值时，高潮会显得单薄。
+五个维度同向叠加时效果最强；只有一两项到达峰值时，高潮会显得单薄。
 
 ## 累积的两种方式
 
@@ -66,17 +66,17 @@ updated: 2026-09-25
 | **渐进** | 逐步增加密度、力度、音区 | 稳定上升，最常用 |
 | **阶梯** | 反复"冲高—回落—再冲高" | 每次冲得更高，最后到顶 |
 
-**阶梯式**在浪漫派作品里极常见：它让听者一次次被"差一点就到"刺激，
+阶梯式在浪漫派作品里极常见：它让听者一次次被"差一点就到"刺激，
 最后那一次才真正到顶 —— 与和声里的"阻碍终止"是同一套心理机制（见 [[concept:cadence|终止式]]）。
 
 ## 关于"黄金分割点"
 
-常有一种说法：高潮常出现在全曲约 **2/3** 处。
+常有一种说法：高潮常出现在全曲约 2/3 处。
 
-**这个说法要谨慎对待**：它是**统计上的倾向**（在某些作曲家的某些作品里被观察到），
-**不是作曲规则**。把它当规律去套，会写出机械的音乐。
+这个说法要谨慎对待：它是统计上的倾向（在某些作曲家的某些作品里被观察到），
+不是作曲规则。把它当规律去套，会写出机械的音乐。
 
-更可靠的说法是：**高潮的位置取决于前面累积了多久** ——
+更可靠的说法是：高潮的位置取决于前面累积了多久 ——
 累积越久，高潮越应该靠后。
 
 ## 图示：累积与释放
@@ -123,7 +123,7 @@ updated: 2026-09-25
 
 ## 听一听：密度的累积
 
-本站的听辨件是单声部的，无法演示真正的力度与织体累积。这里用 `rhythm` 听**密度的变化** ——
+这里的听辨件是单声部的，无法演示真正的力度与织体累积。这里用 `rhythm` 听密度的变化 ——
 从疏到密，这正是累积里最容易被忽略、也最有效的一个维度。
 
 ```audiolab
@@ -136,10 +136,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「高潮就是最响的地方」** → 高潮是**累积后的释放**。没有铺垫的"最响"只会显得吵。
-- **「高潮要放在结尾」** → 结尾是终结，不是高潮。高潮常在末段之前，之后需要回落与收束。
-- **「高潮越靠后越好」** → 位置取决于**累积了多久**，不是越后越好。
-- **「黄金分割点是作曲规则」** → 它是**统计倾向**。把它当规则套用会写出机械的音乐。
+- 「高潮就是最响的地方」 → 高潮是累积后的释放。没有铺垫的"最响"只会显得吵。
+- 「高潮要放在结尾」 → 结尾是终结，不是高潮。高潮常在末段之前，之后需要回落与收束。
+- 「高潮越靠后越好」 → 位置取决于累积了多久，不是越后越好。
+- 「黄金分割点是作曲规则」 → 它是统计倾向。把它当规则套用会写出机械的音乐。
 :::
 
 ::: en
@@ -160,7 +160,7 @@ This is the misunderstanding most worth correcting:
 | Effect | suddenly loud | an expectation fulfilled |
 
 **Loudness without preparation only sounds noisy, not high.** Which is why designing a climax is really a matter
-of **designing the preceding dozens of bars**.
+of designing the preceding dozens of bars.
 
 ## Five stackable means
 
@@ -174,7 +174,7 @@ A climax usually comes from several dimensions peaking together:
 | **harmony** | the furthest tonicization, or the peak of dissonance |
 | **texture** | the most voices, the thickest scoring |
 
-**All five moving the same way** gives the strongest effect; a climax with only one or two at their peak feels
+All five moving the same way gives the strongest effect; a climax with only one or two at their peak feels
 thin.
 
 ## Two ways of accumulating
@@ -184,18 +184,18 @@ thin.
 | **gradual** | steadily increase density, volume and register | a stable rise, the commonest |
 | **terraced** | repeatedly surge, fall back, surge again | each surge goes higher until the last one tops out |
 
-**Terraced** accumulation is very common in Romantic music: it keeps provoking the listener with "almost there"
+Terraced accumulation is very common in Romantic music: it keeps provoking the listener with "almost there"
 until the final attempt actually arrives — the same psychology as a deceptive cadence (see
 [[concept:cadence|cadence]]).
 
 ## About the "golden section"
 
-It is often said that a climax tends to fall at about **two thirds** of the way through.
+It is often said that a climax tends to fall at about two thirds of the way through.
 
-**Treat that cautiously**: it is a **statistical tendency** (observed in certain works by certain composers), **not
+Treat that cautiously: it is a statistical tendency (observed in certain works by certain composers), **not
 a rule of composition**. Applying it mechanically produces mechanical music.
 
-A more reliable statement: **the position of the climax depends on how long the accumulation lasted** — the longer
+A more reliable statement: the position of the climax depends on how long the accumulation lasted — the longer
 the build, the later the climax should fall.
 
 ## Diagram: accumulation and release
@@ -242,7 +242,7 @@ the build, the later the climax should fall.
 
 ## Listen: accumulating density
 
-This site cannot demonstrate real dynamic or textural accumulation. Use `rhythm` to hear **a change of density** —
+This site cannot demonstrate real dynamic or textural accumulation. Use `rhythm` to hear a change of density —
 from sparse to dense, the most overlooked and most effective of the five dimensions.
 
 ```audiolab
@@ -255,11 +255,11 @@ from sparse to dense, the most overlooked and most effective of the five dimensi
 
 ## Common misconceptions
 
-- **"The climax is the loudest place."** It is **release after accumulation**. Loudness without preparation merely
+- "The climax is the loudest place." It is release after accumulation. Loudness without preparation merely
   sounds noisy.
-- **"The climax should be at the end."** The end is a conclusion, not a climax. The climax usually comes before the
+- "The climax should be at the end." The end is a conclusion, not a climax. The climax usually comes before the
   final section, which then descends and closes.
-- **"The later the climax the better."** Position depends on **how long the accumulation lasted**, not on lateness.
-- **"The golden section is a composing rule."** It is a **statistical tendency**; applying it as a rule produces
+- "The later the climax the better." Position depends on how long the accumulation lasted, not on lateness.
+- "The golden section is a composing rule." It is a statistical tendency; applying it as a rule produces
   mechanical music.
 :::

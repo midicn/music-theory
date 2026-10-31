@@ -28,12 +28,13 @@ updated: 2026-09-25
 ---
 
 ::: zh
-这一条要纠正一个非常普遍的误解：
+这里要纠正一个非常普遍的误解。
 
 > **"忠于原作"不等于"照现代习惯演奏早期音乐"。**
 
-因为**"原作"本身并不完整** —— 它写下的是**当时的演奏者需要的信息**，
-而**那个时代"不需要写下来"的东西，今天的人已经不知道了**。
+因为**"原作"本身并不完整**。
+它写下的是**当时的演奏者需要的信息**。
+那个时代不需要写下来的东西，今天的人已经不知道了。
 
 ## 乐谱是不完整的信息
 
@@ -46,7 +47,7 @@ updated: 2026-09-25
 | —— | **编制规模与乐器构造** |
 | —— | **音高标准**（A 是多少赫兹） |
 
-**右边那一列，是历史演奏法要研究的内容。**
+右边那一列，是历史演奏法要研究的内容。
 
 ## 六个具体差异（前面条目都埋了伏笔）
 
@@ -59,30 +60,30 @@ updated: 2026-09-25
 | **音色** | 现代乐器的均匀音色 | 古代乐器**音色不均**，而这是被当作特点的 |
 | **织体** | 按现代配器 | **通奏低音由演奏者现场实现**（见 [[concept:figured-bass\|数字低音]]） |
 
-**这张表最值得注意的**是：**它列的不是"细节"，而是"音乐的基本参数"** ——
-速度、音准、连断、音色、织体。**所以"照谱演奏"可能得到与当时完全不同的音乐。**
+这张表最值得注意。它列的不是细节，而是音乐的基本参数：速度、音准、连断、音色、织体。
+所以照谱演奏可能得到与当时完全不同的音乐。
 
 ## 两种立场，都有价值
 
-历史演奏法不是唯一正确的路：
+历史演奏法不是唯一正确的路。
 
 | 立场 | 做法 | 价值 |
 |---|---|---|
 | **历史知情演奏**（HIP） | 尽量复原当时的乐器、速度、奏法与编制 | **揭示作品在当时的样貌** |
 | **现代演绎** | 用现代乐器与审美演奏 | **呈现作品在今天的可能** |
 
-**两者不是对错关系**：一个是"考古式的重建"，一个是"活态的解释"。
-**真正的问题只有一个：演奏者知不知道自己做了选择。**
+两者不是对错关系，一个是考古式的重建，一个是活态的解释。
+真正的问题只有一个：演奏者知不知道自己做了选择。
 
-**这句是本条的落点**：历史演奏法的价值不是"规定该怎么弹"，
-而是**让人意识到"我现在的弹法是一个选择，而不是唯一答案"**。
+历史演奏法的价值不是规定该怎么弹。
+它让人意识到，自己的弹法是一个选择，而不是唯一答案。
 
 ## 一个横向对照
 
-**中国传统音乐面临同类问题**（见 [[concept:gongchepu|工尺谱]]）：
-工尺谱的**时值记录较宽松、依赖口传心授** ——
-所以"照谱演奏古曲"同样会遇到"谱面不完整"的问题。
-**两条路径的结论一致：乐谱是框架与提示，不是完整指令。**
+中国传统音乐面临同类问题（见 [[concept:gongchepu|工尺谱]]）。
+工尺谱的时值记录较宽松，依赖口传心授。
+所以照谱演奏古曲，同样会遇到谱面不完整的问题。
+两条路径的结论一致：乐谱是框架与提示，不是完整指令。
 
 ## 图示：乐谱的"已写"与"未写"
 
@@ -125,8 +126,10 @@ updated: 2026-09-25
 
 ## 听一听：同一素材的不同可能
 
-历史演奏法的争议集中在"该怎么弹"。用 `chord` 听**同一个和弦的两种排列** ——
-**构成音完全相同，音响效果不同**。历史上"怎么实现通奏低音"的分歧，就是这样一类选择。
+历史演奏法的争议集中在"该怎么弹"。
+用 `chord` 听同一个和弦的两种排列。
+构成音完全相同，音响效果不同。
+历史上怎么实现通奏低音的分歧，就是这样一类选择。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"同一和弦的紧密排列","label_en":"One chord in close voicing","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -138,10 +141,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「照谱演奏就是忠于原作」** → 乐谱**不完整**。未写的部分（速度、奏法、织体）恰恰是当时最依赖惯例的。
-- **「历史演奏法是规定"该怎么弹"」** → 它的价值在于**让人意识到自己的弹法是一种选择**。
-- **「历史演奏只是复原，缺乏艺术性」** → 复原的是**条件**（乐器、音高、编制），**解释仍然是艺术**。
-- **「早期音乐才有这个问题」** → 所有乐谱都有：19 世纪的乐谱也需要理解当时的演奏惯例（只是失传得少些）。
+- 「照谱演奏就是忠于原作」 → 乐谱不完整。未写的速度、奏法、织体，恰恰最依赖当时的惯例。
+- 「历史演奏法是规定"该怎么弹"」 → 它的价值在于让人意识到，自己的弹法是一种选择。
+- 「历史演奏只是复原，缺乏艺术性」 → 复原的是乐器、音高与编制等条件，解释仍是艺术。
+- 「早期音乐才有这个问题」 → 所有乐谱都有。19 世纪的乐谱也要理解当时的演奏惯例，只是失传得少些。
 :::
 
 ::: en
@@ -163,7 +166,7 @@ did not need to write down is now unknown to us**.
 | — | **the size and construction of ensembles and instruments** |
 | — | **pitch standard** (how many hertz A was) |
 
-**That right-hand column is what historical performance research is about.**
+That right-hand column is what historical performance research is about.
 
 ## Six concrete differences (all foreshadowed earlier)
 
@@ -176,8 +179,8 @@ did not need to write down is now unknown to us**.
 | **timbre** | the even sound of modern instruments | period instruments were **uneven**, and that was valued |
 | **texture** | modern scoring | **the continuo was realised live by the player** (see [[concept:figured-bass\|figured bass]]) |
 
-**What matters most in that table**: it lists not "details" but **the basic parameters of music** — tempo, tuning,
-connection, timbre, texture. **So "playing from the score" may produce music quite unlike what was heard then.**
+What matters most in that table: it lists not "details" but the basic parameters of music — tempo, tuning,
+connection, timbre, texture. So "playing from the score" may produce music quite unlike what was heard then.
 
 ## Two positions, both valuable
 
@@ -188,15 +191,15 @@ Historical performance is not the single right road:
 | **historically informed performance (HIP)** | reconstruct period instruments, speeds, execution and forces | **reveals how the work sounded then** |
 | **modern performance** | modern instruments and aesthetics | **shows what the work can be today** |
 
-**They are not right versus wrong**: one is archaeological reconstruction, the other living interpretation.
-**The only real question is whether the performer knows they have made a choice.**
+They are not right versus wrong: one is archaeological reconstruction, the other living interpretation.
+The only real question is whether the performer knows they have made a choice.
 
-**That is this entry's landing point**: the value of historical performance is not prescribing how to play but
-**making you aware that your way of playing is one choice among several**.
+That is this entry's landing point: the value of historical performance is not prescribing how to play but
+making you aware that your way of playing is one choice among several.
 
 ## A cross-cultural parallel
 
-**Traditional Chinese music faces the same problem** (see [[concept:gongchepu|gongche notation]]): its durations are
+Traditional Chinese music faces the same problem (see [[concept:gongchepu|gongche notation]]): its durations are
 recorded loosely and rely on oral transmission — so "playing an old piece from the score" runs into the same
 incompleteness. **Both paths reach the same conclusion: a score is a frame and a cue, not a complete instruction.**
 
@@ -240,8 +243,8 @@ incompleteness. **Both paths reach the same conclusion: a score is a frame and a
 
 ## Listen: different possibilities for the same material
 
-Historical performance debates cluster on "how to play it". Use `chord` to hear **one chord in two voicings** — the
-**same notes, a different sound**. Debates over how to realise a continuo are exactly this kind of choice.
+Historical performance debates cluster on "how to play it". Use `chord` to hear one chord in two voicings — the
+same notes, a different sound. Debates over how to realise a continuo are exactly this kind of choice.
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"同一和弦的紧密排列","label_en":"One chord in close voicing","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -253,11 +256,11 @@ Historical performance debates cluster on "how to play it". Use `chord` to hear 
 
 ## Common misconceptions
 
-- **"Playing from the score is being faithful."** Scores are **incomplete**; what is unwritten — tempo, execution,
+- "Playing from the score is being faithful." Scores are incomplete; what is unwritten — tempo, execution,
   texture — is where convention mattered most.
-- **"Historical performance prescribes how to play."** Its value is **making you aware your way is a choice**.
-- **"It is mere reconstruction, lacking artistry."** What is reconstructed are the **conditions** (instruments,
+- "Historical performance prescribes how to play." Its value is making you aware your way is a choice.
+- "It is mere reconstruction, lacking artistry." What is reconstructed are the conditions (instruments,
   pitch, forces); the interpretation is still art.
-- **"Only early music has this problem."** Every score does: nineteenth-century notation also requires understanding
+- "Only early music has this problem." Every score does: nineteenth-century notation also requires understanding
   its period's habits, merely losing less of it.
 :::

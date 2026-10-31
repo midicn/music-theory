@@ -46,11 +46,11 @@ updated: 2026-09-25
 
 ## 三条写读实务（最容易被忽略）
 
-**① 符干方向：按符头位置决定。**
-**符头在第三线以上，符干向下**；在第三线以下，符干向上。
-（这条规则的意义是**让符干尽量留在谱面内**，减少视觉杂乱。）
+① 符干方向：按符头位置决定。
+符头在第三线以上，符干向下；在第三线以下，符干向上。
+（这条规则的意义是让符干尽量留在谱面内，减少视觉杂乱。）
 
-**② 相邻的短音符用连桁（beam）连起来，并按拍分组。**
+② 相邻的短音符用连桁（beam）连起来，并按拍分组。
 
 这是最重要的一条：
 
@@ -59,10 +59,10 @@ updated: 2026-09-25
 | 八个八分音符各带一条符尾 | 看不出拍的分组，读的人要自己数 |
 | **按拍分成四组连桁**（每两个一组） | **一眼看出"每拍有两个音"** |
 
-**所以连桁不只是省笔墨，它是在"画拍子"。** 这也是为什么同一串音按不同方式连桁，
-读起来的难度差别很大 —— **写谱的人在用连桁告诉读谱的人"哪里是拍点"。**
+所以连桁不只是省笔墨，它是在"画拍子"。 这也是为什么同一串音按不同方式连桁，
+读起来的难度差别很大 —— 写谱的人在用连桁告诉读谱的人"哪里是拍点"。
 
-**③ 附点延长自身的一半。**
+③ 附点延长自身的一半。
 
 | 写法 | 等于 |
 |---|---|
@@ -70,7 +70,7 @@ updated: 2026-09-25
 | `♪.` | 八分 + 十六分 |
 | **复附点** `♩..` | 再延长四分之一（= 1.75 拍），较少见 |
 
-**注意**：附点是延长**自身的一半**，不是"加一个固定长度"（见常见误解）。
+注意：附点是延长自身的一半，不是"加一个固定长度"（见常见误解）。
 
 ## 跨小节与跨拍的长音怎么记
 
@@ -80,7 +80,7 @@ updated: 2026-09-25
 | 一个音跨过**拍点**（但未跨小节） | 通常也用延音线，以便看出拍的分组 |
 | 同音重复 | 用延音线而不是重写符头（尤其是钢琴/弦乐的连奏） |
 
-**第一条是硬规则**：小节线是重音周期的标记（见 [[concept:meter|拍号]]），
+第一条是硬规则：小节线是重音周期的标记（见 [[concept:meter|拍号]]），
 不能为了记谱方便把它"藏"起来。
 
 ## 图示：连桁在"画拍子"
@@ -140,8 +140,8 @@ updated: 2026-09-25
 
 ## 听一听：时值长短的听感
 
-用 `rhythm` 组件对比**四分均分**与**含附点、含八分**的音型。
-请留意：**写谱时用的符号（附点/符尾）在听觉上就是"长短比例"** ——
+用 `rhythm` 组件对比四分均分与含附点、含八分的音型。
+请留意：写谱时用的符号（附点/符尾）在听觉上就是"长短比例" ——
 这就是为什么读谱要"看形状"而不是"数秒数"（见 [[concept:rhythmic-notation|节奏记谱]]）。
 
 ```audiolab
@@ -154,10 +154,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「附点是"加一拍"」** → 附点延长**自身的一半**：`♩.` = 1.5 拍，`♪.` = 0.75 拍。
-- **「连桁只是好写」** → 连桁的核心功能是**标出拍的分组**。同一串音换一种连桁，读谱难度立刻不同。
-- **「跨小节的长音可以直接写一个大音符」** → 必须用**延音线**，否则破坏了小节线的重音标记。
-- **「符干方向随便」** → 由符头位置决定，目的是把符干留在谱面内（第 3 线以上朝下）。
+- 「附点是"加一拍"」 → 附点延长自身的一半：`♩.` = 1.5 拍，`♪.` = 0.75 拍。
+- 「连桁只是好写」 → 连桁的核心功能是标出拍的分组。同一串音换一种连桁，读谱难度立刻不同。
+- 「跨小节的长音可以直接写一个大音符」 → 必须用延音线，否则破坏了小节线的重音标记。
+- 「符干方向随便」 → 由符头位置决定，目的是把符干留在谱面内（第 3 线以上朝下）。
 :::
 
 ::: en
@@ -179,10 +179,10 @@ the **practical reading and writing of the symbols themselves**.
 
 ## Three practical points, commonly overlooked
 
-**1. Stem direction follows the note head.** A head **on or above the third line takes a downward stem**; below it,
-an upward stem. The purpose is **keeping stems inside the staff** and reducing visual clutter.
+1. Stem direction follows the note head. A head on or above the third line takes a downward stem; below it,
+an upward stem. The purpose is keeping stems inside the staff and reducing visual clutter.
 
-**2. Adjacent short notes are joined by beams, grouped by beat.**
+2. Adjacent short notes are joined by beams, grouped by beat.
 
 This is the most important one:
 
@@ -191,10 +191,10 @@ This is the most important one:
 | eight eighths each with its own flag | no visible beat grouping; the reader must count |
 | **beamed into four groups of two** | **"two notes per beat" is visible at a glance** |
 
-**So beaming is not just economy — it draws the beats.** It is why the same notes beamed differently are much
-harder or easier to read: **the notator is telling the reader where the beats fall.**
+So beaming is not just economy — it draws the beats. It is why the same notes beamed differently are much
+harder or easier to read: the notator is telling the reader where the beats fall.
 
-**3. A dot lengthens a note by half its own value.**
+3. A dot lengthens a note by half its own value.
 
 | Notation | Equals |
 |---|---|
@@ -202,7 +202,7 @@ harder or easier to read: **the notator is telling the reader where the beats fa
 | `♪.` | eighth plus sixteenth |
 | **double dot** `♩..` | a further quarter (1.75 beats); rarer |
 
-**Note**: a dot adds **half the note's own value**, not a fixed length.
+Note: a dot adds half the note's own value, not a fixed length.
 
 ## Notating long notes across beats and bars
 
@@ -212,7 +212,7 @@ harder or easier to read: **the notator is telling the reader where the beats fa
 | a note crossing a **beat** within a bar | usually tied as well, so the beat grouping stays visible |
 | a repeated pitch | tied rather than re-struck (especially for legato on piano or strings) |
 
-**The first is a hard rule**: bar lines mark the accent cycle (see [[concept:meter|metre]]) and must not be hidden
+The first is a hard rule: bar lines mark the accent cycle (see [[concept:meter|metre]]) and must not be hidden
 for notational convenience.
 
 ## Diagram: beaming draws the beats
@@ -272,8 +272,8 @@ for notational convenience.
 
 ## Listen: how durations feel
 
-Use `rhythm` to compare **four even quarters** with **a half plus two quarters**. Notice that the notation's symbols
-(the dot, the flag) **are** the proportions you hear — which is why reading means reading **shapes**, not counting
+Use `rhythm` to compare four even quarters with a half plus two quarters. Notice that the notation's symbols
+(the dot, the flag) are the proportions you hear — which is why reading means reading shapes, not counting
 seconds (see [[concept:rhythmic-notation|notating rhythm]]).
 
 ```audiolab
@@ -286,11 +286,11 @@ seconds (see [[concept:rhythmic-notation|notating rhythm]]).
 
 ## Common misconceptions
 
-- **"A dot adds one beat."** A dot adds **half the note's own value**: `♩.` is 1.5 beats, `♪.` is 0.75.
-- **"Beaming is just for convenience."** Its core function is **showing the beat grouping**. Re-beaming the same
+- "A dot adds one beat." A dot adds half the note's own value: `♩.` is 1.5 beats, `♪.` is 0.75.
+- "Beaming is just for convenience." Its core function is showing the beat grouping. Re-beaming the same
   notes changes how hard they are to read.
-- **"A long note crossing a bar line can be written as one big note."** A **tie** is required, or the bar line's
+- "A long note crossing a bar line can be written as one big note." A tie is required, or the bar line's
   accent marking is destroyed.
-- **"Stem direction is arbitrary."** It follows the note head's position, to keep stems inside the staff (downward
+- "Stem direction is arbitrary." It follows the note head's position, to keep stems inside the staff (downward
   from the third line up).
 :::

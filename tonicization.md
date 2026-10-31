@@ -49,11 +49,11 @@ updated: 2026-09-24
 
 遇到一段音乐，判断它是不是离调，按三个问题依次问：
 
-1. **变化音出现了吗？** 有，说明可能在指向别的级；
-2. **它解决到哪里？** 落到哪个和弦上，那个和弦就是"临时中心"；
-3. **接下来呢？** 如果立刻回到原调的逻辑（原调的音阶、原调的终止式），就是离调。
+1. 变化音出现了吗？ 有，说明可能在指向别的级；
+2. 它解决到哪里？ 落到哪个和弦上，那个和弦就是"临时中心"；
+3. 接下来呢？ 如果立刻回到原调的逻辑（原调的音阶、原调的终止式），就是离调。
 
-第三条是关键。**只要没有建立完整的属→主关系，就还只是路过。**
+第三条是关键。只要没有建立完整的属→主关系，就还只是路过。
 
 ## 它在写作里的用处
 
@@ -63,7 +63,7 @@ updated: 2026-09-24
 | **制造色彩** | 变化音带来的"亮一下"，比转调轻，比不变好 |
 | **准备转调** | 连续几次离调指向同一方向，最后真正转过去（离调 → 转调的连续过渡） |
 
-第三行是常见手法：**转调往往不是一步到位，而是先离调几次"试水"**。
+第三行是常见手法：转调往往不是一步到位，而是先离调几次"试水"。
 
 ## 图示：路过与搬家
 
@@ -108,8 +108,8 @@ updated: 2026-09-24
 
 ## 听一听：离调的色彩
 
-用进行播放器对比两条：**I → vi → IV → V → I**（全在原调）与
-**I → V/vi → vi → IV → V → I**（中途把 vi 临时当了一次中心）。
+用进行播放器对比两条：I → vi → IV → V → I（全在原调）与
+I → V/vi → vi → IV → V → I（中途把 vi 临时当了一次中心）。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","vi","IV","V","I"],"label":"原调内：I → vi → IV → V → I","label_en":"All diatonic: I-vi-IV-V-I","hint":"逐个和弦依次听，最后整体再听一遍","hint_en":"Hear each chord in turn, then the whole thing"}
@@ -121,10 +121,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「离调就是小型转调」** → 手段相同，但**没有建立新中心**。这不是"规模小"，而是"性质不同"。
-- **「离调一定要用副属和弦」** → 副属是最常用的手段，但共同和弦、临时导音也可以造成离调。
-- **「离调越多越好」** → 传统写法里它克制且有准备；过度使用会让中心听不清（那就接近无调性了）。
-- **「离调只出现在中间声部」** → 它常出现在内声部，但旋律与低音同样可以承担。
+- 「离调就是小型转调」 → 手段相同，但没有建立新中心。这不是"规模小"，而是"性质不同"。
+- 「离调一定要用副属和弦」 → 副属是最常用的手段，但共同和弦、临时导音也可以造成离调。
+- 「离调越多越好」 → 传统写法里它克制且有准备；过度使用会让中心听不清（那就接近无调性了）。
+- 「离调只出现在中间声部」 → 它常出现在内声部，但旋律与低音同样可以承担。
 :::
 
 ::: en
@@ -150,9 +150,9 @@ In one line: **tonicization passes through; modulation moves house.**
 
 Faced with a passage, ask three questions in order:
 
-1. **Are there accidentals?** If so, they may be pointing at another degree;
-2. **Where do they resolve?** The chord they land on is the temporary centre;
-3. **What happens next?** If the music immediately returns to the original key's logic (its scale, its cadences),
+1. Are there accidentals? If so, they may be pointing at another degree;
+2. Where do they resolve? The chord they land on is the temporary centre;
+3. What happens next? If the music immediately returns to the original key's logic (its scale, its cadences),
    it was tonicization.
 
 The third question is decisive. **Without a complete dominant-to-tonic relationship, no centre has been
@@ -212,7 +212,7 @@ times first, testing the water.**
 
 ## Listen: the colour of tonicization
 
-Compare two progressions: **I → vi → IV → V → I** (all diatonic) and **I → iii → vi → IV → V → I** (with the
+Compare two progressions: I → vi → IV → V → I (all diatonic) and I → iii → vi → IV → V → I (with the
 mediant briefly treated as a centre).
 
 ```audiolab
@@ -225,8 +225,8 @@ mediant briefly treated as a centre).
 
 ## Common misconceptions
 
-- **"Tonicization is a small-scale modulation."** The devices match, but **no new centre is established**. It is not smaller; it is different in kind.
-- **"Tonicization always uses secondary dominants."** That is the commonest device, but common chords and temporary leading tones also produce it.
-- **"The more tonicization the better."** Traditional writing uses it sparingly and with preparation; overuse blurs the centre (which approaches atonality).
-- **"It happens only in inner voices."** It appears there often, but melody and bass can carry it too.
+- "Tonicization is a small-scale modulation." The devices match, but no new centre is established. It is not smaller; it is different in kind.
+- "Tonicization always uses secondary dominants." That is the commonest device, but common chords and temporary leading tones also produce it.
+- "The more tonicization the better." Traditional writing uses it sparingly and with preparation; overuse blurs the centre (which approaches atonality).
+- "It happens only in inner voices." It appears there often, but melody and bass can carry it too.
 :::

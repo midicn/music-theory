@@ -64,14 +64,14 @@ updated: 2026-09-24
 | 上方三声部之间 | 不超过一个八度（否则整体会"散架"） |
 | 低音与男高音之间 | 可以更宽（低音本来就需要空间） |
 
-这与 [[concept:chord-voicing|和弦排列]] 讲的是同一件事：**低音区要留空。**
+这与 [[concept:chord-voicing|和弦排列]] 讲的是同一件事：低音区要留空。
 在低音区放密集和弦，泛音会互相干扰，听感立刻变浑浊。
 
 ## 声部进行与和声功能的关系
 
-声部进行不是独立的技巧，它**服务于功能**：属→主的推动力，正是靠
-导音上行半音、七音下行半音这两条线实现的（见 [[concept:cadence|终止式]]）。
-换句话说，**功能是"要去哪"，声部进行是"怎么去"**。
+声部进行不是独立技巧，它服务于功能。
+属→主的推动力，靠导音上行半音、七音下行半音这两条线实现（见 [[concept:cadence|终止式]]）。
+功能是"要去哪"，声部进行是"怎么去"。
 
 ## 图示：三个和弦，看每个声部怎么走
 
@@ -109,7 +109,7 @@ updated: 2026-09-24
 
 ## 听一听：和弦连接
 
-用进行播放器听 I → IV → V → I。留意每个和弦之间**几乎没有跳进**，
+用进行播放器听 I → IV → V → I。留意每个和弦之间几乎没有跳进，
 以及低音如何独自承担"走动"的任务。
 
 ```audiolab
@@ -118,10 +118,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「和弦是整体换过去的」** → 声部进行的视角是每个声部各自移动。这一转换会立刻改变你对连接好坏判断的方式。
-- **「声部进行只是"好听不好听"」** → 它有明确的实务标准（共同音保持、级进优先、反向优先），可以逐条检查。
-- **「平行五八度是唯一的规则」** → 那只是其中最常被提到的一条（见 [[concept:parallel-fifths|平行五八度]]），整套规则还有很多条。
-- **「现代音乐不需要声部进行」** → 即使是不协和的和声，声部走向仍决定听感是"有逻辑"还是"东碰西撞"。
+- 「和弦是整体换过去的」 → 声部进行的视角是每个声部各自移动。这一转换会立刻改变你对连接好坏判断的方式。
+- 「声部进行只是"好听不好听"」 → 它有明确的实务标准（共同音保持、级进优先、反向优先），可以逐条检查。
+- 「平行五八度是唯一的规则」 → 那只是其中最常被提到的一条（见 [[concept:parallel-fifths|平行五八度]]），整套规则还有很多条。
+- 「现代音乐不需要声部进行」 → 即使是不协和的和声，声部走向仍决定听感是"有逻辑"还是"东碰西撞"。
 :::
 
 ::: en
@@ -160,14 +160,14 @@ Traditional writing uses four voices (soprano, alto, tenor, bass). Spacing has c
 | between the upper three voices | no more than an octave apart, or the texture falls apart |
 | between bass and tenor | may be wider — the low register needs room |
 
-This is the same point as [[concept:chord-voicing|chord voicing]]: **keep the low register open.** Pack a chord
+This is the same point as [[concept:chord-voicing|chord voicing]]: keep the low register open. Pack a chord
 low down and the partials interfere — the sound muddies at once.
 
 ## How voice leading relates to function
 
-Voice leading is not a technique standing on its own; it **serves function**. The push of dominant to tonic is
+Voice leading is not a technique standing on its own; it serves function. The push of dominant to tonic is
 precisely the leading tone rising a semitone and the seventh falling a semitone (see [[concept:cadence|cadence]]).
-In other words: **function says where to go, voice leading says how to travel.**
+In other words: function says where to go, voice leading says how to travel.
 
 ## Diagram: three chords, and how each voice moves
 
@@ -214,8 +214,8 @@ carries the travelling.
 
 ## Common misconceptions
 
-- **"A chord is moved as a block."** The voice-leading view is that each voice moves on its own. That shift instantly changes how you judge a connection.
-- **"Voice leading is just about sounding nice."** It has explicit practical criteria (hold common tones, prefer steps, prefer contrary motion) that can be checked one by one.
-- **"Parallel fifths are the only rule."** That is merely the most quoted one (see [[concept:parallel-fifths|parallel fifths]]); the full set is much larger.
-- **"Modern music needs no voice leading."** Even with dissonant harmony, how the voices move decides whether the result sounds logical or merely collided.
+- "A chord is moved as a block." The voice-leading view is that each voice moves on its own. That shift instantly changes how you judge a connection.
+- "Voice leading is just about sounding nice." It has explicit practical criteria (hold common tones, prefer steps, prefer contrary motion) that can be checked one by one.
+- "Parallel fifths are the only rule." That is merely the most quoted one (see [[concept:parallel-fifths|parallel fifths]]); the full set is much larger.
+- "Modern music needs no voice leading." Even with dissonant harmony, how the voices move decides whether the result sounds logical or merely collided.
 :::

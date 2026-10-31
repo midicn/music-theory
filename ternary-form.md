@@ -69,18 +69,18 @@ updated: 2026-09-25
 | 标记 | ABA | **A（本身是二段体/三段体）B A** |
 | 例 | 歌曲、小品 | 圆舞曲、谐谑曲、进行曲（见 [[concept:compound-ternary|复三部曲式]]） |
 
-区分方法很实用：**看每一段"能不能单独成篇"** ——
+区分方法很实用：看每一段"能不能单独成篇" ——
 如果 A 段自己就是一个完整的 ABA，那外层就是复三段体。
 
 ## 与奏鸣曲式的关键差别
 
 两者长得像（都是"出去—回来"），但有一处决定性差别：
 
-> **三段体的回归是"重复"（回到原来的调、原来的样子）。**
-> **奏鸣曲式的再现是"解决"（第二主题换了调，调性统一了）。**
+> 三段体的回归是"重复"（回到原来的调、原来的样子）。
+> 奏鸣曲式的再现是"解决"（第二主题换了调，调性统一了）。
 
-判断法：**看 B 段有没有把素材拆开发展**（有 → 更接近奏鸣曲式），
-以及**再现时有没有调性变化**（有 → 更接近奏鸣曲式）。
+判断法：看 B 段有没有把素材拆开发展（有 → 更接近奏鸣曲式），
+以及再现时有没有调性变化（有 → 更接近奏鸣曲式）。
 
 ## 图示：ABA 的三个字母
 
@@ -122,7 +122,7 @@ updated: 2026-09-25
 ## 听一听：陈述与回归
 
 用 `progression` 听一组"陈述 → 离开 → 回归"的功能进行。
-**最后一次回到 I 与第一次的 I 是同一个和弦，但听到的感受不同** —— 那就是"回归"的效果。
+最后一次回到 I 与第一次的 I 是同一个和弦，但听到的感受不同 —— 那就是"回归"的效果。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"陈述 → 离开 → 回归","label_en":"Statement, departure, return","hint":"逐个和弦依次听：开头与结尾的 I 是同一个和弦","hint_en":"Hear each chord: the opening and closing I are the same chord"}
@@ -130,10 +130,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「ABA 就是从头再来一遍」** → 回归**通常是变化回归（ABA′）**。完全重复反而少见，因为会显得机械。
-- **「B 段是展开」** → B 的任务是**对比**，不是拆解发展（那是奏鸣曲式的展开部）。
-- **「三段体和奏鸣曲式差不多」** → 关键差别在**调性有没有统一**，以及 **B 有没有发展素材**。
-- **「单三段与复三段只是规模差别」** → 结构层级不同：单三段体的每段是乐段；复三段体的每段**本身就是一个曲式**。
+- 「ABA 就是从头再来一遍」 → 回归通常是变化回归（ABA′）。完全重复反而少见，因为会显得机械。
+- 「B 段是展开」 → B 的任务是对比，不是拆解发展（那是奏鸣曲式的展开部）。
+- 「三段体和奏鸣曲式差不多」 → 关键差别在调性有没有统一，以及 B 有没有发展素材。
+- 「单三段与复三段只是规模差别」 → 结构层级不同：单三段体的每段是乐段；复三段体的每段本身就是一个曲式。
 :::
 
 ::: en
@@ -184,10 +184,10 @@ The test is practical: **can each section stand alone?** If A is itself a comple
 
 The two look alike (both "out and back"), but differ in one decisive respect:
 
-> **A ternary return is repetition** (same key, same shape).
-> **A sonata recapitulation is resolution** (the second subject is re-keyed; the tonality unifies).
+> A ternary return is repetition (same key, same shape).
+> A sonata recapitulation is resolution (the second subject is re-keyed; the tonality unifies).
 
-How to tell: **did B take the material apart** (if so, closer to sonata form), and **does the return change the
+How to tell: did B take the material apart (if so, closer to sonata form), and **does the return change the
 tonality** (if so, closer to sonata form).
 
 ## Diagram: the three letters
@@ -238,11 +238,11 @@ it does not feel the same** — that is the effect of return.
 
 ## Common misconceptions
 
-- **"ABA just means starting over."** The return is **usually varied (ABA′)**. A literal repeat is rarer because it
+- "ABA just means starting over." The return is usually varied (ABA′). A literal repeat is rarer because it
   sounds mechanical.
-- **"B is a development."** B provides **contrast**, not dissection (that is the sonata development's job).
-- **"Ternary and sonata form are much the same."** The decisive differences are **whether the tonality unifies** and
-  whether **B develops the material**.
-- **"Simple and compound ternary differ only in size."** The levels differ: in simple ternary each section is a
-  period; in compound ternary **each section is itself a form**.
+- "B is a development." B provides contrast, not dissection (that is the sonata development's job).
+- "Ternary and sonata form are much the same." The decisive differences are whether the tonality unifies and
+  whether B develops the material.
+- "Simple and compound ternary differ only in size." The levels differ: in simple ternary each section is a
+  period; in compound ternary each section is itself a form.
 :::

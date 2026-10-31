@@ -44,33 +44,33 @@ updated: 2026-09-25
 | **② 转位** | 低音是根音 / 三音 / 五音（见 [[concept:chord-inversion\|和弦转位]]） | 中 | 中 |
 | **③ 功能** | 在调里是主 / 下属 / 属 / 离调和弦 | 较难 | **最高** |
 
-**第①层为什么有用度低**：它**孤立地描述一个和弦**，
+**第①层为什么有用度低**：它孤立地描述一个和弦，
 而孤立的和弦几乎不携带音乐信息 —— 同一个大三和弦，可以是主、是属、也可以是下属。
 
 ## 三步听法（顺序不能反）
 
-> **① 先听低音 → ② 再听性质 → ③ 最后判功能**
+> ① 先听低音 → ② 再听性质 → ③ 最后判功能
 
-**为什么先听低音**：低音决定**根音位置与转位**，而功能判断高度依赖低音
+为什么先听低音：低音决定根音位置与转位，而功能判断高度依赖低音
 （终止四六和弦之所以特殊，正是因为低音是属音）。
 
-**为什么功能放最后**：功能需要**上下文** ——
+为什么功能放最后：功能需要上下文 ——
 要先知道"这个调的中心在哪、前面走到哪了"，才能判断当前和弦在做什么。
 
 ## 一条实用捷径
 
-**听两个和弦之间的关系，而不是听单个和弦。**
+听两个和弦之间的关系，而不是听单个和弦。
 
 | 听法 | 得到 |
 |---|---|
 | 只听单个和弦 | "这是个大小七和弦" —— 孤立信息 |
 | 听**前后两个和弦** | "它要解决到下一个" —— **功能信息** |
 
-**所以最有效的练习是"听进行"，而不是"听和弦"**：
-把注意力放在**变化的瞬间**（前一个怎么离开、后一个怎么落下），
+所以最有效的练习是"听进行"，而不是"听和弦"：
+把注意力放在变化的瞬间（前一个怎么离开、后一个怎么落下），
 功能判断就会自然出现。
 
-**这也解释了为什么练和弦听辨要从"终止式"开始练** ——
+这也解释了为什么练和弦听辨要从"终止式"开始练 ——
 终止式是功能关系最清楚的样本（见 [[concept:cadence|终止式]]）。
 
 ## 图示：三个层次与"功能优先"
@@ -116,8 +116,8 @@ updated: 2026-09-25
 
 ## 听一听：性质相同、功能不同
 
-用 `chord` 听同一个**大三和弦**。它本身听不出功能 ——
-**功能只能从"它前后是什么"判断出来**。这就是"性质有用度低"的直接演示。
+用 `chord` 听同一个大三和弦。它本身听不出功能 ——
+功能只能从"它前后是什么"判断出来。这就是"性质有用度低"的直接演示。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"大三和弦（性质可辨，但功能不明）","label_en":"A major triad: quality identifiable, function unknown","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -130,10 +130,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「和弦听辨就是听性质」** → 那是最低一层。**功能层才是最有用的一层**。
-- **「听单个和弦就能判功能」** → 不能。功能需要**上下文**（调性中心 + 前后关系）。
-- **「和弦听辨难在音多」** → 难在**功能判断需要调性框架**；有了框架，性质与转位都不难。
-- **「练和弦听辨要背很多和弦」** → 更有效的是**听进行**：从终止式入手，功能关系最清楚。
+- 「和弦听辨就是听性质」 → 那是最低一层。功能层才是最有用的一层。
+- 「听单个和弦就能判功能」 → 不能。功能需要上下文（调性中心 + 前后关系）。
+- 「和弦听辨难在音多」 → 难在功能判断需要调性框架；有了框架，性质与转位都不难。
+- 「练和弦听辨要背很多和弦」 → 更有效的是听进行：从终止式入手，功能关系最清楚。
 :::
 
 ::: en
@@ -158,27 +158,27 @@ musical information — the same major triad may be a tonic, a dominant, or a su
 
 ## A three-step order that cannot be reversed
 
-> **1 hear the bass → 2 hear the quality → 3 judge the function**
+> 1 hear the bass → 2 hear the quality → 3 judge the function
 
-**Why the bass first**: it fixes **the root position and the inversion**, and functional judgement depends heavily
+Why the bass first: it fixes the root position and the inversion, and functional judgement depends heavily
 on the bass (the cadential six-four is special precisely because its bass is the dominant).
 
-**Why function comes last**: it needs **context** — you must know where the key's centre is and where the music has
+Why function comes last: it needs context — you must know where the key's centre is and where the music has
 travelled before you can say what the present chord is doing.
 
 ## A practical shortcut
 
-**Listen to the relation between two chords, not to a single chord.**
+Listen to the relation between two chords, not to a single chord.
 
 | Listening | What you get |
 |---|---|
 | one chord alone | "that is a dominant seventh" — isolated information |
 | **two consecutive chords** | "it is about to resolve into the next" — **functional information** |
 
-**So the most effective exercise is hearing progressions, not chords**: put your attention on **the moment of
+So the most effective exercise is hearing progressions, not chords: put your attention on **the moment of
 change** (how the first leaves, how the second lands), and functional hearing appears by itself.
 
-**Which is also why chord hearing should begin with cadences** — a cadence is the clearest sample of functional
+Which is also why chord hearing should begin with cadences — a cadence is the clearest sample of functional
 relations (see [[concept:cadence|cadence]]).
 
 ## Diagram: three layers and the priority of function
@@ -224,7 +224,7 @@ relations (see [[concept:cadence|cadence]]).
 
 ## Listen: same quality, different function
 
-Use `chord` to hear one **major triad**. Its function cannot be heard from itself — **function is decided only by
+Use `chord` to hear one major triad. Its function cannot be heard from itself — **function is decided only by
 what surrounds it**. A direct demonstration of why quality is of low use.
 
 ```audiolab
@@ -237,11 +237,11 @@ what surrounds it**. A direct demonstration of why quality is of low use.
 
 ## Common misconceptions
 
-- **"Chord hearing means hearing quality."** That is the lowest layer. **Function is the useful one.**
-- **"One chord is enough to judge function."** It is not. Function requires **context** (the tonal centre and what
+- "Chord hearing means hearing quality." That is the lowest layer. Function is the useful one.
+- "One chord is enough to judge function." It is not. Function requires context (the tonal centre and what
   comes before and after).
-- **"Chord hearing is hard because of the number of notes."** It is hard because **functional judgement needs a
+- "Chord hearing is hard because of the number of notes." It is hard because **functional judgement needs a
   tonal frame**; with the frame, quality and inversion are easy.
-- **"You must memorise many chords."** More effective is **hearing progressions**: start from cadences, where
+- "You must memorise many chords." More effective is hearing progressions: start from cadences, where
   functional relations are clearest.
 :::

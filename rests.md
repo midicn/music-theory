@@ -42,10 +42,10 @@ updated: 2026-09-25
 | 𝄾 | 八分休止 | 八分音符的时值 |
 | 𝄿 | 十六分休止 | 十六分音符的时值 |
 
-**一个实务规则**：**全休止符兼作"整小节休止"** ——
-不论拍号是 2/4、3/4 还是 4/4，**一整个小节不发声就写一个全休止符**。
-（这一点容易让初学者困惑：3/4 里"一整个小节"明明是三拍，为什么写一个"四拍"的符号？——
-因为在这里它表示的是"**整小节**"这个结构概念，而不是具体拍数。）
+一条实务规则：**全休止符兼作"整小节休止"**。
+不论拍号是 2/4、3/4 还是 4/4，一整个小节不发声就写一个。
+初学者常在这里卡住：3/4 的一小节明明是三拍，为什么写"四拍"的符号？
+因为这个符号表示的是"整小节"，不是具体拍数。
 
 ## 它在音乐里做三件事
 
@@ -55,8 +55,8 @@ updated: 2026-09-25
 | **制造期待** | 停下来，听者立刻开始等下文 —— 这是最省力的张力手段之一 |
 | **清空织体** | 突然全体休止，让下一个进入显得格外醒目 |
 
-**第二行值得展开**：与"加东西"相比，**"减东西"制造紧张往往更有效** ——
-因为听者的注意力会自动去填补空缺（见 [[concept:climax|高潮设计]] 里"累积"的讨论）。
+与"加东西"相比，"减东西"制造紧张往往更有效。
+听者的注意力会自动去填补空缺（见 [[concept:climax|高潮设计]] 里"累积"的讨论）。
 
 ## 休止的写法实务
 
@@ -67,17 +67,17 @@ updated: 2026-09-25
 | 长休止（多个小节） | 用**多小节休止**记号（含数字），不必逐小节写 |
 | 附点休止 | 与附点音符同理，延长自身一半 |
 
-**第二行的规则很实用**：多声部乐谱里，**休止符的位置本身就是"声部在哪里"的提示** ——
-所以休止符必须与它所休止的那个声部**对齐**（垂直位置）。
+多声部乐谱里，休止符的位置本身就是"声部在哪里"的提示。
+所以休止符必须与它休止的那个声部对齐，看垂直位置。
 
 ## 一个演奏上的要点
 
-休止符**不等于"随便停下来"**：
+休止符不等于"随便停下来"：
 
-> **它的时值必须精确** —— 休止和音符一样占时间。
+> 它的时值必须精确 —— 休止和音符一样占时间。
 
 作曲者写一个二分休止符，意思是"这里静默两拍"，而不是"这里自由处理"。
-（**例外**是有明确标记的延长记号 `𝄐` 或自由节拍段落，见 [[concept:free-meter|自由节拍与散板]]。）
+（例外是有明确标记的延长记号 `𝄐` 或自由节拍段落，见 [[concept:free-meter|自由节拍与散板]]。）
 
 ## 图示：休止做的三件事
 
@@ -130,8 +130,8 @@ updated: 2026-09-25
 
 ## 听一听：有休止与无休止
 
-用 `rhythm` 对比**连续均分**与**留有空白**的形态。两者总时长相同 ——
-**但"留白"那一档的期待感完全不同**（见 [[concept:breath-phrasing|呼吸与句读]]）。
+用 `rhythm` 对比连续均分与留有空白的形态。两者总时长相同 ——
+但"留白"那一档的期待感完全不同（见 [[concept:breath-phrasing|呼吸与句读]]）。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":88,"label":"不留空白（连续均分）","label_en":"No gaps — continuous even quarters","hint":"先听这一档","hint_en":"Hear this setting first"}
@@ -143,10 +143,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「休止就是"没有音乐"」** → 休止是**音乐的一部分**：它承担呼吸、期待与清空织体三种功能。
-- **「休止符可以随便停」** → 它的时值必须**精确**（除非有延长记号或自由节拍标记）。
-- **「3/4 里整小节休止要写三个四分休止符」** → 写**一个全休止符**即可：它在这里表示"整小节"这个结构概念。
-- **「休止符的位置不重要」** → 多声部里休止符**必须与所在声部对齐**，它同时是"声部在哪里"的视觉提示。
+- 「休止就是"没有音乐"」 → 休止是音乐的一部分：它承担呼吸、期待与清空织体三种功能。
+- 「休止符可以随便停」 → 它的时值必须精确（除非有延长记号或自由节拍标记）。
+- 「3/4 里整小节休止要写三个四分休止符」 → 写一个全休止符即可：它在这里表示"整小节"这个结构概念。
+- 「休止符的位置不重要」 → 多声部里休止符必须与所在声部对齐，它同时是"声部在哪里"的视觉提示。
 :::
 
 ::: en
@@ -164,10 +164,10 @@ A rest is most easily mistaken for "somewhere with nothing to write". But it is 
 | 𝄾 | eighth rest | the value of an eighth |
 | 𝄿 | sixteenth rest | the value of a sixteenth |
 
-**One practical rule**: a **whole rest also serves as a full-bar rest** — whatever the metre (2/4, 3/4 or 4/4), a
-bar with no sound is written with a single whole rest. (This puzzles beginners: in 3/4 the whole bar is three beats,
-so why a "four-beat" symbol? Because here it means the **structural concept** of "the whole bar", not a beat
-count.)
+One practical rule: a **whole rest also serves as a full-bar rest**.
+Whatever the metre, a bar with no sound is written with a single whole rest.
+Beginners stall here: in 3/4 a bar is three beats, so why a four-beat symbol?
+Because the sign means "the whole bar", not a beat count.
 
 ## Three things a rest does
 
@@ -177,9 +177,9 @@ count.)
 | **creating expectation** | stop, and the listener immediately waits for what follows — one of the cheapest sources of tension |
 | **clearing the texture** | a sudden full rest makes the next entry stand out sharply |
 
-**The second deserves emphasis**: compared with adding material, **subtracting often creates tension more
-effectively** — because the listener's attention automatically moves to fill the gap (see the discussion of
-accumulation under [[concept:climax|designing a climax]]).
+Compared with adding material, subtracting often creates tension more effectively.
+The listener's attention automatically moves to fill the gap (see the discussion of accumulation under
+[[concept:climax|designing a climax]]).
 
 ## Practical notation points
 
@@ -190,14 +190,14 @@ accumulation under [[concept:climax|designing a climax]]).
 | a long silence (several bars) | a **multi-bar rest** with a figure, rather than bar by bar |
 | dotted rests | as with dotted notes: half the rest's own value added |
 
-**The second row is very practical**: in a multi-part score, **the position of a rest is itself a cue to where a
-part sits** — so rests must align with the part they silence.
+In a multi-part score, the position of a rest is itself a cue to where a part sits.
+Rests must align with the part they silence.
 
 ## A performance point
 
-A rest **does not mean "stop whenever you like"**:
+A rest does not mean "stop whenever you like":
 
-> **Its value must be exact** — a rest occupies time just as a note does.
+> Its value must be exact — a rest occupies time just as a note does.
 
 When a composer writes a half rest, the meaning is "two beats of silence here", not "handle this freely". (The
 exception is an explicit fermata `𝄐` or a passage in free metre — see
@@ -253,8 +253,8 @@ exception is an explicit fermata `𝄐` or a passage in free metre — see
 
 ## Listen: with and without rests
 
-Use `rhythm` to compare **continuous even quarters** with **a version that leaves a gap**. The total length is the
-same — **but the sense of expectation is entirely different** (see [[concept:breath-phrasing|breathing and
+Use `rhythm` to compare continuous even quarters with a version that leaves a gap. The total length is the
+same — but the sense of expectation is entirely different (see [[concept:breath-phrasing|breathing and
 phrasing]]).
 
 ```audiolab
@@ -267,12 +267,12 @@ phrasing]]).
 
 ## Common misconceptions
 
-- **"A rest means there is no music."** A rest is **part of the music**, doing three jobs: breath, expectation and
+- "A rest means there is no music." A rest is part of the music, doing three jobs: breath, expectation and
   clearing the texture.
-- **"You can stop however you like at a rest."** Its value is **exact** unless a fermata or a free-metre marking says
+- "You can stop however you like at a rest." Its value is exact unless a fermata or a free-metre marking says
   otherwise.
-- **"A full bar of rest in 3/4 takes three quarter rests."** A single whole rest serves: here it means the
+- "A full bar of rest in 3/4 takes three quarter rests." A single whole rest serves: here it means the
   structural "whole bar".
-- **"A rest's position does not matter."** In multi-part music a rest **must align with its part**; it doubles as a
+- "A rest's position does not matter." In multi-part music a rest must align with its part; it doubles as a
   visual cue to where that part sits.
 :::

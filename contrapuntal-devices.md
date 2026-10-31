@@ -28,7 +28,7 @@ updated: 2026-09-24
 ---
 
 ::: zh
-变形手法的思路是：**不写新素材，而是把已有的素材"改一个维度"。**
+变形手法的思路只有一条：**不写新素材，只把已有素材改一个维度**。
 
 | 手法 | 改哪个维度 | 做法 |
 |---|---|---|
@@ -37,30 +37,33 @@ updated: 2026-09-24
 | **扩大** | **速度** | 每个音的时值加倍（听起来慢一倍） |
 | **缩小** | **速度** | 每个音的时值减半（听起来快一倍） |
 
-四者有一个共同点，也是它们能在复调里成立的原因：
+四者有一个共同点，这也是它们能在复调里成立的原因。
 
-> **音程结构不变。** 改的只是方向、顺序或速度 ——
+> **音程结构不变。** 改的只是方向、顺序或速度。
 > 所以听者仍然认得出"这是同一个素材"。
 
-**这正是复调"经济性"的极致**：素材写了一次，却能产生四种听起来不同、却同源的东西。
+**这正是复调"经济性"的极致**。素材写一次，能产生四种听起来不同、却同源的东西。
 
 ## 倒影：与音程转位是同一件事的另一面
 
-倒影保持音程的**宽度**、反转它的**方向**。这与 [[concept:interval-inversion|音程转位]] 是同一套逻辑
-（都关心"距离与方向"），只是作用对象不同：一个作用在两个音之间，一个作用在整条旋律上。
+倒影保持音程的**宽度**，反转它的方向。
+这与 [[concept:interval-inversion|音程转位]] 是同一套逻辑，都关心距离与方向。
+只是对象不同：一个作用在两个音之间，一个作用在整条旋律上。
 
-倒影会让调式发生变化（大调片段倒影后可能变成小调味道），所以实际写作时常需要调整个别音来适应和声。
+倒影会让调式发生变化，大调片段倒影后可能带小调味道。
+所以实际写作时常要调整个别音，来适应和声。
 
 ## 逆行：最难的一种
 
-逆行的规则最简单，做起来最难：
+逆行的规则最简单，做起来最难。
 
-> **旋律倒着走时，和声也倒着走了。**
+> 旋律倒着走时，和声也倒着走了。
 
-而和声进行是**有方向**的（属→主有效，主→属没效果）。所以严格逆行经常会产出怪异的和声，
-实际作品里通常**只逆行短小片段**，或做局部调整。
+而和声进行是有方向的：属→主有效，主→属没效果。
+所以严格逆行常会产出怪异的和声。
+实际作品里通常只逆行短小片段，或做局部调整。
 
-这也是一个很好的提醒：**对位手法的难度不只来自"音符能不能对上"，还来自"和声方向是否还说得通"。**
+这也是一个提醒。对位手法的难度不只来自音符能不能对上，还来自和声方向是否说得通。
 
 ## 扩大与缩小：改变时间尺度
 
@@ -69,11 +72,12 @@ updated: 2026-09-24
 | **扩大** | 素材变成"慢动作"，其他声部照常流动 | 常用于**结尾**：素材以庄严的形态最后一次出现 |
 | **缩小** | 素材变密，节奏加快 | 常用于**推进段**：把进入压紧，制造紧迫感 |
 
-巴赫《哥德堡变奏曲》与赋格中大量使用这一对，因为它们**不需要新素材就能改变音乐的密度**。
+巴赫在《哥德堡变奏曲》与赋格中大量使用这一对。
+它们不需要新素材，就能改变音乐的密度。
 
 ## 与十二音技法的关系
 
-20 世纪勋伯格建立的十二音技法，把变形手法提升为**整套音高组织原则**。
+20 世纪勋伯格建立的十二音技法，把变形手法提升为整套音高组织原则。
 一条序列有四副面孔：
 
 | 形态 | 说明 |
@@ -83,8 +87,9 @@ updated: 2026-09-24
 | **逆行**（R） | 从尾到头 |
 | **逆行倒影**（RI） | 两者同时 |
 
-值得注意的是：**这套思路并不是 20 世纪的发明**，而是把复调几百年的变形手法
-**系统化、并把它变成"必须使用"的规则**。区别在强制性：巴洛克是"可用的手法"，十二音是"组织的原则"。
+这套思路并不是 20 世纪的发明。
+它把复调几百年的变形手法系统化，并变成必须使用的规则。
+区别在强制性：巴洛克是可用的手法，十二音是组织的原则。
 
 ## 图示：四种变形
 
@@ -126,8 +131,10 @@ updated: 2026-09-24
 
 ## 听一听：方向反转的关系
 
-变形手法作用于整条旋律，本站的听辨件放不出多声部的运用。这里用 `interval` 看**倒影的逻辑**：
-三度上行（C→E）与三度下行（C→A）在宽度上相同、方向相反 —— 这就是倒影在两个音上的样子。
+变形手法作用于整条旋律，这个听辨件放不出多声部的运用。
+这里用 `interval` 看倒影的逻辑。
+三度上行（C→E）与三度下行（C→A）宽度相同、方向相反。
+这就是倒影在两个音上的样子。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"E4","label":"原型方向：上行三度","label_en":"Original direction: a rising third","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"把 b 换成 A3（低八度）就是下行三度 —— 宽度不变、方向相反，正是倒影的关系。","hint2_en":"Set b to a lower A for a falling third — same width, opposite direction, exactly the mirror relation."}
@@ -135,10 +142,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「倒影与音程转位是一回事」** → 逻辑同源但对象不同：音程转位作用在两个音之间，倒影作用在整条旋律上。
-- **「逆行只是把谱子倒着抄」** → 技术上是的，但**和声会跟着倒流**，因此通常只用于短片段或需局部调整。
-- **「扩大与缩小只是改速度」** → 它们改变的是**音乐的密度**，是结构手段，不是演奏提示。
-- **「这些手法是十二音技法发明的」** → 恰恰相反：复调用了几百年，十二音只是把它**变成了必须使用的规则**。
+- 「倒影与音程转位是一回事」 → 逻辑同源，对象不同。音程转位作用在两个音之间，倒影作用在整条旋律上。
+- 「逆行只是把谱子倒着抄」 → 技术上是的，但和声会跟着倒流。因此通常只用于短片段。
+- 「扩大与缩小只是改速度」 → 它们改变的是音乐密度，属于结构手段，不是演奏提示。
+- 「这些手法是十二音技法发明的」 → 恰恰相反。复调用了几百年，十二音把它变成必须使用的规则。
 :::
 
 ::: en
@@ -161,7 +168,7 @@ yet come from one source.
 
 ## Mirror: the other face of interval inversion
 
-Mirror keeps an interval's **width** and reverses its **direction**. That is the same logic as
+Mirror keeps an interval's **width** and reverses its direction. That is the same logic as
 [[concept:interval-inversion|interval inversion]] — both concern distance and direction — applied to a different
 object: one works between two notes, the other across a whole melody.
 
@@ -172,10 +179,10 @@ adjusting to fit the harmony.
 
 Its rule is the simplest and its execution the hardest:
 
-> **When the melody runs backwards, so does the harmony.**
+> When the melody runs backwards, so does the harmony.
 
-And harmony has **direction** (dominant to tonic works; tonic to dominant does not). So strict retrograde often
-produces strange harmony, and in practice it is applied to **short passages**, or adjusted locally.
+And harmony has direction (dominant to tonic works; tonic to dominant does not). So strict retrograde often
+produces strange harmony, and in practice it is applied to short passages, or adjusted locally.
 
 It is a useful reminder: **the difficulty of a contrapuntal device is not only whether the notes fit, but whether
 the harmonic direction still makes sense.**
@@ -202,7 +209,7 @@ principle of pitch organisation**. A row has four faces:
 | **retrograde** (R) | back to front |
 | **retrograde inversion** (RI) | both at once |
 
-Worth noting: **this is not a twentieth-century invention** but the systematisation of devices polyphony had used
+Worth noting: this is not a twentieth-century invention but the systematisation of devices polyphony had used
 for centuries — and then made compulsory. The difference is obligation: in the Baroque they were available
 devices; in twelve-tone writing they are the organising principle.
 
@@ -256,12 +263,12 @@ direction — mirroring, reduced to two notes.
 
 ## Common misconceptions
 
-- **"Mirror and interval inversion are the same."** Related logic, different objects: interval inversion acts
+- "Mirror and interval inversion are the same." Related logic, different objects: interval inversion acts
   between two notes, mirroring acts across a melody.
-- **"Retrograde is just copying the page backwards."** Technically yes, but **the harmony runs backwards with
+- "Retrograde is just copying the page backwards." Technically yes, but **the harmony runs backwards with
   it**, so it is usually confined to short passages or adjusted locally.
-- **"Augmentation and diminution only change speed."** They change the **density of the music** — a structural
+- "Augmentation and diminution only change speed." They change the density of the music — a structural
   device, not a performance instruction.
-- **"Twelve-tone technique invented these devices."** The reverse: polyphony used them for centuries, and
+- "Twelve-tone technique invented these devices." The reverse: polyphony used them for centuries, and
   twelve-tone writing made them compulsory.
 :::

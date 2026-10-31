@@ -35,7 +35,7 @@ updated: 2026-09-23
 | **下行** | 还原 | 回到 A♭、B♭ |
 
 > C 旋律小调上行：C D E♭ F G **A** **B** C
-> C 旋律小调下行：C **B♭** **A♭** G F E♭ D C
+> C 旋律小调下行：C **B♭** A♭ G F E♭ D C
 
 ## 为什么要这样做
 
@@ -46,17 +46,17 @@ updated: 2026-09-23
 | 需要导音（第 7 级升）→ 属功能成立 | 升第 7 级 | 第 6–7 级变成增二度，难唱（[[concept:harmonic-minor|和声小调]]的问题） |
 | 需要唱得顺 | 上行时连第 6 级一起升 | 升上去之后上下行不一致，记谱要标两遍 |
 
-**旋律小调是"两害相权取其轻"的结果**：既然升了第 6 级之后，上行的第 6–7 级是全音（A–B，好唱），
+旋律小调是"两害相权取其轻"的结果：既然升了第 6 级之后，上行的第 6–7 级是全音（A–B，好唱），
 那就上行全升；而下行时没有导音需求，干脆还原回自然小调，旋律更柔和。
 
 ## 一个常见写法上的细节
 
-在实际作品里，这条规则**不是机械执行**的。常见的处理是：
+在实际作品里，这条规则不是机械执行的。常见的处理是：
 
 - 下行时，如果后面接的是属和弦，第 7 级仍会保留升高（因为功能和声需要导音）；
 - 上行时，如果只是经过而非走向主音，第 6 级有时不升。
 
-所以更准确的说法是：**旋律小调描述的是一种倾向，而不是一条必须逐音遵守的规则。**
+所以更准确的说法是：旋律小调描述的是一种倾向，而不是一条必须逐音遵守的规则。
 
 ## 图示：两个方向
 
@@ -105,10 +105,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「音阶只能有一个方向」** → 旋律小调是唯一上行下行结构不同的常用音阶，这正是它的定义。
-- **「三种小调必须背三条」** → 记住起始点是自然小调、和声小调升 7、旋律小调上行升 6+7，三条就都出来了。
-- **「作品里必须严格按规则走」** → 实际写作是灵活的（见上"常见写法"），规则描述的是倾向。
-- **「旋律小调没有调号」** → 调号仍按主音决定；升降的音是临时记号，由调号之外单独标出。
+- 「音阶只能有一个方向」 → 旋律小调是唯一上行下行结构不同的常用音阶，这正是它的定义。
+- 「三种小调必须背三条」 → 记住起始点是自然小调、和声小调升 7、旋律小调上行升 6+7，三条就都出来了。
+- 「作品里必须严格按规则走」 → 实际写作是灵活的（见上"常见写法"），规则描述的是倾向。
+- 「旋律小调没有调号」 → 调号仍按主音决定；升降的音是临时记号，由调号之外单独标出。
 :::
 
 ::: en
@@ -120,7 +120,7 @@ Melodic minor is the only one of the three minors **that differs by direction**:
 | **descending** | restore them | back to A♭, B♭ |
 
 > C melodic minor up: C D E♭ F G **A** **B** C
-> C melodic minor down: C **B♭** **A♭** G F E♭ D C
+> C melodic minor down: C **B♭** A♭ G F E♭ D C
 
 ## Why it is built this way
 
@@ -131,20 +131,20 @@ It solves two problems at once, and the costs cancel each other out:
 | a leading tone (raise the 7th) so dominant function works | raise the 7th | steps 6–7 become an augmented second, awkward to sing (the problem of [[concept:harmonic-minor|harmonic minor]]) |
 | a melody that sings smoothly | raise the 6th too, when ascending | the two directions now differ, so notation must state both |
 
-**Melodic minor is the lesser of two evils.** Once the sixth is raised, the ascending 6–7 step is a whole tone
+Melodic minor is the lesser of two evils. Once the sixth is raised, the ascending 6–7 step is a whole tone
 (A–B, easy to sing), so ascend with both raised; descending has no need of a leading tone, so restore them and
 let the line soften back toward natural minor.
 
 ## A practical detail
 
-In real music the rule is **not applied mechanically**:
+In real music the rule is not applied mechanically:
 
 - descending, if a dominant chord follows, the seventh often stays raised, because the harmony needs the
   leading tone;
 - ascending, if a line merely passes through rather than heading for the tonic, the sixth is sometimes left
   unraised.
 
-So the more accurate statement is: **melodic minor describes a tendency, not a rule to be obeyed note by note.**
+So the more accurate statement is: melodic minor describes a tendency, not a rule to be obeyed note by note.
 
 ## Diagram: two directions
 
@@ -193,8 +193,8 @@ Press Up, then Down. One scale with two forms — listen to the height of the si
 
 ## Common misconceptions
 
-- **"A scale can only run one way."** Melodic minor is the one common scale whose ascending and descending structures differ; that is its definition.
-- **"You must memorise three separate minors."** Start from natural minor, raise the 7th for harmonic minor, raise 6 and 7 going up for melodic minor — all three follow.
-- **"Pieces must follow the rule strictly."** Real writing is flexible (see above); the rule describes a tendency.
-- **"Melodic minor has no key signature."** The signature still follows the tonic; the raised notes are accidentals marked on top of it.
+- "A scale can only run one way." Melodic minor is the one common scale whose ascending and descending structures differ; that is its definition.
+- "You must memorise three separate minors." Start from natural minor, raise the 7th for harmonic minor, raise 6 and 7 going up for melodic minor — all three follow.
+- "Pieces must follow the rule strictly." Real writing is flexible (see above); the rule describes a tendency.
+- "Melodic minor has no key signature." The signature still follows the tonic; the raised notes are accidentals marked on top of it.
 :::

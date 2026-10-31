@@ -28,7 +28,8 @@ updated: 2026-09-25
 ---
 
 ::: zh
-分手练习的真正作用，常被说成"因为手不熟"。更准确的表述是：
+分手练习的作用，常被说成"因为手不熟"。
+更准确的说法是：
 
 > **它降低的是"同时需要处理的信息量"。**
 
@@ -36,50 +37,50 @@ updated: 2026-09-25
 
 | 层次 | 分什么 | 适用 |
 |---|---|---|
-| **① 分手** | 左手 / 右手 | 键盘乐器 |
-| **② 分声部** | 各旋律线（见 [[concept:counterpoint\|对位]]） | 复调作品、弦乐四重奏、合唱 |
-| **③ 分音层** | 旋律 / 伴奏 / 低音 | 主调织体 |
+| **① 分手** | 左手、右手。 | 键盘乐器。 |
+| **② 分声部** | 各旋律线（见 [[concept:counterpoint\|对位]]）。 | 复调作品、弦乐四重奏、合唱。 |
+| **③ 分音层** | 旋律、伴奏、低音。 | 主调织体。 |
 
-**第②层与第①层不同**：分手是"按手分"，分声部是"**按线分**" ——
-在复调作品里，**一只手常常要负责两条线**（而这两条线本身也值得分别练）。
+**第②层与第①层不同。**
+分手是"按手分"，分声部是"**按线分**"。
+在复调作品里，**一只手常常要负责两条线**。
+这两条线本身也值得分别练。
 
-**所以"分声部"比"分手"更接近音乐本身的结构** ——
-它是按**声部**而非按**肢体**切分。
+所以"分声部"比"分手"更接近音乐本身的结构。
+它按声部切，不按肢体切。
 
 ## 关键：合手不是"相加"
 
-这是本条最容易被误解的一点：
-
-> **合手本身是一个新任务，不是"两只手各自练好之后自然就合上了"。**
+> 合手本身是一个新任务。不是两只手各自练好，就自然合上了。
 
 | 前提 | 结果 |
 |---|---|
-| 分手都练得很熟 | **仍然可能在合手时崩** |
-| 分手熟 + **单独练"合"** | 才能真正合上 |
+| 分手都练得很熟。 | **仍然可能在合手时崩。** |
+| 分手熟，**单独练过"合"**。 | 才能真正合上。 |
 
-**为什么**：合手意味着**同时做两件事**，这是一个新的协调任务 ——
-就像"会左手画圆、右手画方"不等于"能同时画"。
+为什么？合手意味着同时做两件事，这是一个新的协调任务。
+会左手画圆、右手画方，不等于能同时画。
 
-**所以合手要按独立任务对待**：
+所以合手要按独立任务对待。
 
 | 步骤 | 做法 |
 |---|---|
-| 1 | 分手各自练到能不出错 |
-| 2 | **慢速合手**（比单手练习慢得多） |
-| 3 | 逐步提速，**回到整曲** |
+| 1 | 分手各自练到能不出错。 |
+| 2 | **慢速合手**，比单手练习慢得多。 |
+| 3 | 逐步提速，**回到整曲**。 |
 
-**第②步的"慢"容易被忽略**：很多人一手熟了就按原速合 —— 那几乎必然出错。
-**合手的速度应当比单手更慢**，因为要处理的信息量更大。
+第②步的"慢"最容易被忽略：很多人一手熟了就按原速合，那几乎必然出错。
+合手的速度该比单手更慢，因为要处理的信息量更大。
 
 ## 一个常见的错误顺序
 
 | 错误做法 | 问题 |
 |---|---|
-| 先快速合手试一遍，崩了再分手 | 在**重复错误**（见 [[concept:practice-method\|练习方法]]） |
-| 只分手练，从不单独练合 | 直到演出前才第一次认真合手 |
-| 合手时只盯着难的声部 | 另一只手失去控制 |
+| 先快速合手试一遍，崩了再分手。 | 在**重复错误**（见 [[concept:practice-method\|练习方法]]）。 |
+| 只分手练，从不单独练合。 | 直到演出前才第一次认真合手。 |
+| 合手时只盯着难的声部。 | 另一只手失去控制。 |
 
-**第一行最普遍**：先"试"一遍再练，实际上**先给错误的动作做了一遍示范**。
+第一行最普遍：先"试"一遍再练，等于先给错误的动作做了一遍示范。
 
 ## 图示：分与合是两件事
 
@@ -124,8 +125,9 @@ updated: 2026-09-25
 
 ## 听一听：两条独立线
 
-分手/分声部练习的对象是**独立的线**。本站放不出两声部，但可以用 `interval` 感受**两条线在同一时刻的关系**——
-**每条线各自连续、合起来才成和声**，这就是分声部练习要建立的听感。
+分手、分声部练的是独立的线。这里放不出两声部，但 `interval` 能让你听见两条线在同一时刻的关系。
+每条线各自连续，合起来才成和声。
+这就是分声部练习要建立的听感。
 
 ```audiolab
 {"type":"interval","a":"C4","b":"A4","label":"两条线的某一时刻（六度）","label_en":"One instant of two lines: a sixth","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"分声部练习的目标：每条线单独听像旋律，合起来才成和声（见对位那条）。","hint2_en":"The aim of part practice: each line is a melody on its own, and only together do they make harmony."}
@@ -133,10 +135,11 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「分手练习是为了手熟」** → 更准确地说，是**降低同时处理的信息量**。
-- **「两只手各自练好，合起来自然就行」** → **合手是新任务**，必须单独练，且**比单手更慢**。
-- **「分声部就是分手」** → 不同：分手按**肢体**切，分声部按**音乐线条**切。复调作品里一只手可能有两条线。
-- **「合手前先快速试一遍」** → 那是在**重复错误**，等于先示范一遍错的。应当**直接慢速开始**。
+- 「分手练习是为了手熟」 → 更准确地说，是降低同时处理的信息量。
+- 「两只手各自练好，合起来自然就行」 → 合手是新任务，必须单独练，比单手更慢。
+- 「分声部就是分手」 → 不一样。分手按肢体切，分声部按音乐线条切。复调作品里一只手可能有两条线。
+- 「合手前先快速试一遍」 → 那是在重复错误。应当直接放慢开始。
+
 :::
 
 ::: en
@@ -153,9 +156,9 @@ Hands-separate practice is usually explained as "because the hands are not ready
 | **3 layers** | melody / accompaniment / bass | homophonic textures |
 
 **Level 2 differs from level 1**: separating hands divides by **limb**, separating parts by **line** — and in
-polyphonic music **one hand often carries two lines**, each of which also deserves separate practice.
+polyphonic music one hand often carries two lines, each of which also deserves separate practice.
 
-**So part practice is closer to the music's own structure** — it divides by **voice**, not by **body**.
+So part practice is closer to the music's own structure — it divides by voice, not by body.
 
 ## The key point: combining is not addition
 
@@ -168,10 +171,10 @@ The most easily misread point here:
 | both hands well practised | **combining may still collapse** |
 | both hands ready + **practising the combination itself** | it works |
 
-**Why**: combining means **doing two things at once**, a new coordination task — like "can draw a circle with the
+Why: combining means doing two things at once, a new coordination task — like "can draw a circle with the
 left hand and a square with the right" not implying "can do both simultaneously".
 
-**So treat combining as an independent task**:
+So treat combining as an independent task:
 
 | Step | Do this |
 |---|---|
@@ -179,8 +182,8 @@ left hand and a square with the right" not implying "can do both simultaneously"
 | 2 | **combine slowly** (much slower than the single-hand tempo) |
 | 3 | raise the tempo gradually, **back to the whole piece** |
 
-**The slowness of step 2 is easily missed**: many people combine at the original tempo as soon as one hand is ready —
-which almost guarantees errors. **The combining tempo should be slower than either hand's**, because more information
+The slowness of step 2 is easily missed: many people combine at the original tempo as soon as one hand is ready —
+which almost guarantees errors. The combining tempo should be slower than either hand's, because more information
 is being processed.
 
 ## A common wrong order
@@ -191,7 +194,7 @@ is being processed.
 | practise hands separately only, never the combination | combining seriously for the first time just before a performance |
 | watching only the difficult part when combining | the other hand loses control |
 
-**The first is the commonest**: "trying" it once before practising gives **a demonstration of the wrong action**.
+The first is the commonest: "trying" it once before practising gives a demonstration of the wrong action.
 
 ## Diagram: separating and combining are two things
 
@@ -236,8 +239,8 @@ is being processed.
 
 ## Listen: two independent lines
 
-The object of part practice is **independent lines**. This site cannot play two voices, but `interval` lets you feel
-**the relation of two lines at one instant** — **each line continuous on its own, harmony only when combined**, which
+The object of part practice is independent lines. No two voices can be played here, but `interval` lets you feel
+the relation of two lines at one instant — each line continuous on its own, harmony only when combined, which
 is the aural aim of part practice.
 
 ```audiolab
@@ -246,11 +249,11 @@ is the aural aim of part practice.
 
 ## Common misconceptions
 
-- **"Hands separate is for hand readiness."** More precisely, it **reduces the information to be processed at once**.
-- **"Once both hands are ready, combining follows."** **Combining is a new task**, practised separately and **slower
+- "Hands separate is for hand readiness." More precisely, it reduces the information to be processed at once.
+- "Once both hands are ready, combining follows." Combining is a new task, practised separately and **slower
   than either hand**.
-- **"Part practice is hands separate."** They differ: one divides by **limb**, the other by **musical line**. In
+- "Part practice is hands separate." They differ: one divides by limb, the other by musical line. In
   polyphony one hand may carry two lines.
-- **"Try it fast first, then separate."** That is **repeating errors** — a demonstration of the wrong action.
-  **Start slowly instead.**
+- "Try it fast first, then separate." That is repeating errors — a demonstration of the wrong action.
+  Start slowly instead.
 :::

@@ -34,13 +34,13 @@ updated: 2026-09-23
 > 自然小调（C）：C D E♭ F G A♭ **B♭**
 > 和声小调（C）：C D E♭ F G A♭ **B**  ← 只动这一个音
 
-升起的第 7 级就是**导音**：它与主音只隔半音，属和弦随之变成**大**三和弦，
+升起的第 7 级就是导音：它与主音只隔半音，属和弦随之变成大三和弦，
 "属→主"的推进力立刻回来了。这是小调作品里最常见的一处变化音 ——
 你在一首 a 小调曲子里听到 G♯，来源就在这里。
 
 ## 代价：一个增二度
 
-改动带来一个副作用：第 6 级与第 7 级之间原来是全音，现在变成了**增二度**（A♭–B，三个半音）。
+改动带来一个副作用：第 6 级与第 7 级之间原来是全音，现在变成了增二度（A♭–B，三个半音）。
 这个音程在听觉上接近小三度，很难唱准，在旋律里也显得"异域"。
 于是产生了 [[concept:melodic-minor|旋律小调]] 这一层再修补 —— 上行时把第 6 级也升上去。
 
@@ -101,10 +101,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「和声小调是一条独立的音阶」** → 它是自然小调为**和声需要**做的一次调整，常用于属和弦与终止式，不一定贯穿全曲。
-- **「临时的升号是写错了」** → 小调作品里升第 7 级是最常规的变化音，来自和声小调。
-- **「增二度听起来像小三度，是不是一回事」** → 听感接近，记谱与功能完全不同：增二度是两个音级名，小三度是三个。
-- **「三种小调必须选一种用」** → 实际作品里常混用：旋律走自然小调，属和弦用和声小调，上行经过句用旋律小调。
+- 「和声小调是一条独立的音阶」 → 它是自然小调为和声需要做的一次调整，常用于属和弦与终止式，不一定贯穿全曲。
+- 「临时的升号是写错了」 → 小调作品里升第 7 级是最常规的变化音，来自和声小调。
+- 「增二度听起来像小三度，是不是一回事」 → 听感接近，记谱与功能完全不同：增二度是两个音级名，小三度是三个。
+- 「三种小调必须选一种用」 → 实际作品里常混用：旋律走自然小调，属和弦用和声小调，上行经过句用旋律小调。
 :::
 
 ::: en
@@ -115,14 +115,14 @@ tone, so its pull to the tonic is weak and the harmony cannot stand. The fix is 
 > natural minor (C): C D E♭ F G A♭ **B♭**
 > harmonic minor (C): C D E♭ F G A♭ **B**  ← one note moves
 
-The raised seventh is the **leading tone**: a semitone below the tonic, which turns the dominant chord into a
-**major** triad and restores the push toward home. It is the most common accidental in minor-key writing — hear
+The raised seventh is the leading tone: a semitone below the tonic, which turns the dominant chord into a
+major triad and restores the push toward home. It is the most common accidental in minor-key writing — hear
 a G♯ in a piece in A minor and this is where it comes from.
 
 ## The price: an augmented second
 
 The change has a side effect: the sixth-to-seventh step, formerly a whole tone, becomes an
-**augmented second** (A♭–B, three semitones). That interval sounds close to a minor third, is hard to sing in
+augmented second (A♭–B, three semitones). That interval sounds close to a minor third, is hard to sing in
 tune, and gives a melody an exotic tinge. Hence the further repair of
 [[concept:melodic-minor|melodic minor]] — raising the sixth as well when ascending.
 
@@ -184,8 +184,8 @@ and that step is where the exotic tinge lives.
 
 ## Common misconceptions
 
-- **"Harmonic minor is a separate scale."** It is one adjustment of natural minor for **harmonic** needs, used at dominant chords and cadences rather than necessarily throughout a piece.
-- **"A written sharp must be an error."** A raised seventh is the most routine accidental in minor-key music, and harmonic minor is where it comes from.
-- **"An augmented second sounds like a minor third, so it is the same thing."** Similar sound, entirely different spelling and function: three semitones spanning two letter names, not three.
-- **"You must choose one of the three minors."** Real pieces mix them — natural minor in the melody, harmonic minor at the dominant, melodic minor in ascending runs.
+- "Harmonic minor is a separate scale." It is one adjustment of natural minor for harmonic needs, used at dominant chords and cadences rather than necessarily throughout a piece.
+- "A written sharp must be an error." A raised seventh is the most routine accidental in minor-key music, and harmonic minor is where it comes from.
+- "An augmented second sounds like a minor third, so it is the same thing." Similar sound, entirely different spelling and function: three semitones spanning two letter names, not three.
+- "You must choose one of the three minors." Real pieces mix them — natural minor in the melody, harmonic minor at the dominant, melodic minor in ascending runs.
 :::

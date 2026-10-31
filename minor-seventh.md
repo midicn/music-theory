@@ -50,7 +50,7 @@ updated: 2026-09-24
 - [[concept:major-seventh|大七和弦]]：大调只有 **2** 个（第 1、4 级）
 - [[concept:half-diminished-seventh|半减七]]：大调只有 **1** 个（第 7 级）
 
-**小七和弦是数量最多的一种**，因此在实践中出现频率最高 ——
+小七和弦是数量最多的一种，因此在实践中出现频率最高 ——
 在爵士里，ii7–V7–Imaj7 是最基本的进行，其中两个和弦都是七和弦。
 
 ## 七音的角色
@@ -60,8 +60,8 @@ updated: 2026-09-24
 | 属七 | 小七度 | 向下解决（**是**导音） |
 | **小七** | 小七度 | 通常**保留**或平滑移动，不强制解决 |
 
-注意第二行：**同样是小七度，在属七和弦里必须解决，在小七和弦里却可以停留**。
-差别来自根基：属七带三全音（推），小七不含三全音（稳）。这说明**七音的作用由整个和弦决定，不由音程本身决定**。
+注意第二行：同样是小七度，在属七和弦里必须解决，在小七和弦里却可以停留。
+差别来自根基：属七带三全音（推），小七不含三全音（稳）。这说明七音的作用由整个和弦决定，不由音程本身决定。
 
 ## 图示：三条七和弦的"稳—推"光谱
 
@@ -103,10 +103,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「小七和弦带"小"所以是不协和的」** → 它恰恰是最温和的一条，因为不含三全音。
-- **「小七度都要解决」** → 在属七里要，在小七里通常不用。七音的作用取决于整个和弦的构造。
-- **「小七和弦是从小三和弦推导的」** → 更准确地说，它和另外几种七和弦一样，是**在音阶上叠三度**的自然产物。
-- **「和弦越复杂越不稳定」** → 不稳定来自**具体音程**（尤其三全音），不来自音的数量。九和弦、十三和弦都可能很稳定。
+- 「小七和弦带"小"所以是不协和的」 → 它恰恰是最温和的一条，因为不含三全音。
+- 「小七度都要解决」 → 在属七里要，在小七里通常不用。七音的作用取决于整个和弦的构造。
+- 「小七和弦是从小三和弦推导的」 → 更准确地说，它和另外几种七和弦一样，是在音阶上叠三度的自然产物。
+- 「和弦越复杂越不稳定」 → 不稳定来自具体音程（尤其三全音），不来自音的数量。九和弦、十三和弦都可能很稳定。
 :::
 
 ::: en
@@ -131,7 +131,7 @@ Compare the neighbours:
 - [[concept:major-seventh|major seventh]]: only **2** in a major scale (degrees 1 and 4)
 - [[concept:half-diminished-seventh|half-diminished]]: only **1** (degree 7)
 
-**The minor seventh is the most plentiful**, and therefore the most frequent in practice. In jazz the basic
+The minor seventh is the most plentiful, and therefore the most frequent in practice. In jazz the basic
 progression is ii7–V7–Imaj7, where two of the three chords are seventh chords.
 
 ## What the seventh does
@@ -143,7 +143,7 @@ progression is ii7–V7–Imaj7, where two of the three chords are seventh chord
 
 Note the second row: **the same minor seventh must resolve in a dominant chord and may simply stay in a minor
 one.** The difference comes from the foundation — a dominant seventh contains a tritone (push), a minor seventh
-does not (rest). So **the seventh's role is decided by the whole chord, not by the interval alone.**
+does not (rest). So the seventh's role is decided by the whole chord, not by the interval alone.
 
 ## Diagram: the rest-to-push spectrum
 
@@ -186,8 +186,8 @@ visibly weaker.
 
 ## Common misconceptions
 
-- **"The word minor makes it dissonant."** It is the gentlest of the four, precisely because it has no tritone.
-- **"Every minor seventh must resolve."** It must in a dominant seventh, usually not in a minor seventh. The seventh's role depends on the whole chord.
-- **"A minor seventh is derived from a minor triad."** More accurately, it — like the others — arises from **stacking thirds on a scale**.
-- **"More complex chords are more unstable."** Instability comes from **specific intervals** (especially the tritone), not from the number of notes. Ninths and thirteenths can be perfectly stable.
+- "The word minor makes it dissonant." It is the gentlest of the four, precisely because it has no tritone.
+- "Every minor seventh must resolve." It must in a dominant seventh, usually not in a minor seventh. The seventh's role depends on the whole chord.
+- "A minor seventh is derived from a minor triad." More accurately, it — like the others — arises from stacking thirds on a scale.
+- "More complex chords are more unstable." Instability comes from specific intervals (especially the tritone), not from the number of notes. Ninths and thirteenths can be perfectly stable.
 :::

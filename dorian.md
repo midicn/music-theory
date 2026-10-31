@@ -49,9 +49,9 @@ updated: 2026-09-23
 |---|---|---|---|---|---|---|---|
 | 相对大调 | 同 | 同 | **降** | 同 | 同 | 同 | **降** |
 
-特征音是**第 6 级**（大六度）：它是多里亚与爱奥尼亚（[[concept:aeolian|自然小调]]）唯一的分界，
+特征音是第 6 级（大六度）：它是多里亚与爱奥尼亚（[[concept:aeolian|自然小调]]）唯一的分界，
 也是与 [[concept:phrygian|弗里吉亚]]（第 2 级降）最容易被混淆的地方 —— 记法上只需问一句：
-**第 6 级是大的还是小的？大的是多里亚。**
+第 6 级是大的还是小的？大的是多里亚。
 
 ## 图示：一个音的差别
 
@@ -103,10 +103,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「多里亚就是小调」** → 差在第 6 级。多里亚的第 6 级是大六度，自然小调是小六度。
-- **「六个教会调式是六条不同的音阶」** → 它们都能从同一条大调音阶的不同级上起，只是主音换人。
-- **「调式是古代的东西，现代不用」** → 民谣、摇滚、爵士里大量使用多里亚，因为它既暗又不压抑。
-- **「多里亚有一个固定的调号」** → 调号按主音决定（C 多里亚用 B♭ 大调的调号），不是每条音阶配一套专属符号。
+- 「多里亚就是小调」 → 差在第 6 级。多里亚的第 6 级是大六度，自然小调是小六度。
+- 「六个教会调式是六条不同的音阶」 → 它们都能从同一条大调音阶的不同级上起，只是主音换人。
+- 「调式是古代的东西，现代不用」 → 民谣、摇滚、爵士里大量使用多里亚，因为它既暗又不压抑。
+- 「多里亚有一个固定的调号」 → 调号按主音决定（C 多里亚用 B♭ 大调的调号），不是每条音阶配一套专属符号。
 :::
 
 ::: en
@@ -133,7 +133,7 @@ All six church modes can be produced the same way (see the selection-and-orderin
 |---|---|---|---|---|---|---|---|
 | vs. major | = | = | **lowered** | = | = | = | **lowered** |
 
-The characteristic note is the **sixth** (a major sixth): it is the only thing separating Dorian from
+The characteristic note is the sixth (a major sixth): it is the only thing separating Dorian from
 [[concept:aeolian|Aeolian]], and the easiest way to confuse it with [[concept:phrygian|Phrygian]] (a lowered
 2nd) is to forget which degree you are asking about. One question settles it: **is the sixth major or minor?
 Major means Dorian.**
@@ -187,8 +187,8 @@ Hear Dorian (sixth degree A), then natural minor (A♭). One note apart, the dif
 
 ## Common misconceptions
 
-- **"Dorian is just minor."** The sixth degree differs: major in Dorian, minor in natural minor.
-- **"The six church modes are six different scales."** They all come from one major scale started on different degrees; only the tonic changes.
-- **"Modes are ancient history."** Folk, rock and jazz use Dorian heavily, precisely because it is dark without being heavy.
-- **"Each mode has its own key signature."** The signature follows the tonic (C Dorian uses B♭ major's signature). Modes do not get private symbols.
+- "Dorian is just minor." The sixth degree differs: major in Dorian, minor in natural minor.
+- "The six church modes are six different scales." They all come from one major scale started on different degrees; only the tonic changes.
+- "Modes are ancient history." Folk, rock and jazz use Dorian heavily, precisely because it is dark without being heavy.
+- "Each mode has its own key signature." The signature follows the tonic (C Dorian uses B♭ major's signature). Modes do not get private symbols.
 :::

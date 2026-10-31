@@ -47,7 +47,7 @@ updated: 2026-09-25
 
 这是全部读谱的基石：
 
-> **相邻的线（或相邻的间）之间隔着一个音级，也就是三度。**
+> 相邻的线（或相邻的间）之间隔着一个音级，也就是三度。
 
 | 位置关系 | 音程 |
 |---|---|
@@ -55,10 +55,10 @@ updated: 2026-09-25
 | 线与**下一条**线 | **三度**（跳过一个音级） |
 | 线与下下条线 | 五度 |
 
-**记住"线—间 = 二度、线—线 = 三度"，读谱速度会立刻改变** ——
+记住"线—间 = 二度、线—线 = 三度"，读谱速度会立刻改变 ——
 因为它让你不必每次都在心里数音名。
 
-这也说明一件重要的事：**五线谱本质上是"级数图"，不是"音名表"**。
+这也说明一件重要的事：五线谱本质上是"级数图"，不是"音名表"。
 它画的是音阶上的第几级（高低关系），而不是绝对音名 ——
 这与 [[concept:key-signature|调号]] 让同一谱面能表示不同调是同一个设计思想。
 
@@ -72,8 +72,8 @@ updated: 2026-09-25
 | 后来 | **五线** | **常用音域刚好装下，加线不频繁** |
 | 更宽的谱面 | 六线以上 | 读起来更费劲，收益不大 |
 
-**五条线是"够用 + 好读"的平衡点。** 这也解释了为什么不同乐器要用不同**谱号**
-（见 [[concept:clef|谱号]]）：**不是改谱面，而是把谱面"移到"该乐器最常用的音区**。
+五条线是"够用 + 好读"的平衡点。 这也解释了为什么不同乐器要用不同谱号
+（见 [[concept:clef|谱号]]）：不是改谱面，而是把谱面"移到"该乐器最常用的音区。
 
 ## 图示：位置与音程
 
@@ -127,7 +127,7 @@ updated: 2026-09-25
 
 ## 听一听：级进与跳进在谱面上的样子
 
-用 `scale` 组件听级进 —— **谱面上就是"线—间—线—间"的相邻移动**。
+用 `scale` 组件听级进 —— 谱面上就是"线—间—线—间"的相邻移动。
 这正对应上表里的"线→间 = 二度"：五线谱的视觉结构与听觉的级进是直接对应的。
 
 ```audiolab
@@ -136,10 +136,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「线表示音高」** → 线只表示**位置**。没有谱号，五线谱不传达任何音高。
-- **「线之间的距离是二度」** → 是**三度**（中间隔着一条间/一个音级）。线到**间**才是二度。
-- **「五线谱的音域很窄」** → 靠**加线**可任意扩展；钢琴用两个五线谱正是为了覆盖宽音域。
-- **「不同乐器用不同谱号是习惯问题」** → 是**功能选择**：让该乐器最常用的音区落在谱面中央，减少加线。
+- 「线表示音高」 → 线只表示位置。没有谱号，五线谱不传达任何音高。
+- 「线之间的距离是二度」 → 是三度（中间隔着一条间/一个音级）。线到间才是二度。
+- 「五线谱的音域很窄」 → 靠加线可任意扩展；钢琴用两个五线谱正是为了覆盖宽音域。
+- 「不同乐器用不同谱号是习惯问题」 → 是功能选择：让该乐器最常用的音区落在谱面中央，减少加线。
 :::
 
 ::: en
@@ -162,7 +162,7 @@ So "what note is on this line" **cannot be answered without a clef.**
 
 This is the foundation of all score reading:
 
-> **Adjacent lines (or adjacent spaces) are a third apart — they skip one degree.**
+> Adjacent lines (or adjacent spaces) are a third apart — they skip one degree.
 
 | Relation | Interval |
 |---|---|
@@ -173,7 +173,7 @@ This is the foundation of all score reading:
 **Once you hold "line-to-space is a second, line-to-line is a third", reading speed changes immediately** —
 because you no longer count note names in your head at every step.
 
-It also shows something important: **the staff is essentially a degree chart, not a name chart.** It shows which
+It also shows something important: the staff is essentially a degree chart, not a name chart. It shows which
 degree of the scale (the high-low relation), not an absolute name — the same design idea that lets one staff serve
 different keys (see [[concept:key-signature|key signature]]).
 
@@ -187,8 +187,8 @@ Not an accident but a historical choice:
 | later | **five lines** | **the common range fits with few ledger lines** |
 | wider | six or more lines | harder to read, little gained |
 
-**Five lines is the balance point between "enough" and "readable".** It also explains why different instruments use
-different **clefs** (see [[concept:clef|clef]]): **the staff is not changed, it is shifted to sit in the register
+Five lines is the balance point between "enough" and "readable". It also explains why different instruments use
+different clefs (see [[concept:clef|clef]]): **the staff is not changed, it is shifted to sit in the register
 that instrument uses most.**
 
 ## Diagram: positions and intervals
@@ -243,7 +243,7 @@ that instrument uses most.**
 
 ## Listen: what steps look like on the staff
 
-Use `scale` to hear stepwise motion — **on the staff this is the adjacent motion line, space, line, space.** That
+Use `scale` to hear stepwise motion — on the staff this is the adjacent motion line, space, line, space. That
 matches "line to space is a second": the staff's visual structure corresponds directly to stepwise hearing.
 
 ```audiolab
@@ -252,10 +252,10 @@ matches "line to space is a second": the staff's visual structure corresponds di
 
 ## Common misconceptions
 
-- **"Lines indicate pitch."** Lines indicate **position**. Without a clef the staff conveys no pitch at all.
-- **"Lines are a second apart."** They are a **third** apart (one degree skipped). Line to **space** is a second.
-- **"The staff's range is narrow."** **Ledger lines** extend it without limit; the piano uses two staves to cover a
+- "Lines indicate pitch." Lines indicate position. Without a clef the staff conveys no pitch at all.
+- "Lines are a second apart." They are a third apart (one degree skipped). Line to space is a second.
+- "The staff's range is narrow." Ledger lines extend it without limit; the piano uses two staves to cover a
   wide range.
-- **"Different clefs are a matter of habit."** A **functional choice**: put the instrument's common register in the
+- "Different clefs are a matter of habit." A functional choice: put the instrument's common register in the
   middle of the staff and reduce ledger lines.
 :::

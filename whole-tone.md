@@ -40,10 +40,10 @@ updated: 2026-09-23
 
 ## 为什么它"没有主音"
 
-调性靠的是**音与音之间的不等距**：半音造成引力，全音造成稳定，两者交替才有中心。
+调性靠的是音与音之间的不等距：半音造成引力，全音造成稳定，两者交替才有中心。
 全音音阶把距离完全抹平，主音就失去立足点 —— 任何一个音都可以是起点，也都不是终点。
 
-这也解释了它为什么是印象派的常用工具：**要的正是"没有方向"的那种漂浮感**。
+这也解释了它为什么是印象派的常用工具：要的正是"没有方向"的那种漂浮感。
 
 ## 图示：等距的六份
 
@@ -86,10 +86,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「全音音阶有十二个调」** → 只有两条（互为倒影），因为六个音把八度等分了。
-- **「它可以当普通音阶用」** → 它缺少调性所需的不等距结构，因此难以承载属—主关系，通常作色彩用。
-- **「它是德彪西发明的」** → 更早已有理论记载与零星使用；德彪西使其成为标志性语汇。
-- **「没有半音就意味着协和」** → 恰恰相反。全音音阶里的增四度关系随处可见，张力反而持续存在。
+- 「全音音阶有十二个调」 → 只有两条（互为倒影），因为六个音把八度等分了。
+- 「它可以当普通音阶用」 → 它缺少调性所需的不等距结构，因此难以承载属—主关系，通常作色彩用。
+- 「它是德彪西发明的」 → 更早已有理论记载与零星使用；德彪西使其成为标志性语汇。
+- 「没有半音就意味着协和」 → 恰恰相反。全音音阶里的增四度关系随处可见，张力反而持续存在。
 :::
 
 ::: en
@@ -106,11 +106,11 @@ Two immediate consequences:
 
 ## Why it has no tonic
 
-Tonality depends on **unequal distances**: semitones create pull, whole tones create stability, and their
+Tonality depends on unequal distances: semitones create pull, whole tones create stability, and their
 alternation produces a centre. Flatten every distance and the tonic loses its footing — any note can be a start,
 and none is an end.
 
-That is exactly why Impressionism reached for it: **the point is the drifting, directionless quality.**
+That is exactly why Impressionism reached for it: the point is the drifting, directionless quality.
 
 ## Diagram: six equal parts
 
@@ -153,8 +153,8 @@ As you listen, try to find the tonic — you will not. That homelessness is prec
 
 ## Common misconceptions
 
-- **"There are twelve whole-tone scales."** Only two (mirror images), because six notes divide the octave equally.
-- **"It can serve as an ordinary scale."** It lacks the unequal structure tonality needs, so dominant-to-tonic relations are hard to build; it is usually a colouring device.
-- **"Debussy invented it."** Earlier theory and scattered use exist; Debussy made it a signature vocabulary.
-- **"No semitones means no tension."** The opposite: tritone relationships are everywhere in it, so tension is constant.
+- "There are twelve whole-tone scales." Only two (mirror images), because six notes divide the octave equally.
+- "It can serve as an ordinary scale." It lacks the unequal structure tonality needs, so dominant-to-tonic relations are hard to build; it is usually a colouring device.
+- "Debussy invented it." Earlier theory and scattered use exist; Debussy made it a signature vocabulary.
+- "No semitones means no tension." The opposite: tritone relationships are everywhere in it, so tension is constant.
 :::

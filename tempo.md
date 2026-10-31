@@ -56,23 +56,23 @@ updated: 2026-09-25
 
 具体情况是：巴洛克时期的 `Adagio` 比 19 世纪的要**慢**得多（当时的记谱习惯、乐器构造、
 演奏传统都不同）；而浪漫派作曲家写下 `Allegro` 时，也常因为演奏习惯而比我们今天的理解更快。
-这也是为什么今天研究"历史演奏法"的演奏者要**从当时的文献、乐器与记谱惯例反推速度**
+这也是为什么今天研究"历史演奏法"的演奏者要从当时的文献、乐器与记谱惯例反推速度
 （见 [[concept:historical-performance|历史演奏法]]）。
 
-**所以术语不是精确指令，而是"相对快慢 + 性格"的描述**：
+所以术语不是精确指令，而是"相对快慢 + 性格"的描述：
 它更多在说"这段该有什么气质"，而不是"这一拍要几毫秒"。
 
 ## 速度如何改变性格
 
-这是速度最有用的一点 —— 它和 [[concept:rhythm|节奏型]] 是**两个独立的变量**：
+这是速度最有用的一点 —— 它和 [[concept:rhythm|节奏型]] 是两个独立的变量：
 
 | 同一节奏型 | 慢速 | 中速 | 快速 |
 |---|---|---|---|
 | 附点与长短交替 | 悲叹、庄重 | 行进感 | 紧张、追逐 |
 | 四拍均分 | 沉思 | 平稳 | 机械、急促 |
 
-**同一个节奏型换速度就换性格** —— 这说明速度不是"技术参数"，
-而是一个**独立的表达维度**（这也正是 [[concept:metronome|节拍器]] 值得单列一条的原因：
+同一个节奏型换速度就换性格 —— 这说明速度不是"技术参数"，
+而是一个独立的表达维度（这也正是 [[concept:metronome|节拍器]] 值得单列一条的原因：
 它把"速度"从"感觉"变成了"数字"）。
 
 ## 图示：术语是区间，不是点
@@ -128,7 +128,7 @@ updated: 2026-09-25
 
 ## 听一听：同一节奏型，三档速度
 
-用 `rhythm` 组件听**同一个节奏型**在 60 / 96 / 150 三档速度下的差别。
+用 `rhythm` 组件听同一个节奏型在 60 / 96 / 150 三档速度下的差别。
 音符完全一样，感受完全不同 —— 这就是"速度是独立表达维度"的直接证据。
 
 ```audiolab
@@ -141,10 +141,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「速度术语有确定的速度」** → 只有大致区间，而且**随时代变化**。巴洛克的 Adagio 与 19 世纪的不是一回事。
-- **「数字标记更"科学"所以更好」** → 它更精确，但不一定更忠实于作曲者的意图 —— 19 世纪前的作品本来就没有数字。
-- **「速度只是技术问题」** → 它是**独立的表达维度**：同一节奏型换速度就换性格。
-- **「节拍器练习必须始终跟节拍器」** → 节拍器是校准工具。音乐里的 rubato（弹性速度）恰恰是**有意偏离**（见 [[concept:metronome|节拍器与 BPM]]）。
+- 「速度术语有确定的速度」 → 只有大致区间，而且随时代变化。巴洛克的 Adagio 与 19 世纪的不是一回事。
+- 「数字标记更"科学"所以更好」 → 它更精确，但不一定更忠实于作曲者的意图 —— 19 世纪前的作品本来就没有数字。
+- 「速度只是技术问题」 → 它是独立的表达维度：同一节奏型换速度就换性格。
+- 「节拍器练习必须始终跟节拍器」 → 节拍器是校准工具。音乐里的 rubato（弹性速度）恰恰是有意偏离（见 [[concept:metronome|节拍器与 BPM]]）。
 :::
 
 ::: en
@@ -185,15 +185,15 @@ about what the passage should feel like than about milliseconds per beat.
 
 ## How tempo changes character
 
-This is tempo's most useful property — and it is a **variable independent of** [[concept:rhythm|rhythmic pattern]]:
+This is tempo's most useful property — and it is a variable independent of [[concept:rhythm|rhythmic pattern]]:
 
 | Same pattern | Slow | Medium | Fast |
 |---|---|---|---|
 | dotted long-short alternation | lament, solemnity | marching | tense, pursuing |
 | four even quarters | brooding | steady | mechanical, urgent |
 
-**Change the tempo of one pattern and you change its character** — which shows tempo is not a "technical
-parameter" but an **independent expressive dimension**. (It is also why the [[concept:metronome|metronome]]
+Change the tempo of one pattern and you change its character — which shows tempo is not a "technical
+parameter" but an independent expressive dimension. (It is also why the [[concept:metronome|metronome]]
 deserves its own entry: it turned speed from a feeling into a number.)
 
 ## Diagram: a term is a range, a number is a point
@@ -249,7 +249,7 @@ deserves its own entry: it turned speed from a feeling into a number.)
 
 ## Listen: one pattern at three speeds
 
-Use `rhythm` to hear **the same pattern** at 60, 96 and 150. The notes are identical; the impression is not —
+Use `rhythm` to hear the same pattern at 60, 96 and 150. The notes are identical; the impression is not —
 direct evidence that tempo is an independent expressive dimension.
 
 ```audiolab
@@ -262,12 +262,12 @@ direct evidence that tempo is an independent expressive dimension.
 
 ## Common misconceptions
 
-- **"Tempo terms have definite speeds."** Only rough ranges, and they **change with the era**. A Baroque Adagio
+- "Tempo terms have definite speeds." Only rough ranges, and they change with the era. A Baroque Adagio
   and a nineteenth-century one are not the same thing.
-- **"Numeric markings are better because they are scientific."** They are more precise, but not necessarily more
+- "Numeric markings are better because they are scientific." They are more precise, but not necessarily more
   faithful to the composer's intention — music before the nineteenth century had no numbers.
-- **"Tempo is a technical matter."** It is an **independent expressive dimension**: one pattern at two tempos is
+- "Tempo is a technical matter." It is an independent expressive dimension: one pattern at two tempos is
   two characters.
-- **"Practising must always follow the metronome."** The metronome is a calibration tool; rubato is precisely a
-  **deliberate departure** from it (see [[concept:metronome|metronome and BPM]]).
+- "Practising must always follow the metronome." The metronome is a calibration tool; rubato is precisely a
+  deliberate departure from it (see [[concept:metronome|metronome and BPM]]).
 :::

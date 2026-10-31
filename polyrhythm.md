@@ -34,7 +34,7 @@ updated: 2026-09-25
 
 ## 与切分的区别：数周期
 
-这是本条最要紧的判断点（上一段在 [[concept:syncopation|切分]] 里已铺垫）：
+复节奏与切分的区别，数周期就分得清（切分已在 [[concept:syncopation|切分]] 里铺垫过）：
 
 | | 切分 | 复节奏 |
 |---|---|---|
@@ -55,18 +55,18 @@ updated: 2026-09-25
 | **分三份** | ● | | ● | | ● | |
 | **重合** | ✓ | | | ✓ | | |
 
-**六个点里只有第 1、4 点重合** —— 重合点就是两个声部"碰头"的位置。
-这也解释了为什么 3:2 听起来"错开又对得上"：它不是乱的，而是**周期性的错开**。
+六个点里只有第 1、4 点重合 —— 重合点就是两个声部"碰头"的位置。
+这也解释了为什么 3:2 听起来"错开又对得上"：它不是乱的，而是周期性的错开。
 
 ## Hemiola：重音层面的 3 对 2
 
-有一种特别的复节奏叫 **hemiola**：不改变音符时值，只**改变重音的归组**。
+有一种特别的复节奏叫 hemiola：不改变音符时值，只改变重音的归组。
 
-> 两小节 3/4（共六拍）被重新分组为**三个二拍** —— 顿时有了二拍子的感觉。
+> 两小节 3/4（共六拍）被重新分组为三个二拍 —— 顿时有了二拍子的感觉。
 
-这在文艺复兴与巴洛克音乐里极其常见，尤其是**终止之前**：
-用 hemiola 把三拍感临时改成两拍感，落回主和弦时再变回三拍，收束因此更有力。
-它的价值在于**不需要任何新素材** —— 只是把重音挪了位置（见 [[concept:metric-accent|强弱规律]]）。
+hemiola 在文艺复兴与巴洛克音乐里极其常见，尤其是终止之前。
+它把三拍感临时改成两拍感，落回主和弦时再变回三拍。收束因此更有力。
+价值在于不需要任何新素材，只是把重音挪了位置（见 [[concept:metric-accent|强弱规律]]）。
 
 ## 它在不同音乐里的位置
 
@@ -130,8 +130,8 @@ updated: 2026-09-25
 
 ## 听一听：两种等分的对照
 
-本站的听辨件是单声部的，放不出真正的两套节奏 —— 所以这里**并排**听两种等分，
-请在心里把它们叠起来（先听二分的，再听三分的，想象二者同时）：
+听辨件是单声部的，放不出真正的两套节奏。
+所以这里并排听两种等分，请在心里把它们叠起来：先听二分的，再听三分的，想象二者同时。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"e e e e e e e e","bpm":72,"label":"分两份：八分均分","label_en":"Division by two: even eighths","hint":"先单独听这一套","hint_en":"Hear this division on its own first"}
@@ -143,10 +143,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「复节奏就是复杂节奏」** → 它的定义是**两套等分并存**，与"复杂"无关；3:2 本身很简单。
-- **「复节奏与切分是一回事」** → 关键在**周期数量**：切分一个周期，复节奏两个。
-- **「hemiola 是改变时值的写法」** → 恰恰相反：hemiola **不改时值**，只重组**重音**（所以它几乎不占篇幅，效果却很强）。
-- **「复节奏只属于非洲音乐或现代作品」** → 巴洛克的 hemiola 就是复节奏；爵士与拉丁里也极常见。
+- 「复节奏就是复杂节奏」 → 它的定义是两套等分并存，与"复杂"无关；3:2 本身很简单。
+- 「复节奏与切分是一回事」 → 关键在周期数量：切分一个周期，复节奏两个。
+- 「hemiola 是改变时值的写法」 → 恰恰相反：hemiola 不改时值，只重组重音（所以它几乎不占篇幅，效果却很强）。
+- 「复节奏只属于非洲音乐或现代作品」 → 巴洛克的 hemiola 就是复节奏；爵士与拉丁里也极常见。
 :::
 
 ::: en
@@ -156,7 +156,8 @@ Polyrhythm does this: **let two different divisions run at the same time.**
 
 ## The difference from syncopation: count the cycles
 
-This is the key point of the entry (set up earlier under [[concept:syncopation|syncopation]]):
+Counting cycles separates polyrhythm from syncopation (set up earlier under
+[[concept:syncopation|syncopation]]):
 
 | | Syncopation | Polyrhythm |
 |---|---|---|
@@ -177,19 +178,19 @@ Because **the least common multiple of 3 and 2 is 6**: subdivide a beat into six
 | **in three** | ● | | ● | | ● | |
 | **coincide** | ✓ | | | ✓ | | |
 
-**Only points 1 and 4 coincide** — and those are where the two voices meet. It also explains why 3:2 sounds
-"offset yet aligned": it is not random, it is **periodically displaced**.
+Only points 1 and 4 coincide — and those are where the two voices meet. It also explains why 3:2 sounds
+"offset yet aligned": it is not random, it is periodically displaced.
 
 ## Hemiola: 3 against 2 at the accent level
 
-A special kind of polyrhythm is the **hemiola**: note values stay the same and only the **accent grouping**
+A special kind of polyrhythm is the hemiola: note values stay the same and only the accent grouping
 changes.
 
-> Two bars of 3/4 (six beats) regrouped as **three duple units** — and it immediately sounds duple.
+> Two bars of 3/4 (six beats) regrouped as three duple units — and it immediately sounds duple.
 
-This is extremely common in Renaissance and Baroque music, especially **before a cadence**: the triple feel is
-temporarily turned duple and snaps back to triple on the tonic chord, which makes the close stronger. Its value
-is that it **needs no new material** — only a shift of accent (see [[concept:metric-accent|metric accent]]).
+The hemiola is extremely common in Renaissance and Baroque music, especially before a cadence.
+The triple feel turns duple for a moment, then snaps back to triple on the tonic chord. The close lands harder.
+It needs no new material, only a shift of accent (see [[concept:metric-accent|metric accent]]).
 
 ## Where it sits in different musics
 
@@ -253,8 +254,8 @@ is that it **needs no new material** — only a shift of accent (see [[concept:m
 
 ## Listen: the two divisions side by side
 
-This site's listening components are single-voice, so a true polyrhythm cannot be played. Hear the two divisions
-**one after the other** and imagine them together — first the binary one, then the ternary:
+The listening example is single-voice, so a true polyrhythm cannot be played.
+Hear the two divisions one after the other and imagine them together: first the binary one, then the ternary.
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"e e e e e e e e","bpm":72,"label":"分两份：八分均分","label_en":"Division by two: even eighths","hint":"先单独听这一套","hint_en":"Hear this division on its own first"}
@@ -266,12 +267,12 @@ This site's listening components are single-voice, so a true polyrhythm cannot b
 
 ## Common misconceptions
 
-- **"Polyrhythm means complicated rhythm."** By definition it is **two divisions coexisting**, which has nothing to
+- "Polyrhythm means complicated rhythm." By definition it is two divisions coexisting, which has nothing to
   do with complexity; 3:2 on its own is simple.
-- **"Polyrhythm and syncopation are the same."** The discriminator is the **number of cycles**: one for
+- "Polyrhythm and syncopation are the same." The discriminator is the number of cycles: one for
   syncopation, two for polyrhythm.
-- **"Hemiola changes note values."** The opposite: it **keeps the values** and regroups the **accents**, which is why
+- "Hemiola changes note values." The opposite: it keeps the values and regroups the accents, which is why
   it takes almost no space and has a strong effect.
-- **"Polyrhythm belongs to African music or the avant-garde."** The Baroque hemiola is a polyrhythm, and jazz and
+- "Polyrhythm belongs to African music or the avant-garde." The Baroque hemiola is a polyrhythm, and jazz and
   Latin music are full of them.
 :::

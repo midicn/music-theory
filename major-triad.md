@@ -54,9 +54,9 @@ updated: 2026-09-23
 
 把大三和弦的**三音降低半个音**，就得到小三和弦：
 
-> 大三：C–**E**–G　　小三：C–**E♭**–G
+> 大三：C–E–G　　小三：C–E♭–G
 
-一个音，稳定感与明暗完全反转。这也说明：**和弦的"性格"主要由三音决定**，五音是骨架。
+一个音，稳定感与明暗完全反转。这也说明：和弦的"性格"主要由三音决定，五音是骨架。
 
 ## 图示：一个音之差
 
@@ -96,10 +96,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「大三和弦是"高兴"的和弦」** → 它提供的是**稳定**。用大三和弦写哀歌很常见。
-- **「大调里所有和弦都是大三和弦」** → 七个级数里只有三个（I、IV、V）是。
-- **「大三度在下就是大三和弦」** → 还要看上方那个三度是小三度。两个都大就是增三和弦。
-- **「转位之后就不是大三和弦了」** → 性质由构成音决定，转位只改低音，不改性质。
+- 「大三和弦是"高兴"的和弦」 → 它提供的是稳定。用大三和弦写哀歌很常见。
+- 「大调里所有和弦都是大三和弦」 → 七个级数里只有三个（I、IV、V）是。
+- 「大三度在下就是大三和弦」 → 还要看上方那个三度是小三度。两个都大就是增三和弦。
+- 「转位之后就不是大三和弦了」 → 性质由构成音决定，转位只改低音，不改性质。
 :::
 
 ::: en
@@ -131,7 +131,7 @@ those sudden brightenings in minor-key music.
 
 Lower the **third** by a semitone and you have a minor triad:
 
-> major: C–**E**–G　　 minor: C–**E♭**–G
+> major: C–**E**–G　　 minor: C–E♭–G
 
 One note, and stability and brightness both invert. It also shows that **a chord's character rests mainly on its
 third**, while the fifth supplies the frame.
@@ -174,8 +174,8 @@ third**, while the fifth supplies the frame.
 
 ## Common misconceptions
 
-- **"A major triad is a happy chord."** It supplies **stability**. Laments written in major triads are common.
-- **"In a major key all the chords are major."** Only three of the seven degrees (I, IV, V) are.
-- **"A major third on the bottom makes a major triad."** The upper third must be minor too. Two major thirds make an augmented triad.
-- **"Inverting it stops it being a major triad."** Quality is fixed by the notes; inversion changes only the bass.
+- "A major triad is a happy chord." It supplies stability. Laments written in major triads are common.
+- "In a major key all the chords are major." Only three of the seven degrees (I, IV, V) are.
+- "A major third on the bottom makes a major triad." The upper third must be minor too. Two major thirds make an augmented triad.
+- "Inverting it stops it being a major triad." Quality is fixed by the notes; inversion changes only the bass.
 :::

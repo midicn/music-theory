@@ -32,8 +32,8 @@ updated: 2026-09-25
 
 > **音符形状表示的是"比例关系"，不是绝对秒数。**
 
-一个四分音符是半个二分音符、两倍于八分音符 —— 至于它实际响多久，
-**由速度决定**（`♩ = 60` 时是一秒，`♩ = 120` 时是半秒）。
+一个四分音符是半个二分音符，两倍于八分音符。
+至于它实际响多久，由速度决定：`♩ = 60` 时是一秒，`♩ = 120` 时是半秒。
 
 这解释了初学者最常见的困惑："这个音多长？" —— **正确的答案是"它是四分音符"**，
 而不是"0.5 秒"。
@@ -49,7 +49,7 @@ updated: 2026-09-25
 | + 两条符尾 | 十六分音符 | 1/16 |
 
 规律很整齐：**每加一条符尾（或加一个符点），时值就减半**。
-所以整张表其实是**同一个原则的重复**，不需要死记 —— 记住"符尾越多越短"就够了。
+所以整张表其实是同一个原则的重复，不需要死记 —— 记住"符尾越多越短"就够了。
 
 ## 三个必要的补充记号
 
@@ -59,8 +59,8 @@ updated: 2026-09-25
 | **连线**（延音线） | 把两个音**合成一个**（跨小节时必需） | `♩~♪` = 1.5 拍，但音起在小节内 |
 | **休止符** | 表示**不发声**的时值（同样是比例） | `𝄽` = 四分休止 |
 
-第二行值得强调：**跨小节的音必须用延音线**，不能写成"一个很长的音" ——
-因为小节线是重音周期的标记（见 [[concept:meter|拍号]]），不能为了记谱方便而破坏它。
+跨小节的音必须用延音线，不能写成"一个很长的音"。
+小节线是重音周期的标记（见 [[concept:meter|拍号]]），不能为了记谱方便破坏它。
 
 ## 为什么时值要写成"比例"而不是"秒数"
 
@@ -70,8 +70,8 @@ updated: 2026-09-25
 | 无法表达"伸缩"（rubato） | 音乐会变得机械 |
 | 无法跨时代传递 | 巴洛克与今天的演奏速度不同（见 [[concept:tempo|速度术语]]） |
 
-**比例记谱法把"结构"与"执行"分开了** —— 这正是西方记谱体系几百年来稳定的原因：
-一份 18 世纪的乐谱，今天仍能读，因为**它的信息是"比例 + 相对时间"，不是"绝对时间"**。
+记谱把"结构"与"执行"分开了。这正是西方体系几百年来稳定的原因。
+一份 18 世纪的乐谱今天仍能读，因为它记的是比例与相对时间，不是绝对时间。
 
 ## 图示：形状是比例，长度看速度
 
@@ -134,8 +134,8 @@ updated: 2026-09-25
 
 ## 听一听：同样的谱面，两种速度
 
-用 `rhythm` 组件听**完全相同的节奏型**在两种速度下的差别。谱面不变，
-**"响多久"却翻了一倍** —— 这就是"形状是比例、长度看速度"的直接证明。
+用 `rhythm` 组件听完全相同的节奏型在两种速度下的差别。谱面不变，
+"响多久"却翻了一倍 —— 这就是"形状是比例、长度看速度"的直接证明。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":60,"label":"♩ = 60：每个音 1 秒","label_en":"Quarter = 60: one second per note","hint":"先听这一档","hint_en":"Hear this setting first"}
@@ -147,10 +147,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「音符形状表示具体的时长」** → 表示**比例**。实际时长由速度决定。
-- **「全音符一定比四分音符长 4 倍」** → 比例上是 4 倍，但**绝对秒数取决于速度**（这是两件事）。
-- **「长音可以直接写成一个大音符」** → 跨小节的长音**必须用延音线**，否则会破坏小节线的重音标记。
-- **「附点是加固定长度」** → 附点是延长**自身的一半**（所以附点四分 ≠ 四分 + 十六分）。
+- 「音符形状表示具体的时长」 → 表示比例。实际时长由速度决定。
+- 「全音符一定比四分音符长 4 倍」 → 比例上是 4 倍，但绝对秒数取决于速度（这是两件事）。
+- 「长音可以直接写成一个大音符」 → 跨小节的长音必须用延音线，否则会破坏小节线的重音标记。
+- 「附点是加固定长度」 → 附点是延长自身的一半（所以附点四分 ≠ 四分 + 十六分）。
 :::
 
 ::: en
@@ -158,8 +158,8 @@ The core of rhythmic notation is one sentence:
 
 > **A note's shape shows a proportion, not a number of seconds.**
 
-A quarter note is half a half note and twice an eighth — how long it actually sounds is **decided by the tempo**
-(one second at `♩ = 60`, half a second at `♩ = 120`).
+A quarter note is half a half note and twice an eighth.
+How long it actually sounds is decided by the tempo: one second at `♩ = 60`, half a second at `♩ = 120`.
 
 This explains the beginner's commonest question — "how long is this note?" The right answer is **"it is a quarter
 note"**, not "0.5 seconds".
@@ -185,9 +185,8 @@ repeated** — you need only remember "more flags, shorter note".
 | **tie** | joins two notes **into one** (essential across a bar line) | `♩~♪` = 1.5 beats, starting inside the bar |
 | **rest** | a value of **silence** (also a proportion) | `𝄽` = a quarter rest |
 
-The second deserves emphasis: **a note crossing a bar line must use a tie**, never be written as one long note —
-because bar lines mark the accent cycle (see [[concept:meter|metre]]) and must not be broken for notational
-convenience.
+A note crossing a bar line must use a tie, never be written as one long note.
+Bar lines mark the accent cycle (see [[concept:meter|metre]]) and must not be broken for notational convenience.
 
 ## Why values are proportions rather than seconds
 
@@ -197,9 +196,9 @@ convenience.
 | no way to notate stretching (rubato) | music would turn mechanical |
 | no transmission across eras | Baroque and modern playing speeds differ (see [[concept:tempo|tempo]]) |
 
-**Proportional notation separates structure from execution** — which is why the Western system has been stable for
-centuries: an eighteenth-century score is still readable today because **it carries proportions and relative
-time, not absolute time.**
+Notation separates structure from execution. That is why the Western system has stayed stable for centuries.
+An eighteenth-century score is still readable today because it carries proportions and relative time, not absolute
+time.
 
 ## Diagram: the shape is a proportion, the length depends on tempo
 
@@ -262,7 +261,7 @@ time, not absolute time.**
 
 ## Listen: one score, two tempos
 
-Use `rhythm` to hear **the identical pattern** at two tempos. The notation does not change; **the sounding length
+Use `rhythm` to hear the identical pattern at two tempos. The notation does not change; **the sounding length
 doubles** — direct proof that "the shape is a proportion, the length depends on tempo".
 
 ```audiolab
@@ -275,11 +274,11 @@ doubles** — direct proof that "the shape is a proportion, the length depends o
 
 ## Common misconceptions
 
-- **"A note shape states a specific duration."** It states a **proportion**; the actual duration follows the tempo.
-- **"A whole note is always four times a quarter."** In proportion yes, but the **absolute seconds depend on the
+- "A note shape states a specific duration." It states a proportion; the actual duration follows the tempo.
+- "A whole note is always four times a quarter." In proportion yes, but the **absolute seconds depend on the
   tempo** — two different statements.
-- **"A long note can simply be written as one big note."** A note crossing a bar line **must use a tie**, or the
+- "A long note can simply be written as one big note." A note crossing a bar line must use a tie, or the
   bar line's accent marking is broken.
-- **"A dot adds a fixed length."** A dot lengthens by **half the note's own value** (so a dotted quarter is not a
+- "A dot adds a fixed length." A dot lengthens by half the note's own value (so a dotted quarter is not a
   quarter plus a sixteenth).
 :::

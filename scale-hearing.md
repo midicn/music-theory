@@ -32,8 +32,8 @@ updated: 2026-09-25
 
 > **中心在哪？**
 
-因为**音集不能判定调**：C 大调与 a 小调**共用同一批音**（见 [[concept:key-signature|调号]] 那条的核心结论）——
-所以"听出用了哪些音"并不能回答"这是什么调"。
+因为音集不能判定调：C 大调与 a 小调共用同一批音（见 [[concept:key-signature|调号]]）。
+所以"听出用了哪些音"，回答不了"这是什么调"。
 
 ## 最省力的判据：主音上的三度
 
@@ -42,8 +42,8 @@ updated: 2026-09-25
 | 主音上方是**大三度** | **大调式** |
 | 主音上方是**小三度** | **小调式** |
 
-**为什么这条最省力**：它只需要确认**两个音**（主音与三音），
-而这两个音决定了调式的基本色彩。其他音级（六度、七度）的变化是在这个基础上的**变体**：
+这条最省力：只需要确认主音与三音两个音，而这两个音决定了调式的基本色彩。
+六度、七度的变化，都是在这个基础上的变体：
 
 | 变体 | 变化 |
 |---|---|
@@ -51,7 +51,7 @@ updated: 2026-09-25
 | **旋律小调** | 上行再升高第 6 级 |
 | **多利亚 / 混合利底亚等** | 六度或七度按调式调整 |
 
-**所以听辨顺序是**：**先定主音 → 再听三度 → 最后注意六七度的变化**。
+所以听辨的顺序是：先定主音，再听三度，然后才注意六七度的变化。
 
 ## 怎么找到"中心"
 
@@ -63,11 +63,9 @@ updated: 2026-09-25
 | **反复强调** | 某个音出现得最多、时值最长，常是主音 |
 | **开头与结尾** | 绝大多数作品**结束在主音**上 |
 
-**第三行是最实用的捷径**：**先听最后一个音** ——
-它大概率就是主音（见 [[concept:tonal-center|调性中心]]）。
+最实用的捷径是先听最后一个音，它大概率就是主音（见 [[concept:tonal-center|调性中心]]）。
 
-**第一行是根本**：如果一段音乐没有终止式，中心就会模糊 ——
-这正是许多现代作品"听不出调"的原因。
+如果一段音乐没有终止式，中心就会模糊。许多现代作品"听不出调"，原因就在这里。
 
 ## 三种"听不出调"的情况
 
@@ -77,9 +75,8 @@ updated: 2026-09-25
 | **频繁转调** | 中心不断更换 | 可以逐段判断 |
 | **无调性** | 有意取消中心 | **不能判** —— 因为它没有中心 |
 
-**第二行是常见情况**：浪漫派作品常在一分钟内经过好几个调。
-**这时不要问"这是什么调"，而要问"这一段是什么调"** ——
-判断的单位要跟着音乐的规模变化。
+浪漫派作品常在一分钟内经过好几个调。
+这时不要问"这是什么调"，而要问"这一段是什么调"。判断的单位，要跟着音乐的规模走。
 
 ## 图示：判据是中心，不是音集
 
@@ -127,8 +124,8 @@ updated: 2026-09-25
 
 ## 听一听：同一批音、两个中心
 
-用 `scale` 听两条音阶 —— **音集完全相同**（C D E F G A B），
-但一条以 C 为中心、一条以 A 为中心。**请留意"落定感"落在哪个音上。**
+用 `scale` 听两条音阶 —— 音集完全相同（C D E F G A B），
+但一条以 C 为中心、一条以 A 为中心。请留意"落定感"落在哪个音上。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"中心 = C（大调式）","label_en":"Centre on C — major","hint":"点「上行」，注意结束感落在 C","hint_en":"Try Up and notice the sense of arrival on C","gap":0.34}
@@ -140,10 +137,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「听出用了哪些音就知道是什么调」** → 不能。关系大小调**共用音集**，必须判中心。
-- **「调性要靠"感觉"」** → 有具体手段：**终止式、反复强调、开头与结尾**。
-- **「小调就是"悲伤"」** → 那是刻板印象。小调与情绪没有固定对应（见 [[concept:minor-scale|小调音阶]]）。
-- **「听不出调就是耳朵不行」** → 有些音乐**本来就没有中心**（无调性），**判不出来是正常的**。
+- 「听出用了哪些音就知道是什么调」 → 不能。关系大小调共用音集，必须判中心。
+- 「调性要靠"感觉"」 → 有具体手段：终止式、反复强调、开头与结尾。
+- 「小调就是"悲伤"」 → 那是刻板印象。小调与情绪没有固定对应（见 [[concept:minor-scale|小调音阶]]）。
+- 「听不出调就是耳朵不行」 → 有些音乐本来就没有中心（无调性），判不出来是正常的。
 :::
 
 ::: en
@@ -152,9 +149,9 @@ another one:
 
 > **Where is the centre?**
 
-Because **a pitch set cannot determine a key**: C major and A minor **share the same notes** (the core conclusion
-under [[concept:key-signature|key signature]]) — so "hearing which notes are used" does not answer "what key is
-this".
+**A pitch set cannot determine a key**: C major and A minor **share the same notes** (see
+[[concept:key-signature|key signature]]).
+So hearing which notes are used does not answer what key this is.
 
 ## The cheapest test: the third above the tonic
 
@@ -163,8 +160,8 @@ this".
 | a **major third** above the tonic | **major mode** |
 | a **minor third** above the tonic | **minor mode** |
 
-**Why it is the cheapest**: it requires confirming only **two notes** (the tonic and the third), and those two decide
-the mode's basic colour. The other degrees (sixth, seventh) are **variants** on that basis:
+**Why it is the cheapest**: it needs only the tonic and the third, and those fix the mode's colour.
+Changes to the sixth and seventh are variants on that base:
 
 | Variant | Change |
 |---|---|
@@ -172,7 +169,7 @@ the mode's basic colour. The other degrees (sixth, seventh) are **variants** on 
 | **melodic minor** | the sixth also raised going up |
 | **Dorian, Mixolydian and others** | the sixth or seventh adjusted to the mode |
 
-**So the order is**: **find the tonic → hear the third → then note the sixth and seventh.**
+So the order is: find the tonic → hear the third → then note the sixth and seventh.
 
 ## How to find the centre
 
@@ -184,11 +181,10 @@ The centre is not a "feeling"; it is established by three things:
 | **repetition and emphasis** | the note that occurs most, and longest, is often the tonic |
 | **the beginning and the end** | the overwhelming majority of works **end on the tonic** |
 
-**The third row is the most practical shortcut**: **listen to the last note** — it is most likely the tonic (see
+The most practical shortcut: listen to the last note. It is very likely the tonic (see
 [[concept:tonal-center|tonal centre]]).
 
-**The first is fundamental**: without a cadence the centre becomes vague — which is exactly why much modern music
-"has no audible key".
+Without a cadence the centre goes vague. That is why much modern music has no audible key.
 
 ## Three cases of "no audible key"
 
@@ -198,8 +194,8 @@ The centre is not a "feeling"; it is established by three things:
 | **frequent modulation** | the centre keeps changing | yes, section by section |
 | **atonality** | the centre deliberately removed | **no** — there is no centre to find |
 
-**The second is common**: Romantic works often pass through several keys within a minute. **Then do not ask "what key
-is this" but "what key is this passage in"** — the unit of judgement follows the scale of the music.
+Romantic works often pass through several keys within a minute.
+Ask "what key is this passage", not "what key is this". The unit of judgement follows the music's scale.
 
 ## Diagram: the test is the centre, not the pitch set
 
@@ -247,7 +243,7 @@ is this" but "what key is this passage in"** — the unit of judgement follows t
 
 ## Listen: one pitch set, two centres
 
-Use `scale` on two scales — **the same notes** (C D E F G A B) but one centred on C and one on A. **Notice which note
+Use `scale` on two scales — the same notes (C D E F G A B) but one centred on C and one on A. **Notice which note
 carries the sense of arrival.**
 
 ```audiolab
@@ -260,11 +256,11 @@ carries the sense of arrival.**
 
 ## Common misconceptions
 
-- **"Knowing the notes tells you the key."** It does not. Relative major and minor **share a pitch set**; the centre
+- "Knowing the notes tells you the key." It does not. Relative major and minor share a pitch set; the centre
   must be judged.
-- **"Key is a matter of feeling."** There are concrete means: **cadences, emphasis, and the beginning and end**.
-- **"Minor means sad."** That is a stereotype. Minor keys have no fixed emotional meaning (see
+- "Key is a matter of feeling." There are concrete means: cadences, emphasis, and the beginning and end.
+- "Minor means sad." That is a stereotype. Minor keys have no fixed emotional meaning (see
   [[concept:minor-scale|the minor scale]]).
-- **"Not hearing a key means poor ears."** Some music **has no centre** (atonality); **failing to find one is
+- "Not hearing a key means poor ears." Some music has no centre (atonality); **failing to find one is
   correct**.
 :::

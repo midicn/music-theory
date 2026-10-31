@@ -88,7 +88,7 @@ updated: 2026-09-23
 
 ## 听一听：爱奥尼亚
 
-结构与自然小调完全相同，听的时候请留意它与多里亚、弗里吉亚的**一处之差**：
+结构与自然小调完全相同，听的时候请留意它与多里亚、弗里吉亚的一处之差：
 把第 6 级升起来、或把第 2 级降下去，色彩就换了。
 
 ```audiolab
@@ -97,10 +97,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「爱奥尼亚和自然小调是不同的音阶」** → 结构完全相同，区别只在称呼的语境（调式语言 vs 调性语言）。
-- **「六个调式各有专属名字，所以是六条音阶」** → 它们共用同一批音，只是主音不同。以 C 为主音时六条都从白键起。
-- **「爱奥尼亚比小调"早"」** → 调式命名体系成型于中世纪理论，"小调"是后来调性实践的产物，两者是分析视角的差别，不是先后关系。
-- **「叫爱奥尼亚就没有调性功能了」** → 功能照样存在；换名字不改变和声怎么运作，只改变你从哪个角度描述它。
+- 「爱奥尼亚和自然小调是不同的音阶」 → 结构完全相同，区别只在称呼的语境（调式语言 vs 调性语言）。
+- 「六个调式各有专属名字，所以是六条音阶」 → 它们共用同一批音，只是主音不同。以 C 为主音时六条都从白键起。
+- 「爱奥尼亚比小调"早"」 → 调式命名体系成型于中世纪理论，"小调"是后来调性实践的产物，两者是分析视角的差别，不是先后关系。
+- 「叫爱奥尼亚就没有调性功能了」 → 功能照样存在；换名字不改变和声怎么运作，只改变你从哪个角度描述它。
 :::
 
 ::: en
@@ -176,6 +176,6 @@ and Phrygian: raise the sixth, or lower the second, and the colour changes.
 
 - **"Aeolian and natural minor are different scales."** The structure is identical; only the context of the name differs.
 - **"Six modes must mean six different scales."** They share one set of notes and differ only in tonic. With C as tonic all six start on white keys.
-- **"Aeolian is older than minor."** The modal naming system was formalised in medieval theory, "minor" arose from later tonal practice — two analytical viewpoints, not a sequence in time.
-- **"Calling it Aeolian removes tonal function."** Function still operates; a name changes how you describe it, not how harmony behaves.
+- "Aeolian is older than minor." The modal naming system was formalised in medieval theory, "minor" arose from later tonal practice — two analytical viewpoints, not a sequence in time.
+- "Calling it Aeolian removes tonal function." Function still operates; a name changes how you describe it, not how harmony behaves.
 :::

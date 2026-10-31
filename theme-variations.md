@@ -44,7 +44,7 @@ updated: 2026-09-25
 | 一句话 | 换**衣服** | 换**基因** |
 
 **判断标准**：听者能不能始终认出"这是同一个主题"。
-能 → 变奏；中途认不出了 → 已经发展成别的东西（或者干脆换了主题）。
+能，就是变奏。中途认不出，说明已经发展成别的东西，或者干脆换了主题。
 
 ## 常见的变奏手段
 
@@ -57,8 +57,8 @@ updated: 2026-09-25
 | **织体变化** | 从单声部到厚密和弦，或反之 | 密度手段 |
 | **性格变奏** | 只保留主题的**某个特征**（一个音程、一个节奏） | 浪漫派：变到几乎认不出 |
 
-**最后一行是极端情况**：当变奏只保留"一个特征"时，它其实已经接近 [[concept:thematic-development|发展]]。
-**这也说明变奏与发展不是两件事，而是同一条连续谱的两端。**
+变奏只保留"一个特征"时，其实已经接近 [[concept:thematic-development|发展]]。
+变奏与发展不是两件事，而是同一条连续谱的两端。
 
 ## 三种历史形态
 
@@ -68,12 +68,12 @@ updated: 2026-09-25
 | **古典** | **装饰变奏** | 主题轮廓清晰，逐段加花，末段常转调或加速 |
 | **浪漫** | **性格变奏** | 变奏之间性格差异极大，常变到认不出 |
 
-第一种最"严格"（骨架完全不变），第三种最"自由"（只留基因）——
-**这条演化线本身就是"作曲自由度"随时代扩大的证据。**
+第一种最"严格"，骨架完全不变；第三种最"自由"，只留基因。
+这条演化线，本身就是作曲自由度随时代扩大的证据。
 
 ## 写变奏的难点
 
-不是"想不出新花样"，而是：**在换掉表面的同时，保住主题的可辨性。**
+不是"想不出新花样"，而是：在换掉表面的同时，保住主题的可辨性。
 
 | 常见失败 | 原因 |
 |---|---|
@@ -81,9 +81,8 @@ updated: 2026-09-25
 | 变了两个就不像了 | 换得太多，主题的可辨性被冲掉 |
 | 整曲平铺 | 变奏之间**没有整体规划**（如逐步加快 / 逐步加厚） |
 
-**第三条最要紧**：一组好的变奏通常有一条**整体的弧线** ——
-常见的是"越往后越复杂、越快、越厚"，最后一段回到最简（或相反）。
-**没有弧线的变奏组，听起来就是一堆并列的段落。**
+一组好的变奏通常有一条整体的弧线。
+常见的是越往后越复杂、越快、越厚，最后一段回到最简。没有弧线的变奏组，听起来就是一堆并列的段落。
 
 ## 图示：不变的骨架与不断更换的表面
 
@@ -137,8 +136,8 @@ updated: 2026-09-25
 ## 听一听：骨架与它的变化
 
 用 `chord` 组件听同一个和弦的三种形态（原位 / 第一转位 / 宽排列）——
-**构成音不变、排列在变**。这就是变奏原理在最小尺度上的样子：
-**骨架是同一组音，换的是呈现方式。**
+构成音不变、排列在变。这就是变奏原理在最小尺度上的样子：
+骨架是同一组音，换的是呈现方式。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj","inversion":0,"label":"同一和弦的三种呈现（变奏原理）","label_en":"One chord in three presentations — the principle of variation","hint":"整体 / 分解 / 宽排列 —— 构成音始终是 C–E–G","hint_en":"Block, arpeggio, open — the notes remain C-E-G throughout"}
@@ -146,10 +145,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「变奏就是重复加花样」** → 关键是**主题的可辨性**。加花样只是手段之一；换调式、换织体、换性格同样常用。
-- **「一组变奏越长越好」** → 长度不是目标。**一组变奏需要整体弧线**，否则听起来只是一堆并列段落。
-- **「变奏与发展是两回事」** → 是**同一条连续谱的两端**：保留轮廓 → 保留基因。
-- **「固定低音变奏只是老写法」** → 爵士的"riff 变奏"、流行歌的"loop 上叠加"都是同一个原理。
+- 「变奏就是重复加花样」 → 关键是主题的可辨性。加花样只是手段之一；换调式、换织体、换性格同样常用。
+- 「一组变奏越长越好」 → 长度不是目标。一组变奏需要整体弧线，否则听起来只是一堆并列段落。
+- 「变奏与发展是两回事」 → 是同一条连续谱的两端：保留轮廓 → 保留基因。
+- 「固定低音变奏只是老写法」 → 爵士的"riff 变奏"、流行歌的"loop 上叠加"都是同一个原理。
 :::
 
 ::: en
@@ -169,8 +168,9 @@ other side):
 | What changes | the **surface** (rhythm, texture, harmony, ornament) | the **inner structure** |
 | In one word | new **clothes** | new **genes** |
 
-**The test**: can the listener always recognise "this is the same theme"? Yes means variation; if it becomes
-unrecognisable midway, it has developed into something else — or the theme has simply been replaced.
+**The test**: can the listener always recognise "this is the same theme"?
+Yes means variation. If it becomes unrecognisable midway, it has developed into something else, or the theme was
+simply replaced.
 
 ## Common means of variation
 
@@ -183,9 +183,8 @@ unrecognisable midway, it has developed into something else — or the theme has
 | **textural** | from a single line to thick chords, or the reverse | a density device |
 | **character variation** | only **one feature** of the theme retained (an interval, a rhythm) | Romantic: varied nearly beyond recognition |
 
-**The last row is the extreme case**: when only one feature survives, the variation is close to
-[[concept:thematic-development|development]]. **Which shows the two are not different things but the ends of one
-continuum.**
+When only one feature survives, the variation is close to [[concept:thematic-development|development]].
+Variation and development are not different things but the ends of one continuum.
 
 ## Three historical shapes
 
@@ -195,8 +194,8 @@ continuum.**
 | **Classical** | **ornamental variation** | the theme's contour stays clear, each section adds more ornament; the last often changes key or speeds up |
 | **Romantic** | **character variation** | the variations differ wildly in character, often beyond recognition |
 
-The first is the strictest (the frame never moves), the third the freest (only the genes survive) — **and that
-evolution is itself evidence of composing freedom widening over time.**
+The first is the strictest, the frame never moves; the third is the freest, only the genes survive.
+That evolution is itself evidence of composing freedom widening over time.
 
 ## The difficulty of writing variations
 
@@ -208,9 +207,8 @@ It is not "thinking up new tricks" but this: **changing the surface while keepin
 | two variations in and it is gone | too much changed, the theme's identity washed out |
 | the set lies flat | **no overall plan** between variations (say, gradually faster or thicker) |
 
-**The third matters most**: a good set usually has an **arc** — commonly growing more complex, faster and thicker,
-with the last variation returning to the simplest, or the reverse. **Without an arc, a set of variations is a pile
-of parallel sections.**
+A good set usually has an arc: often growing more complex, faster and thicker, with the last variation returning to
+the simplest. Without an arc, a set of variations is just a row of parallel sections.
 
 ## Diagram: a constant frame under a changing surface
 
@@ -264,7 +262,7 @@ of parallel sections.**
 ## Listen: a frame and its presentations
 
 Use `chord` to hear one chord in three forms (root position, first inversion, open voicing) — **the notes are
-unchanged, the presentation is not.** That is variation at its smallest scale: **the same frame, differently
+unchanged, the presentation is not. That is variation at its smallest scale: the same frame, differently
 presented.**
 
 ```audiolab
@@ -273,12 +271,12 @@ presented.**
 
 ## Common misconceptions
 
-- **"A variation is repetition with decoration."** What matters is the **theme's recognisability**. Ornament is one
+- "A variation is repetition with decoration." What matters is the theme's recognisability. Ornament is one
   means; mode, texture and character changes are equally common.
-- **"Longer sets are better."** Length is not the goal. **A set needs an arc**, or it is a pile of parallel
+- "Longer sets are better." Length is not the goal. A set needs an arc, or it is a pile of parallel
   sections.
-- **"Variation and development are separate things."** They are **the two ends of one continuum**: contour retained
+- "Variation and development are separate things." They are the two ends of one continuum: contour retained
   versus genes retained.
-- **"Ground-bass variations are an old device."** A jazz riff variation or a pop song layering onto a loop is the
+- "Ground-bass variations are an old device." A jazz riff variation or a pop song layering onto a loop is the
   same principle.
 :::

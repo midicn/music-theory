@@ -28,58 +28,62 @@ updated: 2026-09-25
 ---
 
 ::: zh
-合奏有一个反直觉的核心：
+合奏有一个反直觉的核心。
 
 > **听别人，比听自己更重要。**
 
-而初学者几乎总是**只听自己** —— 于是出现合奏里最常见的问题：**抢拍与拖拍**。
-（因为"我只知道自己在做什么"，速度就只能按自己的来。）
+初学者几乎总是**只听自己**。
+于是出现合奏里最常见的问题：**抢拍与拖拍**。
+"我只知道自己在做什么"，速度就只能按自己的来。
 
 ## 三个层次
 
 | 层次 | 听什么 | 怎么做 |
 |---|---|---|
-| **① 听拍** | 与全体**对齐**（不抢不拖） | 把注意力放在**别人的重音**上，而不是自己的手上 |
-| **② 听功能** | 和声位置（我在哪一级上） | 用它**判断自己是否在正确的音上**（见 [[concept:harmonic-function\|和声功能]]） |
-| **③ 听平衡** | 音量与角色（谁是主要声部） | 该让的时候让，该出来的时候出来 |
+| **① 听拍** | 与全体**对齐**：不抢不拖。 | 把注意力放在**别人的重音**上，而不是自己的手上。 |
+| **② 听功能** | 和声位置：我在哪一级上。 | 用它**判断自己是否在正确的音上**（见 [[concept:harmonic-function\|和声功能]]）。 |
+| **③ 听平衡** | 音量与角色：谁是主要声部。 | 该让的时候让，该出来的时候出来。 |
 
-**第②层是合奏的"安全网"**：如果某个地方听不出和声是否合理，**说明很可能弹错了音**。
-用听觉而不是用眼睛来发现错误 —— 这是合奏特有的能力。
+**第②层是合奏的安全网。**
+某个地方听不出和声是否合理，多半是音弹错了。
+用听觉而不是用眼睛找错，这是合奏特有的能力。
 
-**第③层最需要判断力**：**"我什么时候该退"** 比 "我什么时候该出声"更难，
-而这恰恰是合奏成熟的标志。
+第③层最需要判断力。
+"我什么时候该退"比"我什么时候该出声"更难。
+合奏成熟不成熟，就看这一层。
 
 ## 两个实用技巧
 
-**① 数休止：不演奏时也要数拍。**
+① 数休止：不演奏时也要数拍。
 
 | 错误做法 | 后果 |
 |---|---|
-| 自己声部休止时**放松下来**（甚至默数"大概多久"） | **进入点必然不准** |
-| 休止期间**保持内在拍**，并与他人重音核对 | 进入点可靠 |
+| 自己声部休止时**放松下来**，只默数"大概多久"。 | **进入点必然不准。** |
+| 休止期间**保持内在拍**，并与他人重音核对。 | 进入点可靠。 |
 
-**这是合奏中最常见的失误来源** —— 尤其是长休止之后（见 [[concept:rests|休止符]]）。
+这是合奏中最常见的失误来源，长休止之后尤其如此（见 [[concept:rests|休止符]]）。
 
-**② 唱别人的声部。**
+② 唱别人的声部。
 
 | 做法 | 收益 |
 |---|---|
-| 私下练习时**唱其他声部** | 真正"听进去"别人的线（见 [[concept:ear-training\|练耳]]） |
-| 知道别人在哪里呼吸、哪里跳进 | 才能**配合**而不是"各弹各的" |
+| 私下练习时**唱其他声部**。 | 真正"听进去"别人的线（见 [[concept:ear-training\|练耳]]）。 |
+| 知道别人在哪里呼吸、哪里跳进。 | 才能**配合**，而不是"各弹各的"。 |
 
-**第二行是合奏的精髓**：合奏不是"几个人同时演奏自己的部分"，
-而是**几条线互相听见、互相让路**（与 [[concept:counterpoint|对位]] 是同一件事）。
+第二行是合奏的精髓。
+合奏不是几个人同时演奏自己的部分。
+它是几条线互相听见、互相让路（与 [[concept:counterpoint|对位]] 是同一件事）。
 
 ## 一个常见的失败模式
 
 | 现象 | 原因 |
 |---|---|
-| 一合奏就整体加速 | 每个人都在**听自己**，缺少外部参照 |
-| 难的地方集体变慢 | 各自的"难"不同，但没有一个共同的拍 |
-| 声音很响但不清楚 | 没有人**听平衡**（第③层缺失） |
+| 一合奏就整体加速。 | 每个人都在**听自己**，缺少外部参照。 |
+| 难的地方集体变慢。 | 各自的"难"不同，没有共同的拍。 |
+| 声音很响但不清楚。 | 没有人**听平衡**（第③层缺失）。 |
 
-**第一、二行有同一个解决办法**：**把注意力从自己身上移到别人身上** ——
-一旦听到别人的拍，就不可能只按自己的速度走（与 [[concept:performance-anxiety|演奏紧张]] 里"注意力外移"是同一手法）。
+前两行有同一个办法：把注意力从自己身上移到别人身上。
+一旦听到别人的拍，就按不回自己的速度走（与 [[concept:performance-anxiety|演奏紧张]] 里"注意力外移"是同一手法）。
 
 ## 图示：三个层次与两个技巧
 
@@ -127,8 +131,10 @@ updated: 2026-09-25
 
 ## 听一听：跟着别人走
 
-合奏的核心是"有外部参照"。本站放不出合奏，但可以用 `rhythm` 做**节拍器 + 节奏型**的对照：
-**先点「节拍器」建立共同拍，再点「节奏型」** —— 这就是"在一个外部参照下演奏"的体验。
+合奏的核心是"有外部参照"。
+这里没有合奏可放，但 `rhythm` 能造出同一个条件。
+先点「节拍器」立起共同拍，再点「节奏型」。
+这就是"在一个外部参照下演奏"。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q e e q q","bpm":84,"label":"在共同拍之下演奏（近似合奏体验）","label_en":"Playing under a shared beat — close to the ensemble experience","hint":"先点「节拍器」，再点「节奏型」，最后点「一起」","hint_en":"Press Metronome, then Rhythm, then Both"}
@@ -136,10 +142,11 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「合奏就是各弹自己的部分」** → 恰恰相反：**要听别人**，并据此调整自己。
-- **「自己声部休止时就可以放松」** → 必须**保持内在拍**，否则进入点必然不准。
-- **「出错要靠眼睛找」** → 合奏里更能靠**听觉**发现：和声听起来不对，多半就是弹错了。
-- **「让出去就是退步」** → **该让的时候让**是合奏能力的一部分；只想着"出声"会让整体浑浊。
+- 「合奏就是各弹自己的部分」 → 恰恰相反。要听别人，并据此调整自己。
+- 「自己声部休止时就可以放松」 → 必须保持内在拍，否则进入点必然不准。
+- 「出错要靠眼睛找」 → 合奏里更能靠听觉发现。和声听起来不对，多半就是弹错了。
+- 「让出去就是退步」 → 该让的时候让，是合奏能力的一部分。只想着"出声"会让整体变浑。
+
 :::
 
 ::: en
@@ -161,29 +168,29 @@ dragging** (because "the only thing I know is what I am doing", the tempo can on
 **Layer 2 is the ensemble's safety net**: if the harmony sounds wrong somewhere, **you have probably played a wrong
 note**. Finding errors by ear rather than by eye is an ensemble-specific skill.
 
-**Layer 3 needs the most judgement**: **"when should I step back"** is harder than "when should I sound" — and it is
+**Layer 3 needs the most judgement**: "when should I step back" is harder than "when should I sound" — and it is
 the mark of ensemble maturity.
 
 ## Two practical techniques
 
-**1 Count the rests: keep counting when you are not playing.**
+1 Count the rests: keep counting when you are not playing.
 
 | Wrong practice | Consequence |
 |---|---|
 | relax during your rests (counting "roughly how long") | **the entry will be wrong** |
 | keep the inner pulse through the rest and check it against others' accents | a reliable entry |
 
-**This is the commonest source of ensemble error** — especially after long rests (see [[concept:rests|rests]]).
+This is the commonest source of ensemble error — especially after long rests (see [[concept:rests|rests]]).
 
-**2 Sing the other parts.**
+2 Sing the other parts.
 
 | Practice | Gain |
 |---|---|
 | sing another part when practising alone | you genuinely **hear** their line (see [[concept:ear-training\|ear training]]) |
 | knowing where they breathe and leap | you can **coordinate** instead of playing alongside |
 
-**The second row is the essence of ensemble playing**: it is not "several people playing their own parts" but
-**several lines hearing each other and making way** (the same thing as [[concept:counterpoint|counterpoint]]).
+The second row is the essence of ensemble playing: it is not "several people playing their own parts" but
+several lines hearing each other and making way (the same thing as [[concept:counterpoint|counterpoint]]).
 
 ## A common failure pattern
 
@@ -193,7 +200,7 @@ the mark of ensemble maturity.
 | the group slows in the hard places | each person's difficulty is different, with no shared beat |
 | loud but unclear | nobody is hearing **balance** (layer 3 missing) |
 
-**The first two have one fix**: **move attention off yourself and onto others** — once you hear another's beat, you
+The first two have one fix: move attention off yourself and onto others — once you hear another's beat, you
 cannot move at your own speed alone (the same "shift attention outward" tactic as under
 [[concept:performance-anxiety|performance anxiety]]).
 
@@ -247,8 +254,8 @@ cannot move at your own speed alone (the same "shift attention outward" tactic a
 
 ## Listen: following someone else
 
-The core of ensemble playing is having an external reference. This site cannot play an ensemble, but `rhythm` gives
-you **metronome plus pattern**: **press Metronome to establish a shared beat, then Rhythm** — that is the experience of
+The core of ensemble playing is having an external reference. No ensemble can be played here, but `rhythm` gives
+you metronome plus pattern: press Metronome to establish a shared beat, then Rhythm — that is the experience of
 playing under an external reference.
 
 ```audiolab
@@ -257,10 +264,10 @@ playing under an external reference.
 
 ## Common misconceptions
 
-- **"Ensemble means playing your own part."** The opposite: **hear others** and adjust accordingly.
-- **"You can relax when your part rests."** You must **keep the inner pulse**, or the entry will be wrong.
-- **"Find mistakes by eye."** In ensemble, **the ear** is better: if the harmony sounds wrong, you are probably on a
+- "Ensemble means playing your own part." The opposite: hear others and adjust accordingly.
+- "You can relax when your part rests." You must keep the inner pulse, or the entry will be wrong.
+- "Find mistakes by eye." In ensemble, the ear is better: if the harmony sounds wrong, you are probably on a
   wrong note.
-- **"Stepping back is losing."** **Yielding when you should** is part of ensemble skill; always sounding muddies the
+- "Stepping back is losing." Yielding when you should is part of ensemble skill; always sounding muddies the
   whole.
 :::

@@ -98,18 +98,18 @@ updated: 2026-09-23
 **一、八度为什么最协和。** 第 2、4、8 分音全是同名音。两个相差八度的音，重合的分音最多，
 所以听起来像"同一个音"。详见 [[concept:octave|八度]]。
 
-**二、纯五度为什么排第二。** 3:2 是最早出现非八度重合的比例（第 3 分音与第 2 分音）。
+二、纯五度为什么排第二。 3:2 是最早出现非八度重合的比例（第 3 分音与第 2 分音）。
 四度 4:3 紧随其后。频率比越简单，听感越"空"，这就是 [[concept:perfect-interval|纯音程]] 之所以"纯"的来历。
 
-**三、大三和弦为什么最稳。** 第 4、5、6 分音正好是一个大三度叠小三度的结构，也就是 C–E–G。
-它不是"被规定成大和弦"，而是**它本来就在泛音列里**。这一层是 [[concept:triad|三和弦]] 与整个和声学的起点。
+三、大三和弦为什么最稳。 第 4、5、6 分音正好是一个大三度叠小三度的结构，也就是 C–E–G。
+它不是"被规定成大和弦"，而是它本来就在泛音列里。这一层是 [[concept:triad|三和弦]] 与整个和声学的起点。
 
-**四、音色从哪来。** 分音各自有强有弱。基音强、高次分音弱，声音就"圆"；高次分音突出，声音就"亮"或"尖"。
+四、音色从哪来。 分音各自有强有弱。基音强、高次分音弱，声音就"圆"；高次分音突出，声音就"亮"或"尖"。
 各次分音在开头一瞬间如何变化，决定了乐器听起来的"起音"。这就是 [[concept:timbre|音色]] 的物理底层。
 
 ## 听一听：把泛音列逐个点出来
 
-下面这串音不是一个音阶，而是**同一条泛音列的不同分音**（用十二平均律近似演奏）。
+下面这串音不是一个音阶，而是同一条泛音列的不同分音（用十二平均律近似演奏）。
 第 5 个音开始已经不完全对应真分音，听个结构即可。
 
 ```audiolab
@@ -118,11 +118,11 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「泛音是很高的、听不见的音」** → 它一直在响，而且很大一部分在可听范围内。听不见的是超过听觉上限的那部分。
-- **「音色取决于基音」** → 基音只决定音高。音色几乎完全由分音的强弱分布决定。
-- **「泛音列是乐理规定出来的」** → 它是振动的物理结果，先有它，后有乐理。乐理只是把它总结成了规则。
-- **「第七分音就是 B♭」** → 记成 B♭ 是记谱上的妥协，它的实际频率比 B♭ 低。这也是键盘调律需要在两端做微调的原因之一。
-- **「钢琴每个音都严格按平均律发声」** → 实际调律会在高低音区做拉伸，因为要把泛音之间的一致性也算进去。
+- 「泛音是很高的、听不见的音」 → 它一直在响，而且很大一部分在可听范围内。听不见的是超过听觉上限的那部分。
+- 「音色取决于基音」 → 基音只决定音高。音色几乎完全由分音的强弱分布决定。
+- 「泛音列是乐理规定出来的」 → 它是振动的物理结果，先有它，后有乐理。乐理只是把它总结成了规则。
+- 「第七分音就是 B♭」 → 记成 B♭ 是记谱上的妥协，它的实际频率比 B♭ 低。这也是键盘调律需要在两端做微调的原因之一。
+- 「钢琴每个音都严格按平均律发声」 → 实际调律会在高低音区做拉伸，因为要把泛音之间的一致性也算进去。
 :::
 
 ::: en
@@ -198,21 +198,21 @@ what they are — no more, no fewer.
 **One: why the octave is the most consonant.** Partials 2, 4 and 8 all carry the same note name. Two tones an
 octave apart share the most partials, so they sound like "one note". See [[concept:octave|octave]].
 
-**Two: why the fifth comes second.** The ratio 3:2 is the first non-octave overlap to appear (partial 3 against
+Two: why the fifth comes second. The ratio 3:2 is the first non-octave overlap to appear (partial 3 against
 partial 2), with the fourth at 4:3 close behind. The simpler the ratio, the emptier the sound — which is where
 [[concept:perfect-interval|perfect intervals]] get their name.
 
-**Three: why the major triad is the most stable.** Partials 4, 5 and 6 already form a major third stacked under
-a minor third: C, E, G. The major triad was not decreed by rule; **it was in the series all along.** This is
+Three: why the major triad is the most stable. Partials 4, 5 and 6 already form a major third stacked under
+a minor third: C, E, G. The major triad was not decreed by rule; it was in the series all along. This is
 where [[concept:triad|triads]] and all of harmony begin.
 
-**Four: where timbre comes from.** Partials differ in strength. A strong fundamental with weak upper partials
+Four: where timbre comes from. Partials differ in strength. A strong fundamental with weak upper partials
 sounds round; prominent upper partials sound bright or piercing. How the partials behave in the first
 instant decides the instrument's attack. That is the physical floor under [[concept:timbre|timbre]].
 
 ## Listen: picking out the partials
 
-The row below is not a scale but **different partials of one series**, approximated by equal temperament.
+The row below is not a scale but different partials of one series, approximated by equal temperament.
 From the fifth tone on the match is no longer exact — listen for the shape.
 
 ```audiolab
@@ -221,9 +221,9 @@ From the fifth tone on the match is no longer exact — listen for the shape.
 
 ## Common misconceptions
 
-- **"Overtones are high, inaudible tones."** They sound all the time, and a large part of them lies inside the audible range. Only the portion above the hearing limit is inaudible.
-- **"Timbre depends on the fundamental."** The fundamental sets the pitch. Timbre is almost entirely determined by how strong each partial is.
-- **"The harmonic series was invented by music theory."** It is a physical consequence of vibration. It came first; theory merely wrote it down.
-- **"Partial 7 is just B♭."** Writing it as B♭ is a notational compromise; its actual frequency is lower. This is one reason keyboard tuning is stretched at both ends.
-- **"Every piano note sounds strictly in equal temperament."** Real tuning stretches the extremes, because agreement between partials has to be factored in too.
+- "Overtones are high, inaudible tones." They sound all the time, and a large part of them lies inside the audible range. Only the portion above the hearing limit is inaudible.
+- "Timbre depends on the fundamental." The fundamental sets the pitch. Timbre is almost entirely determined by how strong each partial is.
+- "The harmonic series was invented by music theory." It is a physical consequence of vibration. It came first; theory merely wrote it down.
+- "Partial 7 is just B♭." Writing it as B♭ is a notational compromise; its actual frequency is lower. This is one reason keyboard tuning is stretched at both ends.
+- "Every piano note sounds strictly in equal temperament." Real tuning stretches the extremes, because agreement between partials has to be factored in too.
 :::

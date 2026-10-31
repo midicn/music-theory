@@ -51,25 +51,25 @@ updated: 2026-09-24
 
 ## 三种常用手段
 
-**① 共同和弦**（最平滑）
-用一个**两个调都有的和弦**当桥梁，先把它听成旧调里的某级，再把它听成新调里的另一级。
+① 共同和弦（最平滑）
+用一个两个调都有的和弦当桥梁，先把它听成旧调里的某级，再把它听成新调里的另一级。
 
-**② 副属和弦**
+② 副属和弦
 在目标调前面放一个属和弦，直接"预告"新中心（见 [[concept:secondary-dominant|副属和弦]]）。
 
-**③ 等音重解**（最突然）
+③ 等音重解（最突然）
 同一个音或同一个和弦，换个写法就属于另一个调 ——
 例如减七和弦、增三和弦这些对称结构，改一个解释方向就转过去了（见 [[concept:enharmonic|等音]]）。
 
 ## 转调在结构上的作用
 
-转调不只是"换调"，它是**曲式的主要分界手段**：
+转调不只是"换调"，它是曲式的主要分界手段：
 
-- **奏鸣曲式**的展开部几乎就是"不断转调"；
-- **三段体**的中段常用对比调性；
-- **变奏曲**的变奏之间常换调，以制造新鲜感。
+- 奏鸣曲式的展开部几乎就是"不断转调"；
+- 三段体的中段常用对比调性；
+- 变奏曲的变奏之间常换调，以制造新鲜感。
 
-换句话说：**调性布局 = 结构的地图**。
+一句话：调性布局 = 结构的地图。
 
 ## 图示：五度圈上的距离
 
@@ -121,10 +121,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「转调与离调是同一件事」** → 离调是"借一下就走"，转调是"确实建立新中心"。区别在时长与深度，不在手段。
-- **「转调必须用变化音」** → 近关系转调常常一个变化音都不用，全靠共同和弦。
-- **「关系小调就是同一个调」** → 调号相同，但中心不同（C 与 a 是两个中心），因此是两个调。
-- **「转调越突然越好」** → 突然的转调是有意为之的效果（如等音重解）。多数情况下作曲家会安排过渡，让听者跟得上。
+- 「转调与离调是同一件事」 → 离调是"借一下就走"，转调是"确实建立新中心"。区别在时长与深度，不在手段。
+- 「转调必须用变化音」 → 近关系转调常常一个变化音都不用，全靠共同和弦。
+- 「关系小调就是同一个调」 → 调号相同，但中心不同（C 与 a 是两个中心），因此是两个调。
+- 「转调越突然越好」 → 突然的转调是有意为之的效果（如等音重解）。多数情况下作曲家会安排过渡，让听者跟得上。
 :::
 
 ::: en
@@ -152,25 +152,25 @@ The reason close keys are smooth is plain: **they share many notes, so no accide
 
 ## Three common devices
 
-**One: common chord** (smoothest). Use a chord that **exists in both keys** as a bridge: first hear it as a degree
+One: common chord (smoothest). Use a chord that exists in both keys as a bridge: first hear it as a degree
 of the old key, then reinterpret it as a degree of the new one.
 
-**Two: secondary dominant.** Place a dominant chord of the target key in front of it, announcing the new centre
+Two: secondary dominant. Place a dominant chord of the target key in front of it, announcing the new centre
 (see [[concept:secondary-dominant|secondary dominant]]).
 
-**Three: enharmonic reinterpretation** (most abrupt). The same note or chord, respelled, belongs to another key —
+Three: enharmonic reinterpretation (most abrupt). The same note or chord, respelled, belongs to another key —
 symmetrical structures such as the diminished seventh or augmented triad turn with a change of interpretation (see
 [[concept:enharmonic|enharmonic]]).
 
 ## What modulation does structurally
 
-Modulation is not merely "changing key"; it is **the main way form is divided**:
+Modulation is not merely "changing key"; it is the main way form is divided:
 
-- the development section of **sonata form** is little more than continuous modulation;
-- the middle section of a **ternary form** typically uses a contrasting key;
-- **variation sets** often change key between variations for freshness.
+- the development section of sonata form is little more than continuous modulation;
+- the middle section of a ternary form typically uses a contrasting key;
+- variation sets often change key between variations for freshness.
 
-In other words: **the tonal plan is the map of the structure.**
+In other words: the tonal plan is the map of the structure.
 
 ## Diagram: distances on the circle
 
@@ -223,8 +223,8 @@ Use the circle-of-fifths component to click neighbouring and non-neighbouring ke
 
 ## Common misconceptions
 
-- **"Modulation and tonicization are the same thing."** Tonicization borrows and leaves; modulation establishes a new centre. The difference is duration and depth, not technique.
-- **"Modulation requires accidentals."** Close-key modulations often use none at all, relying on common chords.
-- **"A relative minor is the same key."** Same signature, different centre (C and A are two centres), so two keys.
-- **"The more abrupt the modulation the better."** Abruptness is a deliberate effect (enharmonic rewriting). Usually the composer prepares the listener.
+- "Modulation and tonicization are the same thing." Tonicization borrows and leaves; modulation establishes a new centre. The difference is duration and depth, not technique.
+- "Modulation requires accidentals." Close-key modulations often use none at all, relying on common chords.
+- "A relative minor is the same key." Same signature, different centre (C and A are two centres), so two keys.
+- "The more abrupt the modulation the better." Abruptness is a deliberate effect (enharmonic rewriting). Usually the composer prepares the listener.
 :::

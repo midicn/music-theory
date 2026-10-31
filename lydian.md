@@ -34,9 +34,9 @@ updated: 2026-09-23
 
 升起的第 4 级带来两个后果：
 
-1. **主音到第 4 级变成增四度**（C–F♯，六个半音）。这是所有音阶里唯一以三全音作为特征音的
+1. 主音到第 4 级变成增四度（C–F♯，六个半音）。这是所有音阶里唯一以三全音作为特征音的
    形态 —— 难怪它听起来不安定（见 [[concept:augmented-diminished|增音程与减音程]]）。
-2. **失去了下属方向的支撑**。大调里第 4 级是下属音，是主音的"下方支点"；升上去之后这支点消失了。
+2. 失去了下属方向的支撑。大调里第 4 级是下属音，是主音的"下方支点"；升上去之后这支点消失了。
 
 ## 结构
 
@@ -49,7 +49,7 @@ updated: 2026-09-23
 |---|---|---|---|---|---|---|---|
 | 相对大调 | 同 | 同 | 同 | **升** | 同 | 同 | 同 |
 
-特征音是**第 4 级**（增四度）。与 [[concept:mixolydian|混合利底亚]] 只差一处：**第 4 级是升的还是不动的？**
+特征音是第 4 级（增四度）。与 [[concept:mixolydian|混合利底亚]] 只差一处：第 4 级是升的还是不动的？
 升的是利底亚，不动而第 7 级降的是混合利底亚。
 
 ## 图示：升起的第四级
@@ -95,10 +95,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「升四级是写错了」** → 它是利底亚的定义。写成 F 就变成大调了。
-- **「利底亚就是大调换了个起点」** → 结构上确实可以从大调第 4 级起得到，但听感重心完全不同：主音换了，悬浮感是主音与第 4 级之间那个增四度造成的。
-- **「增四度必然刺耳」** → 在利底亚里它常被处理成柔和的悬浮而非尖锐的紧张，取决于和声与配器。
-- **「利底亚很少见」** → 在电影配乐与后摇滚里它是制造"辽阔、悬浮"的常用工具。
+- 「升四级是写错了」 → 它是利底亚的定义。写成 F 就变成大调了。
+- 「利底亚就是大调换了个起点」 → 结构上确实可以从大调第 4 级起得到，但听感重心完全不同：主音换了，悬浮感是主音与第 4 级之间那个增四度造成的。
+- 「增四度必然刺耳」 → 在利底亚里它常被处理成柔和的悬浮而非尖锐的紧张，取决于和声与配器。
+- 「利底亚很少见」 → 在电影配乐与后摇滚里它是制造"辽阔、悬浮"的常用工具。
 :::
 
 ::: en
@@ -110,10 +110,10 @@ Lydian is the only one of the six modes that is **brighter than major**, and the
 
 The raised fourth has two consequences:
 
-1. **The tonic to the fourth becomes a tritone** (C–F♯, six semitones). It is the only scale whose
+1. The tonic to the fourth becomes a tritone (C–F♯, six semitones). It is the only scale whose
    characteristic note is that interval — no wonder it sounds unsettled (see
    [[concept:augmented-diminished|augmented and diminished]]).
-2. **The subdominant support disappears.** In major, the fourth degree is the lower prop under the tonic; raise
+2. The subdominant support disappears. In major, the fourth degree is the lower prop under the tonic; raise
    it and the prop is gone.
 
 ## Structure
@@ -127,8 +127,8 @@ The raised fourth has two consequences:
 |---|---|---|---|---|---|---|---|
 | vs. major | = | = | = | **raised** | = | = | = |
 
-The characteristic note is the **fourth** (a tritone above the tonic). Its only difference from
-[[concept:mixolydian|Mixolydian]] is one thing: **is the fourth raised, or untouched?** Raised means Lydian;
+The characteristic note is the fourth (a tritone above the tonic). Its only difference from
+[[concept:mixolydian|Mixolydian]] is one thing: is the fourth raised, or untouched? Raised means Lydian;
 untouched with a lowered seventh means Mixolydian.
 
 ## Diagram: the raised fourth
@@ -174,8 +174,8 @@ Hear Lydian, then major. The only difference is the height of the fourth — one
 
 ## Common misconceptions
 
-- **"A raised fourth is a mistake."** It is the definition of Lydian. Write F instead and you have major again.
-- **"Lydian is just major started elsewhere."** Structurally it can be derived that way, but the centre of gravity moves: the hovering comes from the tritone between the new tonic and its fourth.
-- **"A tritone must sound harsh."** In Lydian it is usually handled as a soft suspension rather than a bite, depending on harmony and scoring.
-- **"Lydian is rare."** In film scoring and post-rock it is a standard tool for a wide, floating atmosphere.
+- "A raised fourth is a mistake." It is the definition of Lydian. Write F instead and you have major again.
+- "Lydian is just major started elsewhere." Structurally it can be derived that way, but the centre of gravity moves: the hovering comes from the tritone between the new tonic and its fourth.
+- "A tritone must sound harsh." In Lydian it is usually handled as a soft suspension rather than a bite, depending on harmony and scoring.
+- "Lydian is rare." In film scoring and post-rock it is a standard tool for a wide, floating atmosphere.
 :::

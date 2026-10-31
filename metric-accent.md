@@ -57,7 +57,7 @@ updated: 2026-09-25
 
 ## 重音与和声的配合
 
-一个非常实用的观察：**和声更换通常落在重音上**。
+一个非常实用的观察：和声更换通常落在重音上。
 
 | 位置 | 常见的和声行为 |
 |---|---|
@@ -66,7 +66,7 @@ updated: 2026-09-25
 | 弱拍 | 较少换和弦；换了就有推进感 |
 
 这就是 [[concept:harmonic-rhythm|和声节奏]] 与拍子的交叉点：
-**重音是"换和弦的默认位置"**，所以故意在弱拍换和弦（和声层面的切分）会产生强烈的推进效果。
+重音是"换和弦的默认位置"，所以故意在弱拍换和弦（和声层面的切分）会产生强烈的推进效果。
 
 ## 图示：重音的层次
 
@@ -126,7 +126,7 @@ updated: 2026-09-25
 
 ## 听一听：重音周期
 
-用 `rhythm` 组件听 4/4 与 3/4 的均分。**请数"强拍隔几拍回来一次"** ——
+用 `rhythm` 组件听 4/4 与 3/4 的均分。请数"强拍隔几拍回来一次" ——
 那个数字就是这种节拍的"心跳周期"，也是后续一切切分与复节奏的参照点。
 
 ```audiolab
@@ -140,10 +140,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「强弱规律就是"第一拍重"」** → 4/4 里第 3 拍是**次强**，不是普通弱拍。没有这个层次，四拍子就退化成 2/4 重复两遍。
-- **「重音必须弹得更响」** → 重音是**结构位置**，实现方式可以是力度、时值、和声更换或织体，不必只是"响一点"。
-- **「打破重音就是不要重音」** → 恰恰相反：切分依赖重音的存在（见 [[concept:syncopation|切分]]）。没有正拍就没有错位。
-- **「复合拍子的重音和单拍子一样」** → 6/8 的重音是**两层**的（两个大拍，每拍内含三个小拍），与 3/4 的单层重音不同。
+- 「强弱规律就是"第一拍重"」 → 4/4 里第 3 拍是次强，不是普通弱拍。没有这个层次，四拍子就退化成 2/4 重复两遍。
+- 「重音必须弹得更响」 → 重音是结构位置，实现方式可以是力度、时值、和声更换或织体，不必只是"响一点"。
+- 「打破重音就是不要重音」 → 恰恰相反：切分依赖重音的存在（见 [[concept:syncopation|切分]]）。没有正拍就没有错位。
+- 「复合拍子的重音和单拍子一样」 → 6/8 的重音是两层的（两个大拍，每拍内含三个小拍），与 3/4 的单层重音不同。
 :::
 
 ::: en
@@ -245,7 +245,7 @@ chord**, so changing on a weak beat (harmonic syncopation) produces a strong pro
 
 ## Listen: the accent cycle
 
-Use `rhythm` on even 4/4 and 3/4. **Count how many beats pass between strong accents** — that number is the pulse
+Use `rhythm` on even 4/4 and 3/4. Count how many beats pass between strong accents — that number is the pulse
 of the metre, and the reference point for every syncopation and polyrhythm that follows.
 
 ```audiolab
@@ -258,12 +258,12 @@ of the metre, and the reference point for every syncopation and polyrhythm that 
 
 ## Common misconceptions
 
-- **"Metric accent just means the first beat is loud."** In 4/4 beat 3 is a **secondary accent**, not an ordinary
+- "Metric accent just means the first beat is loud." In 4/4 beat 3 is a secondary accent, not an ordinary
   weak beat. Without that layer quadruple metre collapses into 2/4 twice.
-- **"An accent must be played louder."** The accent is a **structural position**; it may be realised by dynamics,
+- "An accent must be played louder." The accent is a structural position; it may be realised by dynamics,
   duration, harmonic change or texture — not by volume alone.
-- **"Breaking the accent means doing without it."** The opposite: syncopation depends on the accent existing (see
+- "Breaking the accent means doing without it." The opposite: syncopation depends on the accent existing (see
   [[concept:syncopation|syncopation]]). No right beat, no displacement.
-- **"Compound metre accents work like simple metre."** 6/8 accents on **two** levels (two large beats each holding
+- "Compound metre accents work like simple metre." 6/8 accents on two levels (two large beats each holding
   three small ones), unlike the single level of 3/4.
 :::

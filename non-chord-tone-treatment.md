@@ -32,7 +32,7 @@ updated: 2026-09-24
 这一条讲的是"外音**怎么处理**" —— 这是写作层面的事，也是判断写作水平的地方。
 
 **为什么处理比分类难？** 因为外音天然是一处**不协和**。不协和本身不是问题，
-问题是它必须**听起来像故意写的**。同一处外音，处理得当是"味道"，处理不当是"错误"——
+问题是它必须听起来像故意写的。同一处外音，处理得当是"味道"，处理不当是"错误"——
 而两者的音符完全一样。
 
 ## 四条处理规矩
@@ -46,17 +46,17 @@ updated: 2026-09-24
 
 第 4 条最容易被忽略，也最有用：
 
-> **同一个音，落在不同的和弦上，身份完全不同。**
-> 在 C 和弦上出现的 D，可能是经过音；在小节线另一侧的 G 和弦上出现的 D，却是**和弦音**。
-> 所以外音处理的第一步不是"怎么写这个音"，而是"**它落在哪个和弦上**"。
+> 同一个音，落在不同的和弦上，身份完全不同。
+> 在 C 和弦上出现的 D，可能是经过音；在小节线另一侧的 G 和弦上出现的 D，却是和弦音。
+> 所以外音处理的第一步不是"怎么写这个音"，而是"它落在哪个和弦上"。
 
 ## 一个常见的处理错误
 
-**把外音放在低音区。** 低音是全曲最被注意的位置（见 [[concept:chord-voicing|和弦排列]]），
+把外音放在低音区。 低音是全曲最被注意的位置（见 [[concept:chord-voicing|和弦排列]]），
 外音放在那里会立刻变成"突出的不协和"，听感上像错音。
 
-同样，**外音最好不要与低音形成强冲突**（如小二度、三全音）。传统写作里低音几乎总是和弦音 ——
-这就是原因。例外是**延留音**：低音延留恰恰是最有力的收束手段之一
+同样，外音最好不要与低音形成强冲突（如小二度、三全音）。传统写作里低音几乎总是和弦音 ——
+这就是原因。例外是延留音：低音延留恰恰是最有力的收束手段之一
 （见 [[concept:pedal-point|持续低音]] 与 [[concept:cadence|终止式]] 里的挂留解决）。
 
 ## 同一处外音的两种命运
@@ -119,10 +119,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「外音处理就是"写完之后检查一下"」** → 它是**写作时的第一步判断**：先定它落在哪个和弦上，再决定怎么写。
-- **「外音越少越安全」** → 恰恰相反：外音让旋律不必被和弦锁死（见 [[concept:non-chord-tone|和弦外音]]）。关键是处理，不是回避。
-- **「只要解决就没错」** → 还要看**时值**与**声部位置**。低音区的外音即使解决了，听起来仍像撞了一下。
-- **「外音规则是古典时代的教条」** → 现代音乐中外音更自由，但"想让不协和听起来是故意的"这一目标没变，判断标准也没变。
+- 「外音处理就是"写完之后检查一下"」 → 它是写作时的第一步判断：先定它落在哪个和弦上，再决定怎么写。
+- 「外音越少越安全」 → 恰恰相反：外音让旋律不必被和弦锁死（见 [[concept:non-chord-tone|和弦外音]]）。关键是处理，不是回避。
+- 「只要解决就没错」 → 还要看时值与声部位置。低音区的外音即使解决了，听起来仍像撞了一下。
+- 「外音规则是古典时代的教条」 → 现代音乐中外音更自由，但"想让不协和听起来是故意的"这一目标没变，判断标准也没变。
 :::
 
 ::: en
@@ -131,7 +131,7 @@ suspension…). This entry covers **how to treat them** — the compositional le
 skill shows.
 
 **Why is treatment harder than classification?** Because a foreign note is by nature a **dissonance**. The
-dissonance is not the problem; the problem is that it must **sound intentional**. The same foreign note handled
+dissonance is not the problem; the problem is that it must sound intentional. The same foreign note handled
 well is flavour, handled badly is an error — with identical pitches.
 
 ## Four rules of treatment
@@ -145,20 +145,20 @@ well is flavour, handled badly is an error — with identical pitches.
 
 The fourth is the most overlooked and the most useful:
 
-> **The same note landing on a different chord is a different thing entirely.**
+> The same note landing on a different chord is a different thing entirely.
 > A D over a C chord may be a passing note; the identical D on the far side of a barline over a G chord is a
-> **chord tone**. So the first step in treating a foreign note is not "how do I write this note" but "**which
+> chord tone. So the first step in treating a foreign note is not "how do I write this note" but "**which
 > chord does it fall on**".
 
 ## A common treatment error
 
-**Putting foreign notes in the bass.** The bass is the most attended-to register (see
+Putting foreign notes in the bass. The bass is the most attended-to register (see
 [[concept:chord-voicing|chord voicing]]), so a foreign note there instantly becomes a protruding dissonance that
 sounds like a wrong note.
 
-For the same reason, **a foreign note should not form a strong clash with the bass** (a minor second or a
+For the same reason, a foreign note should not form a strong clash with the bass (a minor second or a
 tritone). In traditional writing the bass is almost always a chord tone — and that is why. The exception is the
-**suspension**: a suspended bass is one of the most forceful closing devices (see
+suspension: a suspended bass is one of the most forceful closing devices (see
 [[concept:pedal-point|pedal point]] and the suspension resolutions in [[concept:cadence|cadence]]).
 
 ## Two fates for one foreign note
@@ -222,12 +222,12 @@ hearing which harmony it lands on.
 
 ## Common misconceptions
 
-- **"Treating foreign notes is a check you run afterwards."** It is the **first decision while writing**: settle
+- "Treating foreign notes is a check you run afterwards." It is the first decision while writing: settle
   which chord the note falls on, then decide how to write it.
-- **"Fewer foreign notes is safer."** The opposite: they free a melody from the chord (see
+- "Fewer foreign notes is safer." The opposite: they free a melody from the chord (see
   [[concept:non-chord-tone|non-chord tones]]). The issue is treatment, not avoidance.
-- **"If it resolves, it is correct."** Duration and voice position matter too. A foreign note in the bass still
+- "If it resolves, it is correct." Duration and voice position matter too. A foreign note in the bass still
   sounds like a collision even when it resolves.
-- **"The rules are classical dogma."** Modern music treats foreign notes far more freely, but the goal — making a
+- "The rules are classical dogma." Modern music treats foreign notes far more freely, but the goal — making a
   dissonance sound intentional — has not changed, and neither has the test.
 :::

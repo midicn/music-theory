@@ -36,7 +36,7 @@ updated: 2026-09-25
 
 ## 三种常用谱号
 
-三种谱号的形状都来自**字母**，而字母的**关键部位恰好指着那条"基准线"**：
+三种谱号的形状都来自**字母**，而字母的关键部位恰好指着那条"基准线"：
 
 | 谱号 | 来自字母 | 基准线 | 该线是 | 常用于 |
 |---|---|---|---|---|
@@ -44,34 +44,34 @@ updated: 2026-09-25
 | **低音谱号** | **F** | 第四线（两点夹住） | **F3** | 大提琴、低音提琴、左手、男低音 |
 | **中音谱号** | **C** | 第三线（方块中心） | **C4** | 中提琴 |
 
-**形状的记忆法**：G 的**卷曲中心**落在第二线上；F 的**两个点**夹住第四线；
-C 的**方块中心**落在第三条线上。**记住"关键部位指着哪条线"，就不必背表**。
+形状的记忆法：G 的卷曲中心落在第二线上；F 的两个点夹住第四线；
+C 的方块中心落在第三条线上。记住"关键部位指着哪条线"，就不必背表。
 
 ## 为什么需要多种谱号
 
-不是习惯问题，而是**功能选择**：
+不是习惯问题，而是功能选择：
 
-> **目的：让该乐器最常用的音区落在谱面中央，减少加线。**
+> 目的：让该乐器最常用的音区落在谱面中央，减少加线。
 
 | 若全部用高音谱号 | 后果 |
 |---|---|
 | 大提琴的低音区 | 大量下加线，难以阅读 |
 | 低音提琴 | 更糟 |
 
-所以谱号的选择标准是**"让谱面尽量不用加线"** ——
-这也解释了为什么钢琴用**大谱表**（高音 + 低音谱号并用）：
-**音域太宽，一个谱面装不下**（见 [[concept:register|音区与音域]]）。
+所以谱号的选择标准是"让谱面尽量不用加线" ——
+这也解释了为什么钢琴用大谱表（高音 + 低音谱号并用）：
+音域太宽，一个谱面装不下（见 [[concept:register|音区与音域]]）。
 
 ## 一个容易搞错的补充：八度谱号
 
-有时会在谱号上方看到 **`8`**（或 `8va`）：它表示**实际音高要高一个八度**。
+有时会在谱号上方看到 `8`（或 `8va`）：它表示实际音高要高一个八度。
 
 | 写法 | 含义 |
 |---|---|
 | `8` 在谱号上 | 记谱比实际低一个八度 |
 | `8` 在谱号下（`8vb`） | 记谱比实际高一个八度 |
 
-它的用途与换谱号相同：**少画加线**。所以遇到它时，**不能照谱面直接读**。
+它的用途与换谱号相同：少画加线。所以遇到它时，不能照谱面直接读。
 
 ## 图示：三种谱号的关键部位
 
@@ -126,8 +126,8 @@ C 的**方块中心**落在第三条线上。**记住"关键部位指着哪条�
 
 ## 听一听：同一位置、不同音高
 
-本站无法演示谱面 —— 但可以听**同一个音名的两个八度**。
-**谱面上的"同一个位置"，在不同谱号下正是这样的关系**（差一个八度或更多）。
+谱面演示不了 —— 但可以听同一个音名的两个八度。
+谱面上的"同一个位置"，在不同谱号下正是这样的关系（差一个八度或更多）。
 
 ```audiolab
 {"type":"interval","a":"A3","b":"A4","label":"同音名、不同八度（谱号决定它是哪一个）","label_en":"Same note name, different octaves — the clef decides which","hint":"先各自听，再听合起来","hint_en":"Hear each tone, then both together","hint2":"同一个 A 在不同谱号下写成不同位置；反过来说，同一个位置在不同谱号下也是不同的音高。","hint2_en":"The same A is written in different places under different clefs; conversely, the same position gives different pitches under different clefs."}
@@ -135,10 +135,10 @@ C 的**方块中心**落在第三条线上。**记住"关键部位指着哪条�
 
 ## 常见误解
 
-- **「高音谱号是右手，低音谱号是左手」** → 谱号规定的是**音高位置**，与哪只手无关。左手也可以在高音谱号上记谱。
-- **「谱号可以随便换」** → 换谱号会**改变每个位置的音高含义**，必须整段一致或有明确标示。
-- **「五线谱自带你不知道的音高」** → 必须有谱号才成立；单独一张五线谱不传达音高。
-- **「谱号上的 8 只是装饰」** → 它表示**实际音高差一个八度**，不能照谱面直读。
+- 「高音谱号是右手，低音谱号是左手」 → 谱号规定的是音高位置，与哪只手无关。左手也可以在高音谱号上记谱。
+- 「谱号可以随便换」 → 换谱号会改变每个位置的音高含义，必须整段一致或有明确标示。
+- 「五线谱自带你不知道的音高」 → 必须有谱号才成立；单独一张五线谱不传达音高。
+- 「谱号上的 8 只是装饰」 → 它表示实际音高差一个八度，不能照谱面直读。
 :::
 
 ::: en
@@ -151,7 +151,7 @@ positions into pitches.
 
 ## The three common clefs
 
-All three take their shape from a **letter**, and the letter's **key part points at the reference line**:
+All three take their shape from a **letter**, and the letter's key part points at the reference line:
 
 | Clef | From the letter | Reference line | That line is | Common for |
 |---|---|---|---|---|
@@ -159,13 +159,13 @@ All three take their shape from a **letter**, and the letter's **key part points
 | **bass** | **F** | fourth line (gripped by the dots) | **F3** | cello, double bass, left hand, bass |
 | **alto** | **C** | third line (centre of the block) | **C4** | viola |
 
-**How to remember**: the **centre of the G's curl** sits on the second line; the **two dots of the F** grip the
-fourth line; the **centre of the C's block** sits on the third. **Remember which line the key part points at and
+How to remember: the centre of the G's curl sits on the second line; the two dots of the F grip the
+fourth line; the centre of the C's block sits on the third. **Remember which line the key part points at and
 the table is unnecessary.**
 
 ## Why several clefs are needed
 
-Not habit but **function**:
+Not habit but function:
 
 > **Purpose: put the instrument's most used register in the middle of the staff, reducing ledger lines.**
 
@@ -174,20 +174,20 @@ Not habit but **function**:
 | a cello's low register | many ledger lines below the staff, hard to read |
 | double bass | worse still |
 
-So the criterion is **"use the clef that needs the fewest ledger lines"** — which also explains why the piano uses a
-**grand staff** (treble and bass together): **its range is simply too wide for one staff** (see
+So the criterion is "use the clef that needs the fewest ledger lines" — which also explains why the piano uses a
+grand staff (treble and bass together): its range is simply too wide for one staff (see
 [[concept:register|register and range]]).
 
 ## One easily missed addition: the octave clef
 
-Sometimes an **`8`** (or `8va`) appears above a clef, meaning **the sounding pitch is an octave higher**.
+Sometimes an `8` (or `8va`) appears above a clef, meaning the sounding pitch is an octave higher.
 
 | Notation | Meaning |
 |---|---|
 | `8` above the clef | the notation is an octave below the sound |
 | `8` below the clef (`8vb`) | the notation is an octave above the sound |
 
-Its purpose is the same as changing clef: **fewer ledger lines**. So when you meet one, **you cannot read the staff
+Its purpose is the same as changing clef: fewer ledger lines. So when you meet one, **you cannot read the staff
 literally**.
 
 ## Diagram: the key part of each clef
@@ -243,7 +243,7 @@ literally**.
 
 ## Listen: same position, different pitch
 
-This site cannot show a staff — but it can play **two octaves of the same note name**. **Under different clefs, "the
+This site cannot show a staff — but it can play two octaves of the same note name. **Under different clefs, "the
 same position" relates exactly that way.**
 
 ```audiolab
@@ -252,11 +252,11 @@ same position" relates exactly that way.**
 
 ## Common misconceptions
 
-- **"Treble clef is the right hand, bass clef the left."** A clef fixes **pitch positions**, not hands. The left hand
+- "Treble clef is the right hand, bass clef the left." A clef fixes pitch positions, not hands. The left hand
   can be notated in the treble clef.
-- **"Clefs can be swapped freely."** Changing clef **changes the pitch meaning of every position**, so it must
+- "Clefs can be swapped freely." Changing clef changes the pitch meaning of every position, so it must
   remain consistent or be clearly marked.
-- **"A staff implies a pitch by itself."** A clef is required; a bare staff conveys no pitch.
-- **"The 8 on a clef is decoration."** It means **the sounding pitch is an octave away** — the staff cannot be read
+- "A staff implies a pitch by itself." A clef is required; a bare staff conveys no pitch.
+- "The 8 on a clef is decoration." It means the sounding pitch is an octave away — the staff cannot be read
   literally.
 :::

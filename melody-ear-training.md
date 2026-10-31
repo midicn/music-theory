@@ -47,23 +47,23 @@ updated: 2026-09-25
 | **③ 音程** | 每一步的级进 / 跳进与宽度 | — | 需专门训练（见 [[concept:interval-ear-training|音程的听辨方法]]） |
 
 **第②层最被低估。** 乐句的落音决定了句读与调式归属（见 [[concept:phrase|乐句与乐段]]），
-而且**只要抓住落音，整条旋律的骨架就出来了** —— 中间的音可以之后再补。
+而且只要抓住落音，整条旋律的骨架就出来了 —— 中间的音可以之后再补。
 
 ## 具体做法
 
-**第一步：只听轮廓，用手画。**
+第一步：只听轮廓，用手画。
 第一遍不要听音高，只用手跟着旋律上下比划。听完能画出走向，就算过了。
 
-**第二步：只记落音。**
-每个乐句结束的那个音，唱出来并记下它的**相对位置**（比句首高还是低、高多少）。
+第二步：只记落音。
+每个乐句结束的那个音，唱出来并记下它的相对位置（比句首高还是低、高多少）。
 这比记整条旋律容易得多，但信息量最大。
 
-**第三步：补中间的音。**
+第三步：补中间的音。
 在已知骨架的前提下，把中间的音当作"从落音到落音之间的路径"来听 ——
 问的是"这一步是级进还是跳进"，而不是"这是什么音"。
 
-**第四步：写下来验证。**
-听辨的检验标准是**能不能写出来**。写不出就是还没听清 —— 这与"感觉听懂了"是两件事。
+第四步：写下来验证。
+听辨的检验标准是能不能写出来。写不出就是还没听清 —— 这与"感觉听懂了"是两件事。
 
 ## 一个常见的挫败及其原因
 
@@ -74,7 +74,7 @@ updated: 2026-09-25
 | 换一个调就听不出来了 | 一直在记**绝对音高**，没有抓关系 |
 | 长旋律完全跟不上 | 没有用"乐句"分段，而是一口气听 |
 
-**第一行与第四行是同一件事**：旋律必须**按句分段**来听，
+第一行与第四行是同一件事：旋律必须按句分段来听，
 因为听觉记忆的容量与"句"天然对齐（这正是 [[concept:breath-phrasing|呼吸与句读]] 在听觉上的对应）。
 
 ## 图示：三层剥开
@@ -122,7 +122,7 @@ updated: 2026-09-25
 
 ## 听一听：从轮廓练起
 
-用 `scale` 组件听**上行**与**下行**各一遍 —— 这就是第①层"轮廓"。
+用 `scale` 组件听上行与下行各一遍 —— 这就是第①层"轮廓"。
 请先只听方向、不听音名，练到能立刻说出"上行"或"下行"。
 
 ```audiolab
@@ -131,10 +131,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「听旋律就是听音名」** → 听的是**关系**（距离与方向），所以换调也能认出同一条旋律。
-- **「记不住旋律是耳朵不好」** → 多半是**方法错了**（试图一次记住每个音，超出听觉记忆容量）。
-- **「能哼出来就算听懂了」** → 哼得出来只说明轮廓抓住了；能不能**写下来**才是检验标准。
-- **「练耳要专门抽时间」** → 三个层次都可以在平时听音乐时练：先只抓走向，再只抓句尾，最后再问音程。
+- 「听旋律就是听音名」 → 听的是关系（距离与方向），所以换调也能认出同一条旋律。
+- 「记不住旋律是耳朵不好」 → 多半是方法错了（试图一次记住每个音，超出听觉记忆容量）。
+- 「能哼出来就算听懂了」 → 哼得出来只说明轮廓抓住了；能不能写下来才是检验标准。
+- 「练耳要专门抽时间」 → 三个层次都可以在平时听音乐时练：先只抓走向，再只抓句尾，最后再问音程。
 :::
 
 ::: en
@@ -163,17 +163,17 @@ notes can come later.
 
 ## How to practise
 
-**Step 1: hear only the contour, draw it with your hand.** On the first listen, ignore pitch and trace the rise
+Step 1: hear only the contour, draw it with your hand. On the first listen, ignore pitch and trace the rise
 and fall with a gesture. If you can draw the shape afterwards, you have passed.
 
-**Step 2: note only the landings.** Sing the final note of each phrase and record its **relative position** (higher
+Step 2: note only the landings. Sing the final note of each phrase and record its relative position (higher
 or lower than the phrase's start, and by how much). Far easier than remembering everything, and far more
 informative.
 
-**Step 3: fill in the middle.** With the skeleton known, hear the inner notes as **the path from landing to
+Step 3: fill in the middle. With the skeleton known, hear the inner notes as **the path from landing to
 landing** — asking "was that a step or a leap", not "what note was that".
 
-**Step 4: write it down to check.** The test of ear training is **whether you can write it out**. Being unable to
+Step 4: write it down to check. The test of ear training is whether you can write it out. Being unable to
 write it means you have not heard it, which is not the same as "it felt clear".
 
 ## A common frustration and its cause
@@ -185,7 +185,7 @@ write it means you have not heard it, which is not the same as "it felt clear".
 | cannot recognise it in another key | storing **absolute pitches** instead of relations |
 | cannot follow a long melody at all | not dividing it into phrases, hearing it in one gulp |
 
-**Rows one and four are the same problem**: a melody must be heard **phrase by phrase**, because the capacity of
+Rows one and four are the same problem: a melody must be heard phrase by phrase, because the capacity of
 auditory memory aligns naturally with phrases — the aural counterpart of
 [[concept:breath-phrasing|breathing and phrasing]].
 
@@ -243,12 +243,12 @@ pitches, until you can state "rising" or "falling" instantly.
 
 ## Common misconceptions
 
-- **"Hearing a melody means hearing note names."** You hear **relations** (distance and direction), which is why the
+- "Hearing a melody means hearing note names." You hear relations (distance and direction), which is why the
   same melody is recognisable in another key.
-- **"Not remembering a melody means bad ears."** Usually the **method** is wrong — trying to store every note exceeds
+- "Not remembering a melody means bad ears." Usually the method is wrong — trying to store every note exceeds
   auditory memory.
-- **"If you can hum it, you have heard it."** Humming shows the contour is caught; whether you can **write it out**
+- "If you can hum it, you have heard it." Humming shows the contour is caught; whether you can write it out
   is the real test.
-- **"Ear training needs dedicated sessions."** All three layers can be practised while listening normally: first
+- "Ear training needs dedicated sessions." All three layers can be practised while listening normally: first
   only the direction, then only the phrase endings, and finally the intervals.
 :::

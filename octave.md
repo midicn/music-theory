@@ -103,16 +103,16 @@ A2 与 A6 相隔四个八度，它们仍互为八度关系。
 
 因为八度之上的音名会**原样重复**：C D E F G A B 走完一轮，下一个音又叫 C。
 如果没有这条约定，字母早就用光了。所以严格说，音名要配合**八度编号**才能唯一确定一个音高
-（C4 与 C5 是不同的音），但**音名本身只有一个**。
+（C4 与 C5 是不同的音），但音名本身只有一个。
 
 这也解释了为什么调性、和弦、音阶的名称通常只写音名而不写八度：
 它们描述的是"结构"，结构在哪个八度都成立。
 
 ## 八度在写作里的三个用途
 
-- **加厚**：同一旋律用八度叠奏（钢琴双手差八度、弦乐组高低八度齐奏），音量变大而旋律轮廓不变，这是最常见的手法。
-- **分层**：把一条旋律分给不同八度，用来区分"谁在说"——低八度像旁白，高八度像提问。
-- **逼近极限**：极端音区里八度是唯一的扩张手段，因为在那个高度上再往上已经听不出明确音高了。
+- 加厚：同一旋律用八度叠奏（钢琴双手差八度、弦乐组高低八度齐奏），音量变大而旋律轮廓不变，这是最常见的手法。
+- 分层：把一条旋律分给不同八度，用来区分"谁在说"——低八度像旁白，高八度像提问。
+- 逼近极限：极端音区里八度是唯一的扩张手段，因为在那个高度上再往上已经听不出明确音高了。
 
 ## 听一听：八度
 
@@ -129,10 +129,10 @@ A2 与 A6 相隔四个八度，它们仍互为八度关系。
 
 ## 常见误解
 
-- **「八度是最远的音程」** → 单音程里它确实是最大的（八度），但它是最容易辨认的之一，因为它听起来像同一个音。
-- **「所有八度听起来都差不多」** → 结构相同、听感不同。低音区的八度厚实、容易糊在一起，高音区的八度会只剩两片细线。
-- **「八度音程只有一种」** → 纯八度只有一种，但"跨越一个八度"可以指任何八度关系的两个音；它们全部属于 [[concept:perfect-interval|纯音程]]。
-- **「八度就是十二个半音」** → 只在十二平均律下成立。八度的定义始终是频率比 2:1，十二个半音是把这个比例切开的**一种**方式。
+- 「八度是最远的音程」 → 单音程里它确实是最大的（八度），但它是最容易辨认的之一，因为它听起来像同一个音。
+- 「所有八度听起来都差不多」 → 结构相同、听感不同。低音区的八度厚实、容易糊在一起，高音区的八度会只剩两片细线。
+- 「八度音程只有一种」 → 纯八度只有一种，但"跨越一个八度"可以指任何八度关系的两个音；它们全部属于 [[concept:perfect-interval|纯音程]]。
+- 「八度就是十二个半音」 → 只在十二平均律下成立。八度的定义始终是频率比 2:1，十二个半音是把这个比例切开的一种方式。
 :::
 
 ::: en
@@ -222,11 +222,11 @@ and structure holds at any octave.
 
 ## Three uses of the octave in writing
 
-- **Thickening**: doubling a melody at the octave (piano hands an octave apart, string sections in parallel).
+- Thickening: doubling a melody at the octave (piano hands an octave apart, string sections in parallel).
   The volume grows while the melodic outline stays identical — the most common device of all.
-- **Layering**: giving a melody to different octaves to distinguish who is speaking — the lower octave reads
+- Layering: giving a melody to different octaves to distinguish who is speaking — the lower octave reads
   as narration, the upper as a question.
-- **Pushing the limits**: at extreme registers the octave is the only way to expand, because higher than that
+- Pushing the limits: at extreme registers the octave is the only way to expand, because higher than that
   the ear stops hearing a definite pitch at all.
 
 ## Listen: the octave
@@ -244,8 +244,8 @@ there is almost nothing between the two tones that needs blending.
 
 ## Common misconceptions
 
-- **"The octave is the farthest interval."** It is the largest simple interval, yet one of the easiest to identify — precisely because it sounds like the same note.
-- **"All octaves sound alike."** Same structure, different impression. Low octaves are thick and smear together easily; high octaves thin out into two fine lines.
-- **"There is only one kind of octave interval."** There is only one perfect octave, but "spanning an octave" can describe any pair in that relationship; they all belong to [[concept:perfect-interval|perfect intervals]].
-- **"An octave is twelve semitones."** Only in twelve-tone equal temperament. The octave is always the 2:1 ratio; twelve semitones are **one** way of slicing it up.
+- "The octave is the farthest interval." It is the largest simple interval, yet one of the easiest to identify — precisely because it sounds like the same note.
+- "All octaves sound alike." Same structure, different impression. Low octaves are thick and smear together easily; high octaves thin out into two fine lines.
+- "There is only one kind of octave interval." There is only one perfect octave, but "spanning an octave" can describe any pair in that relationship; they all belong to [[concept:perfect-interval|perfect intervals]].
+- "An octave is twelve semitones." Only in twelve-tone equal temperament. The octave is always the 2:1 ratio; twelve semitones are one way of slicing it up.
 :::

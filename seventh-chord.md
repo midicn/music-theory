@@ -49,12 +49,12 @@ updated: 2026-09-24
 | [[concept:half-diminished-seventh|半减七]] | C–E♭–G♭–B♭ | 减三 + 小七 | 大调 vii 级、小调 ii 级 |
 | [[concept:diminished-seventh|减七]] | C–E♭–G♭–B𝄫 | 减三 + 减七 | 小调 vii 级、变化音 |
 
-**前四种都能在大调音阶上按级数叠出来**，第五种（减七）需要变化音。
+前四种都能在大调音阶上按级数叠出来，第五种（减七）需要变化音。
 这也解释了为什么减七和弦听起来最"外来"。
 
 ## 七音带来的推力
 
-七和弦的核心价值是**推力**：
+七和弦的核心价值是推力：
 
 | 音程 | 位置 | 效果 |
 |---|---|---|
@@ -62,7 +62,7 @@ updated: 2026-09-24
 | **大七度** | 根音到七音 | 尖锐的不安定 —— 强烈的"要收束"感 |
 | **减七度** | 根音到七音 | 最紧张 —— 一条减七和弦里有**两个**三全音 |
 
-另外，属七和弦里有一个特殊的结构：**三音与七音之间本身构成三全音**（E–B♭）。
+另外，属七和弦里有一个特殊的结构：三音与七音之间本身构成三全音（E–B♭）。
 这正是它成为最强推动力的原因 —— 两个音一个要上行、一个要下行，
 方向相反却又同时解决，形成"收拢"的动作（见 [[concept:cadence|终止式]]）。
 
@@ -70,10 +70,10 @@ updated: 2026-09-24
 
 一个常见的误解是把七和弦当作三和弦的升级版。实际上：
 
-- 三和弦可以**独立站住**（主和弦就是三和弦）；
-- 七和弦**本质上不稳定**，即使是大七和弦也带着"想解决"的倾向。
+- 三和弦可以独立站住（主和弦就是三和弦）；
+- 七和弦本质上不稳定，即使是大七和弦也带着"想解决"的倾向。
 
-所以在传统和声里，七和弦几乎总是**经过性的**：出现、推动、解决。
+所以在传统和声里，七和弦几乎总是经过性的：出现、推动、解决。
 把它当作终点用，是浪漫派之后才逐渐普遍的做法。
 
 ## 图示：多出来的那个音
@@ -137,10 +137,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「七和弦就是三和弦加个七音」** → 加的是**三度**（再叠一层），因此得到的是"四个音、三个三度"；加别的音得到的是挂留或加音和弦。
-- **「七和弦比三和弦更高级」** → 它本质上是**不稳定**的。三和弦能当终点，七和弦通常只能当过程。
-- **「所有七和弦都要解决」** → 传统和声里如此；印象派与爵士里七和弦可以长期停留，甚至作为终点。
-- **「减七和弦就是半减七和弦」** → 差别在七音：半减七的七音是小七度，减七的七音是减七度（低半个音）。两者是完全不同的和弦。
+- 「七和弦就是三和弦加个七音」 → 加的是三度（再叠一层），因此得到的是"四个音、三个三度"；加别的音得到的是挂留或加音和弦。
+- 「七和弦比三和弦更高级」 → 它本质上是不稳定的。三和弦能当终点，七和弦通常只能当过程。
+- 「所有七和弦都要解决」 → 传统和声里如此；印象派与爵士里七和弦可以长期停留，甚至作为终点。
+- 「减七和弦就是半减七和弦」 → 差别在七音：半减七的七音是小七度，减七的七音是减七度（低半个音）。两者是完全不同的和弦。
 :::
 
 ::: en
@@ -161,12 +161,12 @@ between seventh chords is **whether they must move** — because **a seventh is 
 | [[concept:half-diminished-seventh|half-diminished]] | C–E♭–G♭–B♭ | diminished + minor seventh | degree 7 in major, degree 2 in minor |
 | [[concept:diminished-seventh|diminished seventh]] | C–E♭–G♭–B𝄫 | diminished + diminished seventh | degree 7 in minor, chromatic |
 
-**The first four can all be stacked from a major scale by degree**; the fifth needs chromatic alteration. That is
+The first four can all be stacked from a major scale by degree; the fifth needs chromatic alteration. That is
 also why the diminished seventh sounds the most imported of them.
 
 ## The push supplied by the seventh
 
-A seventh chord's core value is **propulsion**:
+A seventh chord's core value is propulsion:
 
 | Interval | Position | Effect |
 |---|---|---|
@@ -182,10 +182,10 @@ the opposing motions resolve together into a closing gesture (see [[concept:cade
 
 A common misreading treats seventh chords as triads with extras. In fact:
 
-- a triad can **stand on its own** (a tonic triad does);
-- a seventh chord is **inherently unstable** — even a major seventh carries a wish to resolve.
+- a triad can stand on its own (a tonic triad does);
+- a seventh chord is inherently unstable — even a major seventh carries a wish to resolve.
 
-So in traditional harmony a seventh chord is nearly always **transitional**: it appears, it drives, it resolves.
+So in traditional harmony a seventh chord is nearly always transitional: it appears, it drives, it resolves.
 Treating one as a destination only became widespread after the Romantic era.
 
 ## Diagram: the note that makes the difference
@@ -249,8 +249,8 @@ whole difference.
 
 ## Common misconceptions
 
-- **"A seventh chord is a triad plus a seventh note."** It is a triad plus **a third**, giving four notes and three thirds; adding other notes produces suspended or added-tone chords.
-- **"Seventh chords are more advanced triads."** They are **inherently unstable**. A triad can be a destination; a seventh chord is usually a process.
-- **"Every seventh chord must resolve."** In traditional harmony yes; in Impressionism and jazz they can linger, or even serve as the endpoint.
-- **"The diminished seventh and the half-diminished seventh are the same."** They differ in the seventh: minor in the half-diminished, diminished (a semitone lower) in the diminished seventh. Two entirely different chords.
+- "A seventh chord is a triad plus a seventh note." It is a triad plus a third, giving four notes and three thirds; adding other notes produces suspended or added-tone chords.
+- "Seventh chords are more advanced triads." They are inherently unstable. A triad can be a destination; a seventh chord is usually a process.
+- "Every seventh chord must resolve." In traditional harmony yes; in Impressionism and jazz they can linger, or even serve as the endpoint.
+- "The diminished seventh and the half-diminished seventh are the same." They differ in the seventh: minor in the half-diminished, diminished (a semitone lower) in the diminished seventh. Two entirely different chords.
 :::

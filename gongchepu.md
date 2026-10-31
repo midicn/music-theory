@@ -32,28 +32,29 @@ updated: 2026-09-25
 
 ## 用汉字记音
 
-常用的字是：**上 · 尺 · 工 · 凡 · 六 · 五 · 乙**（另有**合 · 四 · 一**等低音字）。
+常用的字是**上、尺、工、凡、六、五、乙**，另有**合、四、一**等低音字。
 
-一个关键的辨析点：
+这里有一个容易忽略的辨析。
 
 > **同一个字，在不同"调门"下的实际音高不同。**
 
-所以工尺谱的字更像**音名体系中的一个音级位置**，而**它的实际音高由调门（笛色）决定** ——
-这与简谱用 `1 = C` 规定 `1` 是哪个音，功能上有对应之处，但机制不同
-（工尺谱的调门与乐器、乐种、地区密切相关）。
+所以工尺谱的字更像音名体系里的一个音级位置。
+它的实际音高由调门（笛色）决定。
+简谱用 `1 = C` 规定 `1` 是哪个音，功能上有对应之处。
+但机制不同：工尺谱的调门与乐器、乐种、地区密切相关。
 
-**记住这条，就不会把工尺谱与简谱混为一谈。**
+记住这条，就不会把工尺谱与简谱混为一谈。
 
 ## 板眼：它的节拍记号
 
-这是工尺谱最有生命力的部分：
+这是工尺谱最有生命力的部分。
 
 | 记号 | 含义 | 相当于 |
 |---|---|---|
 | **板** | **强拍** | 现代术语里的强位 |
 | **眼** | **弱拍** | 现代术语里的弱位 |
 
-由此形成的中文术语，**至今仍在日常使用**：
+由此形成的中文术语，至今仍在日常使用。
 
 | 术语 | 含义 |
 |---|---|
@@ -63,8 +64,8 @@ updated: 2026-09-25
 | **散板** | 无固定板眼（见 [[concept:free-meter|自由节拍与散板]]） |
 | **流水板** | 快速的一拍子 |
 
-**这张表值得仔细看**：它说明工尺谱不是"博物馆里的古物"——
-**它的核心概念（板 = 强拍、眼 = 弱拍）已经融进现代汉语**，
+这张表值得仔细看：工尺谱不是"博物馆里的古物"。
+板是强拍、眼是弱拍，这套核心概念已经融进现代汉语。
 "有板有眼""一板一眼"这些说法，讲的正是这套节拍体系。
 
 ## 书写方式与它的取舍
@@ -76,14 +77,15 @@ updated: 2026-09-25
 | **时值记录较宽松** | 时值常靠板眼位置与**口传心授**补足 |
 | **擅长记什么** | **单声部的声乐与器乐旋律**（戏曲唱腔、器乐牌子曲） |
 
-**第三行是关键**：工尺谱**不是"记不下来"精确时值**，而是**它服务的音乐传统本身依赖口传** ——
+第三行是关键：工尺谱不是记不下来精确时值。
+它服务的音乐传统本身依赖口传。
 记谱是"框架 + 提示"，而不是"完整指令"。
 
-这与西方记谱法的历史走向正好相反：
-**西方记谱法越来越倾向"写死每一个细节"**（见 [[concept:staff|五线谱]] 与 [[concept:metronome|节拍器]] 的历史），
-而工尺谱保持着"**记谱 + 口传**"的组合。
+这与西方记谱法的历史走向正好相反。
+西方记谱法越来越倾向写死每一个细节（见 [[concept:staff|五线谱]] 与 [[concept:metronome|节拍器]]）。
+工尺谱则保持着"记谱 + 口传"的组合。
 
-**所以不能说哪种"更先进"** —— 两种选择各自服务于不同的音乐实践与传承方式。
+所以不能说哪种更先进，两种选择各自服务于不同的音乐实践与传承方式。
 
 ## 它和简谱、五线谱的关系
 
@@ -95,7 +97,8 @@ updated: 2026-09-25
 | 书写方向 | **竖排、自右向左** | 横排 | 横排 |
 | 主要服务 | 传统戏曲与器乐 | 单声部旋律记录与传唱 | 多声部与复杂织体 |
 
-第三行最值得注意：**三种体系对"精确性"的要求不同，这不是优劣，而是各自音乐实践的需要。**
+第三行最值得注意。三种体系对精确性的要求不同。
+这不是优劣，而是各自音乐实践的需要。
 
 ## 图示：板眼与现代术语的对应
 
@@ -146,8 +149,9 @@ updated: 2026-09-25
 
 ## 听一听：单声部旋律
 
-工尺谱主要记录的正是**单声部旋律**。用 `scale` 听一条五声音阶上的片段 ——
-**五声性是中国传统旋律的常见基础**（见 [[concept:chinese-pentatonic|中国五声音阶]]）。
+工尺谱主要记录的正是单声部旋律。
+用 `scale` 听一条五声音阶上的片段。
+五声性是中国传统旋律的常见基础（见 [[concept:chinese-pentatonic|中国五声音阶]]）。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","G4","A4","C5"],"label":"五声性旋律（宫商角徵羽）","label_en":"A pentatonic line on the five Chinese degrees","hint":"点「上行」：没有半音的自然音列","hint_en":"Try Up: a natural series without semitones","gap":0.38}
@@ -155,14 +159,14 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「工尺谱就是简谱的前身」** → 两者记的东西不同：工尺谱**用汉字记音、音高由调门定**；简谱**用数字记音级**。
-- **「工尺谱很简陋」** → 它服务的音乐传统依赖**口传心授**：记谱是"框架 + 提示"。**精确性低不等于落后。**
-- **「板眼已经不用了」** → 恰恰相反：**"板眼"的核心概念已融进现代汉语**（有板有眼、一板一眼、散板）。
-- **「工尺谱能记复杂多声部」** → 它的长处是**单声部的声乐与器乐旋律**；复杂织体是五线谱的领域。
-- **「中国音乐的汉字记谱只有工尺谱一种」** → **两套记的东西不同：一个记音高，一个记节奏。**
-  唱腔与旋律用**工尺谱**；**打击乐另有「锣鼓经」** ——
-  它用**拟声字**（仓 · 才 · 台 · 大 · 嘟 · 乙）记录**节奏与手法**，
-  见[[instrument:xiaoluo|小锣]]。**两套都用汉字、都靠人念。**
+- 「工尺谱就是简谱的前身」 → 两者记的东西不同。工尺谱用汉字记音，音高由调门定；简谱用数字记音级。
+- 「工尺谱很简陋」 → 它服务的传统依赖口传心授，记谱是"框架 + 提示"。精确性低不等于落后。
+- 「板眼已经不用了」 → 恰恰相反，板眼已融进现代汉语，如有板有眼、一板一眼、散板。
+- 「工尺谱能记复杂多声部」 → 它的长处是单声部的声乐与器乐旋律，复杂织体归五线谱。
+- 「中国音乐的汉字记谱只有工尺谱一种」 → 并不止一种，两者记的东西不同。
+  唱腔与旋律用工尺谱，记音高；打击乐另有「锣鼓经」，记节奏。
+  锣鼓经用拟声字（仓 · 才 · 台 · 大 · 嘟 · 乙）记录节奏与手法，见[[instrument:xiaoluo|小锣]]。
+  两套都用汉字，都靠人念。
 :::
 
 ::: en
@@ -181,7 +185,7 @@ So a gongche character is closer to **a position in a system of note names, its 
 (which is closely tied to the instrument, genre and region). That is functionally comparable to numbered notation's
 `1 = C`, but the mechanism differs.
 
-**Hold on to this and gongche notation will not be confused with numbered notation.**
+Hold on to this and gongche notation will not be confused with numbered notation.
 
 ## Ban and yan: its metre marking
 
@@ -192,7 +196,7 @@ This is its most living part:
 | **ban** (板) | **strong beat** | the strong position in modern terms |
 | **yan** (眼) | **weak beat** | the weak position |
 
-The terminology it produced **is still in everyday use**:
+The terminology it produced is still in everyday use:
 
 | Term | Meaning |
 |---|---|
@@ -202,7 +206,7 @@ The terminology it produced **is still in everyday use**:
 | **sanban** | no fixed ban or yan (see [[concept:free-meter|free metre and sanban]]) |
 | **liushuiban** | a fast one-beat metre |
 
-**That table deserves attention**: it shows gongche notation is not a museum piece — **its core concepts (ban =
+That table deserves attention: it shows gongche notation is not a museum piece — **its core concepts (ban =
 strong, yan = weak) have entered modern Chinese**, and phrases like "you ban you yan" describe exactly this
 system.
 
@@ -215,14 +219,14 @@ system.
 | **durations recorded loosely** | durations are often filled in from the ban-yan positions and **oral transmission** |
 | **what it records well** | **single-line vocal and instrumental melody** (opera arias, instrumental pieces) |
 
-**The third row is the key one**: gongche notation **could not** record exact durations — rather, **the tradition it
+The third row is the key one: gongche notation could not record exact durations — rather, **the tradition it
 serves relies on oral transmission**. The notation is "frame and cue", not "complete instruction".
 
 That is the exact opposite of the historical direction of Western notation, which has tended to **write every detail
 out** (see the history in [[concept:staff|the staff]] and [[concept:metronome|the metronome]]), while gongche
-notation keeps the combination of **notation plus oral transmission**.
+notation keeps the combination of notation plus oral transmission.
 
-**So neither can be called "more advanced"** — the two choices serve different musical practices and modes of
+So neither can be called "more advanced" — the two choices serve different musical practices and modes of
 transmission.
 
 ## Its relation to numbered and staff notation
@@ -287,7 +291,7 @@ a matter of what each practice needs.**
 
 ## Listen: a single melodic line
 
-What gongche notation records is a **single line**. Use `scale` on a pentatonic span — **pentatonicism is the common
+What gongche notation records is a single line. Use `scale` on a pentatonic span — **pentatonicism is the common
 basis of traditional Chinese melody** (see [[concept:chinese-pentatonic|the Chinese pentatonic scale]]).
 
 ```audiolab
@@ -296,16 +300,16 @@ basis of traditional Chinese melody** (see [[concept:chinese-pentatonic|the Chin
 
 ## Common misconceptions
 
-- **"Gongche notation is the ancestor of numbered notation."** They record different things: gongche **uses
-  characters for pitch, fixed by the modal key**; numbered notation **uses digits for degrees**.
-- **"Gongche notation is crude."** The tradition it serves relies on **oral transmission**: the notation is frame and
-  cue. **Less precision does not mean backwardness.**
-- **"Ban and yan are obsolete."** Quite the opposite: **the core concept has entered modern Chinese** (you ban you
+- "Gongche notation is the ancestor of numbered notation." They record different things: gongche **uses
+  characters for pitch, fixed by the modal key; numbered notation uses digits for degrees**.
+- "Gongche notation is crude." The tradition it serves relies on oral transmission: the notation is frame and
+  cue. Less precision does not mean backwardness.
+- "Ban and yan are obsolete." Quite the opposite: the core concept has entered modern Chinese (you ban you
   yan, yi ban yi yan, sanban).
-- **"Gongche notation can record complex multi-part music."** Its strength is **single-line vocal and instrumental
+- "Gongche notation can record complex multi-part music." Its strength is **single-line vocal and instrumental
   melody**; complex textures belong to the staff.
-- **"Gongche is the only character-based Chinese notation."** **They record different things: one pitch, one
-  rhythm.** Melody and sung parts use **gongche**; percussion has its own system — **luogu jing** — which uses
-  **onomatopoeic characters** (仓 · 才 · 台 · 大 · 嘟 · 乙) to record **rhythm and stroke**; see the
-  [[instrument:xiaoluo|xiaoluo]]. **Both use characters, and both are learned by chanting them aloud.**
+- "Gongche is the only character-based Chinese notation." **They record different things: one pitch, one
+  rhythm. Melody and sung parts use gongche; percussion has its own system — luogu jing** — which uses
+  onomatopoeic characters (仓 · 才 · 台 · 大 · 嘟 · 乙) to record rhythm and stroke; see the
+  [[instrument:xiaoluo|xiaoluo]]. Both use characters, and both are learned by chanting them aloud.
 :::

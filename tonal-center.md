@@ -49,7 +49,7 @@ updated: 2026-09-24
 
 调性中心是可以换的：只要把另一处和声反复确认成新的中心，听觉的重心就移过去了
 （见 [[concept:modulation|转调]]）。这正是调性音乐能写成大篇幅的原因 ——
-**同一批音可以承载不同的中心，一首作品因此有了"地图"。**
+同一批音可以承载不同的中心，一首作品因此有了"地图"。
 
 ## 与调式、音阶的区别
 
@@ -97,7 +97,7 @@ updated: 2026-09-24
 ## 听一听：中心感从哪来
 
 用音阶组件听一条大调音阶（有中心，但较弱），再想一下"加上属→主"之后中心会强多少。
-**中心不是音阶自带的，是被确认出来的。**
+中心不是音阶自带的，是被确认出来的。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C 大调音阶（中心较弱的形态）","label_en":"C major scale — a weak tonal centre","hint":"点「上行」：中心靠反复确认才成立","hint_en":"Try Up — a centre is established by confirmation, not by the scale alone","gap":0.38}
@@ -105,10 +105,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「调性就是调号」** → 调号只说用了哪些音；调性说的是这些音围着谁转。同一调号可以对应多条调式音阶与不同的中心。
-- **「先弹主音就确立了调性」** → 一次出现不够。要有终止式、重复、功能关系共同确认。
-- **「没有调号就没有调性」** → 反例很多：无升降调号可以是 C 大调，也可以被听成 A 小调或某个调式。
-- **「调性音乐过时了」** → 20 世纪后确实出现了无调性与泛调性，但流行、爵士、影视配乐仍以调性为主。
+- 「调性就是调号」 → 调号只说用了哪些音；调性说的是这些音围着谁转。同一调号可以对应多条调式音阶与不同的中心。
+- 「先弹主音就确立了调性」 → 一次出现不够。要有终止式、重复、功能关系共同确认。
+- 「没有调号就没有调性」 → 反例很多：无升降调号可以是 C 大调，也可以被听成 A 小调或某个调式。
+- 「调性音乐过时了」 → 20 世纪后确实出现了无调性与泛调性，但流行、爵士、影视配乐仍以调性为主。
 :::
 
 ::: en
@@ -194,6 +194,6 @@ confirmed.**
 
 - **"Tonality means the key signature."** The signature states which notes are used; tonality states what they turn around. One signature can serve several modes and different centres.
 - **"Playing the tonic first establishes the key."** One appearance is not enough; cadence, repetition and function must confirm it together.
-- **"No signature means no tonality."** There are many counterexamples: an empty signature can be heard as C major, A minor or a mode.
-- **"Tonality is obsolete."** The twentieth century did produce atonality and pantonality, but pop, jazz and film scoring remain largely tonal.
+- "No signature means no tonality." There are many counterexamples: an empty signature can be heard as C major, A minor or a mode.
+- "Tonality is obsolete." The twentieth century did produce atonality and pantonality, but pop, jazz and film scoring remain largely tonal.
 :::

@@ -28,10 +28,10 @@ updated: 2026-09-24
 ---
 
 ::: zh
-半音化和声不是"用了变化音"，而是**变化音成了和声的常规材料** ——
-它从装饰变成了结构的一部分。
+半音化和声不是"用了变化音"。
+它是**变化音成了和声的常规材料**，从装饰变为结构的一部分。
 
-差别可以这么看：
+两种和声的差别可以这么看。
 
 | | 调内和声 | 半音化和声 |
 |---|---|---|
@@ -41,15 +41,16 @@ updated: 2026-09-24
 
 ## 它为什么有那么大的破坏力
 
-这是本条最值得理解的一点。机制只有一句话：
+这一点最值得理解，机制只有一句话。
 
 > **十二个半音里的任何一个，都可以被解释成"某个调的导音"。**
 
-所以每一个半音都可能意味着"指向某处"。当它们密集出现时，
-听觉就会**不断被推向不同的方向** —— 中心不是被打倒的，是被**拉扯到失去重心**的。
+所以每一个半音都可能意味着"指向某处"。
+它们密集出现时，听觉会**不断被推向不同的方向**。
+中心不是被打倒的，是被**拉扯到失去重心**的。
 
-这也解释了为什么半音化的历史终点是无调性：**不是有人突然宣布废除调性，
-而是半音化用到极致后，中心自己站不住了。**
+这也解释了半音化的历史终点为什么是无调性。
+不是有人突然宣布废除调性，而是半音化到极致后，中心自己站不住了。
 
 ## 四种常见手段
 
@@ -60,12 +61,12 @@ updated: 2026-09-24
 | **增六和弦** | 含增六度的变化和弦（其增六度向外扩张到八度） | 强烈指向属和弦 |
 | **等音重解** | 把减七、增三等**对称结构**换个写法（见 [[concept:enharmonic|等音]]、[[concept:diminished-seventh|减七和弦]]） | 一次换一个调，最突然 |
 
-第四种最"危险"：因为对称结构没有唯一的根音，**解释方向一换，调就换了**。
+第四种最"危险"，因为对称结构没有唯一的根音。解释方向一换，调就换了。
 
 ## 它不等于无调性
 
-这里要说清一个常见混淆：**半音化和声仍然可以是调性的。**
-瓦格纳的《特里斯坦》半音化程度极高，但音乐仍有中心、仍有解决（只是被极度推迟）。
+这里有一个常见混淆要说清：半音化和声仍然可以是调性的。
+瓦格纳的《特里斯坦》半音化程度极高，但音乐仍有中心、仍有解决，只是被极度推迟。
 
 | | 半音化和声 | 无调性 |
 |---|---|---|
@@ -73,7 +74,7 @@ updated: 2026-09-24
 | 是否仍用属→主 | 用，只是绕得更远 | 不用 |
 | 和声的功能性 | 仍成立 | 不再成立 |
 
-一句话：**半音化是把调性拉到极限，无调性是放弃调性。**
+半音化是把调性拉到极限，无调性是放弃调性。
 
 ## 图示：中心被拉扯的过程
 
@@ -122,8 +123,9 @@ updated: 2026-09-24
 
 ## 听一听：半音化的牵引感
 
-先听一段完全调内的进行（中心稳固），再想象同样的功能骨架里插入多个副属与半音经过和弦 ——
-差别不在于"多了几个音"，而在于**你的耳朵每次都不知道下一个会去哪**。
+先听一段完全调内的进行，中心是稳固的。
+再想象同样的功能骨架里插入多个副属与半音经过和弦。
+差别不在于多了几个音，而在于耳朵不知道下一个会去哪。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"调内和声（中心稳固）","label_en":"Diatonic harmony, a firm centre","hint":"逐个和弦依次听，留意每次落点是否可预期","hint_en":"Hear each chord in turn and notice whether each arrival is predictable"}
@@ -131,10 +133,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「半音化和声就是无调性」** → 不是。半音化**仍有中心**，只是被拉扯、被推迟；无调性是主动取消中心。
-- **「变化音用得多就是半音化」** → 关键在**身份**：作为装饰的偶发变化音不是半音化和声，只有成了常规和声材料才是。
-- **「半音化是近代才有」** → 文艺复兴末期已有（如杰苏阿尔多），巴赫的半音阶幻想曲也很极端；近代的是**密度与系统化**。
-- **「半音化听起来一定刺耳」** → 德彪西恰恰相反 —— 同样是半音材料，可以做成柔和的色彩，取决于和声的构成方式。
+- 「半音化和声就是无调性」 → 不是。半音化仍有中心，只是被拉扯、被推迟，无调性是主动取消中心。
+- 「变化音用得多就是半音化」 → 身份是关键：偶发的装饰变化音不算，成了常规材料才算。
+- 「半音化是近代才有」 → 文艺复兴末期已有，如杰苏阿尔多；近代的是密度与系统化。
+- 「半音化听起来一定刺耳」 → 德彪西恰恰相反，同样的半音材料可以做成柔和的色彩。这取决于和声的写法。
 :::
 
 ::: en
@@ -182,7 +184,7 @@ chromatic, yet it still has centres and still resolves — just extremely delaye
 | Is dominant to tonic still used? | yes, only by a longer route | no |
 | Does harmonic function still work? | yes | no |
 
-In one line: **chromaticism stretches tonality to its limit; atonality abandons it.**
+In one line: chromaticism stretches tonality to its limit; atonality abandons it.
 
 ## Diagram: the centre being pulled
 
@@ -232,7 +234,7 @@ In one line: **chromaticism stretches tonality to its limit; atonality abandons 
 
 Hear a fully diatonic progression first (a firm centre), then imagine the same functional skeleton with several
 secondary dominants and chromatic passing chords inserted. The difference is not "a few extra notes" but that
-**your ear stops being able to predict where the next arrival will be.**
+your ear stops being able to predict where the next arrival will be.
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"调内和声（中心稳固）","label_en":"Diatonic harmony, a firm centre","hint":"逐个和弦依次听，留意每次落点是否可预期","hint_en":"Hear each chord in turn and notice whether each arrival is predictable"}
@@ -240,12 +242,12 @@ secondary dominants and chromatic passing chords inserted. The difference is not
 
 ## Common misconceptions
 
-- **"Chromatic harmony means atonality."** It does not. Chromatic writing **still has a centre**, only stretched
+- "Chromatic harmony means atonality." It does not. Chromatic writing still has a centre, only stretched
   and delayed; atonality abolishes the centre on purpose.
-- **"Lots of accidentals means chromatic harmony."** What matters is **status**: an occasional decorative
+- "Lots of accidentals means chromatic harmony." What matters is status: an occasional decorative
   accidental is not chromatic harmony; it becomes so only when accidentals are ordinary harmonic material.
-- **"Chromaticism is modern."** It appears at the end of the Renaissance (Gesualdo) and Bach's Chromatic Fantasia
-  is extreme; what is modern is its **density and systematisation**.
-- **"Chromaticism must sound harsh."** Debussy shows the opposite — the same chromatic material can be made into
+- "Chromaticism is modern." It appears at the end of the Renaissance (Gesualdo) and Bach's Chromatic Fantasia
+  is extreme; what is modern is its density and systematisation.
+- "Chromaticism must sound harsh." Debussy shows the opposite — the same chromatic material can be made into
   soft colour, depending on how the chords are built.
 :::

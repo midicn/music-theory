@@ -51,11 +51,11 @@ C 到 E 是 C、D、E 三个，所以是三度；C 到 G 是 C、D、E、F、G �
 
 ## 一条口诀：数的时候要**把两个音都数进去**
 
-只数"中间隔了几个音"是最常见的错误。C 到 E 中间只隔一个 D，但这是**三度**不是二度，
+只数"中间隔了几个音"是最常见的错误。C 到 E 中间只隔一个 D，但这是三度不是二度，
 因为 C 和 E 自己也要算。八个度数的名字（一、二、三、四、五、六、七、八）本质上就是
 "这一串音级名一共有几个"。
 
-> **度数 = 终点序号 − 起点序号 + 1**
+> 度数 = 终点序号 − 起点序号 + 1
 > 例如 E 是第五个字母、B 是第七个字母 → 7 − 5 + 1 = 3，所以 E–B 是三度。
 
 ## 图示：数的是音级名，不是键位
@@ -100,7 +100,7 @@ C 到 E 是 C、D、E 三个，所以是三度；C 到 G 是 C、D、E、F、G �
 </svg>
 ```
 
-最后一行是关键：E 到 F 明明紧挨在一起，却是**二度**。所以"挨得近"和"度数小"是两件事。
+最后一行是关键：E 到 F 明明紧挨在一起，却是二度。所以"挨得近"和"度数小"是两件事。
 
 ## 听一听：度数的两种宽度
 
@@ -116,10 +116,10 @@ C 到 E 是 C、D、E 三个，所以是三度；C 到 G 是 C、D、E、F、G �
 
 ## 常见误解
 
-- **「度数就是几个半音」** → 半音数属于 [[concept:semitone|音数]]，是另一把尺子。三度可能是四个半音，也可能是三个半音。
-- **「度数越大听起来越远」** → 度数大只是音级名跨度大。纯八度跨度最大，却是最好认的音程之一。
-- **「C 到 E 中间隔一个 D，所以是二度」** → 首尾都要算。数出来是"三个音级名"，就是三度。
-- **「减二度、增一度这类写法是错的」** → 它们是合法音程，只是宽度极端。见 [[concept:augmented-diminished|增音程与减音程]]。
+- 「度数就是几个半音」 → 半音数属于 [[concept:semitone|音数]]，是另一把尺子。三度可能是四个半音，也可能是三个半音。
+- 「度数越大听起来越远」 → 度数大只是音级名跨度大。纯八度跨度最大，却是最好认的音程之一。
+- 「C 到 E 中间隔一个 D，所以是二度」 → 首尾都要算。数出来是"三个音级名"，就是三度。
+- 「减二度、增一度这类写法是错的」 → 它们是合法音程，只是宽度极端。见 [[concept:augmented-diminished|增音程与减音程]]。
 :::
 
 ::: en
@@ -153,7 +153,7 @@ Counting only the notes "in between" is the classic mistake. C to E has just one
 **third**, not a second, because C and E count too. The eight degree names are really just "how many letter
 names this span contains".
 
-> **Degree = position of the last name − position of the first + 1**
+> Degree = position of the last name − position of the first + 1
 > E is the fifth letter, B is the seventh → 7 − 5 + 1 = 3, so E–B is a third.
 
 ## Diagram: counting letter names, not keys
@@ -198,7 +198,7 @@ names this span contains".
 </svg>
 ```
 
-The last row is the point: E and F sit right next to each other, yet the interval is a **second**. So "close
+The last row is the point: E and F sit right next to each other, yet the interval is a second. So "close
 together" and "low degree number" are two different things.
 
 ## Listen: two widths of the same degree
@@ -215,8 +215,8 @@ Every step in this figure is a second, yet they are not all the same width — s
 
 ## Common misconceptions
 
-- **"The degree is just a number of semitones."** Semitone count belongs to [[concept:semitone|interval size]], a different ruler. A third can be four semitones or three.
-- **"A bigger degree always sounds farther."** A high degree only means the letter names span more. The perfect octave spans the most and is one of the easiest intervals to identify.
-- **"There is one D between C and E, so it is a second."** Both endpoints count. Three letter names means a third.
-- **"Diminished seconds and augmented unisons are impossible."** They are legal intervals with extreme widths — see [[concept:augmented-diminished|augmented and diminished intervals]].
+- "The degree is just a number of semitones." Semitone count belongs to [[concept:semitone|interval size]], a different ruler. A third can be four semitones or three.
+- "A bigger degree always sounds farther." A high degree only means the letter names span more. The perfect octave spans the most and is one of the easiest intervals to identify.
+- "There is one D between C and E, so it is a second." Both endpoints count. Three letter names means a third.
+- "Diminished seconds and augmented unisons are impossible." They are legal intervals with extreme widths — see [[concept:augmented-diminished|augmented and diminished intervals]].
 :::

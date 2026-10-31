@@ -55,14 +55,14 @@ updated: 2026-09-24
 | **下行模进** | 向下移位 | 常用于"退让、叹息"的语气 |
 | **和声模进** | 整组和弦一起移位 | 巴洛克与古典展开部的标配 |
 
-**和声模进**尤其值得留意：它不是旋律单独移位，而是**旋律与和声一起搬**。
+**和声模进**尤其值得留意：它不是旋律单独移位，而是旋律与和声一起搬。
 这让它成为最有效的"扩大结构"手段 —— 一个小乐思可以靠模进撑满一整段。
 
 ## 它在曲式里的位置
 
 模进几乎是所有"需要推进"的位置的首选：见 [[concept:sonata-form|奏鸣曲式]] 的展开部、
 赋格的间插段（参见 [[concept:canon|卡农]] 与 [[concept:fugue|赋格]]）。
-它的功能是：**在不引入新素材的前提下，把音乐往前推。**
+它的功能是：在不引入新素材的前提下，把音乐往前推。
 
 ## 图示：音型不变，高度变了
 
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：模进的推进感
 
-用进行播放器听一段**下行模进式**进行：功能和弦不变，但整组往下搬。
+用进行播放器听一段下行模进式进行：功能和弦不变，但整组往下搬。
 留意它如何在不引入新素材的情况下产生"往前走"的感觉。
 
 ```audiolab
@@ -117,10 +117,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「模进就是重复」** → 关键在**移位**。不移位的重复是强调，移位的重复才是推进。
-- **「模进太机械，不算作曲手法」** → 它是巴洛克与古典最主要的展开手段之一，用在展开部、间插段、过渡段。
-- **「模进必须完全一样」** → 严格模进（音程完全照搬）与自由模进（随和声调整）都有；后者更常见。
-- **「模进只能向上」** → 上下都有。下行模进常表达退让或悲叹，在浪漫派作品里很常见。
+- 「模进就是重复」 → 关键在移位。不移位的重复是强调，移位的重复才是推进。
+- 「模进太机械，不算作曲手法」 → 它是巴洛克与古典最主要的展开手段之一，用在展开部、间插段、过渡段。
+- 「模进必须完全一样」 → 严格模进（音程完全照搬）与自由模进（随和声调整）都有；后者更常见。
+- 「模进只能向上」 → 上下都有。下行模进常表达退让或悲叹，在浪漫派作品里很常见。
 :::
 
 ::: en
@@ -152,14 +152,14 @@ the shift.
 | **descending sequence** | shifting downward | often a tone of yielding or lament |
 | **harmonic sequence** | a whole chord group shifted | standard in Baroque and Classical development sections |
 
-**Harmonic sequences** are worth particular attention: the melody and the harmony move **together**, which makes
-them the most effective way to **enlarge a structure** — one small idea can fill a whole passage.
+**Harmonic sequences** are worth particular attention: the melody and the harmony move together, which makes
+them the most effective way to enlarge a structure — one small idea can fill a whole passage.
 
 ## Where it sits in form
 
 A sequence is the first choice wherever music needs to advance: see the development of
 [[concept:sonata-form|sonata form]], and the episodes of a fugue (see [[concept:canon|canon]] and
-[[concept:fugue|fugue]]). Its function is **to push the music forward without introducing new material.**
+[[concept:fugue|fugue]]). Its function is to push the music forward without introducing new material.
 
 ## Diagram: same figure, different height
 
@@ -205,7 +205,7 @@ A sequence is the first choice wherever music needs to advance: see the developm
 
 ## Listen: the drive of a sequence
 
-Use the progression player on a **sequencing** progression: the functional chords stay the same while the whole
+Use the progression player on a sequencing progression: the functional chords stay the same while the whole
 group is moved. Notice how it creates onward motion without any new material.
 
 ```audiolab
@@ -214,8 +214,8 @@ group is moved. Notice how it creates onward motion without any new material.
 
 ## Common misconceptions
 
-- **"A sequence is just repetition."** The **shift** is the whole point. Repetition without shifting emphasises; repetition with shifting propels.
-- **"Sequences are mechanical, not real composing."** They are among the principal means of development in Baroque and Classical music — used in developments, episodes and transitions.
-- **"A sequence must be exact."** Both strict sequences (intervals copied literally) and free ones (adjusted to the harmony) exist; the free kind is more common.
-- **"Sequences only go up."** Both directions occur. Descending sequences often express yielding or lament, and are common in Romantic music.
+- "A sequence is just repetition." The shift is the whole point. Repetition without shifting emphasises; repetition with shifting propels.
+- "Sequences are mechanical, not real composing." They are among the principal means of development in Baroque and Classical music — used in developments, episodes and transitions.
+- "A sequence must be exact." Both strict sequences (intervals copied literally) and free ones (adjusted to the harmony) exist; the free kind is more common.
+- "Sequences only go up." Both directions occur. Descending sequences often express yielding or lament, and are common in Romantic music.
 :::

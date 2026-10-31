@@ -46,14 +46,14 @@ updated: 2026-09-24
 **① 以为"音越多越厚"。** 低音区密集排列只会糊；真正的厚度来自**跨音区的分布**。
 
 **② 以为"高音区加音最能提亮"。** 高音区加音确实亮，但也容易变薄 —— 因为高音区缺少低频支撑。
-更稳的做法是**低音区留根音、上方加色彩音**。
+更稳的做法是低音区留根音、上方加色彩音。
 
-**③ 以为"协和音程一定好听"。** 低音区的纯五度会糊成一片（泛音相互干扰）。
-协和与否不止取决于音程，也取决于**它在哪个音区**（见 [[concept:consonance|协和与不协和]]）。
+③ 以为"协和音程一定好听"。 低音区的纯五度会糊成一片（泛音相互干扰）。
+协和与否不止取决于音程，也取决于它在哪个音区（见 [[concept:consonance|协和与不协和]]）。
 
 ## 一句可用的口诀
 
-> **低音给重量，中音给清晰，高音给光泽。**
+> 低音给重量，中音给清晰，高音给光泽。
 
 写和弦时按这三层分配，色彩问题基本就解决了。
 
@@ -105,7 +105,7 @@ updated: 2026-09-24
 ## 听一听：同一组音，不同参数
 
 用「整体」与「宽排列」听同一组音 —— 前者接近中音区密集，后者跨音区开放。
-本条的结论只有一条：**写对了音不等于写对了音响。**
+本条的结论只有一条：写对了音不等于写对了音响。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"maj9","inversion":1,"label":"同一组音，两种排列","label_en":"One set of notes, two voicings","hint":"先听「整体」，再听「宽排列」对比","hint_en":"Hear Block first, then Open to compare"}
@@ -113,10 +113,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「和弦色彩是主观感受」** → 成因可以逐条拆开：音区、排列、重复音、乐器，四项都可控。
-- **「和弦决定一切」** → 和弦只决定音高组合；放在哪个音区、由什么乐器演奏，影响同样大。
-- **「低音区加厚最有力量」** → 低音区密集排列会造成浑浊，适得其反。
-- **「同一和弦在钢琴与管风琴上差不多」** → 音色差异极大（见 [[concept:timbre|音色与波形]]），同一和弦的两副面孔。
+- 「和弦色彩是主观感受」 → 成因可以逐条拆开：音区、排列、重复音、乐器，四项都可控。
+- 「和弦决定一切」 → 和弦只决定音高组合；放在哪个音区、由什么乐器演奏，影响同样大。
+- 「低音区加厚最有力量」 → 低音区密集排列会造成浑浊，适得其反。
+- 「同一和弦在钢琴与管风琴上差不多」 → 音色差异极大（见 [[concept:timbre|音色与波形]]），同一和弦的两副面孔。
 :::
 
 ::: en
@@ -143,13 +143,13 @@ half the job — they must also be put in the right place.**
 **Two: assuming adding high notes brightens best.** It does brighten, but it also thins the sound, because the
 top register has no low-frequency support. It works better to **keep the root low and add colour notes above**.
 
-**Three: assuming consonant intervals always sound good.** A perfect fifth in a low register turns to mush as the
-partials interfere. Consonance depends not only on the interval but on **where it sits** (see
+Three: assuming consonant intervals always sound good. A perfect fifth in a low register turns to mush as the
+partials interfere. Consonance depends not only on the interval but on where it sits (see
 [[concept:consonance|consonance and dissonance]]).
 
 ## A rule of thumb worth keeping
 
-> **Low register for weight, middle for clarity, high for sheen.**
+> Low register for weight, middle for clarity, high for sheen.
 
 Distribute a chord across those three layers and most colour problems resolve themselves.
 
@@ -210,8 +210,8 @@ getting the sound right.**
 
 ## Common misconceptions
 
-- **"Chord colour is purely subjective."** Its causes separate cleanly: register, voicing, doubling and instrument are all controllable.
-- **"The chord decides everything."** A chord fixes the pitch combination; which register and which instrument matter just as much.
-- **"Thickening the bass gives the most power."** A close voicing low down muddies instead.
-- **"A chord sounds much the same on piano and organ."** The timbres differ enormously (see [[concept:timbre|timbre]]) — one chord, two faces.
+- "Chord colour is purely subjective." Its causes separate cleanly: register, voicing, doubling and instrument are all controllable.
+- "The chord decides everything." A chord fixes the pitch combination; which register and which instrument matter just as much.
+- "Thickening the bass gives the most power." A close voicing low down muddies instead.
+- "A chord sounds much the same on piano and organ." The timbres differ enormously (see [[concept:timbre|timbre]]) — one chord, two faces.
 :::

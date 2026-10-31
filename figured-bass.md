@@ -36,7 +36,7 @@ updated: 2026-09-24
 
 ## 数字在说什么
 
-数字标记的是**这个低音上方要叠什么音程**：
+数字标记的是这个低音上方要叠什么音程：
 
 | 低音位置 | 数字 | 上方音 | 相当于 |
 |---|---|---|---|
@@ -45,24 +45,24 @@ updated: 2026-09-24
 | 五音 | **6-4** | 六音 + 四音 | 第二转位 |
 | 七音 | **4-2** | 四音 + 二音（+ 六音） | 七和弦第三转位 |
 
-七和弦的另外两个转位记 **6-5**（第一转位）与 **4-3**（第二转位），
+七和弦的另外两个转位记 6-5（第一转位）与 4-3（第二转位），
 见 [[concept:chord-inversion|和弦转位与数字低音]]。
 
 ## 为什么它值得单独了解
 
-**① 它解释了巴洛克音乐的"低音驱动"性格。**
+① 它解释了巴洛克音乐的"低音驱动"性格。
 既然和声是从低音往上推的，低音线就必然成为全曲最讲究的声部 ——
 这直接塑造了那个时代的写作习惯：低音经常是级进的、线条化的，而不是"根音跳来跳去"。
 
-**② 它是历史上第一次把"即兴伴奏"标准化。**
-演奏者不是背下所有音，而是**读懂规则后当场实现（realize）**。
+② 它是历史上第一次把"即兴伴奏"标准化。
+演奏者不是背下所有音，而是读懂规则后当场实现（realize）。
 同一份数字低音，不同的演奏者会给出不同的织体 ——
-这与今天看和弦记号弹伴奏是同一类实践，但**精度高得多**：数字说了要叠什么音程，
+这与今天看和弦记号弹伴奏是同一类实践，但精度高得多：数字说了要叠什么音程，
 和弦记号只说和弦名。
 
-**③ 它解释了"演奏家也是创作者"这件事的历史断裂。**
+③ 它解释了"演奏家也是创作者"这件事的历史断裂。
 古典时期之后，作曲家越来越倾向于把每个声部都写死（见 [[concept:improvisation|即兴]] 一节的对照），
-通奏低音逐渐消失。所以"演奏者有多大自由"这个问题，是**历史性的**，不是天然如此。
+通奏低音逐渐消失。所以"演奏者有多大自由"这个问题，是历史性的，不是天然如此。
 
 ## 它怎么被演奏
 
@@ -71,8 +71,8 @@ updated: 2026-09-24
 | **低音乐器** | 大提琴 / 巴松 / 低音提琴 | 把低音线奏出来（音高由作曲家定） |
 | **和声乐器** | 羽管键琴 / 管风琴 / 琉特琴 | 按数字补出上方和声（织体由演奏者定） |
 
-两组合起来，就是"通奏低音组"。注意第二行的**自由范围**：音是作曲家给的，
-**怎么排布由演奏者决定** —— 这与 [[concept:chord-voicing|和弦排列]] 讲的是同一件事。
+两组合起来，就是"通奏低音组"。注意第二行的自由范围：音是作曲家给的，
+怎么排布由演奏者决定 —— 这与 [[concept:chord-voicing|和弦排列]] 讲的是同一件事。
 
 ## 图示：一份数字低音怎么读
 
@@ -115,7 +115,7 @@ updated: 2026-09-24
 
 ## 听一听：低音驱动的和声
 
-用进行播放器听一段低音线条清晰的进行。请把注意力放在**最下面那个音**上 ——
+用进行播放器听一段低音线条清晰的进行。请把注意力放在最下面那个音上 ——
 巴洛克的和声正是从它往上构建的；上方的一切都可以变，低音定了，和声就定了。
 
 ```audiolab
@@ -124,10 +124,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「数字低音就是和弦谱」** → 精度不同。数字说"上方叠什么音程"，和弦记号只说和弦名 —— 前者给的信息更具体也更容易实现。
-- **「数字是"要弹几个音"」** → 说的是**音程**（与低音相距几度），不是数量。一个 6 可以只补两个音，也可以补四个。
-- **「通奏低音是"随便即兴"」** → 实现方式有严格规则（要成什么音程、如何连接、外音怎么处理），自由在**织体与排列**，不在和声本身。
-- **「它过时了，与现代无关」** → 今天用和弦记号弹伴奏、爵士里读 lead sheet，都是同一逻辑的延续；理解它会改变你对"演奏者自由度"的看法。
+- 「数字低音就是和弦谱」 → 精度不同。数字说"上方叠什么音程"，和弦记号只说和弦名 —— 前者给的信息更具体也更容易实现。
+- 「数字是"要弹几个音"」 → 说的是音程（与低音相距几度），不是数量。一个 6 可以只补两个音，也可以补四个。
+- 「通奏低音是"随便即兴"」 → 实现方式有严格规则（要成什么音程、如何连接、外音怎么处理），自由在织体与排列，不在和声本身。
+- 「它过时了，与现代无关」 → 今天用和弦记号弹伴奏、爵士里读 lead sheet，都是同一逻辑的延续；理解它会改变你对"演奏者自由度"的看法。
 :::
 
 ::: en
@@ -138,7 +138,7 @@ upper harmony to the performer. The notation is **figured bass**; the practice i
 
 ## What the figures say
 
-A figure states **which intervals to place above that bass note**:
+A figure states which intervals to place above that bass note:
 
 | Bass note | Figure | Notes above | Equivalent to |
 |---|---|---|---|
@@ -147,23 +147,23 @@ A figure states **which intervals to place above that bass note**:
 | fifth | **6-4** | a sixth and a fourth | second inversion |
 | seventh | **4-2** | a fourth and a second (plus a sixth) | third inversion of a seventh chord |
 
-The remaining two inversions of a seventh chord are **6-5** (first) and **4-3** (second) — see
+The remaining two inversions of a seventh chord are 6-5 (first) and 4-3 (second) — see
 [[concept:chord-inversion|chord inversion and figured bass]].
 
 ## Why it deserves attention
 
-**One: it explains the bass-driven character of Baroque music.** If harmony is built upward from the bass, the
+One: it explains the bass-driven character of Baroque music. If harmony is built upward from the bass, the
 bass line inevitably becomes the most carefully shaped voice — which shaped the writing habits of the age: bass
 lines move by step and behave like real lines, rather than leaping from root to root.
 
-**Two: it was the first standardisation of improvised accompaniment.** Performers did not memorise every note;
-they **read the rules and realised the chord on the spot**. The same figured bass yields different textures from
-different players — the same kind of practice as playing from chord symbols today, but **far more precise**:
+Two: it was the first standardisation of improvised accompaniment. Performers did not memorise every note;
+they read the rules and realised the chord on the spot. The same figured bass yields different textures from
+different players — the same kind of practice as playing from chord symbols today, but far more precise:
 figures state which intervals, symbols state only the chord name.
 
-**Three: it explains the historical break in "the performer as creator".** After the Baroque, composers increasingly
+Three: it explains the historical break in "the performer as creator". After the Baroque, composers increasingly
 wrote every voice out in full (see the comparison in [[concept:improvisation|improvisation]]), and continuo faded. So "how much freedom
-does a performer have" is a **historical question**, not a natural constant.
+does a performer have" is a historical question, not a natural constant.
 
 ## How it was played
 
@@ -172,8 +172,8 @@ does a performer have" is a **historical question**, not a natural constant.
 | **bass instrument** | cello, bassoon, double bass | plays the bass line (pitches fixed by the composer) |
 | **harmony instrument** | harpsichord, organ, lute | supplies the upper harmony from the figures (texture chosen by the player) |
 
-Together they form the continuo group. Note the **scope of freedom** in the second row: the notes are given, the
-**arrangement is not** — the same question as [[concept:chord-voicing|chord voicing]].
+Together they form the continuo group. Note the scope of freedom in the second row: the notes are given, the
+arrangement is not — the same question as [[concept:chord-voicing|chord voicing]].
 
 ## Diagram: how to read a figured bass
 
@@ -216,7 +216,7 @@ Together they form the continuo group. Note the **scope of freedom** in the seco
 
 ## Listen: bass-driven harmony
 
-Use the progression player on a progression with a clear bass line. Keep your attention on **the lowest note** —
+Use the progression player on a progression with a clear bass line. Keep your attention on the lowest note —
 Baroque harmony is built upward from it, and once the bass is fixed, the harmony is fixed. Everything above can
 vary.
 
@@ -226,12 +226,12 @@ vary.
 
 ## Common misconceptions
 
-- **"Figured bass is a chord chart."** It is more precise: figures state **which intervals above the bass**, while
+- "Figured bass is a chord chart." It is more precise: figures state which intervals above the bass, while
   a chord symbol names the chord only.
-- **"The numbers say how many notes to play."** They name **intervals** (the distance above the bass), not a
+- "The numbers say how many notes to play." They name intervals (the distance above the bass), not a
   count. A "6" may be filled in with two notes or four.
-- **"Continuo means improvising freely."** Realisation follows strict rules (which intervals, how to connect, how
-  to treat non-chord tones); the freedom lies in **texture and voicing**, not in the harmony itself.
-- **"It is obsolete and irrelevant."** Playing from chord symbols, or a jazz musician reading a lead sheet, is the
+- "Continuo means improvising freely." Realisation follows strict rules (which intervals, how to connect, how
+  to treat non-chord tones); the freedom lies in texture and voicing, not in the harmony itself.
+- "It is obsolete and irrelevant." Playing from chord symbols, or a jazz musician reading a lead sheet, is the
   same logic continued — and understanding it changes how you think about a performer's freedom.
 :::

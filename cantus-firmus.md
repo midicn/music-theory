@@ -28,18 +28,19 @@ updated: 2026-09-24
 ---
 
 ::: zh
-固定旋律（cantus firmus，常缩写 c.f.）的做法只有一句：
+固定旋律（cantus firmus，常缩写 c.f.）的做法只有一句。
 **先用一条给定的旋律打底，其他声部围着它写。**
 
-它之所以值得单列，因为它把复调写作的难度**削掉了一半**：
+它值得单列，因为它把复调写作的难度**削掉了一半**。
 
 | 少了什么 | 得到什么 |
 |---|---|
 | 不必同时构思所有声部 | 可以先专注一条线上的每个音 |
 | 骨架已经确定 | 纵向关系有明确的参照物 |
 
-**这就是为什么五类对位全部建立在固定旋律之上**（见 [[concept:first-species|第一类对位]]）——
-它把"创作"和"处理"分开了：你只需要决定**怎么围着它写**，不必先决定它是什么。
+**这就是五类对位全都建立在固定旋律之上的原因**（见 [[concept:first-species|第一类对位]]）。
+它把"创作"和"处理"分开了。
+你只需要决定**怎么围着它写**，不必先决定它是什么。
 
 ## 它在历史上的两种身份
 
@@ -48,14 +49,15 @@ updated: 2026-09-24
 | **作曲手法** | 中世纪与文艺复兴的定旋律弥撒：整首弥撒建立在一条圣咏旋律上，各乐章用同一条（或同一条的变形） |
 | **训练工具** | 对位教学中的练习题基 —— 今天仍是 |
 
-第二种身份流传至今，第一种则留下了一个重要的观念：**一条已有的旋律可以作为整部作品的地基。**
-这条观念在后来演化为 [[concept:theme-variations|变奏曲式]]、[[concept:pedal-point|固定低音]]
-（ground bass）等一系列"固定素材"写法。
+第二种身份流传至今。第一种留下了一个重要的观念。
+一条已有的旋律可以当整部作品的地基。
+这条观念后来演化为 [[concept:theme-variations|变奏曲式]] 与 [[concept:pedal-point|固定低音]]（ground bass）。
+它们都属于"固定素材"写法。
 
 ## 固定旋律可以放在哪里
 
-早期惯例是放在**最下方的声部**（"tenor" 一词本义就是"保持者"）。
-后来的写作把它解放到各个位置：
+早期惯例是放在最下方的声部。"tenor" 一词本义就是"保持者"。
+后来的写作把它解放到各个位置。
 
 | 位置 | 效果 |
 |---|---|
@@ -63,7 +65,7 @@ updated: 2026-09-24
 | **上方** | 固定旋律成为旋律主角，其他声部为伴奏 |
 | **内声部** | 最隐蔽的用法，固定旋律成了"隐藏的主线" |
 
-最后一行的效果值得注意：**当固定旋律藏在内声部时，它是给"知道内情的人"听的**——
+最后一行的效果值得注意。固定旋律藏在内声部时，是给"知道内情的人"听的。
 这类"隐藏结构"在文艺复兴与巴洛克作品里大量存在。
 
 ## 与固定低音的区别（容易混）
@@ -74,7 +76,7 @@ updated: 2026-09-24
 | 循环吗 | 不一定 | **是**，反复循环 |
 | 其他声部 | 通常每个音配一次 | 每循环一次写一组新变奏 |
 
-一句话：**固定旋律是"地基"，固定低音是"循环的地基"。**
+固定旋律是"地基"。固定低音是"循环的地基"。
 
 ## 图示：一条线定下来，其余围着它长
 
@@ -117,8 +119,9 @@ updated: 2026-09-24
 
 ## 听一听：固定骨架上的写作
 
-用 `progression` 听一段功能进行：把它想成"骨架已定"的处境 ——
-**低音与和声是给定的，你要决定的是上方怎么写**。这正是固定旋律训练的核心处境。
+用 `progression` 听一段功能进行，把它想成"骨架已定"的处境。
+低音与和声是给定的，你要决定的是上方怎么写。
+这正是固定旋律训练的核心处境。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","IV","V","I"],"label":"固定的功能骨架（I → IV → V → I）","label_en":"A fixed functional frame: I-IV-V-I","hint":"逐个和弦依次听 —— 骨架不变，变化都在上方","hint_en":"Hear each chord in turn — the frame holds, all change is above it"}
@@ -126,10 +129,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「固定旋律只是练习题」** → 它同时是历史上的核心作曲手法（定旋律弥撒），并演化出变奏曲式、固定低音等一系列写法。
-- **「固定旋律必须在低音」** → 早期惯例如此，后来可置于任何声部；藏在内声部时是一种"隐藏结构"手法。
-- **「固定旋律与固定低音是一回事」** → 前者是旋律（不一定循环），后者是循环的低音线。
-- **「用固定旋律就不算创作」** → 围绕它写作本身就是创作。历史上最复杂的复调作品，很多都建立在一条别人的旋律上。
+- 「固定旋律只是练习题」 → 它同时是历史上的核心作曲手法，定旋律弥撒即是一例。
+- 「固定旋律必须在低音」 → 早期惯例如此，后来可放在任何声部。藏在内声部时是一种"隐藏结构"。
+- 「固定旋律与固定低音是一回事」 → 前者是旋律，不一定循环；后者是循环的低音线。
+- 「用固定旋律就不算创作」 → 围绕它写作本身就是创作。很多最复杂的复调作品都建立在别人的旋律上。
 :::
 
 ::: en
@@ -159,7 +162,7 @@ the foundation of an entire work.** That idea later grew into [[concept:theme-va
 
 ## Where the cantus firmus may sit
 
-Early practice placed it in the **lowest voice** (the word "tenor" literally means "holder"). Later writing freed
+Early practice placed it in the lowest voice (the word "tenor" literally means "holder"). Later writing freed
 it to any position:
 
 | Position | Effect |
@@ -179,7 +182,7 @@ story** — such hidden structures abound in Renaissance and Baroque music.
 | Does it repeat? | not necessarily | **yes, in a loop** |
 | The other voices | usually set once per note | a new variation written for each cycle |
 
-In one line: **a cantus firmus is a foundation; a ground bass is a foundation on repeat.**
+In one line: a cantus firmus is a foundation; a ground bass is a foundation on repeat.
 
 ## Diagram: one line fixed, the rest growing around it
 
@@ -232,12 +235,12 @@ creates.
 
 ## Common misconceptions
 
-- **"A cantus firmus is only an exercise."** It was also a central compositional device (the cantus-firmus Mass)
+- "A cantus firmus is only an exercise." It was also a central compositional device (the cantus-firmus Mass)
   and gave rise to variation form, ground bass and related practices.
-- **"The cantus firmus must be in the bass."** That was early practice; later it may sit anywhere, and concealed in
+- "The cantus firmus must be in the bass." That was early practice; later it may sit anywhere, and concealed in
   an inner voice it becomes a hidden structure.
-- **"Cantus firmus and ground bass are the same thing."** The first is a melody (not necessarily repeating); the
+- "Cantus firmus and ground bass are the same thing." The first is a melody (not necessarily repeating); the
   second is a repeating bass line.
-- **"Using a cantus firmus is not composing."** Writing around it is the composing. Many of history's most complex
+- "Using a cantus firmus is not composing." Writing around it is the composing. Many of history's most complex
   polyphonic works are built on someone else's melody.
 :::

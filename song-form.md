@@ -32,9 +32,8 @@ updated: 2026-09-25
 
 > **一个段落反复回来（副歌），其他段落轮流更换（主歌、桥段）。**
 
-这与 [[concept:rondo-form|回旋曲式]] 是**同一个原理**（A 作为锚点、插部每次不同），
-只是术语与篇幅不同。所以本条的重点不是"流行歌怎么分段"，
-而是**认出它和几百年前的曲式其实是同一件事**。
+这与 [[concept:rondo-form|回旋曲式]] 是同一个原理：A 当锚点，插部每次不同，只是术语与篇幅不同。
+所以重点不在"流行歌怎么分段"，而在认出它和几百年前的曲式是同一件事。
 
 ## 三种常见形态
 
@@ -44,8 +43,8 @@ updated: 2026-09-25
 | **主歌—副歌** | **A B A B …** | 现代流行歌的基本形态 |
 | **主歌—副歌—桥段—副歌** | **A B A B C B** | 现代流行歌的完整形态 |
 
-第二与第三行的差别在于**桥段（bridge）**：一段短暂离开、带来新鲜感的段落，
-通常出现在两次副歌之后，用来避免"同一套反复太多次"。
+两种形态的差别在桥段（bridge）。
+它是一段短暂离开、带来新鲜感的段落，通常出现在两次副歌之后。作用是避免同一套反复太多次。
 
 ## 各段的分工
 
@@ -55,8 +54,8 @@ updated: 2026-09-25
 | **副歌**（chorus） | 记忆点、情绪高点 | 旋律较高、**反复回来**、和声常更开阔 |
 | **桥段**（bridge） | 对比与转折 | 换和声 / 换调，常为最后一次副歌铺路 |
 
-**"主歌低、副歌高"是极常见的布局**，原因是功能不同：
-主歌要**让出空间**（听众在听内容），副歌要**占据空间**（听众要跟着唱）。
+"主歌低、副歌高"是极常见的布局，原因在功能不同。
+主歌要让出空间，听众在听内容；副歌要占据空间，听众要跟着唱。
 
 ## 与古典曲式的对应
 
@@ -68,8 +67,8 @@ updated: 2026-09-25
 | **主歌—副歌循环** | 近似**回旋曲式**（副歌 = A，主歌 = 插部） |
 | **桥段** | 近似 [[concept:ternary-form|三段体]]的 B 段（提供对比） |
 
-**副歌之所以有效，是因为它承担了"回归"的功能** ——
-而回归在所有曲式里都是"提供完整感"的手段（见 [[concept:form|曲式]]）。
+副歌之所以有效，是因为它承担了"回归"的功能。
+回归在所有曲式里都是提供完整感的手段（见 [[concept:form|曲式]]）。
 
 ## 图示：副歌作为锚点
 
@@ -128,8 +127,8 @@ updated: 2026-09-25
 
 ## 听一听：回归与更新
 
-用 `progression` 听"同一句反复回归、中间换内容"的进行 —— 这就是副歌的机制，
-与回旋曲式用的是同一套心理（见 [[concept:rondo-form|回旋曲式]]）。
+用 `progression` 听"同一句反复回归、中间换内容"的进行。
+这就是副歌的机制，与回旋曲式用的是同一套心理（见 [[concept:rondo-form|回旋曲式]]）。
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","V","I","IV","I"],"label":"副歌回归（I 反复，中间换内容）","label_en":"The chorus returning — I keeps coming back while the middle changes","hint":"逐个和弦依次听：每次回到 I 就是副歌","hint_en":"Hear each chord: every return to I is the chorus"}
@@ -137,10 +136,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「歌曲形式是现代的、独立的体系」** → 它与**回旋曲式、三段体**同源。副歌的机制就是"回归"。
-- **「歌曲没有曲式」** → 它有明确的曲式，只是术语不同（主歌/副歌/桥段 vs A/B/C）。
-- **「副歌必须是最响的」** → 副歌的功能是"回归与记忆点"。它可以靠**音区、和声开阔度、织体**实现，不必只靠音量。
-- **「桥段是可有可无的」** → 在现代流行歌里它承担**避免重复疲劳**的功能；去掉它，B 段容易显得单调。
+- 「歌曲形式是现代的、独立的体系」 → 它与回旋曲式、三段体同源。副歌的机制就是"回归"。
+- 「歌曲没有曲式」 → 它有明确的曲式，只是术语不同（主歌/副歌/桥段 vs A/B/C）。
+- 「副歌必须是最响的」 → 副歌的功能是"回归与记忆点"。它可以靠音区、和声开阔度、织体实现，不必只靠音量。
+- 「桥段是可有可无的」 → 在现代流行歌里它承担避免重复疲劳的功能；去掉它，B 段容易显得单调。
 :::
 
 ::: en
@@ -148,9 +147,10 @@ Song form has one core mechanism:
 
 > **One section returns repeatedly (the chorus) while the others take turns changing (verses, bridge).**
 
-That is **the same principle as [[concept:rondo-form|rondo form]]** (A as an anchor, episodes differing), only the
-terminology and scale differ. So the point of this entry is not "how pop songs are divided" but **recognising that
-the shape and forms centuries older are the same thing**.
+That is the same principle as [[concept:rondo-form|rondo form]]: A as an anchor, episodes differing.
+Only the terminology and scale differ.
+The point is not how pop songs are divided, but recognising that the shape and forms centuries older are the same
+thing.
 
 ## Three common shapes
 
@@ -160,8 +160,9 @@ the shape and forms centuries older are the same thing**.
 | **verse-chorus** | **A B A B …** | the basic shape of modern pop |
 | **verse-chorus-bridge-chorus** | **A B A B C B** | the full modern shape |
 
-The difference between the second and third is the **bridge**: a short departure bringing freshness, usually after
-two choruses, to keep the same material from wearing out.
+The bridge is what separates the last two shapes.
+It is a short departure bringing freshness, usually after two choruses. Its job is to keep the same material from
+wearing out.
 
 ## What each section does
 
@@ -171,8 +172,9 @@ two choruses, to keep the same material from wearing out.
 | **chorus** | the hook, the emotional peak | higher melody, **returning repeatedly**, often more open harmony |
 | **bridge** | contrast and turn | new harmony or key, often setting up the final chorus |
 
-**"Low verse, high chorus" is a very common layout**, for functional reasons: the verse must **give up space** (the
-listener is following content), the chorus must **take space** (the listener wants to sing along).
+"Low verse, high chorus" is a very common layout, for functional reasons.
+The verse gives up space because the listener follows content. The chorus takes space because the listener wants to
+sing along.
 
 ## The correspondence with Classical forms
 
@@ -184,8 +186,8 @@ Recognising it shows that song form is not a separate modern system:
 | **verse-chorus cycle** | close to **rondo** (chorus = A, verses = episodes) |
 | **bridge** | close to the B of a [[concept:ternary-form|ternary form]] (supplying contrast) |
 
-**A chorus works because it carries the return function** — and return is what provides a sense of completeness in
-every form (see [[concept:form|form]]).
+A chorus works because it carries the return function.
+Return is what provides a sense of completeness in every form (see [[concept:form|form]]).
 
 ## Diagram: the chorus as anchor
 
@@ -244,8 +246,8 @@ every form (see [[concept:form|form]]).
 
 ## Listen: return and renewal
 
-Use `progression` on "one phrase returning while the middle changes" — the mechanism of a chorus, using the same
-psychology as a rondo (see [[concept:rondo-form|rondo form]]).
+Use `progression` on "one phrase returning while the middle changes".
+That is the mechanism of a chorus, the same psychology as a rondo (see [[concept:rondo-form|rondo form]]).
 
 ```audiolab
 {"type":"progression","key":"C4","degrees":["I","V","I","IV","I"],"label":"副歌回归（I 反复，中间换内容）","label_en":"The chorus returning — I keeps coming back while the middle changes","hint":"逐个和弦依次听：每次回到 I 就是副歌","hint_en":"Hear each chord: every return to I is the chorus"}
@@ -253,11 +255,11 @@ psychology as a rondo (see [[concept:rondo-form|rondo form]]).
 
 ## Common misconceptions
 
-- **"Song form is a modern, separate system."** It is the same family as **rondo and ternary**; the chorus mechanism
+- "Song form is a modern, separate system." It is the same family as rondo and ternary; the chorus mechanism
   is simply "return".
-- **"Songs have no form."** They have definite forms, under different names (verse/chorus/bridge instead of A/B/C).
-- **"The chorus must be the loudest."** Its function is return and memorability. It can be made by **register, open
+- "Songs have no form." They have definite forms, under different names (verse/chorus/bridge instead of A/B/C).
+- "The chorus must be the loudest." Its function is return and memorability. It can be made by **register, open
   harmony or texture**, not volume alone.
-- **"The bridge is optional."** In modern pop it **prevents repetition fatigue**; without it the B section easily
+- "The bridge is optional." In modern pop it prevents repetition fatigue; without it the B section easily
   turns monotonous.
 :::

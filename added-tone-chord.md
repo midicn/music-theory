@@ -45,24 +45,24 @@ updated: 2026-09-24
 
 ## 加音与叠三度的差别
 
-**九和弦 = 五音（根三五四七九），加音和弦 = 四个音（根三五四九，跳过七音）。**
+九和弦 = 五音（根三五四七九），加音和弦 = 四个音（根三五四九，跳过七音）。
 
 | 和弦 | 音（从 C 起） | 是否含七音 |
 |---|---|---|
 | Cadd9 | C–E–G–D | **不含** |
 | Cmaj9 | C–E–G–B–D | 含 B |
 
-这个差别很实用：**跳过七音，就避开了一个不稳定音**。
-所以 add9 听起来比 maj9 **更干净、更开阔**，也更容易在流行音乐里当稳定和弦用。
+这个差别很实用：跳过七音，就避开了一个不稳定音。
+所以 add9 听起来比 maj9 更干净、更开阔，也更容易在流行音乐里当稳定和弦用。
 
 ## 为什么附加音不"刺耳"
 
 附加音通常会与三音形成二度或九度的关系，本来应该冲突。但两种做法让它变得柔和：
 
-1. **拉开音区**：把附加音放在高八度（D 与 C 相撞要隔开一个八度以上）；
-2. **靠五度撑开**：三和弦的纯五度提供了稳定的框架，附加音被"架"在上面，不与三音直接冲突。
+1. 拉开音区：把附加音放在高八度（D 与 C 相撞要隔开一个八度以上）；
+2. 靠五度撑开：三和弦的纯五度提供了稳定的框架，附加音被"架"在上面，不与三音直接冲突。
 
-这也说明"协和"不只看音程，也看**排列**（见 [[concept:chord-voicing|和弦排列]]）。
+这也说明"协和"不只看音程，也看排列（见 [[concept:chord-voicing|和弦排列]]）。
 
 ## 图示：加音 vs 叠三度
 
@@ -106,10 +106,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「add9 和 maj9 差不多」** → 后者含七音，前者不含。跳过七音让 add9 明显更干净。
-- **「加音和弦必须解决」** → 它可以就是稳定和弦；附加音是色彩，不是张力。
-- **「附加音会与三音撞车」** → 会，所以要靠排列拉开（通常放高八度），或由纯五度撑开支撑。
-- **「加音就是挂留」** → 挂留是**替换**三音，加音是**保留**三音再添加。前者失去大小，后者保留。
+- 「add9 和 maj9 差不多」 → 后者含七音，前者不含。跳过七音让 add9 明显更干净。
+- 「加音和弦必须解决」 → 它可以就是稳定和弦；附加音是色彩，不是张力。
+- 「附加音会与三音撞车」 → 会，所以要靠排列拉开（通常放高八度），或由纯五度撑开支撑。
+- 「加音就是挂留」 → 挂留是替换三音，加音是保留三音再添加。前者失去大小，后者保留。
 :::
 
 ::: en
@@ -139,19 +139,19 @@ third, fifth, ninth, with the seventh skipped).**
 | Cadd9 | C–E–G–D | **no** |
 | Cmaj9 | C–E–G–B–D | yes, B |
 
-That difference is practical: **skip the seventh and you skip an unstable note.** So add9 sounds **cleaner and
+That difference is practical: skip the seventh and you skip an unstable note. So add9 sounds **cleaner and
 more open** than maj9, and is easier to use as a stable chord in popular music.
 
 ## Why an added note does not bite
 
 The added note usually forms a second or a ninth against the third, which ought to clash. Two things soften it:
 
-1. **Separation by register** — put the added note an octave higher (D and C colliding need more than an
+1. Separation by register — put the added note an octave higher (D and C colliding need more than an
    octave between them);
-2. **The fifth holds things apart** — the triad's perfect fifth frames the chord, so the added note sits
+2. The fifth holds things apart — the triad's perfect fifth frames the chord, so the added note sits
    overhead rather than colliding with the third.
 
-Which shows that consonance depends not only on intervals but on **voicing** (see
+Which shows that consonance depends not only on intervals but on voicing (see
 [[concept:chord-voicing|chord voicing]]).
 
 ## Diagram: added tone versus stacked third
@@ -197,8 +197,8 @@ there.
 
 ## Common misconceptions
 
-- **"add9 and maj9 are much the same."** The latter contains a seventh; the former does not. Skipping it makes add9 clearly cleaner.
-- **"An added-tone chord must resolve."** It can be perfectly stable; the added note is colour, not tension.
-- **"The added note will clash with the third."** It would, so voicing separates them (usually by an octave) or the fifth holds them apart.
-- **"Added tone means suspended."** A suspension **replaces** the third; an added tone **keeps** it and adds another note. The first loses major and minor, the second retains them.
+- "add9 and maj9 are much the same." The latter contains a seventh; the former does not. Skipping it makes add9 clearly cleaner.
+- "An added-tone chord must resolve." It can be perfectly stable; the added note is colour, not tension.
+- "The added note will clash with the third." It would, so voicing separates them (usually by an octave) or the fifth holds them apart.
+- "Added tone means suspended." A suspension replaces the third; an added tone keeps it and adds another note. The first loses major and minor, the second retains them.
 :::

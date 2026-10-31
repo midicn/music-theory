@@ -27,11 +27,12 @@ updated: 2026-09-25
 ---
 
 ::: zh
-舞曲节奏型最容易辨认，原因很直接：
+舞曲节奏型最容易辨认，原因很直接。
 
-> **舞蹈决定了节奏型的形状** —— 因为节奏必须配合脚步。
+> **舞蹈决定了节奏型的形状**，因为节奏必须配合脚步。
 
-所以辨认舞曲不用懂乐理，**跟着走两步就知道了**。这也让舞曲成为学习节奏型最好的入口。
+辨认舞曲不用懂乐理，**跟着走两步就知道了**。
+这也让舞曲成为学习节奏型最好的入口。
 
 ## 三种最常见的舞曲节奏
 
@@ -41,9 +42,9 @@ updated: 2026-09-25
 | **进行曲**（March） | 2/4 · 4/4 | 均匀、方正，重音落在落地的那一拍 | 左右左、右左右 |
 | **探戈**（Tango） | 2/4 · 4/4 | **附点 + 切分**的组合（长—短—短—短） | 顿挫、拖步 |
 
-三者的差别都在**重音的位置**上（见 [[concept:metric-accent|强弱规律]]）：
-圆舞曲是"每三拍一个重音"，进行曲是"每两拍一个重音"，探戈则**故意把重音往后拖**，
-所以听起来紧绷。
+三者的差别都在**重音的位置**上（见 [[concept:metric-accent|强弱规律]]）。
+圆舞曲每三拍一个重音，进行曲每两拍一个重音。
+探戈**故意把重音往后拖**，所以听起来紧绷。
 
 ## 一个容易被忽略的事实：舞曲节奏型来自"动作受限"
 
@@ -53,8 +54,9 @@ updated: 2026-09-25
 | 双脚交替落地（进行曲） | 必须两拍一组，重音与落地同步 |
 | 拖步与停顿（探戈） | 需要**不均匀**的时值（附点、切分）来配合停顿 |
 
-这条很重要：**节奏型不是作曲家"选"的，而是被动作"规定"的**。
-所以同一种舞曲，不同国家、不同时代的写法会高度相似 —— 因为它们配合的是同一种身体动作。
+这条很重要：节奏型不是作曲家选的，而是被动作规定的。
+同一种舞曲在不同国家、不同时代写法高度相似。
+因为它们配合的是同一种身体动作。
 
 ## 更多舞曲的特征
 
@@ -65,8 +67,8 @@ updated: 2026-09-25
 | **哈巴涅拉 / 探戈** | 低音固定的"长—短—短—短"型 |
 | **摇摆（Swing）** | 把八分音符弹成"长—短"（三连音前两个相连） |
 
-**玛祖卡**最值得注意：它**故意不把重音放在第一拍**，这正是它"民族风味"的来源 ——
-说明同一个拍号里，**重音位置可以构成一种"方言"**。
+玛祖卡最值得注意。它故意不把重音放在第一拍，这正是民族风味的来源。
+同一个拍号里，重音位置可以构成一种方言。
 
 ## 图示：三种舞曲的重音落点
 
@@ -118,8 +120,8 @@ updated: 2026-09-25
 
 ## 听一听：三拍循环与两拍循环
 
-用 `rhythm` 对比 **3/4**（圆舞曲的骨架）与 **2/4**（进行曲的骨架）。
-请留意：**同样的"均分"，只因为周期长度不同，身体感的差别就非常大。**
+用 `rhythm` 对比 3/4（圆舞曲的骨架）与 2/4（进行曲的骨架）。
+同样是均分，只因为周期长度不同，身体感的差别就非常大。
 
 ```audiolab
 {"type":"rhythm","sig":"3/4","pattern":"q q q","bpm":132,"label":"3/4：圆舞曲骨架","label_en":"3/4: the waltz frame","hint":"点「播放」，想象每三拍转一圈","hint_en":"Press play and imagine one turn every three beats"}
@@ -131,10 +133,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「3/4 就是圆舞曲」** → 圆舞曲**用** 3/4，但 3/4 也可能是玛祖卡、小步舞曲或挽歌。体裁由**重音与伴奏型**决定。
-- **「舞曲节奏型是固定音型」** → 骨架固定，细节（配器、装饰）变化很大。固定的是**重音周期**。
-- **「玛祖卡的重音在"错的地方"」** → 它是有意为之的民族语汇。同一个拍号里，**重音位置就是方言**。
-- **「舞曲节奏只用于舞曲」** → 舞曲节奏型是通用素材：交响曲的谐谑曲、流行歌的节奏律动都借用它。
+- 「3/4 就是圆舞曲」 → 圆舞曲用 3/4，但玛祖卡、小步舞曲、挽歌也用 3/4。体裁由重音与伴奏型决定。
+- 「舞曲节奏型是固定音型」 → 骨架固定，配器、装饰等细节变化很大。固定的是重音周期。
+- 「玛祖卡的重音在"错的地方"」 → 它是有意为之的民族语汇。同一个拍号里，重音位置就是方言。
+- 「舞曲节奏只用于舞曲」 → 舞曲节奏型是通用素材。交响曲的谐谑曲、流行歌的律动都借用它。
 :::
 
 ::: en
@@ -165,7 +167,7 @@ it feels taut.
 | alternating footfalls (march) | must group in twos, accents synchronised with the steps |
 | dragging and pausing (tango) | needs **uneven** values (dotted, syncopated) to match the pauses |
 
-This matters: **the pattern is not chosen by the composer, it is dictated by the movement.** That is why the same
+This matters: the pattern is not chosen by the composer, it is dictated by the movement. That is why the same
 dance is written alike across countries and periods — they all fit the same physical action.
 
 ## Some more signatures
@@ -177,8 +179,8 @@ dance is written alike across countries and periods — they all fit the same ph
 | **habanera / tango** | a fixed bass figure in long-short-short-short |
 | **swing** | eighth notes played long-short (the first two of a triplet tied) |
 
-The **mazurka** deserves attention: it **deliberately refuses to accent the first beat**, and that is exactly where
-its national flavour comes from — proof that within one metre, **accent placement can amount to a dialect.**
+The mazurka deserves attention: it deliberately refuses to accent the first beat, and that is exactly where
+its national flavour comes from — proof that within one metre, accent placement can amount to a dialect.
 
 ## Diagram: where the accents fall
 
@@ -230,7 +232,7 @@ its national flavour comes from — proof that within one metre, **accent placem
 
 ## Listen: cycles of three and of two
 
-Use `rhythm` to compare **3/4** (the waltz frame) with **2/4** (the march frame). Notice how much the physical
+Use `rhythm` to compare 3/4 (the waltz frame) with 2/4 (the march frame). Notice how much the physical
 feel changes from the cycle length alone, with the same even division.
 
 ```audiolab
@@ -243,12 +245,12 @@ feel changes from the cycle length alone, with the same even division.
 
 ## Common misconceptions
 
-- **"3/4 means a waltz."** A waltz **uses** 3/4, but 3/4 may also be a mazurka, a minuet or a lament. The genre is
-  fixed by **accents and accompaniment figure**.
-- **"A dance rhythm is a fixed figure."** The frame is fixed; the details (scoring, ornament) vary widely. What stays
-  fixed is the **accent cycle**.
-- **"The mazurka accents the wrong beat."** It is a deliberate national idiom. Within one metre, **accent placement
+- "3/4 means a waltz." A waltz uses 3/4, but 3/4 may also be a mazurka, a minuet or a lament. The genre is
+  fixed by accents and accompaniment figure.
+- "A dance rhythm is a fixed figure." The frame is fixed; the details (scoring, ornament) vary widely. What stays
+  fixed is the accent cycle.
+- "The mazurka accents the wrong beat." It is a deliberate national idiom. Within one metre, **accent placement
   is a dialect**.
-- **"Dance rhythms belong to dances."** They are general material: scherzos in symphonies and the grooves of pop
+- "Dance rhythms belong to dances." They are general material: scherzos in symphonies and the grooves of pop
   songs all borrow them.
 :::

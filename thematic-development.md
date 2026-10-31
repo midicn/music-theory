@@ -41,8 +41,8 @@ updated: 2026-09-25
 | **节奏改造** | 音高不动，改时值 | 同一轮廓变成进行曲或挽歌 |
 | **和声重配** | 旋律不变，配不同和声 | 同一句变得明亮或阴暗 |
 
-**片段化**最值得注意：它把主题**拆到只剩一个特征**，然后反复强调 ——
-这是制造紧张最有效的手段，也是"展开部"最典型的写法。
+片段化把主题拆到只剩一个特征，然后反复强调。
+这是制造紧张最有效的手段，也是展开部最典型的写法。
 
 ## 与变奏曲式的关键区别
 
@@ -59,7 +59,7 @@ updated: 2026-09-25
 
 ## 发展的判断标准
 
-一句话：**听者还认得出主题吗？**
+一句话：听者还认得出主题吗？
 
 | 情况 | 判断 |
 |---|---|
@@ -67,17 +67,15 @@ updated: 2026-09-25
 | 完全认不出 | ❌ 那不是发展，是**换了个新主题**（结构上等于另起一段） |
 | 一眼就认出、没变化 | ❌ 那是重复或变奏，不是发展 |
 
-**"认得出"与"变样了"必须同时成立** —— 这就是发展的分寸。
+"认得出"与"变样了"必须同时成立 —— 这就是发展的分寸。
 
 ## 它为什么是"大篇幅"的关键
 
-一个 20 分钟的交响曲乐章，如果全靠写新旋律，是不可能写完也不可能听懂的。
-发展的作用正是：
+一个 20 分钟的交响曲乐章，全靠写新旋律既写不完也听不懂，发展的作用正在这里：
 
-> **在不引入新素材的前提下，把音乐推进到远处。**
+> 在不引入新素材的前提下，把音乐推进到远处。
 
-这与 [[concept:motive|动机]] 的"可发展性"是同一件事的两面：
-**动机之所以重要，正是因为发展需要它。**
+这与 [[concept:motive|动机]] 的"可发展性"是同一件事的两面：动机之所以重要，正是因为发展需要它。
 
 ## 图示：变奏与发展走了相反的路
 
@@ -139,8 +137,8 @@ updated: 2026-09-25
 
 ## 听一听：轮廓与基因
 
-本站的听辨件是单声部的，无法演示多段发展。这里用 `scale` 听一条完整音阶：
-请把它当作**主题的"基因库"** —— 发展时的所有片段都从这里取出。
+听辨件是单声部的，无法演示多段发展。
+用 `scale` 听一条完整音阶，把它当作主题的"基因库"；发展时的所有片段都从这里取出。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"主题的基因库","label_en":"The gene pool of a subject","hint":"点「上行」，注意每个音的“位置”（级数）","hint_en":"Try Up and notice each note's position in the scale","gap":0.3}
@@ -149,10 +147,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「发展就是变奏」** → 相反：变奏保留**轮廓**，发展保留**基因**。判断法：主题的完整性有没有被破坏。
-- **「发展必须用复杂手法」** → 片段化（只取两三个音反复）是最简单也最有效的，贝多芬大量使用。
-- **「主题一变就不是原主题了」** → 只要**仍可辨认**就是同一主题。变到完全认不出时，性质上已换主题。
-- **「发展只出现在奏鸣曲式里」** → 赋格的间插段、创意曲的全篇、电影配乐的主题变形都是发展。
+- 「发展就是变奏」 → 相反：变奏保留轮廓，发展保留基因。判断法：主题的完整性有没有被破坏。
+- 「发展必须用复杂手法」 → 片段化（只取两三个音反复）是最简单也最有效的，贝多芬大量使用。
+- 「主题一变就不是原主题了」 → 只要仍可辨认就是同一主题。变到完全认不出时，性质上已换主题。
+- 「发展只出现在奏鸣曲式里」 → 赋格的间插段、创意曲的全篇、电影配乐的主题变形都是发展。
 :::
 
 ::: en
@@ -169,8 +167,8 @@ for building a long stretch from a single idea.
 | **rhythmic alteration** | keep the pitches, change the durations | one contour becomes a march or a lament |
 | **reharmonisation** | keep the melody, change the harmony | one phrase turns bright or dark |
 
-**Fragmentation** deserves attention: it reduces the subject to **one remaining feature** and then insists on it —
-the most effective way to build tension, and the typical writing of a development section.
+Fragmentation reduces the subject to one remaining feature, then insists on it.
+That is the most effective way to build tension, and the typical writing of a development section.
 
 ## The key difference from variation form
 
@@ -187,7 +185,7 @@ In one line: **variation keeps the subject's shape; development keeps its genes.
 
 ## The test for development
 
-One question: **can the listener still recognise the subject?**
+One question: can the listener still recognise the subject?
 
 | Case | Verdict |
 |---|---|
@@ -195,17 +193,17 @@ One question: **can the listener still recognise the subject?**
 | not recognisable at all | ❌ that is not development but **a new subject** (structurally, a new section) |
 | instantly recognisable, unchanged | ❌ that is repetition or variation, not development |
 
-**"Recognisable" and "changed" must both hold** — that is the calibration of development.
+"Recognisable" and "changed" must both hold — that is the calibration of development.
 
 ## Why it is the key to long works
 
-A twenty-minute movement cannot be written — or understood — from an endless supply of new melodies. The job of
-development is precisely this:
+A twenty-minute movement cannot be written, or understood, from an endless supply of new melodies.
+The job of development is this:
 
-> **To carry the music far without introducing new material.**
+> To carry the music far without introducing new material.
 
-Which is the other face of a [[concept:motive|motive]]'s capacity to develop: **motives matter because development
-needs them.**
+This is the other face of a motive's capacity to develop.
+Motives matter because development needs them.
 
 ## Diagram: variation and development take opposite routes
 
@@ -267,9 +265,9 @@ needs them.**
 
 ## Listen: contour and genes
 
-This site's listening tools are single-voice and cannot demonstrate multi-section development. Use `scale` to hear
-a complete scale and treat it as the **gene pool of a subject** — every fragment in a development is taken from
-somewhere like this.
+The listening tools are single-voice and cannot demonstrate multi-section development.
+Use `scale` to hear a complete scale and treat it as the gene pool of a subject; every fragment in a development is
+taken from somewhere like this.
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"主题的基因库","label_en":"The gene pool of a subject","hint":"点「上行」，注意每个音的级数位置","hint_en":"Try Up and notice each note's position in the scale","gap":0.3}
@@ -277,12 +275,12 @@ somewhere like this.
 
 ## Common misconceptions
 
-- **"Development is variation."** The opposite: variation keeps the **contour**, development keeps the **genes**. The
+- "Development is variation." The opposite: variation keeps the contour, development keeps the genes. The
   test is whether the subject's completeness is broken.
-- **"Development needs complicated devices."** Fragmentation — repeating two or three notes — is the simplest and
+- "Development needs complicated devices." Fragmentation — repeating two or three notes — is the simplest and
   most effective, and Beethoven used it constantly.
-- **"Once the subject changes it is no longer the subject."** As long as it is **recognisable**, it is the same
+- "Once the subject changes it is no longer the subject." As long as it is recognisable, it is the same
   subject. When it becomes unrecognisable, it has become a new subject in substance.
-- **"Development only happens in sonata form."** Fugal episodes, whole inventions and thematic transformation in
+- "Development only happens in sonata form." Fugal episodes, whole inventions and thematic transformation in
   film scores are all development.
 :::

@@ -34,7 +34,7 @@ updated: 2026-09-23
 - **旋律转位**：把一条旋律上下颠倒，向上的音程变成向下。
 - **和声转位**：改变和弦的低音，属于 [[concept:chord-inversion|和弦转位]] 的话题。
 
-本站这一条只讲第一种。
+这一条只讲第一种。
 
 ## 一条口诀，省掉一半背诵
 
@@ -52,7 +52,7 @@ updated: 2026-09-23
 ## 为什么"纯"是唯一不翻转的
 
 因为纯音程的名字里没有"大"和"小"可翻转。它只能变成增或减，
-而一个纯音程转位之后**仍然是纯的**（纯四度 ↔ 纯五度，纯八度自己转成自己）。
+而一个纯音程转位之后仍然是纯的（纯四度 ↔ 纯五度，纯八度自己转成自己）。
 这条不对称恰好说明：大小之分来自音数的细微差别，而纯音程属于另一套判断标准。
 
 ## 图示：相加为 9
@@ -100,10 +100,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「转位就是把音序前后颠倒」** → 那是旋律转位的一种。音程转位只把其中一个音移八度，不改任何音的先后。
-- **「大音程转位变大音程」** → 大变小、小变大。只有纯音程转位后还是纯的。
-- **「度数相加为 8」** → 是 9。因为首尾都被数了两次（C–E 的三度，与 E–C 的六度，合计覆盖一个八度加一个音级名）。
-- **「增四度转位是减四度」** → 增四度的转位是减五度。转位后的度数由 9 减去原度数决定，性质按增减互换。
+- 「转位就是把音序前后颠倒」 → 那是旋律转位的一种。音程转位只把其中一个音移八度，不改任何音的先后。
+- 「大音程转位变大音程」 → 大变小、小变大。只有纯音程转位后还是纯的。
+- 「度数相加为 8」 → 是 9。因为首尾都被数了两次（C–E 的三度，与 E–C 的六度，合计覆盖一个八度加一个音级名）。
+- 「增四度转位是减四度」 → 增四度的转位是减五度。转位后的度数由 9 减去原度数决定，性质按增减互换。
 :::
 
 ::: en
@@ -181,8 +181,8 @@ underneath.
 
 ## Common misconceptions
 
-- **"Inversion means reversing the order of notes."** That is one kind of melodic inversion. Interval inversion moves one note by an octave and changes no order.
-- **"A major interval inverts to a major interval."** Major becomes minor and minor becomes major. Only perfect intervals stay perfect.
-- **"The degrees add up to 8."** They add to 9, because both endpoints are counted in each direction.
-- **"An augmented fourth inverts to a diminished fourth."** It inverts to a diminished fifth: take 9 minus the original degree, then swap augmented for diminished.
+- "Inversion means reversing the order of notes." That is one kind of melodic inversion. Interval inversion moves one note by an octave and changes no order.
+- "A major interval inverts to a major interval." Major becomes minor and minor becomes major. Only perfect intervals stay perfect.
+- "The degrees add up to 8." They add to 9, because both endpoints are counted in each direction.
+- "An augmented fourth inverts to a diminished fourth." It inverts to a diminished fifth: take 9 minus the original degree, then swap augmented for diminished.
 :::

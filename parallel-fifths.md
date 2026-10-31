@@ -36,8 +36,8 @@ updated: 2026-09-24
 两个声部要是**连续**保持五度或八度关系，它们听起来就不再是两条线，
 而是**一条线加了一层厚度**。
 
-> 所以被禁的不是"这两个音"，而是"**连续**"这件事本身。
-> 后果不是难听，而是**声部数量凭空少了一个**。
+> 所以被禁的不是"这两个音"，而是"连续"这件事本身。
+> 后果不是难听，而是声部数量凭空少了一个。
 
 这与 [[concept:voice-leading|声部进行]] 的目标直接冲突：声部进行的一切努力，
 都是为了让每条线听得出来。
@@ -48,7 +48,7 @@ updated: 2026-09-24
 | 平行八度 | 两声部合成一条线（更彻底，听起来像一个声部的加厚） |
 | 平行三度、六度 | **允许** —— 三六度是"不完全协和"，不产生融合效应 |
 
-最后一行是关键对照：**规则禁的是"完全协和音程的平行"，不是"平行"本身。**
+最后一行是关键对照：规则禁的是"完全协和音程的平行"，不是"平行"本身。
 
 ## 两种相关情形
 
@@ -62,9 +62,9 @@ updated: 2026-09-24
 因为它是"最好教"的一条：容易看出、容易判分。于是它被当成和声学的代表规则，
 甚至被误传成"平行五度听起来难听"——
 
-**实际情况是**：平行五度在民间音乐、格里高利圣咏、印象派与摇滚里都很常见，
-听感并不刺耳。它在**四声部写作训练**里被禁，是因为那套写作的目标是
-**声部独立**，而不是"好听"。
+实际情况是：平行五度在民间音乐、格里高利圣咏、印象派与摇滚里都很常见，
+听感并不刺耳。它在四声部写作训练里被禁，是因为那套写作的目标是
+声部独立，而不是"好听"。
 
 ## 图示：融合 vs 独立
 
@@ -108,7 +108,7 @@ updated: 2026-09-24
 
 ## 听一听：两条线与一条线
 
-用进行播放器听一条常规进行。留意低音与上方声部**方向不同**时，
+用进行播放器听一条常规进行。留意低音与上方声部方向不同时，
 两条线是如何各自被听出来的 —— 这正是平行五八度所牺牲掉的东西。
 
 ```audiolab
@@ -117,10 +117,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「平行五度听起来难听」** → 听起来并不难听，民间音乐与摇滚里遍地都是。被禁是因为**声部独立性**。
-- **「平行三度六度也被禁」** → 允许。三六度是不完全协和，不产生"融合成一条线"的效果。
-- **「现代音乐没有这条规则」** → 印象派、爵士、摇滚确实自由使用；但只要你写的是**要求声部独立的四声部织体**，这条规则仍然适用。
-- **「同向到达五度一定不行」** → 要看高声部：**有跳进**的隐伏五八度通常避免，级进到达则宽松得多。
+- 「平行五度听起来难听」 → 听起来并不难听，民间音乐与摇滚里遍地都是。被禁是因为声部独立性。
+- 「平行三度六度也被禁」 → 允许。三六度是不完全协和，不产生"融合成一条线"的效果。
+- 「现代音乐没有这条规则」 → 印象派、爵士、摇滚确实自由使用；但只要你写的是要求声部独立的四声部织体，这条规则仍然适用。
+- 「同向到达五度一定不行」 → 要看高声部：有跳进的隐伏五八度通常避免，级进到达则宽松得多。
 :::
 
 ::: en
@@ -133,8 +133,8 @@ Perfect fifths and perfect octaves **fuse too well** (see [[concept:perfect-inte
 voices **keep** a fifth or octave between them from one chord to the next, they stop being two lines and become
 **one line with extra thickness**.
 
-> So what is avoided is not "these two notes" but "**in succession**". The consequence is not ugliness — it is
-> that **the texture has one voice fewer than it appears to have.**
+> So what is avoided is not "these two notes" but "in succession". The consequence is not ugliness — it is
+> that the texture has one voice fewer than it appears to have.
 
 That runs directly against the goal of [[concept:voice-leading|voice leading]], whose whole effort is to keep each
 line audible.
@@ -145,7 +145,7 @@ line audible.
 | parallel octaves | two voices merge, even more completely — it sounds like one thickened voice |
 | parallel thirds and sixths | **permitted** — imperfect consonances do not fuse |
 
-That last row is the key comparison: **the rule forbids parallel **perfect** consonances, not parallel motion.**
+That last row is the key comparison: the rule forbids parallel perfect consonances, not parallel motion.
 
 ## Two related cases
 
@@ -159,8 +159,8 @@ That last row is the key comparison: **the rule forbids parallel **perfect** con
 Because it is the easiest to teach: simple to spot and simple to mark. It therefore comes to stand for harmony in
 general, and is even misreported as "parallel fifths sound bad".
 
-**The reality**: parallel fifths are common in folk music, plainchant, Impressionism and rock, and they do not
-grate. They are banned in **four-part writing exercises** because those exercises aim at **voice independence**,
+The reality: parallel fifths are common in folk music, plainchant, Impressionism and rock, and they do not
+grate. They are banned in four-part writing exercises because those exercises aim at voice independence,
 not at pleasantness.
 
 ## Diagram: fusion versus independence
@@ -214,8 +214,8 @@ directions**, each line remains separately audible — exactly what parallel fif
 
 ## Common misconceptions
 
-- **"Parallel fifths sound bad."** They do not; folk and rock are full of them. They are avoided for the sake of **voice independence**.
-- **"Parallel thirds and sixths are also banned."** They are permitted. Imperfect consonances do not fuse two lines into one.
-- **"The rule no longer applies."** Impressionism, jazz and rock use them freely; but as long as the texture is **four-part writing meant to keep the voices independent**, the rule applies.
-- **"Arriving at a fifth by similar motion is always wrong."** It depends on the upper voice: **hidden** fifths and octaves with a leap are normally avoided, while arriving by step is much freer.
+- "Parallel fifths sound bad." They do not; folk and rock are full of them. They are avoided for the sake of voice independence.
+- "Parallel thirds and sixths are also banned." They are permitted. Imperfect consonances do not fuse two lines into one.
+- "The rule no longer applies." Impressionism, jazz and rock use them freely; but as long as the texture is four-part writing meant to keep the voices independent, the rule applies.
+- "Arriving at a fifth by similar motion is always wrong." It depends on the upper voice: hidden fifths and octaves with a leap are normally avoided, while arriving by step is much freer.
 :::

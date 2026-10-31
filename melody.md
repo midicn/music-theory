@@ -51,14 +51,14 @@ updated: 2026-09-25
 | **轮廓** | 整体的走向（上行 / 下行 / 拱形） | 拱形（先上后下）最常见，与呼吸一致 |
 | **句读** | 在哪里换气、哪里停 | 见 [[concept:phrase|乐句与乐段]] |
 
-**四个维度独立**这件事很重要：它意味着**改一个维度而保留其余三个**是有意义的操作 ——
+**四个维度独立**这件事很重要：它意味着改一个维度而保留其余三个是有意义的操作 ——
 这正是"同一旋律换个节奏型就变成另一首曲子"能成立的原因。
 
 ## 旋律为什么最难讲清楚
 
-和声有功能理论（T→S→D→T），节奏有等分与重音周期，**旋律没有对应的系统理论**。
+和声有功能理论（T→S→D→T），节奏有等分与重音周期，旋律没有对应的系统理论。
 
-这不是学者不努力，而是旋律的"好"高度依赖**文化与记忆**：
+这不是学者不努力，而是旋律的"好"高度依赖文化与记忆：
 
 | 现象 | 说明 |
 |---|---|
@@ -66,11 +66,11 @@ updated: 2026-09-25
 | 同一旋律重复听会觉得"更顺" | 熟悉度本身影响判断 |
 | 极简单的旋律也可能极动人 | 与复杂度无关 |
 
-所以对旋律，我们能给出**可操作的经验**，但给不出"生成好旋律的算法"。
+所以对旋律，我们能给出可操作的经验，但给不出"生成好旋律的算法"。
 
 ## 两条最有用的经验
 
-**① 可记忆性来自"重复 + 变化"的比例。**
+① 可记忆性来自"重复 + 变化"的比例。
 
 | 比例 | 效果 |
 |---|---|
@@ -78,9 +78,9 @@ updated: 2026-09-25
 | 重复过多 | 单调，像练习 |
 | **有重复又有变化** | **易记且不腻** —— 《小星星》的 aaba 结构就是典型 |
 
-**② 音域窄的旋律往往更易唱、更易记。**
+② 音域窄的旋律往往更易唱、更易记。
 《欢乐颂》只用了一个八度附近；大量民歌也在一个八度内。
-**这提醒我们：旋律的感染力不来自音域宽，而来自内部关系清楚。**
+这提醒我们：旋律的感染力不来自音域宽，而来自内部关系清楚。
 
 ## 图示：四个维度各自独立
 
@@ -141,7 +141,7 @@ updated: 2026-09-25
 ## 听一听：三个维度的差别
 
 用 `scale` 听一条音阶（级进为主，易唱），再想象把它改成以跳进为主 ——
-**同样的音、同样的长度，可唱性立刻不同**。这就是"音程关系"这一维度的作用。
+同样的音、同样的长度，可唱性立刻不同。这就是"音程关系"这一维度的作用。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4"],"label":"级进为主（易唱、连贯）","label_en":"Mostly stepwise — singable and connected","hint":"点「上行」感受级进的连贯","hint_en":"Try Up and feel the continuity of stepwise motion","gap":0.36}
@@ -149,10 +149,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「旋律就是音阶里的音」** → 音阶是**素材池**，旋律是**选择与安排**。同一音阶能生成无数不同旋律。
-- **「旋律越复杂越好」** → 《小星星》只用五个音与两种时值，却传遍世界。**内部关系清楚**比素材复杂重要。
-- **「旋律没法分析」** → 可以拆成四个维度（音程 / 节奏 / 轮廓 / 句读）分别讨论，只是没有"生成算法"。
-- **「好旋律是天生的」** → 大量作品显示出共同经验（重复与变化的比例、音域的克制、拱形轮廓），这些是可学的。
+- 「旋律就是音阶里的音」 → 音阶是素材池，旋律是选择与安排。同一音阶能生成无数不同旋律。
+- 「旋律越复杂越好」 → 《小星星》只用五个音与两种时值，却传遍世界。内部关系清楚比素材复杂重要。
+- 「旋律没法分析」 → 可以拆成四个维度（音程 / 节奏 / 轮廓 / 句读）分别讨论，只是没有"生成算法"。
+- 「好旋律是天生的」 → 大量作品显示出共同经验（重复与变化的比例、音域的克制、拱形轮廓），这些是可学的。
 :::
 
 ::: en
@@ -187,7 +187,7 @@ operation — which is why "one melody with a new rhythm becomes another tune" w
 Harmony has functional theory (T→S→D→T), rhythm has division and accent cycles — **melody has no equivalent
 system**.
 
-Not for want of effort: a melody's quality depends heavily on **culture and memory**.
+Not for want of effort: a melody's quality depends heavily on culture and memory.
 
 | Phenomenon | Explanation |
 |---|---|
@@ -195,11 +195,11 @@ Not for want of effort: a melody's quality depends heavily on **culture and memo
 | a melody feels "smoother" on repeated hearing | familiarity itself shapes judgement |
 | an extremely simple melody can be deeply moving | nothing to do with complexity |
 
-So for melody we can offer **workable experience** but not an algorithm that generates good ones.
+So for melody we can offer workable experience but not an algorithm that generates good ones.
 
 ## Two most useful pieces of experience
 
-**One: memorability comes from the ratio of repetition to change.**
+One: memorability comes from the ratio of repetition to change.
 
 | Ratio | Effect |
 |---|---|
@@ -207,7 +207,7 @@ So for melody we can offer **workable experience** but not an algorithm that gen
 | too much repetition | monotonous, like an exercise |
 | **repetition with change** | **memorable without weariness** — the aaba shape of Twinkle is the model |
 
-**Two: melodies with a narrow range are usually easier to sing and to remember.**
+Two: melodies with a narrow range are usually easier to sing and to remember.
 The Ode of Joy stays close to an octave, and a great many folk songs do too. **Which reminds us: a melody's power
 comes not from a wide range but from clear internal relations.**
 
@@ -278,12 +278,12 @@ pitches at the same lengths, and immediately less singable.** That is the interv
 
 ## Common misconceptions
 
-- **"A melody is the notes of a scale."** The scale is the **pool**; the melody is **selection and arrangement**.
+- "A melody is the notes of a scale." The scale is the pool; the melody is selection and arrangement.
   One scale yields countless melodies.
-- **"More complex melody is better."** Twinkle uses five notes and two values and travelled the world. **Clear
+- "More complex melody is better." Twinkle uses five notes and two values and travelled the world. **Clear
   internal relations** matter more than complex material.
-- **"Melody cannot be analysed."** It splits into four dimensions (intervals, rhythm, contour, phrasing) that can be
+- "Melody cannot be analysed." It splits into four dimensions (intervals, rhythm, contour, phrasing) that can be
   discussed separately; there is simply no generative algorithm.
-- **"Good melody is innate."** A large repertoire reveals shared experience (repetition against change, restraint of
+- "Good melody is innate." A large repertoire reveals shared experience (repetition against change, restraint of
   range, the arch contour) — all learnable.
 :::

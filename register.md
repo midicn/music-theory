@@ -31,14 +31,14 @@ updated: 2026-09-23
 一组乐器名单里，最容易混淆的两个词就是**音域**与**音区**。一句话分开：
 
 - **音域**：一件乐器或一个人**能唱到的边界**，是范围，是一个固定属性。
-- **音区**：某一时刻音乐**实际待在的位置**，是坐标，是随时在变的。
+- 音区：某一时刻音乐实际待在的位置，是坐标，是随时在变的。
 
 音域决定了作品能写多宽，音区决定了这一段听起来是什么质地。同一件乐器在不同音区里，
 音色、力度潜力、发音反应会明显不同 —— 这也是配器时最先被考虑的事。
 
 ## 音区不是一个点，是一段范围
 
-音区听起来像"某个音在哪儿"，但真正被感知到的从来是**一段范围**。三种最典型的形态：
+音区听起来像"某个音在哪儿"，但真正被感知到的从来是一段范围。三种最典型的形态：
 
 | 形态 | 例子 | 听到的是什么 |
 |---|---|---|
@@ -46,7 +46,7 @@ updated: 2026-09-23
 | 一件乐器同时跨两个音区 | 管风琴：脚踏板走低音、键盘走中高音 | 同一副音色在两端呈现不同重量 |
 | 一条线自己扫过整个音区 | 音阶与琶音练习逐级上行 | 音区在移动，而不是两个静止的层 |
 
-这三种形态说明**音区与音色是绑在一起的**：说"这段用哪件乐器"，其实是同时决定了音色和音区。
+这三种形态说明音区与音色是绑在一起的：说"这段用哪件乐器"，其实是同时决定了音色和音区。
 反过来，一件乐器在它的极端音区里，音色也常常会变成另一副样子 —— 低音区的长笛像气声，
 高音区的大提琴会变薄，这些都不是"音不准"，而是构造带来的必然。
 
@@ -89,7 +89,7 @@ updated: 2026-09-23
 </svg>
 ```
 
-音区越高，记谱就越依赖**加线**或换用别的谱号 —— 因为五条线能稳稳容纳的范围只有一个多八度。
+音区越高，记谱就越依赖加线或换用别的谱号 —— 因为五条线能稳稳容纳的范围只有一个多八度。
 各谱号具体覆盖哪些音，见 [[concept:clef|谱号]]；谱表本身的读法见 [[concept:staff|五线谱]]。
 
 ## 听一听：从低到高走一遍
@@ -102,17 +102,17 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「音域宽的乐器更好」** → 音域宽意味着在两端音区里必然有不好用的地方。不少乐器被选中恰恰是因为它在中音区特别均匀。
-- **「女高音的音区永远比男低音高」** → 女高音可以唱到低音区（只是音色发暗），男低音也有高音区（只是吃力）。音区不是身份，是当前坐标。
-- **「音区就是音高」** → 音高是单个音的位置，音区是一段音乐整体所在的位置范围。两者尺度不同。
-- **「换了谱号就把音升高了」** → 谱号只改变**记谱**的读法，不改变实际音高。同一段音乐用中音谱号还是高音谱号写，发出来的声音一样。
+- 「音域宽的乐器更好」 → 音域宽意味着在两端音区里必然有不好用的地方。不少乐器被选中恰恰是因为它在中音区特别均匀。
+- 「女高音的音区永远比男低音高」 → 女高音可以唱到低音区（只是音色发暗），男低音也有高音区（只是吃力）。音区不是身份，是当前坐标。
+- 「音区就是音高」 → 音高是单个音的位置，音区是一段音乐整体所在的位置范围。两者尺度不同。
+- 「换了谱号就把音升高了」 → 谱号只改变记谱的读法，不改变实际音高。同一段音乐用中音谱号还是高音谱号写，发出来的声音一样。
 :::
 
 ::: en
 Two words in an instrument list are the easiest to confuse: **range** and **register**. One line separates them.
 
 - **Range** is the boundary an instrument or a voice **can reach**. It is a span, and it is fixed.
-- **Register** is where the music **actually sits** at a given moment. It is a coordinate, and it moves constantly.
+- Register is where the music actually sits at a given moment. It is a coordinate, and it moves constantly.
 
 Range decides how wide a piece can be written. Register decides what this passage sounds like. The same
 instrument behaves quite differently in different registers — in timbre, in loudness potential, in how quickly
@@ -120,7 +120,7 @@ it speaks — which is why register is the first thing orchestration considers.
 
 ## A register is a stretch, not a point
 
-Register sounds like "where one note sits", but what is actually perceived is always **a stretch of range**.
+Register sounds like "where one note sits", but what is actually perceived is always a stretch of range.
 Three typical shapes:
 
 | Shape | Example | What you hear |
@@ -129,7 +129,7 @@ Three typical shapes:
 | One instrument spanning both | an organ: pedals low, manuals mid-to-high | one colour that weighs differently at each end |
 | One line sweeping the whole range | a scale or arpeggio exercise climbing step by step | register in motion, not two static layers |
 
-These three shapes show that **register and timbre are tied together**: choosing which instrument plays a
+These three shapes show that register and timbre are tied together: choosing which instrument plays a
 passage decides the timbre and the register at the same time. Conversely, an instrument at the extremes of its
 own range usually becomes a different animal — a low flute turns breathy, a high cello thins out. None of that
 is "out of tune"; it is the construction showing through.
@@ -173,7 +173,7 @@ is "out of tune"; it is the construction showing through.
 </svg>
 ```
 
-The higher the music, the more notation depends on **ledger lines** or a different clef, because five lines
+The higher the music, the more notation depends on ledger lines or a different clef, because five lines
 comfortably hold a little over one octave. Which pitches each clef covers is covered under
 [[concept:clef|clef]]; reading the staff itself under [[concept:staff|staff]].
 
@@ -188,8 +188,8 @@ away.
 
 ## Common misconceptions
 
-- **"A wider range is always better."** A wide range means both extremes are necessarily awkward. Many instruments are chosen precisely because they are unusually even in the middle.
-- **"A soprano always sings higher than a bass."** A soprano can sing low (it just turns dark), and a bass has a high register (it just costs effort). Register is a coordinate, not an identity.
-- **"Register means pitch."** Pitch is the position of one note; register is the positional band a whole passage occupies. Different scales of description.
-- **"Changing the clef raises the notes."** A clef changes how notation is **read**, not the sounding pitch. The same passage written in alto or treble clef sounds identical.
+- "A wider range is always better." A wide range means both extremes are necessarily awkward. Many instruments are chosen precisely because they are unusually even in the middle.
+- "A soprano always sings higher than a bass." A soprano can sing low (it just turns dark), and a bass has a high register (it just costs effort). Register is a coordinate, not an identity.
+- "Register means pitch." Pitch is the position of one note; register is the positional band a whole passage occupies. Different scales of description.
+- "Changing the clef raises the notes." A clef changes how notation is read, not the sounding pitch. The same passage written in alto or treble clef sounds identical.
 :::

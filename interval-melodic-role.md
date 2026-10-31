@@ -101,10 +101,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「跳进比级进更高级」** → 是分工不同。合唱与齐唱几乎都靠级进，因为级进最好唱准。
-- **「旋律好听靠音程越新奇越好」** → 绝大多数被记住的旋律都以级进为骨架，跳进只是点缀。
-- **「大跳之后必须解决」** → 是惯例而非硬规则；现代写作常刻意反着来，制造悬置感。
-- **「音程决定旋律的风格」** → 音程影响轮廓，风格还取决于节奏、调式与和声。本站只讲结构层，风格层见流派站。
+- 「跳进比级进更高级」 → 是分工不同。合唱与齐唱几乎都靠级进，因为级进最好唱准。
+- 「旋律好听靠音程越新奇越好」 → 绝大多数被记住的旋律都以级进为骨架，跳进只是点缀。
+- 「大跳之后必须解决」 → 是惯例而非硬规则；现代写作常刻意反着来，制造悬置感。
+- 「音程决定旋律的风格」 → 音程影响轮廓，风格还取决于节奏、调式与和声。这里只讲结构层，风格层见流派站。
 :::
 
 ::: en
@@ -183,8 +183,8 @@ line wants to settle.
 
 ## Common misconceptions
 
-- **"Leaps are more advanced than steps."** It is a division of labour. Choral and communal singing runs on steps because steps stay in tune.
-- **"A melody is better the more novel its intervals."** Almost every memorable melody has steps as its skeleton; leaps are accents.
-- **"A leap must be resolved."** Convention, not law. Modern writing often does the opposite on purpose, for a suspended feel.
-- **"Intervals decide a melody's style."** They shape the contour; style also depends on rhythm, mode and harmony. This entry stays on the structural layer — genre-level questions belong elsewhere.
+- "Leaps are more advanced than steps." It is a division of labour. Choral and communal singing runs on steps because steps stay in tune.
+- "A melody is better the more novel its intervals." Almost every memorable melody has steps as its skeleton; leaps are accents.
+- "A leap must be resolved." Convention, not law. Modern writing often does the opposite on purpose, for a suspended feel.
+- "Intervals decide a melody's style." They shape the contour; style also depends on rhythm, mode and harmony. This entry stays on the structural layer — genre-level questions belong elsewhere.
 :::

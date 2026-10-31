@@ -43,8 +43,8 @@ updated: 2026-09-23
 
 ## 三全音：一个名字，两种写法
 
-6 个半音的位置最特殊：它既能写成**增四度**（C–F♯），也能写成**减五度**（C–G♭）。
-两者**听感完全相同**，写法与倾向不同：
+6 个半音的位置最特殊：它既能写成**增四度**（C–F♯），也能写成减五度（C–G♭）。
+两者听感完全相同，写法与倾向不同：
 
 - 增四度向外扩张，倾向解决到五度或六度；
 - 减五度向内收拢，倾向解决到三度。
@@ -107,10 +107,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「增四度和减五度是两个音程」** → 音数相同、听感相同，属于 [[concept:enharmonic|等音程]]；区别在写法与倾向。
-- **「增减只是理论上的东西」** → 增四度是调性音乐推动力最强的音程之一，也是爵士与电影配乐里的常客。
-- **「大音程窄一个半音就是减音程」** → 大音程窄一个半音先变成**小**音程，减音程要从小音程再窄一个半音。
-- **「三全音听起来一定刺耳」** → 它的张力很强，但在恰当的和声里可以呈现为柔和而悬置的色彩，取决于上下文。
+- 「增四度和减五度是两个音程」 → 音数相同、听感相同，属于 [[concept:enharmonic|等音程]]；区别在写法与倾向。
+- 「增减只是理论上的东西」 → 增四度是调性音乐推动力最强的音程之一，也是爵士与电影配乐里的常客。
+- 「大音程窄一个半音就是减音程」 → 大音程窄一个半音先变成小音程，减音程要从小音程再窄一个半音。
+- 「三全音听起来一定刺耳」 → 它的张力很强，但在恰当的和声里可以呈现为柔和而悬置的色彩，取决于上下文。
 :::
 
 ::: en
@@ -132,7 +132,7 @@ genuinely rare interval that sounds close to a major second.
 ## The tritone: one sound, two spellings
 
 The position six semitones up is the special case: it can be written as an **augmented fourth** (C–F♯) or as a
-**diminished fifth** (C–G♭). Both sound identical, but they are spelled and they tend differently:
+diminished fifth (C–G♭). Both sound identical, but they are spelled and they tend differently:
 
 - the augmented fourth expands outward, resolving toward a fifth or sixth;
 - the diminished fifth contracts inward, resolving toward a third.
@@ -196,8 +196,8 @@ spelling — the clearest demonstration that names belong to notation while size
 
 ## Common misconceptions
 
-- **"An augmented fourth and a diminished fifth are two different intervals."** Same size, same sound, and they belong together as [[concept:enharmonic|enharmonic intervals]]; the difference lives in spelling and tendency.
-- **"Augmented and diminished are purely theoretical."** The tritone is one of the strongest engines in tonal music, and a staple of jazz and film scoring.
-- **"A major interval narrowed a semitone is diminished."** Narrowing a major interval first yields a **minor** one; diminished requires one more semitone down from minor.
-- **"A tritone always sounds harsh."** Its tension is strong, but in the right harmony it can read as a soft, suspended colour. Context decides.
+- "An augmented fourth and a diminished fifth are two different intervals." Same size, same sound, and they belong together as [[concept:enharmonic|enharmonic intervals]]; the difference lives in spelling and tendency.
+- "Augmented and diminished are purely theoretical." The tritone is one of the strongest engines in tonal music, and a staple of jazz and film scoring.
+- "A major interval narrowed a semitone is diminished." Narrowing a major interval first yields a minor one; diminished requires one more semitone down from minor.
+- "A tritone always sounds harsh." Its tension is strong, but in the right harmony it can read as a soft, suspended colour. Context decides.
 :::

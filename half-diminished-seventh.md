@@ -50,19 +50,19 @@ updated: 2026-09-24
 | **自然小调** | 第 2 级（iiø7） | 下属功能，解决到 V |
 
 大调音阶上叠三度得到唯一的半减七和弦 —— 这让它成为"调内七和弦"里最容易被识别的一个。
-在爵士里 **iiø7–V7–i** 是小调最基本的进行，两个和弦都是七和弦。
+在爵士里 iiø7–V7–i 是小调最基本的进行，两个和弦都是七和弦。
 
 ## 别和减七混起来
 
-两者的音只差一个（五音不同？不是 —— **是七音差半个音**）：
+两者的音只差一个（五音不同？不是 —— 是七音差半个音）：
 
 | | 音（从 C 起） |
 |---|---|
 | 半减七 | C–E♭–G♭–**B♭** |
 | 减七 | C–E♭–G♭–**B𝄫** |
 
-听感差别不小：减七和弦"悬在空中"，半减七和弦则明显**指向某个方向**。
-这也说明一件重要的事：**和弦的不稳定程度由内部三全音的数量决定**。
+听感差别不小：减七和弦"悬在空中"，半减七和弦则明显指向某个方向。
+这也说明一件重要的事：和弦的不稳定程度由内部三全音的数量决定。
 
 ## 图示：减一半与全减
 
@@ -103,10 +103,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「半减七就是减七」** → 七音差半个音，三全音数量差一个（1 个 vs 2 个），听感差别明显。
-- **「半减七和弦很罕见」** → 它在大调第 7 级、小调第 2 级上**自然出现**，是调内和弦之一。
-- **「m7♭5 和 ø7 是两种和弦」** → 同一和弦的两种写法：前者是流行写法，后者是爵士记法。
-- **「含减五度就一定极不稳定」** → 它比减七温和得多。不稳定程度与三全音的**数量**直接相关。
+- 「半减七就是减七」 → 七音差半个音，三全音数量差一个（1 个 vs 2 个），听感差别明显。
+- 「半减七和弦很罕见」 → 它在大调第 7 级、小调第 2 级上自然出现，是调内和弦之一。
+- 「m7♭5 和 ø7 是两种和弦」 → 同一和弦的两种写法：前者是流行写法，后者是爵士记法。
+- 「含减五度就一定极不稳定」 → 它比减七温和得多。不稳定程度与三全音的数量直接相关。
 :::
 
 ::: en
@@ -133,11 +133,11 @@ ordinary minor seventh. The [[concept:diminished-seventh|diminished seventh]] is
 | **natural minor** | degree 2 (iiø7) | subdominant function resolving to V |
 
 A major scale yields exactly one half-diminished seventh — which makes it among the easiest diatonic seventh
-chords to recognise. In jazz **iiø7–V7–i** is the basic minor progression, with two seventh chords in it.
+chords to recognise. In jazz iiø7–V7–i is the basic minor progression, with two seventh chords in it.
 
 ## Do not confuse it with the diminished seventh
 
-The two differ in one note — and it is **the seventh**, not the fifth:
+The two differ in one note — and it is the seventh, not the fifth:
 
 | | Notes from C |
 |---|---|
@@ -145,7 +145,7 @@ The two differ in one note — and it is **the seventh**, not the fifth:
 | diminished seventh | C–E♭–G♭–**B𝄫** |
 
 The difference is audible: the diminished seventh hangs in the air, while the half-diminished one clearly
-**points somewhere**. It also makes a broader point: **how unstable a chord is depends on how many tritones it
+points somewhere. It also makes a broader point: **how unstable a chord is depends on how many tritones it
 contains.**
 
 ## Diagram: half diminished versus fully diminished
@@ -187,8 +187,8 @@ Hear how it sounds dark yet directional, then compare it with the diminished sev
 
 ## Common misconceptions
 
-- **"Half-diminished is just the diminished seventh."** The seventh differs by a semitone and so does the tritone count (one versus two); the heard difference is clear.
-- **"Half-diminished chords are rare."** They occur **naturally** on degree 7 in major and degree 2 in minor — they are diatonic chords.
-- **"m7♭5 and ø7 are two different chords."** Two spellings of one chord: the first is pop notation, the second jazz notation.
-- **"Any chord with a diminished fifth is extremely unstable."** It is far milder than the diminished seventh. Instability tracks the **number** of tritones.
+- "Half-diminished is just the diminished seventh." The seventh differs by a semitone and so does the tritone count (one versus two); the heard difference is clear.
+- "Half-diminished chords are rare." They occur naturally on degree 7 in major and degree 2 in minor — they are diatonic chords.
+- "m7♭5 and ø7 are two different chords." Two spellings of one chord: the first is pop notation, the second jazz notation.
+- "Any chord with a diminished fifth is extremely unstable." It is far milder than the diminished seventh. Instability tracks the number of tritones.
 :::

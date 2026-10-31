@@ -48,11 +48,10 @@ updated: 2026-09-25
 | 停下来改对 | **整体崩掉** —— 节奏断了，其他人（或你自己）接不回去 |
 | 错了继续走 | 音乐保持完整，**错误只影响一个瞬间** |
 
-**这不是"放低标准"，而是"视奏的标准本来就不同"** ——
-视奏的目标是**把谱面变成连续的音乐**，而不是"每个音都对"。
+视奏不是放低标准，它的标准本来就不同：把谱面变成连续的音乐，而非每个音都对。
 
-**这一点在合奏中尤其明显**：合奏时停下来，就是**全体等你** ——
-所以合奏视奏的第一要求就是"不管发生什么都继续数拍"（见 [[concept:ensemble-listening|合奏与倾听]]）。
+合奏里这一点尤其明显：停下来，就是全体等你。
+所以合奏视奏的第一要求是"不管发生什么都继续数拍"（见 [[concept:ensemble-listening|合奏与倾听]]）。
 
 ## 三步流程
 
@@ -62,15 +61,14 @@ updated: 2026-09-25
 | **② 定速度** | 选一个**能从头走到尾**的速度 | 关键判断 |
 | **③ 开始并坚持** | 出错不停，继续往下 | —— |
 
-**第①步不用看完全曲**：只要抓住调号、拍号与"哪里会卡"就够 ——
-**全看一遍反而会忘掉开头**。
+第①步不用看完全曲，抓住调号、拍号与"哪里会卡"就够，全看一遍反而会忘掉开头。
 
-**第②步最需要经验**：定太快会崩，定太慢会失去音乐性。
-**宁慢勿快**是稳妥的选择 —— 慢速下"走完"远比快速下"崩掉"有价值。
+第②步最需要经验：定太快会崩，定太慢会失去音乐性，宁慢勿快更稳妥。
+慢速下"走完"，远比快速下"崩掉"有价值。
 
 ## 一个必须学会的策略：简化
 
-视奏中**允许简化**，而且这是正确做法：
+视奏中允许简化，而且这是正确做法：
 
 | 简化方式 | 保留什么 |
 |---|---|
@@ -78,8 +76,8 @@ updated: 2026-09-25
 | 丢装饰音与次要音 | **节奏与时值** |
 | 复杂和弦只弹**关键音** | 和声性质 |
 
-**原则**：**优先保节奏与时值，其次保旋律线，最后才是完整织体。**
-因为**节奏一乱，音乐就散了**；而少弹几个音，音乐还成立。
+原则：优先保节奏与时值，其次保旋律线，最后才是完整织体。
+因为节奏一乱，音乐就散了；而少弹几个音，音乐还成立。
 
 ## 图示：不停下来是核心
 
@@ -127,8 +125,8 @@ updated: 2026-09-25
 
 ## 听一听：连续性的重要
 
-用 `rhythm` 听一段**均匀连续**的形态 —— 这就是视奏要维持的状态：
-**每个音按时出现，不停顿**。请留意"连续"本身给人的稳定感。
+用 `rhythm` 听一段均匀连续的形态 —— 这就是视奏要维持的状态：
+每个音按时出现，不停顿。请留意"连续"本身给人的稳定感。
 
 ```audiolab
 {"type":"rhythm","sig":"4/4","pattern":"q q q q","bpm":80,"label":"连续不断（视奏要维持的状态）","label_en":"Unbroken continuity — the state sight-reading must maintain","hint":"点「播放」，注意每个音都按时出现","hint_en":"Press play and notice every note arriving on time"}
@@ -141,10 +139,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「视奏就是第一次弹就弹对」** → 视奏的目标是**保持连续**，不是"每个音都对"。
-- **「错了要马上回去改」** → 视奏中**绝不能回头** —— 停下来会破坏整体（合奏中更严重）。
-- **「要先把全曲看一遍再开始」** → 只需扫调号、拍号与难点；**全看一遍会忘掉开头**。
-- **「视奏必须完整演奏所有声部」** → **允许简化**：优先保节奏与旋律线，少弹几个音比崩掉好。
+- 「视奏就是第一次弹就弹对」 → 视奏的目标是保持连续，不是"每个音都对"。
+- 「错了要马上回去改」 → 视奏中绝不能回头 —— 停下来会破坏整体（合奏中更严重）。
+- 「要先把全曲看一遍再开始」 → 只需扫调号、拍号与难点；全看一遍会忘掉开头。
+- 「视奏必须完整演奏所有声部」 → 允许简化：优先保节奏与旋律线，少弹几个音比崩掉好。
 :::
 
 ::: en
@@ -168,11 +166,11 @@ Because **musical time does not wait for you**:
 | stop and correct it | **the whole thing collapses** — the pulse breaks and neither you nor anyone else can rejoin |
 | keep going with the error | the music stays whole, and **the error affects one moment only** |
 
-**This is not lowering the standard; the standard for sight-reading is simply different** — its aim is **to turn the
-page into continuous music**, not to get every note right.
+This is not lowering the standard. The standard for sight-reading is different: turn the page into continuous
+music, not get every note right.
 
-**It is most obvious in ensemble playing**: stopping means **everyone waiting for you** — so the first requirement of
-ensemble sight-reading is "keep counting whatever happens" (see [[concept:ensemble-listening|ensemble listening]]).
+In ensemble playing it is plainest: stop, and everyone waits for you.
+So the first requirement is "keep counting whatever happens" (see [[concept:ensemble-listening|ensemble listening]]).
 
 ## A three-step procedure
 
@@ -182,15 +180,15 @@ ensemble sight-reading is "keep counting whatever happens" (see [[concept:ensemb
 | **2 set a tempo** | choose one you can **sustain to the end** | the key judgement |
 | **3 start and persist** | do not stop for errors, keep moving | — |
 
-**Step 1 does not mean reading everything**: catching the key, the metre and "where it will stick" is enough —
-**reading it all through makes you forget the opening**.
+Step 1 does not mean reading everything.
+Catching the key, the metre and "where it will stick" is enough; reading it all through makes you forget the opening.
 
-**Step 2 needs experience**: too fast and it collapses, too slow and the music evaporates. **Slower is safer** —
-getting to the end slowly beats collapsing quickly.
+Step 2 needs experience: too fast and it collapses, too slow and the music evaporates. Slower is safer.
+Getting to the end slowly beats collapsing quickly.
 
 ## A strategy you must learn: simplifying
 
-**Simplifying is allowed in sight-reading, and it is the right thing to do**:
+Simplifying is allowed in sight-reading, and it is the right thing to do:
 
 | What to drop | What is kept |
 |---|---|
@@ -198,8 +196,8 @@ getting to the end slowly beats collapsing quickly.
 | ornaments and secondary notes | **rhythm and durations** |
 | all but the **essential notes** of a complex chord | the chord's quality |
 
-**The principle**: **rhythm and durations first, then the melodic line, and only last the full texture.** Because
-**once the rhythm goes, the music falls apart**, whereas playing fewer notes still holds together.
+The principle: **rhythm and durations first, then the melodic line, and only last the full texture.** Because
+once the rhythm goes, the music falls apart, whereas playing fewer notes still holds together.
 
 ## Diagram: not stopping is the core
 
@@ -247,7 +245,7 @@ getting to the end slowly beats collapsing quickly.
 
 ## Listen: the importance of continuity
 
-Use `rhythm` on an **even, unbroken** shape — the state sight-reading must maintain: **every note arriving on time,
+Use `rhythm` on an even, unbroken shape — the state sight-reading must maintain: **every note arriving on time,
 no pauses**. Notice how much stability continuity itself provides.
 
 ```audiolab
@@ -260,11 +258,11 @@ no pauses**. Notice how much stability continuity itself provides.
 
 ## Common misconceptions
 
-- **"Sight-reading means getting it right the first time."** Its aim is **continuity**, not every note correct.
-- **"You should go back and fix mistakes at once."** In sight-reading **never go back** — stopping breaks the whole
+- "Sight-reading means getting it right the first time." Its aim is continuity, not every note correct.
+- "You should go back and fix mistakes at once." In sight-reading never go back — stopping breaks the whole
   (worse still in ensemble).
-- **"Read the whole piece before starting."** Only scan the key, metre and hard places; **reading it all makes you
+- "Read the whole piece before starting." Only scan the key, metre and hard places; **reading it all makes you
   forget the opening**.
-- **"You must play every voice."** **Simplifying is allowed**: rhythm and melody first; playing fewer notes beats
+- "You must play every voice." Simplifying is allowed: rhythm and melody first; playing fewer notes beats
   collapsing.
 :::

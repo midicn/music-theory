@@ -29,14 +29,13 @@ updated: 2026-09-24
 ---
 
 ::: zh
-减三和弦的结构是**两个小三度叠起来**：
+减三和弦的结构是**两个小三度叠起来**。
 
-> C–E♭–G♭：C 到 E♭ 是小三度，E♭ 到 G♭ 也是小三度
+> C–E♭–G♭：C 到 E♭ 是小三度，E♭ 到 G♭ 也是小三度。
 
-它和 [[concept:major-triad|大三和弦]]、[[concept:minor-triad|小三和弦]] 的差别集中在**五音**：
-前两者的根音到五音都是**纯五度**，而减三和弦是**减五度**（少了半个音）。
-
-这一个半音，把"稳定"抽走了：
+它和 [[concept:major-triad|大三和弦]]、[[concept:minor-triad|小三和弦]] 的差别集中在**五音**。
+前两者的根音到五音都是**纯五度**，减三和弦是**减五度**。
+两者只差半个音，而这半个音把"稳定"抽走了。
 
 | 要素 | 大三 / 小三和弦 | 减三和弦 |
 |---|---|---|
@@ -46,7 +45,7 @@ updated: 2026-09-24
 
 ## 它几乎总在"解决"的路上
 
-减三和弦是**功能性和弦**：它本身很少作为目标，主要作用是把音乐推向下一个和弦。
+减三和弦是功能性和弦。它本身很少作为目标，主要作用是把音乐推向下一个和弦。
 
 | 出现位置 | 解决方向 |
 |---|---|
@@ -54,9 +53,9 @@ updated: 2026-09-24
 | **小调第 2 级**（ii°） | 五音是下属方向的导音 → 指向 V 级 |
 | **小调第 7 级**（vii°） | 同上，指向 i 级 |
 
-**大调音阶上只有一个减三和弦**（第 7 级）—— 这也是它在七个调内和弦里最"显眼"的原因：
-唯一不稳定，唯一必须解决，因此成为终止式里最强的一步
-（见 [[concept:cadence|终止式]]、[[concept:harmonic-function|和声功能]]）。
+大调音阶上只有一个减三和弦，在第 7 级。
+这也是它在七个调内和弦里最显眼的原因。
+它唯一不稳定，唯一必须解决，因此成为终止式里最强的一步（见 [[concept:cadence|终止式]]、[[concept:harmonic-function|和声功能]]）。
 
 ## 图示：五音低了半个音
 
@@ -90,7 +89,7 @@ updated: 2026-09-24
 
 ## 听一听：减三和弦
 
-先听整体（不稳、有推力），再点「分解」听五音被压低的位置。
+先听整体，不稳、有推力；再点「分解」，听五音被压低的位置。
 
 ```audiolab
 {"type":"chord","root":"C4","quality":"dim","inversion":0,"label":"减三和弦（C–E♭–G♭）","label_en":"Diminished triad (C–E♭–G♭)","hint":"整体 / 分解 / 宽排列","hint_en":"Block, arpeggio, open"}
@@ -98,10 +97,10 @@ updated: 2026-09-24
 
 ## 常见误解
 
-- **「减三和弦是"坏"的和弦」** → 它是**功能性**和弦。没有它，终止式就失去最强的一步。
-- **「大调音阶上有好几个减三和弦」** → 只有一个（第 7 级）。小调里通常有两个（第 2、7 级）。
-- **「减三和弦与减七和弦是一回事」** → 减三和弦三个音，减七和弦四个音；后者见 [[concept:diminished-seventh|减七和弦]]。
-- **「加了七音就变成减七和弦」** → 加小七度是**半减七和弦**（见 [[concept:half-diminished-seventh|半减七和弦]]），要加**减**七度才是减七和弦。
+- 「减三和弦是"坏"的和弦」 → 它是功能性和弦。没有它，终止式就失去最强的一步。
+- 「大调音阶上有好几个减三和弦」 → 只有一个（第 7 级）。小调里通常有两个（第 2、7 级）。
+- 「减三和弦与减七和弦是一回事」 → 减三和弦三个音，减七和弦四个音。后者见 [[concept:diminished-seventh|减七和弦]]。
+- 「加了七音就变成减七和弦」 → 加小七度是半减七和弦（见 [[concept:half-diminished-seventh|半减七和弦]]）。要加减七度才是减七和弦。
 :::
 
 ::: en
@@ -122,7 +121,7 @@ That one semitone takes away the stability:
 
 ## It is almost always on its way somewhere
 
-The diminished triad is a **functional chord**: it is rarely the destination, and mostly propels the music into
+The diminished triad is a functional chord: it is rarely the destination, and mostly propels the music into
 the next chord.
 
 | Position | Where it resolves |
@@ -131,7 +130,7 @@ the next chord.
 | **degree 2 in minor** (ii°) | its fifth acts as a leading tone down to V |
 | **degree 7 in minor** (vii°) | likewise, pointing to i |
 
-**A major scale contains exactly one diminished triad** (on degree 7) — which is why it stands out among the
+A major scale contains exactly one diminished triad (on degree 7) — which is why it stands out among the
 seven diatonic chords: the only unstable one, the only one that must resolve, and therefore the strongest step
 in a cadence (see [[concept:cadence|cadence]] and [[concept:harmonic-function|harmonic function]]).
 
@@ -175,8 +174,8 @@ Hear the block first (unstable, pushing), then press Arpeggio to hear where the 
 
 ## Common misconceptions
 
-- **"A diminished triad is a bad chord."** It is a **functional** chord. Without it a cadence loses its strongest step.
-- **"A major scale contains several diminished triads."** Exactly one, on degree 7. Minor keys usually have two (degrees 2 and 7).
-- **"A diminished triad and a diminished seventh are the same."** Three notes versus four — see [[concept:diminished-seventh|diminished seventh]].
-- **"Add a seventh and it becomes diminished."** Adding a minor seventh gives a **half-diminished** seventh (see [[concept:half-diminished-seventh|half-diminished seventh]]); only a diminished seventh completes the diminished seventh chord.
+- "A diminished triad is a bad chord." It is a functional chord. Without it a cadence loses its strongest step.
+- "A major scale contains several diminished triads." Exactly one, on degree 7. Minor keys usually have two (degrees 2 and 7).
+- "A diminished triad and a diminished seventh are the same." Three notes versus four — see [[concept:diminished-seventh|diminished seventh]].
+- "Add a seventh and it becomes diminished." Adding a minor seventh gives a half-diminished seventh (see [[concept:half-diminished-seventh|half-diminished seventh]]); only a diminished seventh completes the diminished seventh chord.
 :::

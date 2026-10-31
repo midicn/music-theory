@@ -29,8 +29,7 @@ updated: 2026-09-23
 ---
 
 ::: zh
-自然小调最省事的理解方式是：**把大调音阶的第 3、6、7 级各降一个半音**。
-剩下的音不动，结构就变成了：
+自然小调最省事的理解方式，是**把大调音阶的第 3、6、7 级各降一个半音**，其余的音不动。
 
 > **全 — 半 — 全 — 全 — 半 — 全 — 全**
 
@@ -44,13 +43,16 @@ updated: 2026-09-23
 | 6 | **降半音** | A → A♭ |
 | 7 | **降半音** | B → B♭ |
 
-三个降低的音合起来改变了三件事：主和弦变成小三和弦（暗淡）、第 6 级不再是指向主音的
-导音（回到主音的引力变弱）、调号少三个升号或多三个降号。
+三个降低的音合起来改变了三件事。
+主和弦变成小三和弦，色彩变暗。
+第 7 级不再是指向主音的导音，回到主音的引力变弱。
+调号少三个升号，或多三个降号。
 
 ## 为什么小调还要分三种
 
-自然小调有一处"不方便"：**第 7 级与主音之间是大二度，不是小二度**，
-所以它缺少把旋律推向主音的那股力量。于是有了两种加工版：
+自然小调有一处"不方便"。
+**第 7 级与主音之间是大二度，不是小二度**，所以它缺少把旋律推向主音的力量。
+于是有了两种加工版。
 
 | 名称 | 改动 | 代价 |
 |---|---|---|
@@ -61,9 +63,9 @@ updated: 2026-09-23
 
 ## 同名：自然小调 = 爱奥利亚调式
 
-自然小调的音程结构与 [[concept:aeolian|爱奥利亚调式]] **完全相同**。
+自然小调的音程结构与 [[concept:aeolian|爱奥利亚调式]] 完全相同。
 区别只在称呼的语境：讲调性时叫"a 小调"，讲调式时叫"a 爱奥利亚"。
-同名现象在 [[concept:dorian|多里亚]] 与 [[concept:major-scale|大调]]/[[concept:mixolydian|混合利底亚]] 之间也存在。
+同名现象也出现在 [[concept:dorian|多里亚]] 与 [[concept:major-scale|大调]]、[[concept:mixolydian|混合利底亚]] 之间。
 
 ## 图示：大调降三个音
 
@@ -112,8 +114,9 @@ updated: 2026-09-23
 
 ## 听一听：大调与小调的同一起点
 
-先听大调，再听自然小调。**同样的主音、同样从 C 开始**，只有三个音不同，
-整个色彩的明暗却完全翻转 —— 这就是那三个半音的全部作用。
+先听大调，再听自然小调。
+同样的主音，同样从 C 开始，只有三个音不同。
+整个色彩的明暗却完全翻转，这就是那三个半音的全部作用。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","Eb4","F4","G4","Ab4","Bb4","C5"],"label":"C 自然小调","label_en":"C natural minor","hint":"点「上行」听三个降低音的位置","hint_en":"Try Up and listen for the three lowered degrees","gap":0.38}
@@ -125,10 +128,10 @@ updated: 2026-09-23
 
 ## 常见误解
 
-- **「小调就是悲伤的」** → 自然小调提供的是**较暗的色彩与较弱的回到主音的引力**，情绪仍由节奏与和声决定。
-- **「小调音阶只有一种」** → 自然、和声、旋律三种是常用形态，此外还有五声小调、爵士小调等。
-- **「小调的调号要在末尾加降号」** → 调号只由主音决定（a 小调与 C 大调共用无升降的调号）。降低的音已包含在调号里，不必另写。
-- **「自然小调与爱奥利亚是两回事」** → 结构完全相同，只是"讲调性"与"讲调式"两种语境下的两个名字。
+- 「小调就是悲伤的」 → 自然小调提供较暗的色彩与较弱的回归引力。情绪仍由节奏与和声决定。
+- 「小调音阶只有一种」 → 自然、和声、旋律三种是常用形态。此外还有五声小调、爵士小调等。
+- 「小调的调号要在末尾加降号」 → 调号只由主音定，a 小调与 C 大调共用无升降调号。降低的音已在调号里。
+- 「自然小调与爱奥利亚是两回事」 → 结构完全相同。它只是讲调性与讲调式两种语境下的两个名字。
 :::
 
 ::: en
@@ -216,7 +219,7 @@ differs: in tonal language it is "A minor", in modal language "A Aeolian". The s
 
 ## Listen: one tonic, two colours
 
-Hear major first, then natural minor. **Same tonic, same starting C**, only three notes differ, and the whole
+Hear major first, then natural minor. Same tonic, same starting C, only three notes differ, and the whole
 light flips. That is the entire job of those three semitones.
 
 ```audiolab
@@ -229,8 +232,8 @@ light flips. That is the entire job of those three semitones.
 
 ## Common misconceptions
 
-- **"Minor means sad."** Natural minor supplies a **darker colour and a weaker pull home**; mood still comes from rhythm and harmony.
-- **"There is only one minor scale."** Natural, harmonic and melodic are the common forms; pentatonic minor and jazz minor also exist.
-- **"A minor key needs flats added at the end."** The key signature follows the tonic only (A minor shares C major's empty signature). The lowered notes are already inside it.
-- **"Natural minor and Aeolian are different things."** Identical structure, two names in two contexts.
+- "Minor means sad." Natural minor supplies a darker colour and a weaker pull home; mood still comes from rhythm and harmony.
+- "There is only one minor scale." Natural, harmonic and melodic are the common forms; pentatonic minor and jazz minor also exist.
+- "A minor key needs flats added at the end." The key signature follows the tonic only (A minor shares C major's empty signature). The lowered notes are already inside it.
+- "Natural minor and Aeolian are different things." Identical structure, two names in two contexts.
 :::

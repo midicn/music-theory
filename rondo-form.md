@@ -41,10 +41,10 @@ updated: 2026-09-25
 | **B、C** | 插部（**每次都不一样**） |
 
 **关键在"每次不一样"**：如果插部重复，就成了变奏或三段体的延长。
-所以回旋曲式的精髓是：**回归可以重复，出门必须新鲜。**
+所以回旋曲式的精髓是：回归可以重复，出门必须新鲜。
 
-这带来一个实用的优点：**它可以被任意延长** ——
-想让作品更长，就多插一个插部，A 再回来一次即可。所以它特别适合**末乐章**（收束、明亮、热闹）。
+这带来一个实用的优点：它可以被任意延长 ——
+想让作品更长，就多插一个插部，A 再回来一次即可。所以它特别适合末乐章（收束、明亮、热闹）。
 
 ## 完整形态与常见变体
 
@@ -54,10 +54,10 @@ updated: 2026-09-25
 | 完整古典回旋 | **A B A C A B A** + 尾声 | 末乐章常用；A 四次出现，末次前有主题再现感 |
 | 回旋奏鸣曲式 | **A B A C A B A**，但带奏鸣曲式的调性设计 | 见下 |
 
-**回旋奏鸣曲式**（sonata-rondo）值得单独知道：它的外表是回旋曲式，
+回旋奏鸣曲式（sonata-rondo）值得单独知道：它的外表是回旋曲式，
 但内部按 [[concept:sonata-form|奏鸣曲式]] 的规则安排调性 ——
-**B 段相当于"第二主题"（在属调），末次 A B A 中 B 回到主调**。
-所以它是两种曲式的杂交：**外形是回旋，逻辑是奏鸣。**
+B 段相当于"第二主题"（在属调），末次 A B A 中 B 回到主调。
+所以它是两种曲式的杂交：外形是回旋，逻辑是奏鸣。
 
 ## 与三段体的区别：只看一件事
 
@@ -66,13 +66,13 @@ updated: 2026-09-25
 | A 回来的次数 | **一次** | **两次或以上** |
 | 标记 | ABA | ABACA / ABACABA |
 
-一句话：**A 回来一次是三段体，回来两次以上是回旋曲式。**
+一句话：A 回来一次是三段体，回来两次以上是回旋曲式。
 
 ## 历史上的近亲：副歌
 
 "叠句（refrain）— 诗句（verse）— 叠句"这个结构在声乐里非常古老 ——
 中世纪与文艺复兴的法国回旋诗（rondeau）、民间歌曲、教堂圣咏里都有。
-**它和流行歌"副歌反复回归"的结构是同一个原理**：用熟悉的段落做锚点，
+它和流行歌"副歌反复回归"的结构是同一个原理：用熟悉的段落做锚点，
 让新内容有地方可挂（见 [[concept:song-form|歌曲形式]]）。
 
 ## 图示：A 作为锚点
@@ -120,7 +120,7 @@ updated: 2026-09-25
 
 ## 听一听：反复回到同一个中心
 
-用 `progression` 听"离开—回归—再离开—再回归"。请留意**每次回到 I 的感受都一样** ——
+用 `progression` 听"离开—回归—再离开—再回归"。请留意每次回到 I 的感受都一样 ——
 这就是 A 作为锚点的效果，也是回旋曲式能被任意延长的原因。
 
 ```audiolab
@@ -129,10 +129,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「回旋曲式就是 ABA 加长」** → 关键是**插部每次不同**。插部重复的话，性质就成了变奏。
-- **「它是古老而简单的曲式」** → 结构上简单，但**要求作曲家写多个不重复的插部**，写作难度并不低。
-- **「回旋曲式只用于末乐章」** → 末乐章最常见，但独立的回旋曲（如钢琴小品）也大量存在。
-- **「回旋奏鸣曲式是把两种曲式轮流用」** → 不是轮流，而是**外形回旋、内部奏鸣** —— 是一套统一的结构。
+- 「回旋曲式就是 ABA 加长」 → 关键是插部每次不同。插部重复的话，性质就成了变奏。
+- 「它是古老而简单的曲式」 → 结构上简单，但要求作曲家写多个不重复的插部，写作难度并不低。
+- 「回旋曲式只用于末乐章」 → 末乐章最常见，但独立的回旋曲（如钢琴小品）也大量存在。
+- 「回旋奏鸣曲式是把两种曲式轮流用」 → 不是轮流，而是外形回旋、内部奏鸣 —— 是一套统一的结构。
 :::
 
 ::: en
@@ -152,8 +152,8 @@ It uses the same psychological mechanism as [[concept:ternary-form|ternary form]
 **The key is "each one different"**: if the episodes repeated, the result would be a variation set or an extended
 ternary form. So the essence of a rondo is: **returns may repeat, outings must stay fresh.**
 
-That brings a practical advantage: **it can be extended at will** — want a longer piece, insert another episode and
-bring A back again. Which makes it ideal for **final movements** (closing, bright, lively).
+That brings a practical advantage: it can be extended at will — want a longer piece, insert another episode and
+bring A back again. Which makes it ideal for final movements (closing, bright, lively).
 
 ## The full shape and common variants
 
@@ -163,9 +163,9 @@ bring A back again. Which makes it ideal for **final movements** (closing, brigh
 | full Classical rondo | **A B A C A B A** + coda | common in final movements; A appears four times |
 | sonata-rondo | **A B A C A B A**, with sonata-form tonal planning | see below |
 
-**Sonata-rondo** deserves separate mention: outwardly a rondo, but its tonality follows
+Sonata-rondo deserves separate mention: outwardly a rondo, but its tonality follows
 [[concept:sonata-form|sonata form]] — **B acts as a "second subject" in the dominant, and in the closing A B A, B
-returns to the tonic**. It is a hybrid: **rondo in shape, sonata in logic.**
+returns to the tonic. It is a hybrid: rondo in shape, sonata in logic.**
 
 ## The difference from ternary form: one thing only
 
@@ -174,12 +174,12 @@ returns to the tonic**. It is a hybrid: **rondo in shape, sonata in logic.**
 | How often A returns | **once** | **twice or more** |
 | Label | ABA | ABACA / ABACABA |
 
-In one line: **one return is ternary; two or more returns is a rondo.**
+In one line: one return is ternary; two or more returns is a rondo.
 
 ## A historical relative: the refrain
 
 The shape "refrain, verse, refrain" is very old in vocal music — the medieval and Renaissance French rondeau,
-folk song and chant all use it. **It works on the same principle as a pop chorus that keeps returning**: a familiar
+folk song and chant all use it. It works on the same principle as a pop chorus that keeps returning: a familiar
 section acts as an anchor, giving new material somewhere to hang (see [[concept:song-form|song form]]).
 
 ## Diagram: A as the anchor
@@ -227,7 +227,7 @@ section acts as an anchor, giving new material somewhere to hang (see [[concept:
 
 ## Listen: returning to the same centre
 
-Use `progression` on "out, home, out again, home again". Notice that **every return to I feels the same** — the
+Use `progression` on "out, home, out again, home again". Notice that every return to I feels the same — the
 effect of A as an anchor, and the reason a rondo can be extended at will.
 
 ```audiolab
@@ -236,12 +236,12 @@ effect of A as an anchor, and the reason a rondo can be extended at will.
 
 ## Common misconceptions
 
-- **"A rondo is just a longer ABA."** The key is that **the episodes differ each time**. Repeated episodes turn it
+- "A rondo is just a longer ABA." The key is that the episodes differ each time. Repeated episodes turn it
   into a variation set.
-- **"It is an old and simple form."** Structurally simple, but it demands **several non-repeating episodes** — not
+- "It is an old and simple form." Structurally simple, but it demands several non-repeating episodes — not
   easy to write well.
-- **"Rondos are only for final movements."** Most common there, but stand-alone rondos (piano pieces, for instance)
+- "Rondos are only for final movements." Most common there, but stand-alone rondos (piano pieces, for instance)
   are plentiful.
-- **"Sonata-rondo alternates the two forms."** It does not alternate: it is **rondo in shape and sonata in logic** —
+- "Sonata-rondo alternates the two forms." It does not alternate: it is rondo in shape and sonata in logic —
   one unified structure.
 :::

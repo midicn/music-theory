@@ -23,7 +23,7 @@ instances:
   - mutopia-000046 | 圣咏曲调《Old 100th》：全曲只用调内七个音名，没有变化音 | The hymn tune "Old 100th" — only the seven note names of the key, with no accidentals
 sources:
   - 字母音名、唱名体系、中国十二律名的名称与排列，属通行乐理与律学常识
-  - 唱名法（首调 / 固定调）的区分依通行教学体系表述，本文行文为原创
+  - 唱名法（首调 / 固定调）的区分依通行教学体系表述，
 updated: 2026-09-23
 ---
 
@@ -45,7 +45,7 @@ updated: 2026-09-23
 中国十二律名（黄钟、大吕、太簇、夹钟、姑洗、仲吕、蕤宾、林钟、夷则、南吕、无射、应钟）
 是另一条脉络：它由律管的长度推算而来，起源与西方十二音体系不同。站内的
 [[concept:pentatonic|五声音阶]]与 [[concept:scale|音阶]]条目会用到其中几个名称；
-乐种与用法层面的内容不在本站范围。
+乐种与用法层面的内容不在本条范围。
 
 ## 半音藏在两对字母之间
 
@@ -125,7 +125,7 @@ B–C 这处缺口在三个一组的左侧**。
 
 ## 听一听：音名与听感对上
 
-按音名顺序走一遍，注意每个音名对应的是一个**固定的高度**，而唱名会随着调移动。
+按音名顺序走一遍，注意每个音名对应的是一个固定的高度，而唱名会随着调移动。
 
 ```audiolab
 {"type":"scale","notes":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"C 大调音阶（do re mi fa sol la si do）","label_en":"C major scale (do re mi fa sol la si do)","hint":"第三到第四个音只差半音，比其余相邻音明显更近","hint_en":"The third-to-fourth step is only a semitone — noticeably closer than the rest","gap":0.4}
@@ -133,10 +133,10 @@ B–C 这处缺口在三个一组的左侧**。
 
 ## 常见误解
 
-- **「do re mi 就是 C D E」** → 只在 C 调里临时成立。首调唱名法下，F 大调的 do 是 F；固定唱名法下，F 大调的 do 仍是 C。
-- **「音名有 12 个，所以有 12 个字母」** → 只有 7 个字母。12 个音高位置是用**变音记号**（升、降）在字母上造出来的，字母本身不增加。
-- **「中国十二律就是十二平均律」** → 不是。十二律是有 12 个律名的体系，与"每个半音等距"不是同一件事。
-- **「E–F 之间有个被省略的黑键」** → 不是省略。七个字母的音高关系本来就不是等距的，键盘只是照实画出来。
+- 「do re mi 就是 C D E」 → 只在 C 调里临时成立。首调唱名法下，F 大调的 do 是 F；固定唱名法下，F 大调的 do 仍是 C。
+- 「音名有 12 个，所以有 12 个字母」 → 只有 7 个字母。12 个音高位置是用变音记号（升、降）在字母上造出来的，字母本身不增加。
+- 「中国十二律就是十二平均律」 → 不是。十二律是有 12 个律名的体系，与"每个半音等距"不是同一件事。
+- 「E–F 之间有个被省略的黑键」 → 不是省略。七个字母的音高关系本来就不是等距的，键盘只是照实画出来。
 :::
 
 ::: en
@@ -240,7 +240,7 @@ left of the two-black-key group.**
 
 ## Listen: matching names to what you hear
 
-Walk up in note-name order. Each name corresponds to a **fixed height**, while solfège syllables move with
+Walk up in note-name order. Each name corresponds to a fixed height, while solfège syllables move with
 the key.
 
 ```audiolab
@@ -249,8 +249,8 @@ the key.
 
 ## Common misconceptions
 
-- **"do re mi just means C D E."** Only inside C major, and only temporarily. In movable do, F major starts on do = F; in fixed do, F major still has do = C.
-- **"Twelve pitches, so twelve letters."** There are only seven letters. The twelve pitch positions are built on those letters with **accidentals** (sharps and flats); the alphabet itself never grows.
-- **"The Chinese twelve-lü are equal temperament."** They are not. Twelve-lü is a system of twelve named pitches, which is a different claim from "every semitone is equal."
-- **"A black key was left out between E and F."** Nothing was left out. The seven letters were never evenly spaced; the keyboard simply draws that honestly.
+- "do re mi just means C D E." Only inside C major, and only temporarily. In movable do, F major starts on do = F; in fixed do, F major still has do = C.
+- "Twelve pitches, so twelve letters." There are only seven letters. The twelve pitch positions are built on those letters with accidentals (sharps and flats); the alphabet itself never grows.
+- "The Chinese twelve-lü are equal temperament." They are not. Twelve-lü is a system of twelve named pitches, which is a different claim from "every semitone is equal."
+- "A black key was left out between E and F." Nothing was left out. The seven letters were never evenly spaced; the keyboard simply draws that honestly.
 :::

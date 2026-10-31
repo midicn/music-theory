@@ -43,7 +43,7 @@ updated: 2026-09-25
 | **固定音型**（ostinato） | 反复的节奏型，通常**带固定音高与声部** | 低音上循环的 `C–G–C` |
 
 **判断方法**：把音高全部换成同一个音，还能认出来的是**节奏型**；
-认不出来（必须靠音高才成立）的是**动机**。
+认不出来（必须靠音高才成立）的是动机。
 
 ## 节奏型如何塑造性格
 
@@ -60,7 +60,7 @@ updated: 2026-09-25
 
 ## 固定音型：反复到"变成背景"
 
-当一个节奏型反复足够多次，它会发生一个有趣的变化：**听者不再把它当"素材"，而当成背景**。
+当一个节奏型反复足够多次，它会发生一个有趣的变化：听者不再把它当"素材"，而当成背景。
 
 > 于是上方的一切（旋律、和声、配器）都可以在它之上自由变化 ——
 > 这正是 [[concept:theme-variations|变奏曲式]] 与 [[concept:pedal-point|持续低音]] 的运作方式。
@@ -72,7 +72,7 @@ updated: 2026-09-25
 | 固定音型 + 在上方写新内容 | 变化感（下方不变） |
 | 固定音型 + 不加任何新内容 | 催眠感、机械感（如极简主义） |
 
-**差别不在固定音型，而在上方有没有变化。**
+差别不在固定音型，而在上方有没有变化。
 
 ## 图示：去掉音高，还认得出吗
 
@@ -125,7 +125,7 @@ updated: 2026-09-25
 
 ## 听一听：同一个型，换高度
 
-用 `scale` 组件听一组**同一节奏型、不同高度**的音（走一遍音阶）。
+用 `scale` 组件听一组同一节奏型、不同高度的音（走一遍音阶）。
 听觉上"型"没变，只有高度在变 —— 与 [[concept:sequence|模进]] 是同一个机制。
 
 ```audiolab
@@ -135,10 +135,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- **「节奏型就是动机」** → 动机含音高，节奏型只有时值。判据：把音高全换成同一个音，还认得出的是节奏型。
-- **「固定音型只是伴奏」** → 它是结构手段：变奏曲式、持续低音、极简主义都建立在它上面。
-- **「反复会让音乐无聊」** → 反复使下方变成背景，**上方获得自由**；无聊只发生在上方也不动的时候。
-- **「节奏型必须完全重复」** → 严格重复与自由变化（改一两个音、移位）都常见，后者更耐听。
+- 「节奏型就是动机」 → 动机含音高，节奏型只有时值。判据：把音高全换成同一个音，还认得出的是节奏型。
+- 「固定音型只是伴奏」 → 它是结构手段：变奏曲式、持续低音、极简主义都建立在它上面。
+- 「反复会让音乐无聊」 → 反复使下方变成背景，上方获得自由；无聊只发生在上方也不动的时候。
+- 「节奏型必须完全重复」 → 严格重复与自由变化（改一两个音、移位）都常见，后者更耐听。
 :::
 
 ::: en
@@ -157,7 +157,7 @@ The three are often conflated, but they carry different amounts of information:
 | **ostinato** | a repeated pattern, usually **with fixed pitches and a fixed voice** | `C–G–C` looping in the bass |
 
 **The test**: replace every pitch with the same note. If you still recognise it, it is a **rhythmic pattern**; if
-not (it needs the pitches to exist), it is a **motive**.
+not (it needs the pitches to exist), it is a motive.
 
 ## How a pattern shapes character
 
@@ -240,7 +240,7 @@ The mechanism explains why two opposite-sounding practices are really one:
 
 ## Listen: one pattern at changing heights
 
-Use `scale` to hear **one rhythmic pattern at different pitches** (a scale walked through). The pattern never
+Use `scale` to hear one rhythmic pattern at different pitches (a scale walked through). The pattern never
 changes; only the height does — the same mechanism as a [[concept:sequence|sequence]].
 
 ```audiolab
@@ -249,12 +249,12 @@ changes; only the height does — the same mechanism as a [[concept:sequence|seq
 
 ## Common misconceptions
 
-- **"A rhythmic pattern is a motive."** A motive contains pitch; a pattern contains only durations. The test:
+- "A rhythmic pattern is a motive." A motive contains pitch; a pattern contains only durations. The test:
   flatten every pitch to one note — if it survives, it is a pattern.
-- **"An ostinato is just an accompaniment."** It is a structural device: variation form, the pedal point and
+- "An ostinato is just an accompaniment." It is a structural device: variation form, the pedal point and
   minimalism all rest on it.
-- **"Repetition makes music boring."** Repetition turns the lower layer into background and **frees the upper
+- "Repetition makes music boring." Repetition turns the lower layer into background and **frees the upper
   layers**; boredom only arises when nothing above changes either.
-- **"A pattern must repeat exactly."** Both strict repetition and free variation (changing a note or two,
+- "A pattern must repeat exactly." Both strict repetition and free variation (changing a note or two,
   transposing) are common, and the latter wears better.
 :::
