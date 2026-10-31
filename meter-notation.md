@@ -51,8 +51,8 @@ updated: 2026-09-25
 
 | 记号 | 等于 | 说明 |
 |---|---|---|
-| **C** | **4/4** | 常被解作 **common time**（"常用拍"），但它其实是**中世纪记谱符号的遗留**（"不完全拍"的记号），与"common"的巧合是后人的附会 |
-| **¢**（C 加竖线） | **2/2** | 称 **alla breve**：读法上按"二分音符为一拍"，所以**每小节两拍** |
+| C | 4/4 | 常被解作 common time（"常用拍"），但它其实是中世纪记谱符号的遗留（"不完全拍"的记号），与"common"的巧合是后人的附会 |
+| ¢（C 加竖线） | 2/2 | 称 alla breve：读法上按"二分音符为一拍"，所以每小节两拍 |
 
 第二行值得多看一眼。`¢` 与 `C` 的分子分母都不同，一是 2/2，一是 4/4。
 所以它们不是同一种拍子。
@@ -184,7 +184,7 @@ Sometimes a letter appears instead of numerals:
 
 | Sign | Equals | Note |
 |---|---|---|
-| **C** | **4/4** | commonly read as **common time**, but it is in fact **a remnant of medieval notation** (the sign for "imperfect time"); the pun with "common" is a later rationalisation |
+| C | 4/4 | commonly read as common time, but it is in fact a remnant of medieval notation (the sign for "imperfect time"); the pun with "common" is a later rationalisation |
 | **¢** (C with a stroke) | **2/2** | called **alla breve**: read with the half note as the beat, hence two beats per bar |
 
 The second row deserves a second look: `¢` and `C` differ in both numerator and denominator (2/2 against

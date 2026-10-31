@@ -26,7 +26,7 @@ instances:
   - mutopia-000522 | 《欢乐颂》主题以级进铺陈，几乎不含跳进，最适合听「大二度」 | The "Ode to Joy" theme moves almost entirely by step — ideal for hearing major seconds
   - giantmidi-007791 | 《致爱丽丝》开头的著名小二度回环，可对照级进的两种宽度 | The famous minor-second turn at the start of "Für Elise" — compare the two widths of stepwise motion
 sources:
-  - 音程的度数与音数定义属乐理通则，各版教科书表述一致，本文为原创表述
+  - 音程的度数与音数定义属乐理通则，各版教科书表述一致
   - 《欢乐颂》《致爱丽丝》主题音高走向依通行乐谱（公有领域）
 updated: 2026-09-23
 ---

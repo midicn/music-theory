@@ -36,7 +36,7 @@ updated: 2026-09-23
 
 | 级数 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| 相对大调 | 同 | **降** | **降** | 同 | **降** | **降** | **降** |
+| 相对大调 | 同 | 降 | 降 | 同 | 降 | 降 | 降 |
 
 两处降音合起来造成两个后果：
 
@@ -122,7 +122,7 @@ It lowers two notes of natural minor:
 
 | Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| vs. major | = | **lowered** | **lowered** | = | **lowered** | **lowered** | **lowered** |
+| vs. major | = | lowered | lowered | = | lowered | lowered | lowered |
 
 Together the two lowered notes produce two consequences:
 

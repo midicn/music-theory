@@ -22,7 +22,7 @@ instances:
   - giantmidi-006222 | 音阶与琶音练习在八度上下往返，正好是单音程与复音程的分界线 | Scale and arpeggio exercises cross the octave boundary repeatedly — the line between simple and compound
 sources:
   - 单音程（八度以内）与复音程（超出八度）的划分，属乐理通则
-  - 复音程"减 7 得单音程"的换算方法为通行表述，本文行文为原创
+  - 复音程"减 7 得单音程"的换算方法为通行表述，行文为原创
 updated: 2026-09-23
 ---
 

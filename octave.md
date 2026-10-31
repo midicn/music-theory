@@ -23,7 +23,7 @@ instances:
   - cyberhymnal-000695 | 管风琴圣咏：管风琴同时拉出 8′ 与 4′ 音栓，就是两个八度同时发声 | An organ hymn — pulling the 8-foot and 4-foot stops sounds two octaves at once
 sources:
   - 八度频率比 2:1、泛音列中八度重合、八度叠奏的用法，属通行乐理与配器常识
-  - 本文行文为原创，未采用参考源句式
+  - 行文为原创，未采用参考源句式
 updated: 2026-09-23
 ---
 

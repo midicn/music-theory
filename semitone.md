@@ -23,7 +23,7 @@ instances:
   - mutopia-000522 | 《欢乐颂》主题以全音级进为主，几乎不出现半音，适合先把"全音"听熟 | The Ode to Joy theme steps almost entirely in whole tones, the right place to learn that width first
 sources:
   - 半音为最小音高单位、十二平均律下八度 = 12 半音，属乐理通则
-  - 各音程的半音数表（一至八度）为通行表述，本文行文为原创
+  - 各音程的半音数表（一至八度）为通行表述，行文为原创
 updated: 2026-09-23
 ---
 

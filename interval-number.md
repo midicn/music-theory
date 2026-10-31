@@ -23,7 +23,7 @@ instances:
   - mutopia-000280 | 巴赫二部创意曲第一首：两声部交错时各类度数接连出现，适合把数法练成条件反射 | Bach's first two-part invention — as the voices interlace, one degree after another appears, good for making the counting automatic
 sources:
   - 音程度数按音级名（含首尾）计数的定义，属乐理通则，各版教科书表述一致
-  - 本文行文为原创，未采用参考源句式
+  - 行文为原创，未采用参考源句式
 updated: 2026-09-23
 ---
 

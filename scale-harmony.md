@@ -38,7 +38,7 @@ updated: 2026-09-23
 
 | 级数 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| 和弦性质 | **大**三 | 小 | 小 | **大**三 | **大**三 | 小 | **减**三 |
+| 和弦性质 | 大三 | 小 | 小 | 大三 | 大三 | 小 | 减三 |
 | 罗马数字 | I | ii | iii | IV | V | vi | vii° |
 
 这张表就是**调内和弦**的全部清单。它解释了和声学里几乎所有的基础结论：
@@ -130,7 +130,7 @@ chords appears.
 
 | Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| Quality | **major** | minor | minor | **major** | **major** | minor | **diminished** |
+| Quality | major | minor | minor | major | major | minor | diminished |
 | Roman | I | ii | iii | IV | V | vi | vii° |
 
 This table is the complete inventory of **diatonic chords**, and it accounts for almost every basic conclusion in

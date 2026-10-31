@@ -45,7 +45,7 @@ updated: 2026-09-23
 
 | 级数 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| 相对大调 | 同 | **降** | **降** | 同 | 同 | **降** | **降** |
+| 相对大调 | 同 | 降 | 降 | 同 | 同 | 降 | 降 |
 
 特征音是**第 2 级**（小二度）。它与 [[concept:dorian|多里亚]] 的唯一区别就在这一处：
 第 2 级是小的还是大的？小的是弗里吉亚。
@@ -121,7 +121,7 @@ and flamenco music lean on it heavily, which is why it is often called the Spani
 
 | Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|---|---|---|---|---|---|---|
-| vs. major | = | **lowered** | **lowered** | = | = | **lowered** | **lowered** |
+| vs. major | = | lowered | lowered | = | = | lowered | lowered |
 
 The characteristic note is the **second**. Its only difference from [[concept:dorian|Dorian]] is right there:
 is the second minor or major? Minor means Phrygian.

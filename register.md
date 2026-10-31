@@ -23,7 +23,7 @@ instances:
   - giantmidi-006222 | 音阶与琶音练习：逐级上行一条线扫过整个音区，音区的移动听得最直白 | Scale and arpeggio exercises — one line sweeping upward makes the shift of register unmistakable
 sources:
   - 音区与音域的定义、谱号与加线的记法、各乐器音域的层级划分，属通行乐理与配器常识
-  - 本文行文为原创，未采用参考源句式
+  - 行文为原创，未采用参考源句式
 updated: 2026-09-23
 ---
 

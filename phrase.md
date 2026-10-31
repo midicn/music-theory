@@ -40,7 +40,7 @@ updated: 2026-09-25
 | 层级 | 定义 | 判据 |
 |---|---|---|
 | **乐句**（phrase） | 能"一口气"唱完、有起有落的单位 | 句末有**终止式**（哪怕很弱） |
-| **乐段**（period） | **两句成对**：前句开放、后句收束 | 前句**半终止**，后句**正格终止** |
+| 乐段（period） | 两句成对：前句开放、后句收束 | 前句半终止，后句正格终止 |
 
 **乐段的精髓在两句的对比**：
 
@@ -155,7 +155,7 @@ commonest error: guessing the phrasing from breathing points and getting a struc
 | Level | Definition | Test |
 |---|---|---|
 | **phrase** | a unit that can be sung "in one breath", with a rise and a fall | a **cadence** at its end, however weak |
-| **period** | **two phrases paired**: the first open, the second closed | first ends on a **half cadence**, second on an **authentic cadence** |
+| period | two phrases paired: the first open, the second closed | first ends on a half cadence, second on an authentic cadence |
 
 **The essence of a period is the contrast between the two phrases**:
 

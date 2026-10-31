@@ -23,7 +23,7 @@ instances:
   - mutopia-001727 | 单声部圣咏曲调：每个音都被稳定保持、可以准确重复，音高作为听感最容易被抓住的情形 | A single-line hymn tune — every note is held steadily and can be repeated exactly, the clearest case of pitch as a perception
 sources:
   - 频率与音高的对应关系、听觉的对数特性、A4 = 440 Hz 的近代标准，属音乐声学通则
-  - 本文行文为原创，未采用任何参考源句式
+  - 行文为原创，未采用任何参考源句式
 updated: 2026-09-23
 ---
 

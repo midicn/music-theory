@@ -22,7 +22,7 @@ instances:
   - cyberhymnal-000695 | 管风琴圣咏：若干音同时发声，说明一个「音」可以叠成和声 | An organ hymn — several tones sounding at once, showing how single tones stack into harmony
 sources:
   - 声音由振动产生、人耳可听频率范围、乐音与噪音的区分，属声学与音乐声学通则
-  - 音的四项属性（音高 / 音长 / 力度 / 音色）为通行表述，本文行文为原创
+  - 音的四项属性（音高 / 音长 / 力度 / 音色）为通行表述，行文为原创
 updated: 2026-09-23
 ---
 
