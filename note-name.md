@@ -23,7 +23,7 @@ instances:
   - mutopia-000046 | 圣咏曲调《Old 100th》：全曲只用调内七个音名，没有变化音 | The hymn tune "Old 100th" — only the seven note names of the key, with no accidentals
 sources:
   - 字母音名、唱名体系、中国十二律名的名称与排列，属通行乐理与律学常识
-  - 唱名法（首调 / 固定调）的区分依通行教学体系表述，
+  - 唱名法（首调 / 固定调）的区分依通行教学体系表述。
 updated: 2026-09-23
 ---
 
